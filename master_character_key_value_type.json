@@ -1,0 +1,1321 @@
+﻿{
+  "header": {
+    "content_type": "master_character_key_value_type"
+  },
+  "payload": [
+    {
+      "version": "1.00.000",
+      "id": "1",
+      "key_name": "Bajamar_OP_flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "2",
+      "key_name": "CQ101_004_BattleEnd_flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "3",
+      "key_name": "CQ101_005_BattleEnd_flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "4",
+      "key_name": "CQ102_005_BattleEnd_flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "5",
+      "key_name": "CQ103_002_step1_Seed_01",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "6",
+      "key_name": "CQ103_002_step1_Seed_02",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "7",
+      "key_name": "CQ103_002_step1_Seed_03",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "8",
+      "key_name": "CQ103_005_BattleEnd_flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "9",
+      "key_name": "CQ104_002_step1_Stone_01",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "10",
+      "key_name": "CQ104_002_step1_Stone_02",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "11",
+      "key_name": "CQ104_002_step1_Stone_03",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "12",
+      "key_name": "CQ104_005_BattleEnd_flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "13",
+      "key_name": "CQ105_002_step1_Flag_01",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "14",
+      "key_name": "CQ105_002_step1_Flag_02",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "15",
+      "key_name": "CQ105_002_step1_Flag_03",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "16",
+      "key_name": "CQ105_004_step0_Flag_01",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "17",
+      "key_name": "CQ105_004_step0_Flag_02",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "18",
+      "key_name": "CQ105_005_BattleEnd_flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "19",
+      "key_name": "CQ105_005_step0_Flag_01",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "20",
+      "key_name": "CQ105_005_step0_Flag_02",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "21",
+      "key_name": "CQ106_002_step1_Flag_1",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "22",
+      "key_name": "CQ106_002_step1_Flag_2",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "23",
+      "key_name": "CQ106_002_step1_Flag_3",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "24",
+      "key_name": "CQ106_005_BattleEnd_flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "25",
+      "key_name": "EQ101_904_BattleEnd_flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "26",
+      "key_name": "EQ101_907_step1_Npc_Corolla_01",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "27",
+      "key_name": "EQ101_907_step1_Npc_Corolla_02",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "28",
+      "key_name": "EQ101_907_step1_Npc_Corolla_03",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "29",
+      "key_name": "EQ102_903_Unlock_Flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "30",
+      "key_name": "EQ102_906_BattleEnd_flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "31",
+      "key_name": "EQ103_902_step0_01",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "32",
+      "key_name": "EQ103_902_step0_02",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "33",
+      "key_name": "EQ103_907_BattleEnd_flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "34",
+      "key_name": "EQ104_901_BattleEnd_flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "35",
+      "key_name": "EQ104_902_BattleEnd_flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "36",
+      "key_name": "EQ104_903_BattleEnd_flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "37",
+      "key_name": "EQ104_904_BattleEnd_flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "38",
+      "key_name": "EQ104_906_BattleEnd_flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "39",
+      "key_name": "EQ104_906_step0_Flag_01",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "40",
+      "key_name": "EQ104_906_step0_Flag_02",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "41",
+      "key_name": "EQ104_906_step0_Flag_03",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "42",
+      "key_name": "EQ105_901_step1_Flag_1",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "43",
+      "key_name": "EQ105_901_step1_Flag_2",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "44",
+      "key_name": "EQ105_901_step1_Flag_3",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "45",
+      "key_name": "EQ105_902_BattleEnd_flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "46",
+      "key_name": "EQ105_904_step1_Flag_01",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "47",
+      "key_name": "EQ105_904_step1_Flag_02",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "48",
+      "key_name": "EQ105_904_step1_Flag_03",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "49",
+      "key_name": "EQ105_906_BattleEnd_flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "50",
+      "key_name": "EST102_020_155_read_Flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "51",
+      "key_name": "EST_MQ101_060_done_Npc_GateKeeper_flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "52",
+      "key_name": "EST_MQ101_070_step0_Npc_Aerinse",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "53",
+      "key_name": "EST_MQ101_070_step0_Npc_Tyris",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "54",
+      "key_name": "EST_MQ102_030_close_Npc_Coin_Owner",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "55",
+      "key_name": "EST_MQ102_040_close_Npc_Coin_Owner",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "56",
+      "key_name": "EST_MQ103_010_close_Npc_Carvain",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "57",
+      "key_name": "EST_MQ103_010_close_Npc_Charlotte",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "58",
+      "key_name": "EST_MQ103_010_close_Npc_Coin_Owner",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "59",
+      "key_name": "EST_MQ103_010_close_Npc_Einrain",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "60",
+      "key_name": "EST_MQ103_010_close_Npc_Joerg",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "61",
+      "key_name": "EST_MQ104_010_step0_Npc_Aerinse",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "62",
+      "key_name": "EST_MQ104_070_close_Npc_Aerinse",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "63",
+      "key_name": "EST_MQ105_030_close_Npc_Einrain_flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "64",
+      "key_name": "EST_MQ105_030_step0_Npc_Aerinse",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "65",
+      "key_name": "EST_MQ105_050_done_Npc_Hugo",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "66",
+      "key_name": "EST_MQ106_060_close_Npc_Aerinse",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "67",
+      "key_name": "HudSelectEvent_Seen",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "68",
+      "key_name": "MQ101_020_GoblinBattle2End_flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "1"
+    },
+    {
+      "version": "1.00.000",
+      "id": "69",
+      "key_name": "MQ101_030_evt_flag_02",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "70",
+      "key_name": "MQ101_030_evt_flag_03",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "71",
+      "key_name": "MQ102_090_start_evt_flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "72",
+      "key_name": "MQ103_015_DemoPlayed_flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "73",
+      "key_name": "MQ103_030_step1_Npc_01",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "74",
+      "key_name": "MQ103_030_step1_Npc_02",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "75",
+      "key_name": "MQ103_030_step1_Npc_03",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "76",
+      "key_name": "MQ104_020_step4_Npc_01",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "77",
+      "key_name": "MQ104_020_step4_Npc_02",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "78",
+      "key_name": "MQ104_020_step4_Npc_03",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "79",
+      "key_name": "MQ104_030_step2_Npc_01",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "80",
+      "key_name": "MQ104_030_step2_Npc_02",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "81",
+      "key_name": "MQ104_030_step2_Npc_03",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "82",
+      "key_name": "MQ104_070_step0",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "83",
+      "key_name": "MQ105_020_step0_01",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "84",
+      "key_name": "MQ105_020_step0_02",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "85",
+      "key_name": "MQ105_020_step0_03",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "86",
+      "key_name": "MQ105_050_step1_01_flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "87",
+      "key_name": "MQ105_050_step2_01",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "88",
+      "key_name": "MQ105_050_step2_02",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "89",
+      "key_name": "MQ105_050_step2_03",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "90",
+      "key_name": "MQ105_060_step2_fake1",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "91",
+      "key_name": "MQ105_060_step2_fake2",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "92",
+      "key_name": "Montetnord_OP_flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "93",
+      "key_name": "Npc_AdventurerRank_RankUpBattle",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "94",
+      "key_name": "Npc_ArenaReception",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "95",
+      "key_name": "OpeningEventEnd_flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "1"
+    },
+    {
+      "version": "1.00.000",
+      "id": "96",
+      "key_name": "SQ003_001_step0_Flag_01",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "97",
+      "key_name": "SQ003_001_step0_Flag_02",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "98",
+      "key_name": "SQ003_001_step0_Flag_03",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "99",
+      "key_name": "SQ003_005_step3_Flag_01",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "100",
+      "key_name": "SQ003_005_step3_Flag_02",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "101",
+      "key_name": "SQ003_005_step3_Flag_03",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "102",
+      "key_name": "SQ101_021_Unlock_Flag02",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "103",
+      "key_name": "SQ101_023_Unlock_Flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "104",
+      "key_name": "SQ101_027_Unlock_Flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "105",
+      "key_name": "SQ101_027_step4_Npc_Neko_03",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "106",
+      "key_name": "SQ101_027_step4_Npc_Neko_04",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "107",
+      "key_name": "SQ101_027_step4_Npc_Neko_05",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "108",
+      "key_name": "SQ101_027_step4_Npc_Neko_06",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "109",
+      "key_name": "SQ101_027_step4_Npc_Neko_07",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "110",
+      "key_name": "SQ101_036_Unlock_Flag01",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "111",
+      "key_name": "SQ101_036_Unlock_Flag02",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "112",
+      "key_name": "SQ101_038_Unlock_Flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "113",
+      "key_name": "SQ101_040_step0_E_Flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "114",
+      "key_name": "SQ101_040_step0_N_Flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "115",
+      "key_name": "SQ101_040_step0_W_Flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "116",
+      "key_name": "SQ101_041_Unlock_Flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "117",
+      "key_name": "SQ101_059_Unlock_Flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "118",
+      "key_name": "SQ101_107_EX02",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "119",
+      "key_name": "SQ101_107_EX03",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "120",
+      "key_name": "SQ101_107_EX04",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "121",
+      "key_name": "SQ101_107_Unlock_Flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "122",
+      "key_name": "SQ101_112_Unlock_Flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "123",
+      "key_name": "SQ101_119_done_1st_Flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "124",
+      "key_name": "SQ101_131_EXEnd_Flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "125",
+      "key_name": "SQ102_032_Unlock_Flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "126",
+      "key_name": "SQ103_032_Unlock_Flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "127",
+      "key_name": "SQ103_034_Unlock_Flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "128",
+      "key_name": "SQ103_039_Unlock_Flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "129",
+      "key_name": "SQ103_049_Unlock_Flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "130",
+      "key_name": "SQ103_051_step1_Flag_01",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "131",
+      "key_name": "SQ103_051_step1_Flag_02",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "132",
+      "key_name": "SQ103_056_step1_Flag_01",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "133",
+      "key_name": "SQ103_056_step1_Flag_02",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "134",
+      "key_name": "SQ104_031_Unlock_Flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "135",
+      "key_name": "SQ104_041_step1_01",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "136",
+      "key_name": "SQ104_041_step1_02",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "137",
+      "key_name": "SQ104_041_step1_03",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "138",
+      "key_name": "SQ104_055_Unlock_Flag_01",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "139",
+      "key_name": "SQ104_055_Unlock_Flag_02",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140",
+      "key_name": "SQ104_109_Unlock_Flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "141",
+      "key_name": "SQ104_109_step2_01",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "142",
+      "key_name": "SQ104_109_step2_02",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "143",
+      "key_name": "SQ104_109_step2_03",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "144",
+      "key_name": "fld004_Open",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "145",
+      "key_name": "isActivate_HunterQuest",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    },
+    {
+      "version": "1.00.000",
+      "id": "146",
+      "key_name": "OpeningEventSkip_flag",
+      "value_type": "0",
+      "value_min": "0",
+      "value_max": "0",
+      "request_type": "0"
+    }
+  ]
+}

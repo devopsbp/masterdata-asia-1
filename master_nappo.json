@@ -1,0 +1,43 @@
+﻿{
+  "header": {
+    "content_type": "master_nappos"
+  },
+  "payload": [
+    {
+      "id": "fld001_S_1",
+      "tag": "fld001_S_1",
+      "game_content_id": "fld001_S",
+      "nappo_num": "1"
+    },
+    {
+      "id": "fld001_S_2",
+      "tag": "fld001_S_2",
+      "game_content_id": "fld001_S",
+      "nappo_num": "2"
+    },
+    {
+      "id": "fld001_S_3",
+      "tag": "fld001_S_3",
+      "game_content_id": "fld001_S",
+      "nappo_num": "3"
+    },
+    {
+      "id": "fld001_S_4",
+      "tag": "fld001_S_4",
+      "game_content_id": "fld001_S",
+      "nappo_num": "4"
+    },
+    {
+      "id": "fld001_S_5",
+      "tag": "fld001_S_5",
+      "game_content_id": "fld001_S",
+      "nappo_num": "5"
+    },
+    {
+      "id": "fld001_S_6",
+      "tag": "fld001_S_6",
+      "game_content_id": "fld001_S",
+      "nappo_num": "6"
+    }
+  ]
+}

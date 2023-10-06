@@ -1,0 +1,56 @@
+﻿{
+  "header": {
+    "content_type": "master_guild_rank_reward"
+  },
+  "payload": [
+    {
+      "version": "1.00.000",
+      "rank": "2",
+      "reward_kind": "17",
+      "effect_text_id": 1,
+      "effect_description_text_id": 8
+    },
+    {
+      "version": "1.00.000",
+      "rank": "3",
+      "reward_kind": "17",
+      "effect_text_id": 2,
+      "effect_description_text_id": 9
+    },
+    {
+      "version": "1.00.000",
+      "rank": "4",
+      "reward_kind": "17",
+      "effect_text_id": 3,
+      "effect_description_text_id": 10
+    },
+    {
+      "version": "1.00.000",
+      "rank": "5",
+      "reward_kind": "17",
+      "effect_text_id": 4,
+      "effect_description_text_id": 11
+    },
+    {
+      "version": "1.00.000",
+      "rank": "6",
+      "reward_kind": "17",
+      "effect_text_id": 5,
+      "effect_description_text_id": 12
+    },
+    {
+      "version": "1.00.000",
+      "rank": "7",
+      "reward_kind": "17",
+      "effect_text_id": 6,
+      "effect_description_text_id": 13
+    },
+    {
+      "version": "9.99.999",
+      "rank": "8",
+      "reward_kind": "17",
+      "effect_text_id": 7,
+      "effect_description_text_id": 14
+    }
+  ]
+}

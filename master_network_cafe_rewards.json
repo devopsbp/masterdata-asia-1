@@ -1,0 +1,17 @@
+﻿{
+  "header": {
+    "content_type": "master_network_cafe_rewards"
+  },
+  "payload": [
+    {
+      "id": "100000000",
+      "reward_type": "1",
+      "item_id": "190000100",
+      "quantity": "26",
+      "loop": "TRUE",
+      "maximum_time": "1440",
+      "at_time_minutes": "20",
+      "version": "9.99.999"
+    }
+  ]
+}

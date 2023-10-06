@@ -1,0 +1,549 @@
+﻿{
+  "header": {
+    "content_type": "master_shop_purchase_condition",
+    "timezone": "Asia/Taipei"
+  },
+  "payload": [
+    {
+      "id": "1",
+      "class_level_condition": [
+        {
+          "target_type": "1",
+          "class_type": "12",
+          "class_level_min": "1",
+          "class_level_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "2",
+      "version": "9.99.999"
+    },
+    {
+      "id": "3",
+      "appearance_condition": [
+        {
+          "target_type": "0",
+          "appearance_type": "2"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "4",
+      "appearance_condition": [
+        {
+          "target_type": "0",
+          "appearance_type": "1"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "5",
+      "appearance_condition": [
+        {
+          "target_type": "1",
+          "appearance_type": "2"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "6",
+      "appearance_condition": [
+        {
+          "target_type": "1",
+          "appearance_type": "1"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "7",
+      "season_condition": [
+        {
+          "season_id": "100000",
+          "season_rank_min": "10",
+          "season_rank_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "8",
+      "season_condition": [
+        {
+          "season_id": "100000",
+          "season_rank_min": "50",
+          "season_rank_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "9",
+      "class_level_condition": [
+        {
+          "target_type": "1",
+          "class_type": "12",
+          "class_level_min": "10",
+          "class_level_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "10",
+      "class_level_condition": [
+        {
+          "target_type": "1",
+          "class_type": "7",
+          "class_level_min": "10",
+          "class_level_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "11",
+      "class_level_condition": [
+        {
+          "target_type": "1",
+          "class_type": "11",
+          "class_level_min": "10",
+          "class_level_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "12",
+      "class_level_condition": [
+        {
+          "target_type": "1",
+          "class_type": "6",
+          "class_level_min": "10",
+          "class_level_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "13",
+      "class_level_condition": [
+        {
+          "target_type": "1",
+          "class_type": "19",
+          "class_level_min": "35",
+          "class_level_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "14",
+      "class_level_condition": [
+        {
+          "target_type": "1",
+          "class_type": "20",
+          "class_level_min": "35",
+          "class_level_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "15",
+      "adventurer_rank_condition": [
+        {
+          "target_type": "1",
+          "adventurer_rank_min": "2",
+          "adventurer_rank_max": "50"
+        }
+      ],
+      "play_days_condition": [
+        {
+          "target_type": "1",
+          "play_days_min": "2",
+          "play_days_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "16",
+      "adventurer_rank_condition": [
+        {
+          "target_type": "1",
+          "adventurer_rank_min": "2",
+          "adventurer_rank_max": "50"
+        }
+      ],
+      "appearance_condition": [
+        {
+          "target_type": "1",
+          "appearance_type": "2"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "9001",
+      "adventurer_rank_condition": [
+        {
+          "target_type": "1",
+          "adventurer_rank_min": "1",
+          "adventurer_rank_max": "30"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "9002",
+      "adventurer_rank_condition": [
+        {
+          "target_type": "1",
+          "adventurer_rank_min": "10",
+          "adventurer_rank_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "100",
+      "class_level_condition": [
+        {
+          "target_type": "1",
+          "class_type": "7",
+          "class_level_min": "1",
+          "class_level_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "101",
+      "class_level_condition": [
+        {
+          "target_type": "1",
+          "class_type": "12",
+          "class_level_min": "1",
+          "class_level_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "102",
+      "class_level_condition": [
+        {
+          "target_type": "1",
+          "class_type": "6",
+          "class_level_min": "1",
+          "class_level_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "103",
+      "class_level_condition": [
+        {
+          "target_type": "1",
+          "class_type": "11",
+          "class_level_min": "1",
+          "class_level_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "104",
+      "class_level_condition": [
+        {
+          "target_type": "1",
+          "class_type": "19",
+          "class_level_min": "1",
+          "class_level_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "901000400",
+      "adventurer_rank_condition": [
+        {
+          "target_type": "1",
+          "adventurer_rank_min": "2",
+          "adventurer_rank_max": "50"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "901000401",
+      "class_level_condition": [
+        {
+          "target_type": "1",
+          "class_type": "11",
+          "class_level_min": "10",
+          "class_level_max": "50"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "901000402",
+      "class_level_condition": [
+        {
+          "target_type": "1",
+          "class_type": "7",
+          "class_level_min": "2",
+          "class_level_max": "50"
+        },
+        {
+          "target_type": "1",
+          "class_type": "7",
+          "class_level_min": "1",
+          "class_level_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "901000403",
+      "class_level_condition": [
+        {
+          "target_type": "1",
+          "class_type": "12",
+          "class_level_min": "1",
+          "class_level_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "901000404",
+      "class_level_condition": [
+        {
+          "target_type": "1",
+          "class_type": "6",
+          "class_level_min": "1",
+          "class_level_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "901000405",
+      "class_level_condition": [
+        {
+          "target_type": "1",
+          "class_type": "11",
+          "class_level_min": "1",
+          "class_level_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "901000406",
+      "class_level_condition": [
+        {
+          "target_type": "1",
+          "class_type": "19",
+          "class_level_min": "1",
+          "class_level_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "901000407",
+      "appearance_condition": [
+        {
+          "target_type": "1",
+          "appearance_type": "1"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "901000408",
+      "appearance_condition": [
+        {
+          "target_type": "1",
+          "appearance_type": "2"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "901000409",
+      "mission_condition": [
+        {
+          "target_type": "1",
+          "mission_id": "dng005"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "901000410",
+      "mission_condition": [
+        {
+          "target_type": "1",
+          "mission_id": "dng009"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "901000411",
+      "quest_condition": [
+        {
+          "target_type": "1",
+          "quest_id": "20101001"
+        },
+        {
+          "target_type": "1",
+          "quest_id": "20101002"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "901000412",
+      "quest_condition": [
+        {
+          "target_type": "1",
+          "quest_id": "20103001"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "901000413",
+      "play_days_condition": [
+        {
+          "target_type": "1",
+          "play_days_min": "2",
+          "play_days_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "901000414",
+      "play_days_condition": [
+        {
+          "target_type": "1",
+          "play_days_min": "1",
+          "play_days_max": "3"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "901000415",
+      "season_condition": [
+        {
+          "season_id": "100000",
+          "season_rank_min": "10",
+          "season_rank_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "400100070",
+      "season_condition": [
+        {
+          "season_id": "100000",
+          "season_rank_min": "70",
+          "season_rank_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "400100100",
+      "season_condition": [
+        {
+          "season_id": "100000",
+          "season_rank_min": "100",
+          "season_rank_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "400101070",
+      "season_condition": [
+        {
+          "season_id": "101000",
+          "season_rank_min": "70",
+          "season_rank_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "400101100",
+      "season_condition": [
+        {
+          "season_id": "101000",
+          "season_rank_min": "100",
+          "season_rank_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "400102070",
+      "season_condition": [
+        {
+          "season_id": "102000",
+          "season_rank_min": "70",
+          "season_rank_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "400102100",
+      "season_condition": [
+        {
+          "season_id": "102000",
+          "season_rank_min": "100",
+          "season_rank_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "400103070",
+      "season_condition": [
+        {
+          "season_id": "103000",
+          "season_rank_min": "70",
+          "season_rank_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    },
+    {
+      "id": "400103100",
+      "season_condition": [
+        {
+          "season_id": "103000",
+          "season_rank_min": "100",
+          "season_rank_max": "0"
+        }
+      ],
+      "version": "9.99.999"
+    }
+  ]
+}

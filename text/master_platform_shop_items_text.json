@@ -1,0 +1,107 @@
+﻿{
+  "header": {
+    "content_type": "master_text"
+  },
+  "payload": [
+    {
+      "id": "1",
+      "ja_JP": "pfの商品ID：テストPlayStation Plus 会員向けの特典",
+      "zh_TW": "pf的商品ID：測試PlayStation Plus 會員專用特典"
+    },
+    {
+      "id": "2",
+      "ja_JP": "pfの商品ID：テストXbox Game Pass Ultimate 会員向けの特典",
+      "zh_TW": "pf的商品ID：測試Xbox Game Pass Ultimate 會員專用特典"
+    },
+    {
+      "id": "11",
+      "ja_JP": "pfの商品ID：テストPlayStation Plus 会員向けの特典",
+      "zh_TW": "pf的商品ID：測試PlayStation Plus 會員專用特典"
+    },
+    {
+      "id": "12",
+      "ja_JP": "pfの商品ID：テストPlayStation Plus 会員向けの特典",
+      "zh_TW": "pf的商品ID：測試PlayStation Plus 會員專用特典"
+    },
+    {
+      "id": "3",
+      "ja_JP": "商品名：PlayStation Plus 会員向けの特典",
+      "zh_TW": "商品名：PlayStation Plus 會員專用特典"
+    },
+    {
+      "id": "4",
+      "ja_JP": "商品名：Xbox Game Pass Ultimate 会員向けの特典",
+      "zh_TW": "商品名：Xbox Game Pass Ultimate 會員專用特典"
+    },
+    {
+      "id": "18",
+      "ja_JP": "商品名：PlayStation Plus 会員向けの特典",
+      "zh_TW": "商品名：PlayStation Plus 會員專用特典"
+    },
+    {
+      "id": "19",
+      "ja_JP": "商品名：PlayStation Plus 会員向けの特典",
+      "zh_TW": "商品名：PlayStation Plus 會員專用特典"
+    },
+    {
+      "id": "5",
+      "ja_JP": "画像名１",
+      "zh_TW": "畫像名１"
+    },
+    {
+      "id": "6",
+      "ja_JP": "画像名２",
+      "zh_TW": "畫像名２"
+    },
+    {
+      "id": "25",
+      "ja_JP": "画像名１",
+      "zh_TW": "畫像名１"
+    },
+    {
+      "id": "26",
+      "ja_JP": "画像名１",
+      "zh_TW": "畫像名２"
+    },
+    {
+      "id": "7",
+      "ja_JP": "商品説明：テストメッセージ",
+      "zh_TW": "商品說明：測試訊息"
+    },
+    {
+      "id": "8",
+      "ja_JP": "商品説明：テストメッセージ",
+      "zh_TW": "商品說明：測試訊息"
+    },
+    {
+      "id": "32",
+      "ja_JP": "商品説明：テストメッセージ",
+      "zh_TW": "商品說明：測試訊息"
+    },
+    {
+      "id": "33",
+      "ja_JP": "商品説明：テストメッセージ",
+      "zh_TW": "商品說明：測試訊息"
+    },
+    {
+      "id": "9",
+      "ja_JP": "商品詳細用説明：テストメッセージ",
+      "zh_TW": "商品詳細說明：測試訊息"
+    },
+    {
+      "id": "10",
+      "ja_JP": "商品詳細用説明：テストメッセージ",
+      "zh_TW": "商品詳細說明：測試訊息"
+    },
+    {
+      "id": "39",
+      "ja_JP": "商品詳細用説明：テストメッセージ",
+      "zh_TW": "商品詳細說明：測試訊息"
+    },
+    {
+      "id": "40",
+      "ja_JP": "商品詳細用説明：テストメッセージ",
+      "zh_TW": "商品詳細說明：測試訊息"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "header": {
+    "content_type": "master_real_goods"
+  },
+  "payload": [
+    {
+      "id": "100000000",
+      "serial_code_campaign_id": "1",
+      "name": 1,
+      "desc": 2,
+      "version": "9.99.999"
+    }
+  ]
+}

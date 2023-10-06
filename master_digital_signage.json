@@ -1,0 +1,250 @@
+﻿{
+  "header": {
+    "content_type": "master_digital_signage"
+  },
+  "payload": [
+    {
+      "group_id": "101010200",
+      "term_id": "",
+      "texture_name": "cmn_001_E",
+      "data_type": "0",
+      "texture_cnt": "",
+      "priority": "1002",
+      "version": "1.00.000"
+    },
+    {
+      "group_id": "101010200",
+      "term_id": "",
+      "texture_name": "cmn_011_E",
+      "data_type": "0",
+      "texture_cnt": "",
+      "priority": "1001",
+      "version": "1.00.000"
+    },
+    {
+      "group_id": "101010201",
+      "term_id": "",
+      "texture_name": "cmn_013_E",
+      "data_type": "0",
+      "texture_cnt": "",
+      "priority": "1003",
+      "version": "1.00.000"
+    },
+    {
+      "group_id": "101010201",
+      "term_id": "",
+      "texture_name": "cmn_002_E",
+      "data_type": "0",
+      "texture_cnt": "",
+      "priority": "1002",
+      "version": "1.00.000"
+    },
+    {
+      "group_id": "101010201",
+      "term_id": "",
+      "texture_name": "cmn_012_E",
+      "data_type": "0",
+      "texture_cnt": "",
+      "priority": "1001",
+      "version": "1.00.000"
+    },
+    {
+      "group_id": "101010202",
+      "term_id": "",
+      "texture_name": "cmn_011_E",
+      "data_type": "0",
+      "texture_cnt": "",
+      "priority": "1003",
+      "version": "1.00.000"
+    },
+    {
+      "group_id": "101010202",
+      "term_id": "",
+      "texture_name": "cmn_005_E",
+      "data_type": "0",
+      "texture_cnt": "",
+      "priority": "1002",
+      "version": "1.00.000"
+    },
+    {
+      "group_id": "101010202",
+      "term_id": "",
+      "texture_name": "cmn_001_E",
+      "data_type": "0",
+      "texture_cnt": "",
+      "priority": "1001",
+      "version": "1.00.000"
+    },
+    {
+      "group_id": "101010203",
+      "term_id": "",
+      "texture_name": "cmn_006_E",
+      "data_type": "0",
+      "texture_cnt": "",
+      "priority": "1002",
+      "version": "1.00.000"
+    },
+    {
+      "group_id": "101010203",
+      "term_id": "",
+      "texture_name": "cmn_013_E",
+      "data_type": "0",
+      "texture_cnt": "",
+      "priority": "1001",
+      "version": "1.00.000"
+    },
+    {
+      "group_id": "101010104",
+      "term_id": "",
+      "texture_name": "cmn_015_E",
+      "data_type": "0",
+      "texture_cnt": "",
+      "priority": "1002",
+      "version": "1.00.000"
+    },
+    {
+      "group_id": "101010104",
+      "term_id": "",
+      "texture_name": "cmn_014_E",
+      "data_type": "0",
+      "texture_cnt": "",
+      "priority": "1001",
+      "version": "1.00.000"
+    },
+    {
+      "group_id": "101030205",
+      "term_id": "",
+      "texture_name": "cmn_008_E",
+      "data_type": "0",
+      "texture_cnt": "",
+      "priority": "1003",
+      "version": "1.00.000"
+    },
+    {
+      "group_id": "101030205",
+      "term_id": "",
+      "texture_name": "cmn_009_E",
+      "data_type": "0",
+      "texture_cnt": "",
+      "priority": "1002",
+      "version": "1.00.000"
+    },
+    {
+      "group_id": "101030205",
+      "term_id": "",
+      "texture_name": "cmn_010_E",
+      "data_type": "0",
+      "texture_cnt": "",
+      "priority": "1001",
+      "version": "1.00.000"
+    },
+    {
+      "group_id": "101030106",
+      "term_id": "",
+      "texture_name": "cmn_003_D",
+      "data_type": "0",
+      "texture_cnt": "",
+      "priority": "1004",
+      "version": "1.00.000"
+    },
+    {
+      "group_id": "101030106",
+      "term_id": "",
+      "texture_name": "cmn_016_E",
+      "data_type": "0",
+      "texture_cnt": "",
+      "priority": "1003",
+      "version": "1.00.000"
+    },
+    {
+      "group_id": "101030106",
+      "term_id": "",
+      "texture_name": "cmn_004_D",
+      "data_type": "0",
+      "texture_cnt": "",
+      "priority": "1002",
+      "version": "1.00.000"
+    },
+    {
+      "group_id": "101030106",
+      "term_id": "",
+      "texture_name": "cmn_017_E",
+      "data_type": "0",
+      "texture_cnt": "",
+      "priority": "1001",
+      "version": "1.00.000"
+    },
+    {
+      "group_id": "101030107",
+      "term_id": "",
+      "texture_name": "cmn_004_D",
+      "data_type": "0",
+      "texture_cnt": "",
+      "priority": "1004",
+      "version": "1.00.000"
+    },
+    {
+      "group_id": "101030107",
+      "term_id": "",
+      "texture_name": "cmn_017_E",
+      "data_type": "0",
+      "texture_cnt": "",
+      "priority": "1003",
+      "version": "1.00.000"
+    },
+    {
+      "group_id": "101030107",
+      "term_id": "",
+      "texture_name": "cmn_003_D",
+      "data_type": "0",
+      "texture_cnt": "",
+      "priority": "1002",
+      "version": "1.00.000"
+    },
+    {
+      "group_id": "101030107",
+      "term_id": "",
+      "texture_name": "cmn_016_E",
+      "data_type": "0",
+      "texture_cnt": "",
+      "priority": "1001",
+      "version": "1.00.000"
+    },
+    {
+      "group_id": "101000008",
+      "term_id": "",
+      "texture_name": "billboard_001_all",
+      "data_type": "1",
+      "texture_cnt": "4",
+      "priority": "1001",
+      "version": "1.00.000"
+    },
+    {
+      "group_id": "199020100",
+      "term_id": "",
+      "texture_name": "cmn_018_E",
+      "data_type": "0",
+      "texture_cnt": "",
+      "priority": "1000",
+      "version": "1.00.000"
+    },
+    {
+      "group_id": "199020101",
+      "term_id": "",
+      "texture_name": "cmn_018_E",
+      "data_type": "0",
+      "texture_cnt": "",
+      "priority": "1000",
+      "version": "1.00.000"
+    },
+    {
+      "group_id": "199020102",
+      "term_id": "",
+      "texture_name": "cmn_018_E",
+      "data_type": "0",
+      "texture_cnt": "",
+      "priority": "1000",
+      "version": "1.00.000"
+    }
+  ]
+}

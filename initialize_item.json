@@ -1,0 +1,35 @@
+﻿{
+  "header": {
+    "content_type": "master_initialize_item"
+  },
+  "payload": [
+    {
+      "id": "1",
+      "item_id": "121000000",
+      "amount": "1",
+      "storage_type": "0",
+      "version": "1.00.000"
+    },
+    {
+      "id": "2",
+      "item_id": "123110060",
+      "amount": "2",
+      "storage_type": "-1",
+      "version": "1.02.000"
+    },
+    {
+      "id": "3",
+      "item_id": "123200060",
+      "amount": "2",
+      "storage_type": "-1",
+      "version": "1.02.000"
+    },
+    {
+      "id": "4",
+      "item_id": "123000110",
+      "amount": "2",
+      "storage_type": "-1",
+      "version": "1.02.000"
+    }
+  ]
+}

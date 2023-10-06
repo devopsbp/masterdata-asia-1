@@ -1,0 +1,19 @@
+﻿{
+  "header": {
+    "content_type": "master_mount_expedition_boost_abilities"
+  },
+  "payload": [
+    {
+      "id": "1",
+      "type": "1",
+      "value": "360",
+      "version": "9.99.999"
+    },
+    {
+      "id": "2",
+      "type": "2",
+      "value": "20",
+      "version": "9.99.999"
+    }
+  ]
+}

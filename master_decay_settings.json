@@ -1,0 +1,43 @@
+﻿{
+  "header": {
+    "content_type": "master_decay_settings"
+  },
+  "payload": [
+    {
+      "id": "1",
+      "class_type": "7",
+      "weapon_decays_to_id": "107000110",
+      "version": "9.99.999"
+    },
+    {
+      "id": "2",
+      "class_type": "12",
+      "weapon_decays_to_id": "112000110",
+      "version": "9.99.999"
+    },
+    {
+      "id": "3",
+      "class_type": "6",
+      "weapon_decays_to_id": "106000110",
+      "version": "9.99.999"
+    },
+    {
+      "id": "4",
+      "class_type": "11",
+      "weapon_decays_to_id": "111000110",
+      "version": "9.99.999"
+    },
+    {
+      "id": "5",
+      "class_type": "19",
+      "weapon_decays_to_id": "119000110",
+      "version": "9.99.999"
+    },
+    {
+      "id": "6",
+      "class_type": "20",
+      "weapon_decays_to_id": "120000110",
+      "version": "9.99.999"
+    }
+  ]
+}

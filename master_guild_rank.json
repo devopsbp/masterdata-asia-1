@@ -1,0 +1,63 @@
+﻿{
+  "header": {
+    "content_type": "master_guild_rank"
+  },
+  "payload": [
+    {
+      "version": "1.00.000",
+      "start_date": "2021-01-01 00:00:00",
+      "rank": "1",
+      "limit_member": "20",
+      "need_exp": "1160000"
+    },
+    {
+      "version": "1.00.000",
+      "start_date": "2021-01-01 00:00:00",
+      "rank": "2",
+      "limit_member": "25",
+      "need_exp": "4680000"
+    },
+    {
+      "version": "1.00.000",
+      "start_date": "2021-01-01 00:00:00",
+      "rank": "3",
+      "limit_member": "30",
+      "need_exp": "7840000"
+    },
+    {
+      "version": "1.00.000",
+      "start_date": "2021-01-01 00:00:00",
+      "rank": "4",
+      "limit_member": "35",
+      "need_exp": "17330000"
+    },
+    {
+      "version": "1.00.000",
+      "start_date": "2021-01-01 00:00:00",
+      "rank": "5",
+      "limit_member": "40",
+      "need_exp": "33000000"
+    },
+    {
+      "version": "1.00.000",
+      "start_date": "2021-01-01 00:00:00",
+      "rank": "6",
+      "limit_member": "45",
+      "need_exp": "71500000"
+    },
+    {
+      "version": "1.00.000",
+      "start_date": "2021-01-01 00:00:00",
+      "rank": "7",
+      "limit_member": "50",
+      "need_exp": "6160000"
+    },
+    {
+      "version": "9.99.999",
+      "start_date": "2025-01-01 00:00:00",
+      "rank": "8",
+      "limit_member": "55",
+      "need_exp": "7980000"
+    }
+  ]
+}

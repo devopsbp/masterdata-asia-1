@@ -1,0 +1,37 @@
+﻿{
+  "header": {
+    "content_type": "master_mount_expedition_add_reward_count"
+  },
+  "payload": [
+    {
+      "stackboost_num": "0",
+      "count": "1",
+      "version": "9.99.999"
+    },
+    {
+      "stackboost_num": "1",
+      "count": "3",
+      "version": "9.99.999"
+    },
+    {
+      "stackboost_num": "2",
+      "count": "5",
+      "version": "9.99.999"
+    },
+    {
+      "stackboost_num": "3",
+      "count": "7",
+      "version": "9.99.999"
+    },
+    {
+      "stackboost_num": "4",
+      "count": "9",
+      "version": "9.99.999"
+    },
+    {
+      "stackboost_num": "5",
+      "count": "11",
+      "version": "9.99.999"
+    }
+  ]
+}

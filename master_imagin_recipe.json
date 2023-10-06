@@ -1,0 +1,7399 @@
+﻿{
+  "header": {
+    "content_type": "master_imagine_recipe"
+  },
+  "payload": [
+    {
+      "version": "9.99.999",
+      "id": "911000101",
+      "imagin_id": "111000300",
+      "adventurer_rank": "0",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "2"
+        }
+      ],
+      "event_term_id": "100000001"
+    },
+    {
+      "version": "9.99.999",
+      "id": "911000102",
+      "imagin_id": "911001200",
+      "adventurer_rank": "0",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "165001900",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "982001006",
+          "amount": "1"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "9.99.999",
+      "id": "911000103",
+      "imagin_id": "131003100",
+      "adventurer_rank": "0",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "1"
+        }
+      ],
+      "event_term_id": "100000001"
+    },
+    {
+      "version": "9.99.999",
+      "id": "911000104",
+      "imagin_id": "934000000",
+      "adventurer_rank": "0",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "140000100",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "982001006",
+          "amount": "1"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "9.99.999",
+      "id": "911000105",
+      "imagin_id": "121000210",
+      "adventurer_rank": "0",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "140000100",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "982001006",
+          "amount": "1"
+        }
+      ],
+      "event_term_id": "99993"
+    },
+    {
+      "version": "9.99.999",
+      "id": "911000106",
+      "imagin_id": "111002200",
+      "adventurer_rank": "0",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "140000100",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "982001006",
+          "amount": "1"
+        }
+      ],
+      "event_term_id": "99993"
+    },
+    {
+      "version": "9.99.999",
+      "id": "911000107",
+      "imagin_id": "131000700",
+      "adventurer_rank": "0",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "982001010",
+          "amount": "1"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "9.99.999",
+      "id": "911000108",
+      "imagin_id": "111000700",
+      "adventurer_rank": "0",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "982001010",
+          "amount": "1"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "9.99.999",
+      "id": "911000109",
+      "imagin_id": "140000300",
+      "adventurer_rank": "0",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "1"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "9.99.999",
+      "id": "911000110",
+      "imagin_id": "912001000",
+      "adventurer_rank": "0",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "1"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "9.99.999",
+      "id": "911000111",
+      "imagin_id": "911000100",
+      "adventurer_rank": "0",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "1"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "9.99.999",
+      "id": "911000112",
+      "imagin_id": "930000000",
+      "adventurer_rank": "0",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "1"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131000900",
+      "imagin_id": "131000900",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "700",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151004900",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161011900",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "7"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131001000",
+      "imagin_id": "131001000",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "8800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151005000",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "7"
+        },
+        {
+          "item_type": "1",
+          "item_id": "163000500",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "10"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131000000",
+      "imagin_id": "131000000",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "8800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151003100",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "7"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162000200",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200000",
+          "amount": "5"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131000600",
+      "imagin_id": "131000600",
+      "adventurer_rank": "2",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "20000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151004400",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150002400",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "23"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "4"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131003100",
+      "imagin_id": "131003100",
+      "adventurer_rank": "4",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "92800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151007200",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150013100",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "46"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131001100",
+      "imagin_id": "131001100",
+      "adventurer_rank": "2",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "20000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151005100",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "8"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161000800",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "10"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131000800",
+      "imagin_id": "131000800",
+      "adventurer_rank": "5",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "158600",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151004600",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150004900",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "59"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131000700",
+      "imagin_id": "131000700",
+      "adventurer_rank": "3",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "47500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151004500",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "12"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161001000",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200000",
+          "amount": "5"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131000200",
+      "imagin_id": "131000200",
+      "adventurer_rank": "6",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "217900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151003500",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "22"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162001000",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "10"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131001600",
+      "imagin_id": "131001600",
+      "adventurer_rank": "6",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "221500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151003900",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150006800",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "64"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131003000",
+      "imagin_id": "131003000",
+      "adventurer_rank": "3",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "47500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151007100",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "12"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162001800",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "10"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131001700",
+      "imagin_id": "131001700",
+      "adventurer_rank": "6",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "221500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151003700",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150007100",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "64"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131002200",
+      "imagin_id": "131002200",
+      "adventurer_rank": "4",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "92800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151005900",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "16"
+        },
+        {
+          "item_type": "1",
+          "item_id": "163000800",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "10"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131003200",
+      "imagin_id": "131003200",
+      "adventurer_rank": "5",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "162200",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151007300",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150010700",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "59"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131003300",
+      "imagin_id": "131003300",
+      "adventurer_rank": "7",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "293000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151007400",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150010500",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131002900",
+      "imagin_id": "131002900",
+      "adventurer_rank": "6",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "221500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151007000",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150010900",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "64"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131002300",
+      "imagin_id": "131002300",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "371300",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151006000",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150011800",
+          "amount": "8"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "74"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131002400",
+      "imagin_id": "131002400",
+      "adventurer_rank": "6",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "221500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151006500",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150010600",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "64"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131002000",
+      "imagin_id": "131002000",
+      "adventurer_rank": "4",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "92800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151005400",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "16"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162006400",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "10"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131002700",
+      "imagin_id": "131002700",
+      "adventurer_rank": "7",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "293000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151006800",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150009600",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131002500",
+      "imagin_id": "131002500",
+      "adventurer_rank": "5",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "162200",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151006600",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150001700",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "59"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131000500",
+      "imagin_id": "131000500",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "371300",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151004300",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150005700",
+          "amount": "8"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "74"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131000300",
+      "imagin_id": "131000300",
+      "adventurer_rank": "7",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "293000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151004000",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "24"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162000400",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "10"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131000100",
+      "imagin_id": "131000100",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "371300",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151003300",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150002800",
+          "amount": "8"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "74"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131003600",
+      "imagin_id": "131003600",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "384800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151004700",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150004800",
+          "amount": "8"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "74"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "6"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131002800",
+      "imagin_id": "131002800",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "371300",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151008500",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150006600",
+          "amount": "8"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "74"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131001800",
+      "imagin_id": "131001800",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "371300",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151003800",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "25"
+        },
+        {
+          "item_type": "1",
+          "item_id": "163001100",
+          "amount": "12"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "30"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131001200",
+      "imagin_id": "131001200",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "371300",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151004100",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150015700",
+          "amount": "8"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "74"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131002600",
+      "imagin_id": "131002600",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "384800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151006700",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "25"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161008700",
+          "amount": "12"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "30"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "130000600",
+      "imagin_id": "130000600",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "1400",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151000100",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150001000",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "9"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "5"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "130000000",
+      "imagin_id": "130000000",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "1400",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151000300",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161000200",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200000",
+          "amount": "4"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "130000300",
+      "imagin_id": "130000300",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "1400",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151000200",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162000300",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "10"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "130000500",
+      "imagin_id": "130000500",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "8800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151000700",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150000300",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "10"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "130000400",
+      "imagin_id": "130000400",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "8800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151000600",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150002300",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "10"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "130001100",
+      "imagin_id": "130001100",
+      "adventurer_rank": "2",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "20000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151008100",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150006400",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "10"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "130002300",
+      "imagin_id": "130002300",
+      "adventurer_rank": "2",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "20000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151001500",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "5"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162002400",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200000",
+          "amount": "5"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "130001600",
+      "imagin_id": "130001600",
+      "adventurer_rank": "5",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "158600",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151002500",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150009100",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "10"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "133001300",
+      "imagin_id": "133001300",
+      "adventurer_rank": "5",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "162200",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151008000",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150007800",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "10"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "130001300",
+      "imagin_id": "130001300",
+      "adventurer_rank": "3",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "47500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151002200",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150012700",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "10"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "130001700",
+      "imagin_id": "130001700",
+      "adventurer_rank": "4",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "92800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151003000",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150011000",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "10"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "130002400",
+      "imagin_id": "130002400",
+      "adventurer_rank": "6",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "221500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151008200",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150002000",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "10"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "130000100",
+      "imagin_id": "130000100",
+      "adventurer_rank": "7",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "293000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151000400",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "5"
+        },
+        {
+          "item_type": "1",
+          "item_id": "163000400",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "10"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "130001900",
+      "imagin_id": "130001900",
+      "adventurer_rank": "7",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "293000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151001300",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150008100",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "10"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "130000800",
+      "imagin_id": "130000800",
+      "adventurer_rank": "7",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "293000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151008300",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150016200",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "10"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "140000000",
+      "imagin_id": "140000000",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "1400",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "9"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "10"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "140000100",
+      "imagin_id": "140000100",
+      "adventurer_rank": "3",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "47500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "9"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "10"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "140000200",
+      "imagin_id": "140000200",
+      "adventurer_rank": "6",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "222500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "9"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200000",
+          "amount": "4"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131000400",
+      "imagin_id": "131000400",
+      "adventurer_rank": "2",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "20000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151004200",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "8"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161001600",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200000",
+          "amount": "5"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "133000100",
+      "imagin_id": "133000100",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "371300",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151007900",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150003200",
+          "amount": "8"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "74"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "6"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "133001000",
+      "imagin_id": "133001000",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "384800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151007600",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150009700",
+          "amount": "8"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "74"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "133000600",
+      "imagin_id": "133000600",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "371300",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151009000",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150018000",
+          "amount": "8"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "74"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.100",
+      "id": "131003400",
+      "imagin_id": "131003400",
+      "adventurer_rank": "7",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "293000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151007700",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "24"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161015700",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200000",
+          "amount": "10"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.100",
+      "id": "133001100",
+      "imagin_id": "133001100",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "371300",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151009100",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150018200",
+          "amount": "8"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "74"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "120000000",
+      "imagin_id": "120000000",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "1000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151008600",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "120000010",
+      "imagin_id": "120000010",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "1000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151008700",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "120000400",
+      "imagin_id": "120000400",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "1000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151008800",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "120000410",
+      "imagin_id": "120000410",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "1000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151008900",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.01.100",
+      "id": "131002100",
+      "imagin_id": "131002100",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "473300",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151005500",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "28"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162012700",
+          "amount": "14"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "30"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.01.100",
+      "id": "133000200",
+      "imagin_id": "133000200",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "473300",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151010400",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150018900",
+          "amount": "9"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "79"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "6"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.01.000",
+      "id": "133000300",
+      "imagin_id": "133000300",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "384800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151010500",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "25"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162012300",
+          "amount": "12"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "30"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.01.000",
+      "id": "131001300",
+      "imagin_id": "131001300",
+      "adventurer_rank": "7",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "306600",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151005300",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150018500",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.01.000",
+      "id": "121000000",
+      "imagin_id": "121000000",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "1000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151010000",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.01.000",
+      "id": "121000010",
+      "imagin_id": "121000010",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "1000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151010100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131004700",
+      "imagin_id": "131004700",
+      "adventurer_rank": "6",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "221500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151010600",
+          "amount": "1"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "22"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161017900",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200000",
+          "amount": "5"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "131004800",
+      "imagin_id": "131004800",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "371300",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151010700",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "25"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161018000",
+          "amount": "12"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "30"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.100",
+      "id": "131004500",
+      "imagin_id": "131004500",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "371300",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151010800",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "25"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161018100",
+          "amount": "12"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "30"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.01.000",
+      "id": "131004900",
+      "imagin_id": "131004900",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "371300",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151010900",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "25"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161018200",
+          "amount": "12"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200000",
+          "amount": "20"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.01.100",
+      "id": "131004400",
+      "imagin_id": "131004400",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "371300",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151011000",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "25"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161018300",
+          "amount": "12"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "30"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "9.99.999",
+      "id": "134000000",
+      "imagin_id": "134000000",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "1000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151009400",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.000",
+      "id": "131003800",
+      "imagin_id": "131003800",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "384800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151011100",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150021600",
+          "amount": "39"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "228"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.000",
+      "id": "131003900",
+      "imagin_id": "131003900",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "477800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151011200",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150021700",
+          "amount": "29"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "279"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "6"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.000",
+      "id": "130002900",
+      "imagin_id": "130002900",
+      "adventurer_rank": "7",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "306600",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151011300",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "66"
+        },
+        {
+          "item_type": "1",
+          "item_id": "163001500",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "10"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.000",
+      "id": "131004000",
+      "imagin_id": "131004000",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "384800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151011400",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150021800",
+          "amount": "23"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "230"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.000",
+      "id": "131005100",
+      "imagin_id": "131005100",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "481900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151011500",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150021900",
+          "amount": "38"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "260"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.000",
+      "id": "130002600",
+      "imagin_id": "130002600",
+      "adventurer_rank": "7",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "293000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151011600",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "66"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162013300",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "10"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.000",
+      "id": "131004100",
+      "imagin_id": "131004100",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "389000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151011700",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150022000",
+          "amount": "44"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "243"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "6"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.000",
+      "id": "131004200",
+      "imagin_id": "131004200",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "481900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151011800",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "91"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162013100",
+          "amount": "14"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200000",
+          "amount": "20"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.000",
+      "id": "130002800",
+      "imagin_id": "130002800",
+      "adventurer_rank": "7",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "306600",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151011900",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "66"
+        },
+        {
+          "item_type": "1",
+          "item_id": "163001400",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "10"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.000",
+      "id": "133000500",
+      "imagin_id": "133000500",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "481900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151012000",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150022100",
+          "amount": "26"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "257"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.000",
+      "id": "133001700",
+      "imagin_id": "133001700",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "481900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151012800",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150022200",
+          "amount": "26"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "258"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.000",
+      "id": "120000200",
+      "imagin_id": "120000200",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "1000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151009600",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.000",
+      "id": "120000210",
+      "imagin_id": "120000210",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "1000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151009700",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.000",
+      "id": "120000500",
+      "imagin_id": "120000500",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "1000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151014800",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.000",
+      "id": "120000510",
+      "imagin_id": "120000510",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "1000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151014900",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.100",
+      "id": "133000800",
+      "imagin_id": "133000800",
+      "adventurer_rank": "10",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "577100",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151012200",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150022500",
+          "amount": "27"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "285"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.100",
+      "id": "133001600",
+      "imagin_id": "133001600",
+      "adventurer_rank": "10",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "581700",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151012100",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150022600",
+          "amount": "28"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "286"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.03.000",
+      "id": "133001200",
+      "imagin_id": "133001200",
+      "adventurer_rank": "10",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "581700",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151012400",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150023300",
+          "amount": "27"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "285"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.03.000",
+      "id": "133000700",
+      "imagin_id": "133000700",
+      "adventurer_rank": "10",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "577100",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151012500",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150023400",
+          "amount": "28"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "286"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.100",
+      "id": "130002500",
+      "imagin_id": "130002500",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "10200",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151009200",
+          "amount": "1"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.100",
+      "id": "131003700",
+      "imagin_id": "131003700",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "293000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151009300",
+          "amount": "2"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.03.000",
+      "id": "121000100",
+      "imagin_id": "121000100",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "1000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151010200",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.03.000",
+      "id": "121000110",
+      "imagin_id": "121000110",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "1000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151010300",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.03.100",
+      "id": "133001500",
+      "imagin_id": "133001500",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "701400",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151012600",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150024100",
+          "amount": "29"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "322"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.03.100",
+      "id": "131005200",
+      "imagin_id": "131005200",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "701400",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151012700",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150024200",
+          "amount": "29"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "322"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.000",
+      "id": "131005800",
+      "imagin_id": "131005800",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "816700",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151012900",
+          "amount": "6"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "32"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162014300",
+          "amount": "17"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200000",
+          "amount": "57"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.000",
+      "id": "131005500",
+      "imagin_id": "131005500",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "706300",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151013000",
+          "amount": "6"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150024700",
+          "amount": "8"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "89"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "47"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.000",
+      "id": "130003100",
+      "imagin_id": "130003100",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "577100",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151013100",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "29"
+        },
+        {
+          "item_type": "1",
+          "item_id": "163001600",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "120"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.000",
+      "id": "131005400",
+      "imagin_id": "131005400",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "821600",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151013200",
+          "amount": "6"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "32"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161019600",
+          "amount": "17"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200000",
+          "amount": "57"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.000",
+      "id": "131005700",
+      "imagin_id": "131005700",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "706300",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151013600",
+          "amount": "6"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150025300",
+          "amount": "8"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "89"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "45"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.000",
+      "id": "130003000",
+      "imagin_id": "130003000",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "581700",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151013700",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "29"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162014400",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "126"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.000",
+      "id": "131005300",
+      "imagin_id": "131005300",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "816700",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151013500",
+          "amount": "6"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "32"
+        },
+        {
+          "item_type": "1",
+          "item_id": "163001800",
+          "amount": "17"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "148"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.000",
+      "id": "131005600",
+      "imagin_id": "131005600",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "701400",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151013300",
+          "amount": "6"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150025000",
+          "amount": "8"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "89"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "19"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.000",
+      "id": "130003200",
+      "imagin_id": "130003200",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "577100",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151013400",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "29"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161019700",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "120"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.000",
+      "id": "133002000",
+      "imagin_id": "133002000",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "706300",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151013800",
+          "amount": "6"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "31"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162014600",
+          "amount": "17"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "141"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.000",
+      "id": "131005900",
+      "imagin_id": "131005900",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "706300",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151013900",
+          "amount": "6"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150025800",
+          "amount": "8"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "89"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "47"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.000",
+      "id": "120000300",
+      "imagin_id": "120000300",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "1000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151009800",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.000",
+      "id": "120000310",
+      "imagin_id": "120000310",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "1000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151009900",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.000",
+      "id": "121000200",
+      "imagin_id": "121000200",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "1000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151015000",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.000",
+      "id": "121000210",
+      "imagin_id": "121000210",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "1000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151015100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.100",
+      "id": "133001900",
+      "imagin_id": "133001900",
+      "adventurer_rank": "12",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "821600",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151014000",
+          "amount": "6"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150026000",
+          "amount": "8"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "93"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "49"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.100",
+      "id": "133001800",
+      "imagin_id": "133001800",
+      "adventurer_rank": "12",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "846500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151014100",
+          "amount": "6"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150026500",
+          "amount": "8"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "93"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "47"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.05.000",
+      "id": "133001400",
+      "imagin_id": "133001400",
+      "adventurer_rank": "12",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "821600",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151014200",
+          "amount": "6"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150026900",
+          "amount": "8"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "93"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "47"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.05.000",
+      "id": "133002100",
+      "imagin_id": "133002100",
+      "adventurer_rank": "12",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "846500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151014300",
+          "amount": "6"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150027300",
+          "amount": "8"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "93"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "19"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.05.000",
+      "id": "120000100",
+      "imagin_id": "120000100",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "1000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151014600",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.05.000",
+      "id": "120000110",
+      "imagin_id": "120000110",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "1000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151014700",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.100",
+      "id": "130003300",
+      "imagin_id": "130003300",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "10200",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151015200",
+          "amount": "1"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.100",
+      "id": "131006000",
+      "imagin_id": "131006000",
+      "adventurer_rank": "1",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "286600",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151015300",
+          "amount": "1"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.05.100",
+      "id": "132000100",
+      "imagin_id": "132000100",
+      "adventurer_rank": "13",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "970900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151014400",
+          "amount": "6"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150027700",
+          "amount": "8"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "98"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.05.100",
+      "id": "133002200",
+      "imagin_id": "133002200",
+      "adventurer_rank": "13",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "970900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "151014500",
+          "amount": "6"
+        },
+        {
+          "item_type": "1",
+          "item_id": "150028200",
+          "amount": "8"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "98"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "111000100",
+      "imagin_id": "111000100",
+      "adventurer_rank": "0",
+      "auto_release": "TRUE",
+      "release_adv_rank": "0",
+      "price": "500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "2"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "112000100",
+      "imagin_id": "112000100",
+      "adventurer_rank": "2",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "1400",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150000100",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "9"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "2"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "115000100",
+      "imagin_id": "115000100",
+      "adventurer_rank": "3",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "8800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "7"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162012100",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "10"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "113000100",
+      "imagin_id": "113000100",
+      "adventurer_rank": "2",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "1400",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150001400",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "9"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "114000600",
+      "imagin_id": "114000600",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "162200",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150019400",
+          "amount": "5"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "59"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.01.100",
+      "id": "113001300",
+      "imagin_id": "113001300",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "447900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150020800",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "112000200",
+      "imagin_id": "112000200",
+      "adventurer_rank": "3",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "8800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "7"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162000800",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "10"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "115000200",
+      "imagin_id": "115000200",
+      "adventurer_rank": "3",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "8800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150005300",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "20"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "112000300",
+      "imagin_id": "112000300",
+      "adventurer_rank": "3",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "8800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150003600",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "20"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.01.100",
+      "id": "114001200",
+      "imagin_id": "114001200",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "447900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150020500",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "115000300",
+      "imagin_id": "115000300",
+      "adventurer_rank": "4",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "20000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150008000",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "23"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "5"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "115000400",
+      "imagin_id": "115000400",
+      "adventurer_rank": "4",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "20000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "8"
+        },
+        {
+          "item_type": "1",
+          "item_id": "163000700",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "10"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "111000300",
+      "imagin_id": "111000300",
+      "adventurer_rank": "4",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "20000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150016800",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "23"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "114000300",
+      "imagin_id": "114000300",
+      "adventurer_rank": "6",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "47500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150010800",
+          "amount": "4"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "34"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "113000300",
+      "imagin_id": "113000300",
+      "adventurer_rank": "4",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "20000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150006500",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "23"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.100",
+      "id": "111001100",
+      "imagin_id": "111001100",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "293000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150019600",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.01.000",
+      "id": "112001200",
+      "imagin_id": "112001200",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "366000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150019100",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "111000700",
+      "imagin_id": "111000700",
+      "adventurer_rank": "7",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "158600",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150012000",
+          "amount": "5"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "59"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "111000800",
+      "imagin_id": "111000800",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "162200",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150014700",
+          "amount": "5"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "59"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "113000500",
+      "imagin_id": "113000500",
+      "adventurer_rank": "6",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "47500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "12"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162004700",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "10"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.100",
+      "id": "111001200",
+      "imagin_id": "111001200",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "293000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150019700",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "112000500",
+      "imagin_id": "112000500",
+      "adventurer_rank": "6",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "47500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "12"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161010200",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200000",
+          "amount": "5"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "114000400",
+      "imagin_id": "114000400",
+      "adventurer_rank": "6",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "47500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "12"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161005700",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "10"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.01.000",
+      "id": "114001000",
+      "imagin_id": "114001000",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "366000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150020300",
+          "amount": "16"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "6"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.01.100",
+      "id": "112001400",
+      "imagin_id": "112001400",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "447900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150020600",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.01.000",
+      "id": "111001300",
+      "imagin_id": "111001300",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "366000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150018300",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.01.000",
+      "id": "112001300",
+      "imagin_id": "112001300",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "366000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150004300",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "6"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.01.000",
+      "id": "113001100",
+      "imagin_id": "113001100",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "366000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150020100",
+          "amount": "21"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "115000700",
+      "imagin_id": "115000700",
+      "adventurer_rank": "7",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "162200",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150016600",
+          "amount": "5"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "59"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.01.100",
+      "id": "112001500",
+      "imagin_id": "112001500",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "447900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150020700",
+          "amount": "30"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "6"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "111000900",
+      "imagin_id": "111000900",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "224300",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "22"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162003300",
+          "amount": "9"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "113000800",
+      "imagin_id": "113000800",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "224300",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "22"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161001200",
+          "amount": "9"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "112000900",
+      "imagin_id": "112000900",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "224300",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "22"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161015300",
+          "amount": "9"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "114000700",
+      "imagin_id": "114000700",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "224300",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "22"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162014200",
+          "amount": "9"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "111000500",
+      "imagin_id": "111000500",
+      "adventurer_rank": "6",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "47500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150016100",
+          "amount": "4"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "34"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "115000500",
+      "imagin_id": "115000500",
+      "adventurer_rank": "6",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "47500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150011600",
+          "amount": "4"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "34"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "112000600",
+      "imagin_id": "112000600",
+      "adventurer_rank": "6",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "95800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "16"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161004800",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "10"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "111000600",
+      "imagin_id": "111000600",
+      "adventurer_rank": "6",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "95800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "16"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162004800",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "10"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "114000500",
+      "imagin_id": "114000500",
+      "adventurer_rank": "6",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "92800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150014500",
+          "amount": "4"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "46"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "112000700",
+      "imagin_id": "112000700",
+      "adventurer_rank": "7",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "162200",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150009000",
+          "amount": "5"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "59"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.01.100",
+      "id": "111001400",
+      "imagin_id": "111001400",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "447900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150019000",
+          "amount": "16"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "6"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "115000800",
+      "imagin_id": "115000800",
+      "adventurer_rank": "7",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "162200",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150009800",
+          "amount": "5"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "59"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "113000700",
+      "imagin_id": "113000700",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "162200",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "20"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161007200",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "10"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.01.100",
+      "id": "115001400",
+      "imagin_id": "115001400",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "447900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "24"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161017800",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.01.100",
+      "id": "111001500",
+      "imagin_id": "111001500",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "461400",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150018700",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "115000900",
+      "imagin_id": "115000900",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "224300",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "22"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162001200",
+          "amount": "9"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "115001000",
+      "imagin_id": "115001000",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "224300",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "22"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161001700",
+          "amount": "9"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "112000800",
+      "imagin_id": "112000800",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "162200",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150019200",
+          "amount": "5"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "59"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.01.000",
+      "id": "114001100",
+      "imagin_id": "114001100",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "366000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150020400",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.01.000",
+      "id": "113001200",
+      "imagin_id": "113001200",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "366000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150020000",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.01.100",
+      "id": "115001500",
+      "imagin_id": "115001500",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "447900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150018400",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.100",
+      "id": "114000800",
+      "imagin_id": "114000800",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "293000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150017600",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.100",
+      "id": "112001100",
+      "imagin_id": "112001100",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "293000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150018100",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "6"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.100",
+      "id": "113001000",
+      "imagin_id": "113001000",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "293000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150017700",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.100",
+      "id": "114000900",
+      "imagin_id": "114000900",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "293000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150017800",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.100",
+      "id": "115001100",
+      "imagin_id": "115001100",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "293000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150019800",
+          "amount": "16"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "6"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "114000100",
+      "imagin_id": "114000100",
+      "adventurer_rank": "2",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "1400",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161000300",
+          "amount": "2"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200000",
+          "amount": "4"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "114000200",
+      "imagin_id": "114000200",
+      "adventurer_rank": "3",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "8800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150015100",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "20"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "111000200",
+      "imagin_id": "111000200",
+      "adventurer_rank": "2",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "8800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150017100",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "20"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "113000200",
+      "imagin_id": "113000200",
+      "adventurer_rank": "3",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "8800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150000400",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "20"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "112000400",
+      "imagin_id": "112000400",
+      "adventurer_rank": "3",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "20000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150007500",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "23"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "113000400",
+      "imagin_id": "113000400",
+      "adventurer_rank": "3",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "20000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "8"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161001800",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "10"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "111000400",
+      "imagin_id": "111000400",
+      "adventurer_rank": "3",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "20000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "8"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161002400",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200000",
+          "amount": "5"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "113000600",
+      "imagin_id": "113000600",
+      "adventurer_rank": "6",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "92800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150011900",
+          "amount": "4"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "46"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "115000600",
+      "imagin_id": "115000600",
+      "adventurer_rank": "6",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "95800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "16"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161004200",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "10"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "112001000",
+      "imagin_id": "112001000",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "221500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "22"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161000400",
+          "amount": "9"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.100",
+      "id": "115001200",
+      "imagin_id": "115001200",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "293000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150019500",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "6"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "113000900",
+      "imagin_id": "113000900",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "224300",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "22"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162012200",
+          "amount": "9"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.01.000",
+      "id": "115001300",
+      "imagin_id": "115001300",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "366000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "24"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161017300",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.000",
+      "id": "111001000",
+      "imagin_id": "111001000",
+      "adventurer_rank": "8",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "221500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150019300",
+          "amount": "22"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "64"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.000",
+      "id": "115001600",
+      "imagin_id": "115001600",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "447900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "24"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161018500",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.000",
+      "id": "113001400",
+      "imagin_id": "113001400",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "224300",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "53"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162013200",
+          "amount": "3"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200000",
+          "amount": "10"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.000",
+      "id": "111001600",
+      "imagin_id": "111001600",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "461400",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "61"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161018600",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.000",
+      "id": "112001600",
+      "imagin_id": "112001600",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "461400",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "66"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161018400",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.000",
+      "id": "115001700",
+      "imagin_id": "115001700",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "461400",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "61"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161019400",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.000",
+      "id": "114001400",
+      "imagin_id": "114001400",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "461400",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "61"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162014100",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.000",
+      "id": "111001700",
+      "imagin_id": "111001700",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "461400",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "61"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161018700",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.000",
+      "id": "114001300",
+      "imagin_id": "114001300",
+      "adventurer_rank": "9",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "461400",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "61"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162013400",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.100",
+      "id": "115001800",
+      "imagin_id": "115001800",
+      "adventurer_rank": "10",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "555900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "61"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161019100",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.100",
+      "id": "113001500",
+      "imagin_id": "113001500",
+      "adventurer_rank": "10",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "555900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "24"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162013800",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.100",
+      "id": "111001800",
+      "imagin_id": "111001800",
+      "adventurer_rank": "10",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "551800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150022700",
+          "amount": "58"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "202"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.100",
+      "id": "112001700",
+      "imagin_id": "112001700",
+      "adventurer_rank": "10",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "555900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150022800",
+          "amount": "43"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "203"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.100",
+      "id": "114001500",
+      "imagin_id": "114001500",
+      "adventurer_rank": "10",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "555900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "61"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161018800",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.100",
+      "id": "112001800",
+      "imagin_id": "112001800",
+      "adventurer_rank": "10",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "555900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "60"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162013500",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.100",
+      "id": "111001900",
+      "imagin_id": "111001900",
+      "adventurer_rank": "10",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "551800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150022900",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.02.100",
+      "id": "113001600",
+      "imagin_id": "113001600",
+      "adventurer_rank": "10",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "555900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150023000",
+          "amount": "43"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "202"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.100",
+      "id": "112002200",
+      "imagin_id": "112002200",
+      "adventurer_rank": "4",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "20000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "23"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.100",
+      "id": "114001900",
+      "imagin_id": "114001900",
+      "adventurer_rank": "4",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "20000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "23"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.100",
+      "id": "113002000",
+      "imagin_id": "113002000",
+      "adventurer_rank": "4",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "20000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "8"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200000",
+          "amount": "5"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.100",
+      "id": "111002300",
+      "imagin_id": "111002300",
+      "adventurer_rank": "4",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "20000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "8"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "10"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.100",
+      "id": "113002100",
+      "imagin_id": "113002100",
+      "adventurer_rank": "4",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "20000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "23"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "3"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.00.100",
+      "id": "115002300",
+      "imagin_id": "115002300",
+      "adventurer_rank": "4",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "20000",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "8"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "10"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.03.000",
+      "id": "115001900",
+      "imagin_id": "115001900",
+      "adventurer_rank": "10",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "555900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "61"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161019200",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.03.000",
+      "id": "113001700",
+      "imagin_id": "113001700",
+      "adventurer_rank": "10",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "555900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "24"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162013900",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.03.000",
+      "id": "111002000",
+      "imagin_id": "111002000",
+      "adventurer_rank": "10",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "555900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150023500",
+          "amount": "50"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "202"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.03.000",
+      "id": "112001900",
+      "imagin_id": "112001900",
+      "adventurer_rank": "10",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "555900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150023600",
+          "amount": "43"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "203"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.03.000",
+      "id": "114001600",
+      "imagin_id": "114001600",
+      "adventurer_rank": "10",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "555900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "24"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161018900",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.03.000",
+      "id": "113001800",
+      "imagin_id": "113001800",
+      "adventurer_rank": "10",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "555900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "60"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162013600",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.03.000",
+      "id": "115002000",
+      "imagin_id": "115002000",
+      "adventurer_rank": "10",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "555900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150023700",
+          "amount": "43"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "202"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.03.000",
+      "id": "114001700",
+      "imagin_id": "114001700",
+      "adventurer_rank": "10",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "555900",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150023800",
+          "amount": "43"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "203"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.03.100",
+      "id": "115002100",
+      "imagin_id": "115002100",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "654500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "60"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161019300",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.03.100",
+      "id": "113001900",
+      "imagin_id": "113001900",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "654500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150024300",
+          "amount": "43"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "203"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.03.100",
+      "id": "111002100",
+      "imagin_id": "111002100",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "654500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "24"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162014000",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.03.100",
+      "id": "112002000",
+      "imagin_id": "112002000",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "654500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150024400",
+          "amount": "43"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "202"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.03.100",
+      "id": "114001800",
+      "imagin_id": "114001800",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "654500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "60"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161019000",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.03.100",
+      "id": "112002100",
+      "imagin_id": "112002100",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "654500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "60"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162013700",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.03.100",
+      "id": "115002200",
+      "imagin_id": "115002200",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "654500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150024500",
+          "amount": "43"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "203"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.03.100",
+      "id": "111002200",
+      "imagin_id": "111002200",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "654500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150024600",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "15"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.000",
+      "id": "111002400",
+      "imagin_id": "111002400",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "560500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "24"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161019500",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200000",
+          "amount": "39"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.000",
+      "id": "112002300",
+      "imagin_id": "112002300",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "654500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150024900",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "34"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.000",
+      "id": "113002200",
+      "imagin_id": "113002200",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "659100",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "24"
+        },
+        {
+          "item_type": "1",
+          "item_id": "163001700",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "101"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.000",
+      "id": "114002000",
+      "imagin_id": "114002000",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "659100",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150025100",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "36"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.000",
+      "id": "115002400",
+      "imagin_id": "115002400",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "654500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "24"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162014500",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200000",
+          "amount": "39"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.000",
+      "id": "111002500",
+      "imagin_id": "111002500",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "654500",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150025500",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "36"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.000",
+      "id": "113002300",
+      "imagin_id": "113002300",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "659100",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "24"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161019800",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "101"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.000",
+      "id": "114002100",
+      "imagin_id": "114002100",
+      "adventurer_rank": "11",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "659100",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "24"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161019900",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "106"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.100",
+      "id": "112002400",
+      "imagin_id": "112002400",
+      "adventurer_rank": "12",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "771200",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "24"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161020000",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "106"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.100",
+      "id": "115002500",
+      "imagin_id": "115002500",
+      "adventurer_rank": "12",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "766200",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150026200",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "13"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.100",
+      "id": "111002600",
+      "imagin_id": "111002600",
+      "adventurer_rank": "12",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "766200",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150026300",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "36"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.100",
+      "id": "112002500",
+      "imagin_id": "112002500",
+      "adventurer_rank": "12",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "766200",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150026400",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "13"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.100",
+      "id": "113002400",
+      "imagin_id": "113002400",
+      "adventurer_rank": "12",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "771200",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "24"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161020100",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "101"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.100",
+      "id": "114002200",
+      "imagin_id": "114002200",
+      "adventurer_rank": "12",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "771200",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "24"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162014700",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "106"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.100",
+      "id": "115002600",
+      "imagin_id": "115002600",
+      "adventurer_rank": "12",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "766200",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150026700",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "36"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.04.100",
+      "id": "114002300",
+      "imagin_id": "114002300",
+      "adventurer_rank": "12",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "766200",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150026800",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "34"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.05.000",
+      "id": "111002700",
+      "imagin_id": "111002700",
+      "adventurer_rank": "12",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "771200",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "24"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161020200",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100000",
+          "amount": "101"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.05.000",
+      "id": "112002600",
+      "imagin_id": "112002600",
+      "adventurer_rank": "12",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "771200",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "24"
+        },
+        {
+          "item_type": "1",
+          "item_id": "162014800",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "106"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.05.000",
+      "id": "113002500",
+      "imagin_id": "113002500",
+      "adventurer_rank": "12",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "771200",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150027100",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "36"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.05.000",
+      "id": "115002700",
+      "imagin_id": "115002700",
+      "adventurer_rank": "12",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "771200",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150027200",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "34"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.05.000",
+      "id": "114002400",
+      "imagin_id": "114002400",
+      "adventurer_rank": "12",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "771200",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "24"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161020300",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200000",
+          "amount": "39"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.05.000",
+      "id": "111002800",
+      "imagin_id": "111002800",
+      "adventurer_rank": "12",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "771200",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "24"
+        },
+        {
+          "item_type": "1",
+          "item_id": "163001900",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "106"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.05.000",
+      "id": "112002700",
+      "imagin_id": "112002700",
+      "adventurer_rank": "12",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "771200",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150027500",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "36"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.05.000",
+      "id": "113002600",
+      "imagin_id": "113002600",
+      "adventurer_rank": "12",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "771200",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150027600",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "13"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.05.100",
+      "id": "114002500",
+      "imagin_id": "114002500",
+      "adventurer_rank": "13",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "886800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "24"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161020400",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200000",
+          "amount": "39"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.05.100",
+      "id": "115002800",
+      "imagin_id": "115002800",
+      "adventurer_rank": "13",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "886800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150027900",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "36"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.05.100",
+      "id": "111002900",
+      "imagin_id": "111002900",
+      "adventurer_rank": "13",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "886800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150028000",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000100",
+          "amount": "36"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.05.100",
+      "id": "112002800",
+      "imagin_id": "112002800",
+      "adventurer_rank": "13",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "886800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150028100",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "34"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.05.100",
+      "id": "113002700",
+      "imagin_id": "113002700",
+      "adventurer_rank": "13",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "886800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "154100000",
+          "amount": "24"
+        },
+        {
+          "item_type": "1",
+          "item_id": "161020500",
+          "amount": "11"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166000000",
+          "amount": "106"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.05.100",
+      "id": "114002600",
+      "imagin_id": "114002600",
+      "adventurer_rank": "13",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "886800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150028400",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166100100",
+          "amount": "34"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.05.100",
+      "id": "115002900",
+      "imagin_id": "115002900",
+      "adventurer_rank": "13",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "886800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150028500",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "13"
+        }
+      ],
+      "event_term_id": ""
+    },
+    {
+      "version": "1.05.100",
+      "id": "113002800",
+      "imagin_id": "113002800",
+      "adventurer_rank": "13",
+      "auto_release": "FALSE",
+      "release_adv_rank": "0",
+      "price": "886800",
+      "material_id": [
+        {
+          "item_type": "1",
+          "item_id": "150028600",
+          "amount": "15"
+        },
+        {
+          "item_type": "1",
+          "item_id": "154000000",
+          "amount": "69"
+        },
+        {
+          "item_type": "1",
+          "item_id": "166200100",
+          "amount": "13"
+        }
+      ],
+      "event_term_id": ""
+    }
+  ]
+}

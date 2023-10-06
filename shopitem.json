@@ -1,0 +1,67 @@
+﻿{
+  "header": {
+    "content_type": "master_shop_item"
+  },
+  "payload": [
+    {
+      "name": "Shop_Items",
+      "shop_items": [
+        {
+          "item_order": "1",
+          "item_type": "1",
+          "item_id": "121000100"
+        }
+      ]
+    },
+    {
+      "name": "Shop_Weapons",
+      "shop_items": [
+        {
+          "item_order": "1",
+          "item_type": "2",
+          "item_id": "107000100"
+        },
+        {
+          "item_order": "2",
+          "item_type": "2",
+          "item_id": "106000100"
+        },
+        {
+          "item_order": "3",
+          "item_type": "2",
+          "item_id": "112000100"
+        },
+        {
+          "item_order": "4",
+          "item_type": "2",
+          "item_id": "111000100"
+        },
+        {
+          "item_order": "5",
+          "item_type": "2",
+          "item_id": "119000100"
+        }
+      ]
+    },
+    {
+      "name": "Shop_Protectors",
+      "shop_items": [
+        {
+          "item_order": "1",
+          "item_type": "1",
+          "item_id": "1"
+        }
+      ]
+    },
+    {
+      "name": "Shop_Pass",
+      "shop_items": [
+        {
+          "item_order": "1",
+          "item_type": "1",
+          "item_id": "1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+﻿{
+  "header": {
+    "content_type": "master_dxbattle_contribution_score_coefficients",
+    "timezone": "Asia/Taipei"
+  },
+  "payload": [
+    {
+      "version": "1.03.000",
+      "id": "100101",
+      "game_content_id": "def001",
+      "score_type": "0",
+      "coefficient_type": "0",
+      "coefficient": "9000"
+    },
+    {
+      "version": "1.03.000",
+      "id": "100102",
+      "game_content_id": "def001",
+      "score_type": "1",
+      "coefficient_type": "0",
+      "coefficient": "9000"
+    },
+    {
+      "version": "1.03.000",
+      "id": "100103",
+      "game_content_id": "def001",
+      "score_type": "2",
+      "coefficient_type": "0",
+      "coefficient": "9000"
+    },
+    {
+      "version": "1.03.000",
+      "id": "100104",
+      "game_content_id": "def001",
+      "score_type": "3",
+      "coefficient_type": "0",
+      "coefficient": "8000"
+    },
+    {
+      "version": "1.03.000",
+      "id": "100105",
+      "game_content_id": "def001",
+      "score_type": "4",
+      "coefficient_type": "0",
+      "coefficient": "8000"
+    },
+    {
+      "version": "1.03.000",
+      "id": "100106",
+      "game_content_id": "def001",
+      "score_type": "5",
+      "coefficient_type": "1",
+      "coefficient": "10000"
+    },
+    {
+      "version": "1.03.000",
+      "id": "100107",
+      "game_content_id": "def001",
+      "score_type": "6",
+      "coefficient_type": "1",
+      "coefficient": "3000"
+    },
+    {
+      "version": "1.03.000",
+      "id": "100108",
+      "game_content_id": "def001",
+      "score_type": "7",
+      "coefficient_type": "1",
+      "coefficient": "3000"
+    }
+  ]
+}

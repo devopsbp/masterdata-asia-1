@@ -1,0 +1,32 @@
+﻿{
+  "header": {
+    "content_type": "master_mount_expedition_count"
+  },
+  "payload": [
+    {
+      "total_time": "0",
+      "count": "1",
+      "version": "9.99.999"
+    },
+    {
+      "total_time": "12000",
+      "count": "2",
+      "version": "9.99.999"
+    },
+    {
+      "total_time": "90000",
+      "count": "3",
+      "version": "9.99.999"
+    },
+    {
+      "total_time": "360000",
+      "count": "4",
+      "version": "9.99.999"
+    },
+    {
+      "total_time": "900000",
+      "count": "5",
+      "version": "9.99.999"
+    }
+  ]
+}

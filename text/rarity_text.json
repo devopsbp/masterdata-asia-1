@@ -1,0 +1,32 @@
+﻿{
+  "header": {
+    "content_type": "master_text"
+  },
+  "payload": [
+    {
+      "id": "1",
+      "ja_JP": "Common",
+      "zh_TW": "Common"
+    },
+    {
+      "id": "2",
+      "ja_JP": "Uncommon",
+      "zh_TW": "Uncommon"
+    },
+    {
+      "id": "3",
+      "ja_JP": "Rare",
+      "zh_TW": "Rare"
+    },
+    {
+      "id": "4",
+      "ja_JP": "Epic",
+      "zh_TW": "Epic"
+    },
+    {
+      "id": "5",
+      "ja_JP": "Legend",
+      "zh_TW": "Legend"
+    }
+  ]
+}

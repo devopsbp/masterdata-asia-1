@@ -1,0 +1,67 @@
+﻿{
+  "header": {
+    "content_type": "master_text"
+  },
+  "payload": [
+    {
+      "id": "5",
+      "ja_JP": " ",
+      "zh_TW": ""
+    },
+    {
+      "id": "6",
+      "ja_JP": " ",
+      "zh_TW": ""
+    },
+    {
+      "id": "7",
+      "ja_JP": " ",
+      "zh_TW": ""
+    },
+    {
+      "id": "8",
+      "ja_JP": " ",
+      "zh_TW": ""
+    },
+    {
+      "id": "9",
+      "ja_JP": " ",
+      "zh_TW": ""
+    },
+    {
+      "id": "10",
+      "ja_JP": " ",
+      "zh_TW": ""
+    },
+    {
+      "id": "11",
+      "ja_JP": " ",
+      "zh_TW": ""
+    },
+    {
+      "id": "12",
+      "ja_JP": " ",
+      "zh_TW": ""
+    },
+    {
+      "id": "1",
+      "ja_JP": "fld001_N_RaidGate01",
+      "zh_TW": "fld001_N_RaidGate01"
+    },
+    {
+      "id": "2",
+      "ja_JP": "fld002_S_RaidGate03",
+      "zh_TW": "fld002_S_RaidGate"
+    },
+    {
+      "id": "3",
+      "ja_JP": "fld003_C_RaidGate04",
+      "zh_TW": "fld003_C_RaidGate04"
+    },
+    {
+      "id": "4",
+      "ja_JP": "fld004_N_RaidGate02",
+      "zh_TW": "fld004_N_RaidGate02"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+  "header": {
+    "content_type": "master_text"
+  },
+  "payload": [
+    {
+      "id": "1",
+      "ja_JP": "Reload",
+      "zh_CN": "Reload(zh)"
+    }
+  ]
+}

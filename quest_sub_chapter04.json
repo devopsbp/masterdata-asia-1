@@ -1,0 +1,6555 @@
+﻿{
+  "header": {
+    "content_type": "master_quest",
+    "timezone": "Asia/Taipei"
+  },
+  "payload": [
+    {
+      "id": "10104001",
+      "long_id": "SQ104_001",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "3",
+      "name": 192,
+      "desc": 193,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "42"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld004_N_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "14",
+              "locationId": "fld004_N",
+              "gatherPointType": "10",
+              "timezone": "2",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "5",
+              "trigger_name": [
+                {
+                  "trigger_name": 195
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 196
+                }
+              ],
+              "areaIconInfoId": "fld004_N_QST"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_001_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_001_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_001_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_010",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104002",
+      "long_id": "SQ104_002",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "3",
+      "name": 197,
+      "desc": 219,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "42"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld003_S_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "14",
+              "locationId": "fld003_S",
+              "gatherPointType": "10",
+              "timezone": "2",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "10",
+              "trigger_name": [
+                {
+                  "trigger_name": 263
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 273
+                }
+              ],
+              "areaIconInfoId": "fld003_S_QST"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_002_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_002_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_002_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_010",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104003",
+      "long_id": "SQ104_003",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "3",
+      "name": 198,
+      "desc": 220,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "42"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld002_W_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "14",
+              "locationId": "fld002_W",
+              "gatherPointType": "11",
+              "timezone": "2",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "5",
+              "trigger_name": [
+                {
+                  "trigger_name": 264
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 274
+                }
+              ],
+              "areaIconInfoId": "fld002_W_QST"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_003_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_003_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_003_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_010",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104004",
+      "long_id": "SQ104_004",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "3",
+      "name": 199,
+      "desc": 221,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "42"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld003_S_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "14",
+              "locationId": "fld003_S",
+              "gatherPointType": "11",
+              "timezone": "2",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "10",
+              "trigger_name": [
+                {
+                  "trigger_name": 265
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 275
+                }
+              ],
+              "areaIconInfoId": "fld003_S_QST"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_004_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_004_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_004_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_010",
+            "quest_status": "1"
+          },
+          {
+            "type": "1",
+            "quest_id": "SQ101_119",
+            "quest_status": "1"
+          },
+          {
+            "type": "1",
+            "quest_id": "SQ102_050",
+            "quest_status": "1"
+          },
+          {
+            "type": "1",
+            "quest_id": "SQ103_046",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104005",
+      "long_id": "SQ104_005",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "3",
+      "name": 200,
+      "desc": 222,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "49"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld005_E_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "14",
+              "locationId": "fld005_E",
+              "gatherPointType": "10",
+              "timezone": "2",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "15",
+              "trigger_name": [
+                {
+                  "trigger_name": 266
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 276
+                }
+              ],
+              "areaIconInfoId": "fld005_E_QST"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_005_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_005_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_005_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_060",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104006",
+      "long_id": "SQ104_006",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "3",
+      "name": 201,
+      "desc": 223,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "44"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld004_N_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "13",
+              "enemyId": "E001_05_00_01001",
+              "locationId": "fld004_N",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "15",
+              "trigger_name": [
+                {
+                  "trigger_name": 267
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 277
+                }
+              ],
+              "areaIconInfoId": "fld004_N_EnemyC"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_006_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_006_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_006_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_020",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104007",
+      "long_id": "SQ104_007",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "3",
+      "name": 202,
+      "desc": 224,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "44"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld005_C_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "13",
+              "enemyId": "E027_05_00_01001",
+              "locationId": "fld005_C",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "10",
+              "trigger_name": [
+                {
+                  "trigger_name": 268
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 278
+                }
+              ],
+              "areaIconInfoId": "fld005_C_EnemyA"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_007_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_007_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_007_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_030",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104008",
+      "long_id": "SQ104_008",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "3",
+      "name": 203,
+      "desc": 225,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "44"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld005_C_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "13",
+              "enemyId": "E004_06_00_01001",
+              "locationId": "fld005_C",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "15",
+              "trigger_name": [
+                {
+                  "trigger_name": 269
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 279
+                }
+              ],
+              "areaIconInfoId": "fld005_C_EnemyD"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_008_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_008_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_008_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_030",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104009",
+      "long_id": "SQ104_009",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "3",
+      "name": 204,
+      "desc": 226,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "49"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "13",
+              "enemyId": "E001_14_00_02001",
+              "locationId": "sce013",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "2",
+              "trigger_name": [
+                {
+                  "trigger_name": 270
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 280
+                }
+              ]
+            }
+          ],
+          "route_guide_prohibit": "TRUE"
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_009_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_009_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_009_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_060",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104010",
+      "long_id": "SQ104_010",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 205,
+      "desc": 227,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "42"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld003_S_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "2",
+              "enemyId": "E020_00_00_01001",
+              "locationId": "fld003_S",
+              "amount": "15",
+              "descriptionId": [
+                {
+                  "descriptionId": 281
+                }
+              ],
+              "areaIconInfoId": "fld003_S_EnemyE"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_010_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_010_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_010_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_010",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104011",
+      "long_id": "SQ104_011",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 206,
+      "desc": 228,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "42"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld003_S_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "2",
+              "enemyId": "E007_00_02_01001",
+              "locationId": "fld003_S",
+              "amount": "15",
+              "descriptionId": [
+                {
+                  "descriptionId": 282
+                }
+              ],
+              "areaIconInfoId": "fld003_S_EnemyA"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_011_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_011_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_011_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_010",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104012",
+      "long_id": "SQ104_012",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 207,
+      "desc": 229,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "44"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld004_N_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "2",
+              "enemyId": "E016_00_00_01001",
+              "locationId": "fld004_N",
+              "amount": "10",
+              "descriptionId": [
+                {
+                  "descriptionId": 283
+                }
+              ],
+              "areaIconInfoId": "fld004_N_EnemyB"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_012_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_012_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_012_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_030",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104013",
+      "long_id": "SQ104_013",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 208,
+      "desc": 230,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "44"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld004_N_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "13",
+              "enemyId": "E017_01_00_01001",
+              "locationId": "fld004_N",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "10",
+              "trigger_name": [
+                {
+                  "trigger_name": 271
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 284
+                }
+              ],
+              "areaIconInfoId": "fld004_N_EnemyA"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_013_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_013_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_013_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_030",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104014",
+      "long_id": "SQ104_014",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 209,
+      "desc": 231,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "44"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld005_C_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "2",
+              "enemyId": "E001_13_00_01001",
+              "locationId": "fld005_C",
+              "amount": "10",
+              "descriptionId": [
+                {
+                  "descriptionId": 285
+                }
+              ],
+              "areaIconInfoId": "fld005_C_EnemyB"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_014_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_014_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_014_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_030",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104015",
+      "long_id": "SQ104_015",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 210,
+      "desc": 232,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "44"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld005_C_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "2",
+              "enemyId": "E013_02_00_01001",
+              "locationId": "fld005_C",
+              "amount": "15",
+              "descriptionId": [
+                {
+                  "descriptionId": 286
+                }
+              ],
+              "areaIconInfoId": "fld005_C_EnemyC"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_015_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_015_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_015_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_030",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104016",
+      "long_id": "SQ104_016",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 211,
+      "desc": 233,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "49"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld005_E_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "2",
+              "enemyId": "E006_07_00_01001",
+              "locationId": "fld005_E",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "15",
+              "trigger_name": [
+                {
+                  "trigger_name": 272
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 287
+                }
+              ],
+              "areaIconInfoId": "fld005_E_EnemyD"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_016_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_016_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_016_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_060",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104017",
+      "long_id": "SQ104_017",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 212,
+      "desc": 234,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "42"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld003_S_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "2",
+              "enemyId": "E000_20_01_01001",
+              "locationId": "fld003_S",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 288
+                }
+              ],
+              "areaIconInfoId": "fld003_S_EnemyB"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_017_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_017_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_017_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_010",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104018",
+      "long_id": "SQ104_018",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 213,
+      "desc": 235,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "42"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld003_S_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "2",
+              "enemyId": "E019_00_01_01001",
+              "locationId": "fld003_S",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 289
+                }
+              ],
+              "areaIconInfoId": "fld003_S_EnemyD"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_018_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_018_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_018_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_010",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104019",
+      "long_id": "SQ104_019",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 214,
+      "desc": 236,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "44"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld005_C_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "2",
+              "enemyId": "E004_06_01_01001",
+              "locationId": "fld005_C",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 290
+                }
+              ],
+              "areaIconInfoId": "NQ_1005_0_001"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_019_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_019_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_019_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_030",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104020",
+      "long_id": "SQ104_020",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 215,
+      "desc": 237,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "44"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld005_C_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "2",
+              "enemyId": "E013_02_01_01001",
+              "locationId": "fld005_C",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 291
+                }
+              ],
+              "areaIconInfoId": "NQ_1005_0_002"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_020_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_020_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_020_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_030",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104021",
+      "long_id": "SQ104_021",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 216,
+      "desc": 238,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "51"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld005_W_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "2",
+              "enemyId": "E012_00_03_01001",
+              "locationId": "fld005_W",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 292
+                }
+              ],
+              "areaIconInfoId": "NQ_1005_2_001"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_021_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_021_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_021_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_070",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104022",
+      "long_id": "SQ104_022",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "4",
+      "name": 217,
+      "desc": 239,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "51"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "4",
+              "dungeonId": "pat0107",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 293
+                }
+              ]
+            }
+          ],
+          "route_guide_prohibit": "TRUE"
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_022_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_022_2",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_070",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104023",
+      "long_id": "SQ104_023",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "4",
+      "name": 218,
+      "desc": 240,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "51"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "4",
+              "dungeonId": "pat0502",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 294
+                }
+              ]
+            }
+          ],
+          "route_guide_prohibit": "TRUE"
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_023_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_023_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_023_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_070",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104025",
+      "long_id": "SQ104_025",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 179,
+      "desc": 180,
+      "client_id": "SQ104_025_start_Npc_Barni",
+      "reporter_id": "SQ104_025_start_Npc_Barni",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "48"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld005_E_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "2",
+              "enemyId": "E006_07_00_01001",
+              "locationId": "fld005_E",
+              "amount": "10",
+              "descriptionId": [
+                {
+                  "descriptionId": 183
+                }
+              ],
+              "areaIconInfoId": "fld005_E_EnemyD"
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "SQ104_025_step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "1",
+              "npcId": "SQ104_025_start_Npc_Barni",
+              "locationId": "fld005_C",
+              "descriptionId": [
+                {
+                  "descriptionId": 184
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "location_id": "fld005_W_QST",
+          "condition_items": [
+            {
+              "id": "2",
+              "type": "14",
+              "locationId": "fld005_E",
+              "gatherPointType": "11",
+              "timezone": "2",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "5",
+              "trigger_name": [
+                {
+                  "trigger_name": 182
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 185
+                }
+              ],
+              "areaIconInfoId": "fld005_E_QST"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_025_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_025_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_025_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_050",
+            "quest_status": "1"
+          },
+          {
+            "type": "1",
+            "quest_id": "SQ103_106",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 181,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104031",
+      "long_id": "SQ104_031",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 123,
+      "desc": 124,
+      "client_id": "SQ104_031_start_Npc_Pissarie",
+      "reporter_id": "SQ104_031_done_Npc_Pissarie",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "48"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "SQ104_031_step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "1",
+              "npcId": "SQ104_031_step0_Npc_Lakail",
+              "locationId": "fld005_E",
+              "descriptionId": [
+                {
+                  "descriptionId": 126
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "fld005_E_QST",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "2",
+              "enemyId": "E004_02_00_01001",
+              "locationId": "fld005_E",
+              "amount": "10",
+              "descriptionId": [
+                {
+                  "descriptionId": 127
+                }
+              ],
+              "areaIconInfoId": "fld005_E_EnemyA"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_031_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_031_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_031_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_050",
+            "quest_status": "1"
+          },
+          {
+            "type": "1",
+            "quest_id": "SQ103_039",
+            "quest_status": "1"
+          },
+          {
+            "type": "4",
+            "scenario_flag_key": "SQ104_031_Unlock_Flag"
+          }
+        ]
+      },
+      "done_text": 125,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104041",
+      "long_id": "SQ104_041",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "3",
+      "name": 39,
+      "desc": 40,
+      "client_id": "SQ104_041_start_Npc_Aleni",
+      "reporter_id": "SQ104_041_start_Npc_Aleni",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "44"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "1",
+              "npcId": "SQ104_041_step0_Npc_Bosch",
+              "locationId": "Astelreas",
+              "descriptionId": [
+                {
+                  "descriptionId": 42
+                }
+              ],
+              "areaIconInfoId": "SQ104_041_step0"
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "1",
+              "npcId": "SQ104_041_step1_01",
+              "locationId": "fld004_S",
+              "descriptionId": [
+                {
+                  "descriptionId": 43
+                }
+              ],
+              "areaIconInfoId": "SQ104_041_step1_01"
+            },
+            {
+              "id": "2",
+              "type": "1",
+              "npcId": "SQ104_041_step1_02",
+              "locationId": "fld004_S",
+              "descriptionId": [
+                {
+                  "descriptionId": 44
+                }
+              ],
+              "areaIconInfoId": "SQ104_041_step1_02"
+            },
+            {
+              "id": "3",
+              "type": "1",
+              "npcId": "SQ104_041_step1_03",
+              "locationId": "fld004_S",
+              "descriptionId": [
+                {
+                  "descriptionId": 45
+                }
+              ],
+              "areaIconInfoId": "SQ104_041_step1_03"
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "location_id": "SQ104_041_step2",
+          "condition_items": [
+            {
+              "id": "4",
+              "type": "1",
+              "npcId": "SQ104_041_step2",
+              "locationId": "fld004_S",
+              "descriptionId": [
+                {
+                  "descriptionId": 46
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_041_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_041_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_041_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_030",
+            "quest_status": "1"
+          },
+          {
+            "type": "1",
+            "quest_id": "SQ101_107",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 41,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104046",
+      "long_id": "SQ104_046",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 186,
+      "desc": 187,
+      "client_id": "SQ104_046_start_Npc_Mino",
+      "reporter_id": "SQ104_046_start_Npc_Mino",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "51"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld005_E_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "2",
+              "enemyId": "E006_07_00_01001",
+              "locationId": "fld005_E",
+              "amount": "10",
+              "descriptionId": [
+                {
+                  "descriptionId": 189
+                }
+              ],
+              "areaIconInfoId": "fld005_E_EnemyD"
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "SQ104_046_step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "1",
+              "npcId": "SQ104_046_start_Npc_Mino",
+              "locationId": "min01",
+              "descriptionId": [
+                {
+                  "descriptionId": 190
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "condition_items": [
+            {
+              "id": "2",
+              "type": "2",
+              "enemyId": "E000_47_00_02001",
+              "dungeonId": "dng013",
+              "amount": "5",
+              "descriptionId": [
+                {
+                  "descriptionId": 191
+                }
+              ]
+            }
+          ],
+          "route_guide_prohibit": "TRUE"
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_046_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_046_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_046_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_070",
+            "quest_status": "1"
+          },
+          {
+            "type": "1",
+            "quest_id": "SQ103_108",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 188,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104051",
+      "long_id": "SQ104_051",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 168,
+      "desc": 170,
+      "client_id": "SQ104_051_start_Npc_Isak",
+      "reporter_id": "SQ104_051_step0_Npc_Isak",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "42"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "SQ104_051_step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "1",
+              "npcId": "SQ104_051_step0_Npc_Theatre_Member",
+              "locationId": "cty02",
+              "descriptionId": [
+                {
+                  "descriptionId": 174
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "1",
+              "npcId": "SQ104_051_step1_Npc_Einar",
+              "locationId": "fld004_C",
+              "descriptionId": [
+                {
+                  "descriptionId": 175
+                }
+              ],
+              "areaIconInfoId": "SQ104_051_step1"
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "location_id": "fld004_C_QST",
+          "condition_items": [
+            {
+              "id": "2",
+              "type": "2",
+              "enemyId": "E017_00_00_01001",
+              "locationId": "fld004_C",
+              "amount": "20",
+              "descriptionId": [
+                {
+                  "descriptionId": 176
+                }
+              ],
+              "areaIconInfoId": "fld004_C_EnemyD"
+            }
+          ]
+        },
+        {
+          "id": "step3",
+          "location_id": "SQ104_051_step3",
+          "condition_items": [
+            {
+              "id": "3",
+              "type": "1",
+              "npcId": "SQ104_051_step3_Npc_Einar",
+              "locationId": "cty02",
+              "descriptionId": [
+                {
+                  "descriptionId": 177
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_051_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_051_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_051_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_010",
+            "quest_status": "1"
+          },
+          {
+            "type": "1",
+            "quest_id": "SQ102_036",
+            "quest_status": "1"
+          },
+          {
+            "type": "1",
+            "quest_id": "SQ103_029",
+            "quest_status": "1"
+          },
+          {
+            "type": "1",
+            "quest_id": "SQ103_046",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 172,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104055",
+      "long_id": "SQ104_055",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "1",
+      "name": 104,
+      "desc": 105,
+      "client_id": "SQ104_055_start_Npc_Guikalo",
+      "reporter_id": "SQ104_055_start_Npc_Guikalo",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "51"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "SQ104_055_step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "1",
+              "npcId": "SQ104_055_step0_Npc_Amia",
+              "locationId": "fld005_C",
+              "descriptionId": [
+                {
+                  "descriptionId": 107
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "SQ104_055_step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "1",
+              "npcId": "SQ104_055_step1",
+              "locationId": "Astelreas",
+              "descriptionId": [
+                {
+                  "descriptionId": 108
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "location_id": "SQ104_055_step0",
+          "condition_items": [
+            {
+              "id": "2",
+              "type": "1",
+              "npcId": "SQ104_055_step0_Npc_Amia",
+              "locationId": "fld005_C",
+              "descriptionId": [
+                {
+                  "descriptionId": 109
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_055_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_055_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_055_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_070",
+            "quest_status": "1"
+          },
+          {
+            "type": "4",
+            "scenario_flag_key": "SQ104_055_Unlock_Flag_01"
+          },
+          {
+            "type": "4",
+            "scenario_flag_key": "SQ104_055_Unlock_Flag_02"
+          }
+        ]
+      },
+      "done_text": 106,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104101",
+      "long_id": "SQ104_101",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "3",
+      "name": 1,
+      "desc": 2,
+      "client_id": "SQ104_101_start_Npc_Sheila",
+      "reporter_id": "SQ104_101_start_Npc_Sheila",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "44"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "14",
+              "locationId": "fld005_C",
+              "gatherPointType": "10",
+              "timezone": "2",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "10",
+              "trigger_name": [
+                {
+                  "trigger_name": 4
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 5
+                }
+              ],
+              "areaIconInfoId": "fld005_C_QST"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_101_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_101_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_101_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_030",
+            "quest_status": "1"
+          },
+          {
+            "type": "1",
+            "quest_id": "SQ102_033",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 3,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104102",
+      "long_id": "SQ104_102",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "3",
+      "name": 6,
+      "desc": 7,
+      "client_id": "SQ104_102_start_Npc_Layc",
+      "reporter_id": "SQ104_102_start_Npc_Layc",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "44"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "14",
+              "locationId": "fld005_W",
+              "gatherPointType": "10",
+              "timezone": "2",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "5",
+              "trigger_name": [
+                {
+                  "trigger_name": 9
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 11
+                }
+              ],
+              "areaIconInfoId": "fld005_W_QST"
+            },
+            {
+              "id": "1",
+              "type": "14",
+              "locationId": "fld005_W",
+              "gatherPointType": "11",
+              "timezone": "2",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "10",
+              "trigger_name": [
+                {
+                  "trigger_name": 10
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 12
+                }
+              ],
+              "areaIconInfoId": "fld005_W_QST"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_102_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_102_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_102_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_030",
+            "quest_status": "1"
+          },
+          {
+            "type": "1",
+            "quest_id": "SQ102_034",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 8,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104103",
+      "long_id": "SQ104_103",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "3",
+      "name": 97,
+      "desc": 98,
+      "client_id": "SQ104_103_start_Npc_Blandel",
+      "reporter_id": "SQ104_103_start_Npc_Blandel",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "44"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld005_E_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "14",
+              "locationId": "fld005_C",
+              "gatherPointType": "11",
+              "timezone": "2",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "20",
+              "trigger_name": [
+                {
+                  "trigger_name": 100
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 102
+                }
+              ],
+              "areaIconInfoId": "fld005_C_QST"
+            },
+            {
+              "id": "1",
+              "type": "13",
+              "enemyId": "E006_07_00_01001",
+              "locationId": "fld005_E",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "5",
+              "trigger_name": [
+                {
+                  "trigger_name": 101
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 103
+                }
+              ],
+              "areaIconInfoId": "fld005_E_EnemyD"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_103_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_103_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_103_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_030",
+            "quest_status": "1"
+          },
+          {
+            "type": "1",
+            "quest_id": "SQ102_035",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 99,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104104",
+      "long_id": "SQ104_104",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 110,
+      "desc": 111,
+      "client_id": "SQ104_104_start_Npc_Guyler",
+      "reporter_id": "SQ104_104_done_Npc_Guyler",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "51"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "SQ104_104_step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "1",
+              "npcId": "SQ104_104_step0_Npc_Erushi",
+              "locationId": "cty02",
+              "descriptionId": [
+                {
+                  "descriptionId": 113
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "2",
+              "enemyId": "E006_02_00_01001",
+              "locationId": "fld005_W",
+              "amount": "20",
+              "descriptionId": [
+                {
+                  "descriptionId": 114
+                }
+              ],
+              "areaIconInfoId": "fld005_W_EnemyC"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_104_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_104_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_104_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_070",
+            "quest_status": "1"
+          },
+          {
+            "type": "1",
+            "quest_id": "SQ101_017",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 112,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104105",
+      "long_id": "SQ104_105",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 128,
+      "desc": 129,
+      "client_id": "SQ104_105_start_Npc_Catrla",
+      "reporter_id": "SQ104_105_start_Npc_Catrla",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "44"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "SQ104_105_step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "1",
+              "npcId": "SQ104_105_step0_Npc_Merchant",
+              "locationId": "cty02",
+              "descriptionId": [
+                {
+                  "descriptionId": 131
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "SQ104_105_step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "1",
+              "npcId": "SQ104_105_step1_Npc_Yoan",
+              "locationId": "cty02",
+              "descriptionId": [
+                {
+                  "descriptionId": 132
+                }
+              ],
+              "areaIconInfoId": "SQ104_105_step1"
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "location_id": "fld003_S_QST",
+          "condition_items": [
+            {
+              "id": "2",
+              "type": "2",
+              "enemyId": "E000_20_00_01001",
+              "locationId": "fld003_S",
+              "amount": "15",
+              "descriptionId": [
+                {
+                  "descriptionId": 133
+                }
+              ],
+              "areaIconInfoId": "fld003_S_EnemyB"
+            }
+          ]
+        },
+        {
+          "id": "step3",
+          "location_id": "SQ104_105_step3",
+          "condition_items": [
+            {
+              "id": "3",
+              "type": "1",
+              "npcId": "SQ104_105_step3_Npc_Yoan",
+              "locationId": "cty02",
+              "descriptionId": [
+                {
+                  "descriptionId": 134
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_105_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_105_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_105_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_030",
+            "quest_status": "1"
+          },
+          {
+            "type": "1",
+            "quest_id": "SQ101_016",
+            "quest_status": "1"
+          },
+          {
+            "type": "1",
+            "quest_id": "SQ101_058",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 130,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104106",
+      "long_id": "SQ104_106",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "1",
+      "name": 13,
+      "desc": 14,
+      "client_id": "SQ104_106_start_Npc_Ryuk",
+      "reporter_id": "SQ104_106_start_Npc_Ryuk",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "44"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "1",
+              "npcId": "SQ104_106_step0_Npc_Durga",
+              "locationId": "cty02",
+              "descriptionId": [
+                {
+                  "descriptionId": 16
+                }
+              ],
+              "areaIconInfoId": "SQ104_106_step0"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_106_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_106_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_106_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_030",
+            "quest_status": "1"
+          },
+          {
+            "type": "1",
+            "quest_id": "SQ101_039",
+            "quest_status": "1"
+          },
+          {
+            "type": "1",
+            "quest_id": "SQ102_026",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 15,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104107",
+      "long_id": "SQ104_107",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 135,
+      "desc": 136,
+      "client_id": "SQ104_107_start_Npc_Aurelie",
+      "reporter_id": "SQ104_107_start_Npc_Aurelie",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "51"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "14",
+              "locationId": "fld005_W",
+              "gatherPointType": "11",
+              "timezone": "2",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "10",
+              "trigger_name": [
+                {
+                  "trigger_name": 138
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 140
+                }
+              ],
+              "areaIconInfoId": "fld005_W_QST"
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "SQ104_107_step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "1",
+              "npcId": "SQ104_107_start_Npc_Aurelie",
+              "locationId": "fld005_C",
+              "descriptionId": [
+                {
+                  "descriptionId": 141
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "condition_items": [
+            {
+              "id": "2",
+              "type": "13",
+              "enemyId": "E013_03_01_01001",
+              "locationId": "fld005_W",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "1",
+              "trigger_name": [
+                {
+                  "trigger_name": 139
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 142
+                }
+              ],
+              "areaIconInfoId": "NQ_1005_2_002"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_107_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_107_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_107_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_070",
+            "quest_status": "1"
+          },
+          {
+            "type": "1",
+            "quest_id": "SQ102_052",
+            "quest_status": "1"
+          },
+          {
+            "type": "1",
+            "quest_id": "SQ102_054",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 137,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104108",
+      "long_id": "SQ104_108",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 143,
+      "desc": 144,
+      "client_id": "SQ104_108_start_Npc_Anne",
+      "reporter_id": "SQ104_108_start_Npc_Anne",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "51"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld004_C_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "13",
+              "enemyId": "E002_00_01_01001",
+              "locationId": "fld004_C",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "5",
+              "trigger_name": [
+                {
+                  "trigger_name": 146
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 147
+                }
+              ],
+              "areaIconInfoId": "fld004_C_EnemyB"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_108_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_108_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_108_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_070",
+            "quest_status": "1"
+          },
+          {
+            "type": "1",
+            "quest_id": "SQ103_103",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 145,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104109",
+      "long_id": "SQ104_109",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "1",
+      "name": 17,
+      "desc": 18,
+      "client_id": "SQ104_109_start_Npc_Tini",
+      "reporter_id": "SQ104_109_start_Npc_Tini",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "42"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld005_W_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "1",
+              "npcId": "SQ104_109_step0_Npc_Eee",
+              "locationId": "cty02",
+              "descriptionId": [
+                {
+                  "descriptionId": 20
+                }
+              ],
+              "areaIconInfoId": "SQ104_109_step0"
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "SQ104_109_step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "1",
+              "npcId": "SQ104_109_start_Npc_Tini",
+              "locationId": "cty02",
+              "descriptionId": [
+                {
+                  "descriptionId": 21
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "location_id": "fld005_W_QST",
+          "condition_items": [
+            {
+              "id": "2",
+              "type": "1",
+              "npcId": "SQ104_109_step2_Npc_Eee_01",
+              "locationId": "cty02",
+              "descriptionId": [
+                {
+                  "descriptionId": 22
+                }
+              ],
+              "areaIconInfoId": "SQ104_109_step2_01"
+            },
+            {
+              "id": "3",
+              "type": "1",
+              "npcId": "SQ104_109_step2_Npc_Eee_02",
+              "locationId": "cty02",
+              "descriptionId": [
+                {
+                  "descriptionId": 23
+                }
+              ],
+              "areaIconInfoId": "SQ104_109_step2_02"
+            },
+            {
+              "id": "4",
+              "type": "1",
+              "npcId": "SQ104_109_step2_Npc_Eee_03",
+              "locationId": "cty02",
+              "descriptionId": [
+                {
+                  "descriptionId": 24
+                }
+              ],
+              "areaIconInfoId": "SQ104_109_step2_03"
+            }
+          ]
+        },
+        {
+          "id": "step3",
+          "location_id": "SQ104_109_step1",
+          "condition_items": [
+            {
+              "id": "5",
+              "type": "1",
+              "npcId": "SQ104_109_start_Npc_Tini",
+              "locationId": "cty02",
+              "descriptionId": [
+                {
+                  "descriptionId": 25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step4",
+          "condition_items": [
+            {
+              "id": "6",
+              "type": "1",
+              "npcId": "SQ104_109_step4_Npc_Eee",
+              "locationId": "cty02",
+              "descriptionId": [
+                {
+                  "descriptionId": 26
+                }
+              ],
+              "areaIconInfoId": "SQ104_109_step4"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_109_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_109_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_109_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_010",
+            "quest_status": "1"
+          },
+          {
+            "type": "1",
+            "quest_id": "SQ101_027",
+            "quest_status": "1"
+          },
+          {
+            "type": "4",
+            "scenario_flag_key": "SQ104_109_Unlock_Flag"
+          }
+        ]
+      },
+      "done_text": 19,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104110",
+      "long_id": "SQ104_110",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "4",
+      "name": 169,
+      "desc": 171,
+      "client_id": "SQ104_110_start_Npc_Eubank",
+      "reporter_id": "SQ104_110_start_Npc_Eubank",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "42"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "4",
+              "dungeonId": "pat0204",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 178
+                }
+              ]
+            }
+          ],
+          "route_guide_prohibit": "TRUE"
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_110_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_110_2",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_010",
+            "quest_status": "1"
+          },
+          {
+            "type": "1",
+            "quest_id": "SQ101_112",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 173,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104111",
+      "long_id": "SQ104_111",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "1",
+      "name": 47,
+      "desc": 48,
+      "client_id": "SQ104_111_start_Npc_Tiely",
+      "reporter_id": "SQ104_111_start_Npc_Tiely",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "51"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "14",
+              "locationId": "fld005_W",
+              "gatherPointType": "11",
+              "timezone": "2",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "10",
+              "trigger_name": [
+                {
+                  "trigger_name": 50
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 53
+                }
+              ],
+              "areaIconInfoId": "fld005_W_QST"
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "14",
+              "locationId": "fld005_C",
+              "gatherPointType": "10",
+              "timezone": "2",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "10",
+              "trigger_name": [
+                {
+                  "trigger_name": 51
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 54
+                }
+              ],
+              "areaIconInfoId": "fld005_C_QST"
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "location_id": "SQ104_111_step2",
+          "condition_items": [
+            {
+              "id": "2",
+              "type": "1",
+              "npcId": "SQ104_111_start_Npc_Tiely",
+              "locationId": "Astelreas",
+              "descriptionId": [
+                {
+                  "descriptionId": 55
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step3",
+          "condition_items": [
+            {
+              "id": "3",
+              "type": "14",
+              "locationId": "fld005_E",
+              "gatherPointType": "11",
+              "timezone": "2",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "10",
+              "trigger_name": [
+                {
+                  "trigger_name": 52
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 56
+                }
+              ],
+              "areaIconInfoId": "fld005_E_QST"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_111_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_111_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_111_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_070",
+            "quest_status": "1"
+          },
+          {
+            "type": "1",
+            "quest_id": "SQ101_038",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 49,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104112",
+      "long_id": "SQ104_112",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "4",
+      "name": 57,
+      "desc": 58,
+      "client_id": "SQ104_112_start_Npc_Mold",
+      "reporter_id": "SQ104_112_start_Npc_Mold",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "44"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "4",
+              "dungeonId": "pat0203",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 60
+                }
+              ]
+            }
+          ],
+          "route_guide_prohibit": "TRUE"
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_112_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_112_2",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_020",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 59,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104113",
+      "long_id": "SQ104_113",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "4",
+      "name": 77,
+      "desc": 78,
+      "client_id": "SQ104_113_start_Npc_Iguwerse",
+      "reporter_id": "SQ104_113_start_Npc_Iguwerse",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "46"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "4",
+              "dungeonId": "pat0108",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 80
+                }
+              ]
+            }
+          ],
+          "route_guide_prohibit": "TRUE"
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_113_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_113_2",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_040",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 79,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104114",
+      "long_id": "SQ104_114",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "3",
+      "name": 155,
+      "desc": 156,
+      "client_id": "SQ104_114_start_Npc_Clarissa",
+      "reporter_id": "SQ104_114_start_Npc_Clarissa",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "42"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "SQ104_114_step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "1",
+              "npcId": "SQ104_114_step0",
+              "locationId": "fld003_C",
+              "descriptionId": [
+                {
+                  "descriptionId": 159
+                }
+              ],
+              "areaIconInfoId": "SQ104_114_step0"
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "SQ104_114_step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "1",
+              "npcId": "SQ104_114_start_Npc_Clarissa",
+              "locationId": "fld003_C",
+              "descriptionId": [
+                {
+                  "descriptionId": 160
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "location_id": "fld003_S_QST",
+          "condition_items": [
+            {
+              "id": "2",
+              "type": "14",
+              "locationId": "fld003_S",
+              "gatherPointType": "11",
+              "timezone": "2",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "3",
+              "trigger_name": [
+                {
+                  "trigger_name": 158
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 161
+                }
+              ],
+              "areaIconInfoId": "fld003_S_QST"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_114_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_114_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_114_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_010",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 157,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104115",
+      "long_id": "SQ104_115",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "3",
+      "name": 81,
+      "desc": 82,
+      "client_id": "SQ104_115_start_Npc_Leggina",
+      "reporter_id": "SQ104_115_start_Npc_Leggina",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "48"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "14",
+              "locationId": "fld005_W",
+              "gatherPointType": "11",
+              "timezone": "2",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "10",
+              "trigger_name": [
+                {
+                  "trigger_name": 84
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 86
+                }
+              ],
+              "areaIconInfoId": "fld005_W_QST"
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "SQ104_115_step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "1",
+              "npcId": "SQ104_115_start_Npc_Leggina",
+              "locationId": "fld005_C",
+              "descriptionId": [
+                {
+                  "descriptionId": 87
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "condition_items": [
+            {
+              "id": "2",
+              "type": "14",
+              "locationId": "fld005_E",
+              "gatherPointType": "11",
+              "timezone": "2",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "10",
+              "trigger_name": [
+                {
+                  "trigger_name": 85
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 88
+                }
+              ],
+              "areaIconInfoId": "fld005_E_QST"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_115_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_115_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_115_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_050",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 83,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104116",
+      "long_id": "SQ104_116",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "3",
+      "name": 89,
+      "desc": 90,
+      "client_id": "SQ104_116_start_Npc_Rius",
+      "reporter_id": "SQ104_116_start_Npc_Rius",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "51"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "14",
+              "locationId": "fld005_E",
+              "gatherPointType": "10",
+              "timezone": "2",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "10",
+              "trigger_name": [
+                {
+                  "trigger_name": 92
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 94
+                }
+              ],
+              "areaIconInfoId": "fld005_E_QST"
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "SQ104_116_step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "1",
+              "npcId": "SQ104_116_start_Npc_Rius",
+              "locationId": "fld005_C",
+              "descriptionId": [
+                {
+                  "descriptionId": 95
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "condition_items": [
+            {
+              "id": "2",
+              "type": "14",
+              "locationId": "fld005_W",
+              "gatherPointType": "10",
+              "timezone": "2",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "3",
+              "trigger_name": [
+                {
+                  "trigger_name": 93
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 96
+                }
+              ],
+              "areaIconInfoId": "fld005_W_QST"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_116_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_116_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_116_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_070",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 91,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104117",
+      "long_id": "SQ104_117",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 162,
+      "desc": 163,
+      "client_id": "SQ104_117_start_Npc_Ada",
+      "reporter_id": "SQ104_117_done_Npc_Caesar",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "51"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "SQ104_117_step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "1",
+              "npcId": "SQ104_117_step0_Npc_Caesar",
+              "locationId": "min01",
+              "descriptionId": [
+                {
+                  "descriptionId": 165
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "2",
+              "enemyId": "E001_19_00_02001",
+              "dungeonId": "dng013",
+              "locationId": "dng013",
+              "amount": "5",
+              "descriptionId": [
+                {
+                  "descriptionId": 166
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "type": "2",
+              "enemyId": "E001_20_00_02001",
+              "dungeonId": "dng013",
+              "locationId": "dng013",
+              "amount": "5",
+              "descriptionId": [
+                {
+                  "descriptionId": 167
+                }
+              ]
+            }
+          ],
+          "route_guide_prohibit": "TRUE"
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_117_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_117_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_117_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_070",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 164,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104118",
+      "long_id": "SQ104_118",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 148,
+      "desc": 149,
+      "client_id": "SQ104_118_start_Npc_Amado",
+      "reporter_id": "SQ104_118_start_Npc_Amado",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "48"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld005_E_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "14",
+              "locationId": "fld005_E",
+              "gatherPointType": "10",
+              "timezone": "2",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "5",
+              "trigger_name": [
+                {
+                  "trigger_name": 151
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 152
+                }
+              ],
+              "areaIconInfoId": "fld005_E_QST"
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "SQ104_118_step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "1",
+              "npcId": "SQ104_118_start_Npc_Amado",
+              "locationId": "fld005_C",
+              "descriptionId": [
+                {
+                  "descriptionId": 153
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "condition_items": [
+            {
+              "id": "2",
+              "type": "2",
+              "enemyId": "E004_02_00_01001",
+              "locationId": "fld005_E",
+              "amount": "15",
+              "descriptionId": [
+                {
+                  "descriptionId": 154
+                }
+              ],
+              "areaIconInfoId": "fld005_E_EnemyA"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_118_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_118_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_118_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_050",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 150,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104119",
+      "long_id": "SQ104_119",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 115,
+      "desc": 116,
+      "client_id": "SQ104_119_start_Npc_Seth",
+      "reporter_id": "SQ104_119_start_Npc_Seth",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "51"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "SQ104_119_step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "1",
+              "npcId": "SQ104_119_step0_Npc_Lambert",
+              "locationId": "fld005_E",
+              "descriptionId": [
+                {
+                  "descriptionId": 119
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "fld005_E_QST",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "14",
+              "locationId": "fld005_E",
+              "gatherPointType": "10",
+              "timezone": "2",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "10",
+              "trigger_name": [
+                {
+                  "trigger_name": 118
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 120
+                }
+              ],
+              "areaIconInfoId": "fld005_E_QST"
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "location_id": "SQ104_119_step2",
+          "condition_items": [
+            {
+              "id": "2",
+              "type": "1",
+              "npcId": "SQ104_119_start_Npc_Seth",
+              "locationId": "min01",
+              "descriptionId": [
+                {
+                  "descriptionId": 121
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step3",
+          "location_id": "fld005_W_QST",
+          "condition_items": [
+            {
+              "id": "3",
+              "type": "2",
+              "enemyId": "E013_00_02_01001",
+              "locationId": "fld005_W",
+              "amount": "15",
+              "descriptionId": [
+                {
+                  "descriptionId": 122
+                }
+              ],
+              "areaIconInfoId": "fld005_W_EnemyB"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_119_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_119_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_119_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_070",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 117,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104120",
+      "long_id": "SQ104_120",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 61,
+      "desc": 63,
+      "client_id": "SQ104_120_start_Npc_Johnson",
+      "reporter_id": "SQ104_120_start_Npc_Johnson",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "51"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "SQ104_120_step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "1",
+              "npcId": "SQ104_120_step0_Npc_Narai",
+              "locationId": "fld005_C",
+              "descriptionId": [
+                {
+                  "descriptionId": 68
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "fld005_W_QST",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "13",
+              "enemyId": "E001_09_00_01001",
+              "locationId": "fld005_W",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "5",
+              "trigger_name": [
+                {
+                  "trigger_name": 67
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 69
+                }
+              ],
+              "areaIconInfoId": "fld005_W_EnemyB"
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "location_id": "SQ104_120_step0",
+          "condition_items": [
+            {
+              "id": "2",
+              "type": "1",
+              "npcId": "SQ104_120_step0_Npc_Narai",
+              "locationId": "fld005_C",
+              "descriptionId": [
+                {
+                  "descriptionId": 70
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_120_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_120_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_120_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_070",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 65,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104121",
+      "long_id": "SQ104_121",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "1",
+      "name": 62,
+      "desc": 64,
+      "client_id": "SQ104_121_start_Npc_Rebecca",
+      "reporter_id": "SQ104_121_step1_Npc_Largo",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "44"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "SQ104_121_step0",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "7",
+              "npcId": "BowS",
+              "enemyId": "SQ104_121_step0",
+              "amount": "500",
+              "descriptionId": [
+                {
+                  "descriptionId": 71
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "SQ104_121_step0",
+          "condition_items": [
+            {
+              "id": "2",
+              "type": "1",
+              "npcId": "SQ104_121_step1_Npc_Largo",
+              "descriptionId": [
+                {
+                  "descriptionId": 72
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "location_id": "SQ104_121_step2",
+          "condition_items": [
+            {
+              "id": "3",
+              "type": "7",
+              "npcId": "BowS",
+              "enemyId": "SQ104_121_step2",
+              "amount": "500",
+              "descriptionId": [
+                {
+                  "descriptionId": 73
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step3",
+          "location_id": "SQ104_121_step2",
+          "condition_items": [
+            {
+              "id": "4",
+              "type": "1",
+              "npcId": "SQ104_121_step3_Npc_Herrit",
+              "descriptionId": [
+                {
+                  "descriptionId": 74
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step4",
+          "location_id": "SQ104_121_step4",
+          "condition_items": [
+            {
+              "id": "5",
+              "type": "7",
+              "npcId": "BowS",
+              "enemyId": "SQ104_121_step4",
+              "amount": "500",
+              "descriptionId": [
+                {
+                  "descriptionId": 75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step5",
+          "location_id": "SQ104_121_step4",
+          "condition_items": [
+            {
+              "id": "6",
+              "type": "1",
+              "npcId": "SQ104_121_step5_Npc_Lynsey",
+              "descriptionId": [
+                {
+                  "descriptionId": 76
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_121_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_121_2",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_030",
+            "quest_status": "1"
+          },
+          {
+            "type": "1",
+            "quest_id": "SQ101_104",
+            "quest_status": "1"
+          },
+          {
+            "type": "1",
+            "quest_id": "SQ103_051",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 66,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104122",
+      "long_id": "SQ104_122",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "4",
+      "name": 27,
+      "desc": 30,
+      "client_id": "SQ104_122_start_Npc_Lutz",
+      "reporter_id": "SQ104_122_start_Npc_Lutz",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "49"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "4",
+              "dungeonId": "dng013",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 36
+                }
+              ]
+            }
+          ],
+          "route_guide_prohibit": "TRUE"
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_122_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_122_2",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_060",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 33,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104123",
+      "long_id": "SQ104_123",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "4",
+      "name": 28,
+      "desc": 31,
+      "client_id": "SQ104_123_start_Npc_Anelma",
+      "reporter_id": "SQ104_123_step1_Npc_Schelnie",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "51"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "1",
+              "npcId": "SQ104_123_step0_Npc_Schelnie",
+              "descriptionId": [
+                {
+                  "descriptionId": 37
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "4",
+              "dungeonId": "dng017",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 364
+                }
+              ]
+            }
+          ],
+          "route_guide_prohibit": "TRUE"
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_123_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_123_2",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_070",
+            "quest_status": "1"
+          },
+          {
+            "type": "1",
+            "quest_id": "SQ104_107",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 34,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104124",
+      "long_id": "SQ104_124",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "4",
+      "name": 29,
+      "desc": 32,
+      "client_id": "SQ104_124_start_Npc_Paulette",
+      "reporter_id": "SQ104_124_start_Npc_Paulette",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "44"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "4",
+              "dungeonId": "dng009_Hard",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 38
+                }
+              ]
+            }
+          ],
+          "route_guide_prohibit": "TRUE"
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_124_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_124_2",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_020",
+            "quest_status": "1"
+          },
+          {
+            "type": "1",
+            "quest_id": "SQ101_045",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 35,
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104200",
+      "long_id": "SQ104_200",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "3",
+      "name": 295,
+      "desc": 302,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "42"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld002_W_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "13",
+              "enemyId": "E004_01_02_01001",
+              "locationId": "fld002_W",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "1",
+              "trigger_name": [
+                {
+                  "trigger_name": 316
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 323
+                }
+              ],
+              "areaIconInfoId": "fld002_W_EnemyC"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_200_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_200_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_200_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_010",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104201",
+      "long_id": "SQ104_201",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "3",
+      "name": 296,
+      "desc": 303,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "42"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld004_N_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "13",
+              "enemyId": "E001_05_02_01001",
+              "locationId": "fld004_N",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "1",
+              "trigger_name": [
+                {
+                  "trigger_name": 317
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 324
+                }
+              ],
+              "areaIconInfoId": "fld004_N_EnemyC"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_201_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_201_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_201_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_010",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104202",
+      "long_id": "SQ104_202",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "3",
+      "name": 297,
+      "desc": 304,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "44"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "13",
+              "enemyId": "E020_01_01_01001",
+              "locationId": "fld004_S",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "1",
+              "trigger_name": [
+                {
+                  "trigger_name": 318
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 325
+                }
+              ],
+              "areaIconInfoId": "fld004_S_EnemyB"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_202_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_202_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_202_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_020",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104203",
+      "long_id": "SQ104_203",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "3",
+      "name": 298,
+      "desc": 305,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "44"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "13",
+              "enemyId": "E500_03_00_02001",
+              "locationId": "pat0301",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "1",
+              "trigger_name": [
+                {
+                  "trigger_name": 319
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 326
+                }
+              ]
+            }
+          ],
+          "route_guide_prohibit": "TRUE"
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_203_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_203_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_203_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_020",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104204",
+      "long_id": "SQ104_204",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "3",
+      "name": 299,
+      "desc": 306,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "44"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "13",
+              "enemyId": "E000_33_00_02001",
+              "locationId": "pat0103",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "1",
+              "trigger_name": [
+                {
+                  "trigger_name": 320
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 327
+                }
+              ]
+            }
+          ],
+          "route_guide_prohibit": "TRUE"
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_204_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_204_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_204_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_030",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104205",
+      "long_id": "SQ104_205",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "3",
+      "name": 300,
+      "desc": 307,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "44"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld005_C_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "14",
+              "locationId": "fld005_C",
+              "gatherPointType": "10",
+              "timezone": "2",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "20",
+              "trigger_name": [
+                {
+                  "trigger_name": 321
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 328
+                }
+              ],
+              "areaIconInfoId": "fld005_C_QST"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_205_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_205_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_205_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_030",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104206",
+      "long_id": "SQ104_206",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "3",
+      "name": 301,
+      "desc": 308,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "44"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld005_C_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "14",
+              "locationId": "fld005_C",
+              "gatherPointType": "11",
+              "timezone": "2",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "20",
+              "trigger_name": [
+                {
+                  "trigger_name": 322
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 329
+                }
+              ],
+              "areaIconInfoId": "fld005_C_QST"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_206_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_206_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_206_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_030",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104207",
+      "long_id": "SQ104_207",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 330,
+      "desc": 338,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "44"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "dng015_gate_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "2",
+              "enemyId": "E017_04_00_03001",
+              "dungeonId": "pub015",
+              "locationId": "pub015",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 356
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_207_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_207_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_207_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_030",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104208",
+      "long_id": "SQ104_208",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 331,
+      "desc": 339,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "55"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "pat0805_gate_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "2",
+              "enemyId": "E000_33_00_03002",
+              "dungeonId": "pub0805",
+              "locationId": "pub0805",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 357
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_208_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_208_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_208_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_070",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.000"
+    },
+    {
+      "id": "10104209",
+      "long_id": "SQ104_209",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 332,
+      "desc": 340,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "51"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "pat0202_gate_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "2",
+              "enemyId": "E000_32_00_03001",
+              "dungeonId": "pub0202",
+              "locationId": "pub0202",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 358
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_209_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_209_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_209_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_070",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.100"
+    },
+    {
+      "id": "10104210",
+      "long_id": "SQ104_210",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 333,
+      "desc": 341,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "56"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "pat0902_gate_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "2",
+              "enemyId": "E003_05_00_03002",
+              "dungeonId": "pub0902",
+              "locationId": "pub0902",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 359
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_210_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_210_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_210_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_070",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.02.100"
+    },
+    {
+      "id": "10104211",
+      "long_id": "SQ104_211",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "3",
+      "name": 334,
+      "desc": 342,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "44"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "pat0806_gate_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "14",
+              "dungeonId": "pub0806",
+              "locationId": "pub0806",
+              "gatherPointType": "11",
+              "timezone": "2",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "18",
+              "trigger_name": [
+                {
+                  "trigger_name": 354
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 360
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_211_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_211_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_211_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_030",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.03.000"
+    },
+    {
+      "id": "10104212",
+      "long_id": "SQ104_212",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 335,
+      "desc": 343,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "44"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "2",
+              "enemyId": "E505_00_00_03001",
+              "dungeonId": "pub0206",
+              "locationId": "pub0206",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 361
+                }
+              ]
+            }
+          ],
+          "route_guide_prohibit": "TRUE"
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_212_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_212_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_212_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_030",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.03.000"
+    },
+    {
+      "id": "10104213",
+      "long_id": "SQ104_213",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "2",
+      "name": 336,
+      "desc": 344,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "44"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "2",
+              "enemyId": "E017_04_01_03001",
+              "dungeonId": "pub0903",
+              "locationId": "pub0903",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 362
+                }
+              ]
+            }
+          ],
+          "route_guide_prohibit": "TRUE"
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_213_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_213_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_213_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_030",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.03.100"
+    },
+    {
+      "id": "10104214",
+      "long_id": "SQ104_214",
+      "active": "true",
+      "sort_id": "1000",
+      "category1": "1",
+      "category2": "2",
+      "category3": "3",
+      "name": 337,
+      "desc": 345,
+      "client_id": "Npc_Receptionist_cty01",
+      "reporter_id": "Npc_Receptionist_cty01",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "44"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "pat0103_gate_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "14",
+              "dungeonId": "pub0103",
+              "locationId": "pub0103",
+              "gatherPointType": "10",
+              "timezone": "2",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "18",
+              "trigger_name": [
+                {
+                  "trigger_name": 355
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 363
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "SQ104_214_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "SQ104_214_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "SQ104_214_3",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ104_030",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "ignore_complete_jingle": "false",
+      "accept_term": "",
+      "complete_term": "",
+      "completable_count": "",
+      "completable_count_notify_enable": "",
+      "revival_condition_notify_enable": "",
+      "version": "1.03.100"
+    }
+  ]
+}

@@ -1,0 +1,703 @@
+﻿{
+  "header": {
+    "content_type": "master_equipment_condition_set",
+    "timezone": "Asia/Taipei"
+  },
+  "payload": [
+    {
+      "id": "90007",
+      "equip_or_condition": [
+        {
+          "item_type": "3",
+          "item_id": "105015900",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "155015900",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "5",
+          "item_id": "130000000"
+        }
+      ],
+      "weapon_element_type": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "100000",
+      "weapon_element_type": "0",
+      "version": "1.01.000"
+    },
+    {
+      "id": "100100",
+      "equip_or_condition": [
+        {
+          "item_type": "3",
+          "item_id": "102014400",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "103014400",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "152014400",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "153014400",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "102012300",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "103012300",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "102012301",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "103012301",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "152012300",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "153012300",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "152012301",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "153012301",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "102012400",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "103012400",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "105012400",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "102012500",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "103012500",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "105012500",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "102012600",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "103012600",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "105012600",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "102012700",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "103012700",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "105012700",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "102012800",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "103012800",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "105012800",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "102012900",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "103012900",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "105012900",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "103013000",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "103013100",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "152012400",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "153012400",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "155012400",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "152012500",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "155012500",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "152012600",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "155012600",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "152012700",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "153012700",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "155012700",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "152012800",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "155012800",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "152012900",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "155012900",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "152013000",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "152013100",
+          "appearance_type": "2"
+        }
+      ],
+      "weapon_element_type": "0",
+      "version": "1.00.100"
+    },
+    {
+      "id": "101100",
+      "equip_or_condition": [
+        {
+          "item_type": "3",
+          "item_id": "104010000",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "104010001",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "104010002",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "104010003",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "104010004",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "154010000",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "154010001",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "154010002",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "154010003",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "154010004",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "104010704",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "154010704",
+          "appearance_type": "2"
+        }
+      ],
+      "weapon_element_type": "0",
+      "version": "1.01.100"
+    },
+    {
+      "id": "102000",
+      "equip_or_condition": [
+        {
+          "item_type": "3",
+          "item_id": "128007800",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "178007800",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "128007900",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "178007900",
+          "appearance_type": "2"
+        }
+      ],
+      "weapon_element_type": "0",
+      "version": "1.02.000"
+    },
+    {
+      "id": "102100",
+      "equip_or_condition": [
+        {
+          "item_type": "3",
+          "item_id": "101016400",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "102016400",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "104016400",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "103016400",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "105016400",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "102016500",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "104016500",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "103016500",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "105016500",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "101016600",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "102016600",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "104016600",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "103016600",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "105016600",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "101016700",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "102016700",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "104016700",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "103016700",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "105016700",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "102016800",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "104016800",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "103016800",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "105016800",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "101016900",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "102016900",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "104016900",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "103016900",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "105016900",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "151016400",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "152016400",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "155016400",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "152016500",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "154016500",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "153016500",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "155016500",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "151016600",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "152016600",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "154016600",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "155016600",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "151016700",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "152016700",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "155016700",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "152016800",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "154016800",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "153016800",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "155016800",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "151016900",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "152016900",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "154016900",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "155016900",
+          "appearance_type": "2"
+        }
+      ],
+      "weapon_element_type": "0",
+      "version": "1.02.100"
+    },
+    {
+      "id": "103100",
+      "equip_or_condition": [
+        {
+          "item_type": "3",
+          "item_id": "171006500",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "121006500",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "171000200",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "121000200",
+          "appearance_type": "1"
+        }
+      ],
+      "weapon_element_type": "0",
+      "version": "1.03.100"
+    },
+    {
+      "id": "105000",
+      "equip_or_condition": [
+        {
+          "item_type": "3",
+          "item_id": "175002503",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "125002503",
+          "appearance_type": "1"
+        }
+      ],
+      "weapon_element_type": "0",
+      "version": "1.05.000"
+    },
+    {
+      "id": "107000",
+      "equip_or_condition": [
+        {
+          "item_type": "3",
+          "item_id": "123008204",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "173008204",
+          "appearance_type": "2"
+        },
+        {
+          "item_type": "3",
+          "item_id": "123002304",
+          "appearance_type": "1"
+        },
+        {
+          "item_type": "3",
+          "item_id": "173002304",
+          "appearance_type": "2"
+        }
+      ],
+      "weapon_element_type": "0",
+      "version": "1.07.000"
+    }
+  ]
+}

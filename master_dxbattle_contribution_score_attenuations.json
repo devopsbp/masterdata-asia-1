@@ -1,0 +1,80 @@
+﻿{
+  "header": {
+    "content_type": "master_dxbattle_contribution_score_attenuations",
+    "timezone": "Asia/Taipei"
+  },
+  "payload": [
+    {
+      "version": "1.03.000",
+      "id": "100101",
+      "game_content_id": "def001",
+      "score_type": "0",
+      "attenuation_level": "10000",
+      "start_value": "10000",
+      "rate": "10000"
+    },
+    {
+      "version": "1.03.000",
+      "id": "100102",
+      "game_content_id": "def001",
+      "score_type": "1",
+      "attenuation_level": "10000",
+      "start_value": "10000",
+      "rate": "10000"
+    },
+    {
+      "version": "1.03.000",
+      "id": "100103",
+      "game_content_id": "def001",
+      "score_type": "2",
+      "attenuation_level": "10000",
+      "start_value": "10000",
+      "rate": "10000"
+    },
+    {
+      "version": "1.03.000",
+      "id": "100104",
+      "game_content_id": "def001",
+      "score_type": "3",
+      "attenuation_level": "10000",
+      "start_value": "10000",
+      "rate": "10000"
+    },
+    {
+      "version": "1.03.000",
+      "id": "100105",
+      "game_content_id": "def001",
+      "score_type": "4",
+      "attenuation_level": "10000",
+      "start_value": "10000",
+      "rate": "10000"
+    },
+    {
+      "version": "1.03.000",
+      "id": "100106",
+      "game_content_id": "def001",
+      "score_type": "5",
+      "attenuation_level": "10000",
+      "start_value": "10000",
+      "rate": "10000"
+    },
+    {
+      "version": "1.03.000",
+      "id": "100107",
+      "game_content_id": "def001",
+      "score_type": "6",
+      "attenuation_level": "10000",
+      "start_value": "10000",
+      "rate": "10000"
+    },
+    {
+      "version": "1.03.000",
+      "id": "100108",
+      "game_content_id": "def001",
+      "score_type": "7",
+      "attenuation_level": "10000",
+      "start_value": "10000",
+      "rate": "10000"
+    }
+  ]
+}

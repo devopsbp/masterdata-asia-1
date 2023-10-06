@@ -1,0 +1,1428 @@
+﻿{
+  "header": {
+    "content_type": "master_gasha",
+    "timezone": "Asia/Taipei"
+  },
+  "payload": [
+    {
+      "id": "9001",
+      "enable": "1",
+      "sort_id": "901",
+      "title": 1,
+      "desc": 6,
+      "detail_desc": 11,
+      "note_info": {
+        "warning_comment": 25
+      },
+      "category": [
+        {
+          "category_id": "9001",
+          "category_name": 81,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 16,
+      "type": "0",
+      "reward_id": "test_table_0001",
+      "prices": [
+        {
+          "currency_type": "1",
+          "price_of_one": "10",
+          "bulk_price": "90",
+          "amount": "10",
+          "comment": 21
+        },
+        {
+          "currency_type": "4",
+          "price_of_one": "50",
+          "bulk_price": "500",
+          "amount": "10"
+        }
+      ],
+      "tickets": [
+        {}
+      ],
+      "banner": "UI_GashaBanner_100110000",
+      "simple_banner": "ガシャ商品バナー小_1",
+      "gasha_start": "2020-10-01 00:00:00",
+      "gasha_end": "2023-01-31 00:00:00",
+      "bonus_id": "0",
+      "bonus_start": "2020-10-01 00:00:00",
+      "bonus_end": "2023-01-31 00:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id_bonus",
+      "memo": "多言語未対応_フリーワード_01",
+      "ribbon": "1",
+      "version": "9.99.999"
+    },
+    {
+      "id": "9002",
+      "enable": "1",
+      "sort_id": "902",
+      "title": 2,
+      "desc": 7,
+      "detail_desc": 12,
+      "note_info": {
+        "warning_comment": 24
+      },
+      "category": [
+        {
+          "category_id": "9002",
+          "category_name": 82,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 17,
+      "type": "0",
+      "reward_id": "test_table_0002",
+      "prices": [
+        {
+          "currency_type": "2",
+          "price_of_one": "10",
+          "bulk_price": "100",
+          "amount": "11",
+          "comment": 22
+        }
+      ],
+      "tickets": [
+        {}
+      ],
+      "banner": "UI_GashaBanner_100110000",
+      "simple_banner": "ガシャ商品バナー小_2",
+      "gasha_start": "2020-10-01 00:00:00",
+      "gasha_end": "2023-01-31 00:00:00",
+      "bonus_id": "test_bonus_0002",
+      "bonus_start": "2020-10-01 00:00:00",
+      "bonus_end": "2023-01-31 00:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id_bonus",
+      "memo": "多言語未対応_フリーワード_02",
+      "ribbon": "2",
+      "version": "9.99.999"
+    },
+    {
+      "id": "9003",
+      "enable": "1",
+      "sort_id": "903",
+      "title": 3,
+      "desc": 8,
+      "detail_desc": 13,
+      "note_info": {
+        "warning_comment": 24
+      },
+      "category": [
+        {
+          "category_id": "9003",
+          "category_name": 83,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 18,
+      "type": "0",
+      "reward_id": "test_table_0003",
+      "prices": [
+        {
+          "currency_type": "3",
+          "price_of_one": "10"
+        }
+      ],
+      "tickets": [
+        {
+          "token_id": "100000101",
+          "price_of_one": "1"
+        },
+        {
+          "token_id": "100000102",
+          "price_of_one": "100"
+        },
+        {
+          "token_id": "100000103",
+          "price_of_one": "1000"
+        }
+      ],
+      "banner": "UI_GashaBanner_100110000",
+      "simple_banner": "ガシャ商品バナー小_3",
+      "gasha_start": "2020-10-01 00:00:00",
+      "gasha_end": "2023-01-31 00:00:00",
+      "bonus_id": "test_bonus_0003",
+      "bonus_start": "2020-10-01 00:00:00",
+      "bonus_end": "2023-01-31 00:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id_bonus",
+      "memo": "多言語未対応_フリーワード_03",
+      "ribbon": "4",
+      "version": "9.99.999"
+    },
+    {
+      "id": "9004",
+      "enable": "1",
+      "sort_id": "904",
+      "title": 4,
+      "desc": 9,
+      "detail_desc": 14,
+      "note_info": {
+        "warning_comment": 24
+      },
+      "category": [
+        {
+          "category_id": "9004",
+          "category_name": 84,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 19,
+      "gender": "0",
+      "type": "0",
+      "reward_id": "test_table_0004",
+      "prices": [
+        {
+          "currency_type": "1",
+          "price_of_one": "50",
+          "bulk_price": "500",
+          "amount": "11",
+          "comment": 65
+        }
+      ],
+      "tickets": [
+        {
+          "token_id": "100000101",
+          "price_of_one": "1"
+        },
+        {
+          "token_id": "100000101",
+          "price_of_one": "10"
+        }
+      ],
+      "banner": "UI_GashaBanner_100110000",
+      "simple_banner": "ガシャ商品バナー小_4",
+      "gasha_start": "2020-10-01 00:00:00",
+      "gasha_end": "2023-01-31 00:00:00",
+      "bonus_id": "test_bonus_0004",
+      "bonus_start": "2020-10-01 00:00:00",
+      "bonus_end": "2023-01-31 00:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id_bonus",
+      "memo": "多言語未対応_フリーワード_04",
+      "ribbon": "7",
+      "version": "9.99.999"
+    },
+    {
+      "id": "9005",
+      "enable": "0",
+      "sort_id": "1000",
+      "title": 5,
+      "desc": 10,
+      "detail_desc": 15,
+      "note_info": {
+        "warning_comment": 26
+      },
+      "category": [
+        {
+          "category_id": "9005",
+          "category_name": 85,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 20,
+      "gender": "1",
+      "type": "0",
+      "reward_id": "9901_0001_0001",
+      "prices": [
+        {
+          "currency_type": "1"
+        }
+      ],
+      "tickets": [
+        {
+          "token_id": "100000103",
+          "price_of_one": "3"
+        },
+        {
+          "token_id": "100000104",
+          "price_of_one": "4"
+        },
+        {
+          "token_id": "100000105",
+          "price_of_one": "5"
+        }
+      ],
+      "banner": "UI_GashaBanner_100110000",
+      "simple_banner": "ガシャ商品バナー小_5",
+      "gasha_start": "2020-10-01 00:00:00",
+      "gasha_end": "2023-01-31 00:00:00",
+      "bonus_id": "9901_0001_0001",
+      "bonus_start": "2022-10-01 00:00:00",
+      "bonus_end": "2023-01-31 00:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id_bonus",
+      "memo": "多言語未対応_フリーワード_05",
+      "ribbon": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "9006",
+      "enable": "1",
+      "sort_id": "1100",
+      "title": 40,
+      "desc": 41,
+      "detail_desc": 42,
+      "note_info": {
+        "warning_comment": 44
+      },
+      "category": [
+        {
+          "category_id": "9006",
+          "category_name": 86,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 43,
+      "type": "0",
+      "reward_id": "9902",
+      "prices": [
+        {
+          "currency_type": "4",
+          "price_of_one": "10",
+          "bulk_price": "100",
+          "amount": "11",
+          "comment": 23
+        }
+      ],
+      "tickets": [
+        {
+          "token_id": "100000106",
+          "price_of_one": "10"
+        },
+        {
+          "token_id": "100000107",
+          "price_of_one": "1"
+        }
+      ],
+      "banner": "UI_GashaBanner_100110000",
+      "simple_banner": "Gasha_006",
+      "gasha_start": "2020-10-01 00:00:00",
+      "gasha_end": "2023-01-31 00:00:00",
+      "bonus_id": "0",
+      "bonus_start": "2022-10-01 00:00:00",
+      "bonus_end": "2023-01-31 00:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id_bonus",
+      "memo": "多言語未対応_フリーワード_05",
+      "ribbon": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "9007",
+      "enable": "1",
+      "sort_id": "1000",
+      "title": 90,
+      "desc": 91,
+      "detail_desc": 92,
+      "note_info": {
+        "warning_comment": 25
+      },
+      "category": [
+        {
+          "category_id": "9001",
+          "category_name": 81,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 93,
+      "type": "0",
+      "reward_id": "test_table_0001",
+      "prices": [
+        {
+          "currency_type": "1",
+          "price_of_one": "10",
+          "bulk_price": "90",
+          "amount": "10",
+          "comment": 21
+        },
+        {
+          "currency_type": "4",
+          "price_of_one": "50",
+          "bulk_price": "500",
+          "amount": "10"
+        }
+      ],
+      "tickets": [
+        {}
+      ],
+      "banner": "UI_GashaBanner_100110000",
+      "simple_banner": "ガシャ商品バナー小_1",
+      "gasha_start": "2020-10-01 00:00:00",
+      "gasha_end": "2023-02-28 00:00:00",
+      "bonus_id": "test_bonus_0001",
+      "bonus_start": "2022-10-01 00:00:00",
+      "bonus_end": "2023-02-28 00:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id_bonus",
+      "memo": "多言語未対応_フリーワード_01",
+      "ribbon": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "9008",
+      "enable": "1",
+      "sort_id": "1000",
+      "title": 94,
+      "desc": 95,
+      "detail_desc": 96,
+      "note_info": {
+        "warning_comment": 25
+      },
+      "category": [
+        {
+          "category_id": "9001",
+          "category_name": 81,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 97,
+      "type": "0",
+      "reward_id": "test_table_0001",
+      "prices": [
+        {
+          "currency_type": "1",
+          "price_of_one": "10",
+          "bulk_price": "90",
+          "amount": "10",
+          "comment": 21
+        },
+        {
+          "currency_type": "4",
+          "price_of_one": "50",
+          "bulk_price": "500",
+          "amount": "10"
+        }
+      ],
+      "tickets": [
+        {}
+      ],
+      "banner": "UI_GashaBanner_100110000",
+      "simple_banner": "ガシャ商品バナー小_1",
+      "gasha_start": "2020-10-01 00:00:00",
+      "gasha_end": "2023-03-31 00:00:00",
+      "bonus_id": "test_bonus_0001",
+      "bonus_start": "2022-10-01 00:00:00",
+      "bonus_end": "2023-03-31 00:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id_bonus",
+      "memo": "多言語未対応_フリーワード_01",
+      "ribbon": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "9009",
+      "enable": "1",
+      "sort_id": "1000",
+      "title": 98,
+      "desc": 99,
+      "detail_desc": 100,
+      "note_info": {
+        "warning_comment": 24
+      },
+      "category": [
+        {
+          "category_id": "9001",
+          "category_name": 81,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 103,
+      "gender": "0",
+      "type": "0",
+      "reward_id": "9009",
+      "prices": [
+        {
+          "currency_type": "1",
+          "price_of_one": "50",
+          "bulk_price": "500",
+          "amount": "11",
+          "comment": 65
+        }
+      ],
+      "tickets": [
+        {}
+      ],
+      "banner": "UI_GashaBanner_100110000",
+      "simple_banner": "Gasha_011",
+      "gasha_start": "2020-10-01 00:00:00",
+      "gasha_end": "2023-01-31 00:00:00",
+      "bonus_id": "0",
+      "bonus_start": "2022-10-01 00:00:00",
+      "bonus_end": "2023-01-31 00:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id_bonus",
+      "memo": "吉良テストガシャ",
+      "ribbon": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "9010",
+      "enable": "1",
+      "sort_id": "1000",
+      "title": 105,
+      "desc": 114,
+      "detail_desc": 123,
+      "note_info": {
+        "warning_comment": 24
+      },
+      "category": [
+        {
+          "category_id": "9001",
+          "category_name": 81,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 132,
+      "type": "0",
+      "reward_id": "9010",
+      "prices": [
+        {
+          "currency_type": "1",
+          "price_of_one": "50",
+          "bulk_price": "500",
+          "amount": "11",
+          "comment": 65
+        }
+      ],
+      "tickets": [
+        {}
+      ],
+      "banner": "UI_GashaBanner_100110000",
+      "simple_banner": "Gasha_011",
+      "gasha_start": "2020-10-01 00:00:00",
+      "gasha_end": "2023-01-31 00:00:00",
+      "bonus_id": "0",
+      "bonus_start": "2022-10-01 00:00:00",
+      "bonus_end": "2023-01-31 00:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id_bonus",
+      "memo": "期間表示テスト用",
+      "ribbon": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "7",
+      "enable": "1",
+      "sort_id": "1000",
+      "title": 66,
+      "desc": 70,
+      "detail_desc": 74,
+      "note_info": {
+        "warning_comment": 24
+      },
+      "category": [
+        {
+          "category_id": "9001",
+          "category_name": 81,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 78,
+      "gender": "1",
+      "type": "0",
+      "reward_id": "7",
+      "prices": [
+        {
+          "currency_type": "1",
+          "price_of_one": "50",
+          "bulk_price": "500",
+          "amount": "11",
+          "comment": 65
+        }
+      ],
+      "tickets": [
+        {}
+      ],
+      "banner": "GashaBanner_7",
+      "simple_banner": "Gasha_012",
+      "gasha_start": "2022-03-30 10:00:00",
+      "gasha_end": "2023-03-29 10:00:00",
+      "bonus_id": "0",
+      "bonus_start": "2023-01-01 0:00:00",
+      "bonus_end": "2023-03-29 10:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id",
+      "memo": "2204ガシャ",
+      "ribbon": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "8",
+      "enable": "1",
+      "sort_id": "1000",
+      "title": 67,
+      "desc": 71,
+      "detail_desc": 75,
+      "note_info": {
+        "warning_comment": 24
+      },
+      "category": [
+        {
+          "category_id": "9001",
+          "category_name": 81,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 79,
+      "gender": "0",
+      "type": "0",
+      "reward_id": "8",
+      "prices": [
+        {
+          "currency_type": "1",
+          "price_of_one": "50",
+          "bulk_price": "500",
+          "amount": "11",
+          "comment": 65
+        }
+      ],
+      "tickets": [
+        {}
+      ],
+      "banner": "GashaBanner_8",
+      "simple_banner": "Gasha_013",
+      "gasha_start": "2022-03-30 10:00:00",
+      "gasha_end": "2023-03-29 10:00:00",
+      "bonus_id": "0",
+      "bonus_start": "2022-03-30 10:00:00",
+      "bonus_end": "2022-04-01 10:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id",
+      "memo": "2204ガシャ",
+      "ribbon": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "100110000",
+      "enable": "1",
+      "sort_id": "1000",
+      "title": 27,
+      "desc": 31,
+      "detail_desc": 35,
+      "note_info": {
+        "warning_comment": 148
+      },
+      "category": [
+        {
+          "category_id": "1",
+          "category_name": 87,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 39,
+      "gender": "1",
+      "type": "0",
+      "reward_id": "100110000",
+      "prices": [
+        {
+          "currency_type": "1",
+          "price_of_one": "50",
+          "bulk_price": "500",
+          "amount": "11",
+          "comment": 65
+        }
+      ],
+      "tickets": [
+        {
+          "token_id": "100000101",
+          "price_of_one": "1"
+        }
+      ],
+      "banner": "UI_GashaBanner_100110000",
+      "simple_banner": "Gasha_005",
+      "gasha_start": "2023-01-01 0:00:00",
+      "gasha_end": "2023-07-12 10:00:00",
+      "bonus_id": "0001_0001",
+      "bonus_start": "2023-01-01 0:00:00",
+      "bonus_end": "2023-07-12 10:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id_bonus",
+      "memo": "2301ガシャ",
+      "ribbon": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "100120000",
+      "enable": "1",
+      "sort_id": "1010",
+      "title": 45,
+      "desc": 50,
+      "detail_desc": 55,
+      "note_info": {
+        "warning_comment": 149
+      },
+      "category": [
+        {
+          "category_id": "1",
+          "category_name": 87,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 60,
+      "gender": "0",
+      "type": "0",
+      "reward_id": "100120000",
+      "prices": [
+        {
+          "currency_type": "1",
+          "price_of_one": "50",
+          "bulk_price": "500",
+          "amount": "11",
+          "comment": 65
+        }
+      ],
+      "tickets": [
+        {
+          "token_id": "100000101",
+          "price_of_one": "1"
+        }
+      ],
+      "banner": "UI_GashaBanner_100120000",
+      "simple_banner": "Gasha_007",
+      "gasha_start": "2023-01-01 0:00:00",
+      "gasha_end": "2023-07-12 10:00:00",
+      "bonus_id": "0001_0002",
+      "bonus_start": "2023-01-01 0:00:00",
+      "bonus_end": "2023-07-12 10:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id_bonus",
+      "memo": "2301ガシャ",
+      "ribbon": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "100110010",
+      "enable": "1",
+      "sort_id": "1020",
+      "title": 46,
+      "desc": 51,
+      "detail_desc": 56,
+      "note_info": {
+        "warning_comment": 150
+      },
+      "category": [
+        {
+          "category_id": "2",
+          "category_name": 88,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 61,
+      "gender": "1",
+      "type": "0",
+      "reward_id": "100110010",
+      "prices": [
+        {
+          "currency_type": "1",
+          "price_of_one": "50",
+          "bulk_price": "500",
+          "amount": "11",
+          "comment": 65
+        }
+      ],
+      "tickets": [
+        {
+          "token_id": "100000101",
+          "price_of_one": "1"
+        }
+      ],
+      "banner": "UI_GashaBanner_100110010",
+      "simple_banner": "Gasha_008",
+      "gasha_start": "2023-01-01 0:00:00",
+      "gasha_end": "2023-07-12 10:00:00",
+      "bonus_id": "0002_0001",
+      "bonus_start": "2023-01-01 0:00:00",
+      "bonus_end": "2023-07-12 10:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id_bonus",
+      "memo": "2301ガシャ",
+      "ribbon": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "100120010",
+      "enable": "1",
+      "sort_id": "1030",
+      "title": 47,
+      "desc": 52,
+      "detail_desc": 57,
+      "note_info": {
+        "warning_comment": 151
+      },
+      "category": [
+        {
+          "category_id": "2",
+          "category_name": 88,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 62,
+      "gender": "0",
+      "type": "0",
+      "reward_id": "100120010",
+      "prices": [
+        {
+          "currency_type": "1",
+          "price_of_one": "50",
+          "bulk_price": "500",
+          "amount": "11",
+          "comment": 65
+        }
+      ],
+      "tickets": [
+        {
+          "token_id": "100000101",
+          "price_of_one": "1"
+        }
+      ],
+      "banner": "UI_GashaBanner_100120010",
+      "simple_banner": "Gasha_009",
+      "gasha_start": "2023-01-01 0:00:00",
+      "gasha_end": "2023-07-12 10:00:00",
+      "bonus_id": "0002_0002",
+      "bonus_start": "2023-01-01 0:00:00",
+      "bonus_end": "2023-07-12 10:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id_bonus",
+      "memo": "2301ガシャ",
+      "ribbon": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "100200020",
+      "enable": "1",
+      "sort_id": "1060",
+      "title": 106,
+      "desc": 115,
+      "detail_desc": 124,
+      "note_info": {
+        "warning_comment": 154
+      },
+      "category": [
+        {
+          "category_id": "3",
+          "category_name": 141,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 133,
+      "type": "0",
+      "reward_id": "100200020",
+      "prices": [
+        {
+          "currency_type": "1",
+          "price_of_one": "50",
+          "bulk_price": "500",
+          "amount": "11",
+          "comment": 65
+        }
+      ],
+      "tickets": [
+        {
+          "token_id": "100000101",
+          "price_of_one": "1"
+        }
+      ],
+      "banner": "UI_GashaBanner_100200020",
+      "simple_banner": "Gasha_009",
+      "gasha_start": "2023-01-01 0:00:00",
+      "gasha_end": "2023-07-12 10:00:00",
+      "bonus_id": "0001_0000",
+      "bonus_start": "2023-01-01 0:00:00",
+      "bonus_end": "2023-07-12 10:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id_bonus",
+      "memo": "2301ガシャ",
+      "ribbon": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "100110030",
+      "enable": "1",
+      "sort_id": "1040",
+      "title": 165,
+      "desc": 177,
+      "detail_desc": 189,
+      "note_info": {
+        "warning_comment": 221
+      },
+      "category": [
+        {
+          "category_id": "4",
+          "category_name": 212,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 101,
+      "gender": "1",
+      "type": "0",
+      "reward_id": "100110030",
+      "prices": [
+        {
+          "currency_type": "1",
+          "price_of_one": "50",
+          "bulk_price": "500",
+          "amount": "11",
+          "comment": 65
+        }
+      ],
+      "tickets": [
+        {
+          "token_id": "100000101",
+          "price_of_one": "1"
+        }
+      ],
+      "banner": "UI_GashaBanner_100110030",
+      "simple_banner": "Gasha_009",
+      "gasha_start": "2023-07-12 11:00:00",
+      "gasha_end": "2023-08-16 10:00:00",
+      "bonus_id": "0004_0001",
+      "bonus_start": "2023-07-12 11:00:00",
+      "bonus_end": "2023-08-16 10:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id_bonus",
+      "memo": "2302ガシャ",
+      "ribbon": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "100120030",
+      "enable": "1",
+      "sort_id": "1050",
+      "title": 166,
+      "desc": 178,
+      "detail_desc": 190,
+      "note_info": {
+        "warning_comment": 222
+      },
+      "category": [
+        {
+          "category_id": "4",
+          "category_name": 212,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 102,
+      "gender": "0",
+      "type": "0",
+      "reward_id": "100120030",
+      "prices": [
+        {
+          "currency_type": "1",
+          "price_of_one": "50",
+          "bulk_price": "500",
+          "amount": "11",
+          "comment": 65
+        }
+      ],
+      "tickets": [
+        {
+          "token_id": "100000101",
+          "price_of_one": "1"
+        }
+      ],
+      "banner": "UI_GashaBanner_100120030",
+      "simple_banner": "Gasha_009",
+      "gasha_start": "2023-07-12 11:00:00",
+      "gasha_end": "2023-08-16 10:00:00",
+      "bonus_id": "0004_0002",
+      "bonus_start": "2023-07-12 11:00:00",
+      "bonus_end": "2023-08-16 10:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id_bonus",
+      "memo": "2302ガシャ",
+      "ribbon": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "100200040",
+      "enable": "1",
+      "sort_id": "1070",
+      "title": 167,
+      "desc": 179,
+      "detail_desc": 191,
+      "note_info": {
+        "warning_comment": 223
+      },
+      "category": [
+        {
+          "category_id": "5",
+          "category_name": 213,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 134,
+      "type": "0",
+      "reward_id": "100200040",
+      "prices": [
+        {
+          "currency_type": "1",
+          "price_of_one": "50",
+          "bulk_price": "500",
+          "amount": "11",
+          "comment": 65
+        }
+      ],
+      "tickets": [
+        {
+          "token_id": "100000101",
+          "price_of_one": "1"
+        }
+      ],
+      "banner": "UI_GashaBanner_100200040",
+      "simple_banner": "Gasha_009",
+      "gasha_start": "2023-07-12 11:00:00",
+      "gasha_end": "2023-08-16 10:00:00",
+      "bonus_id": "0004_0000",
+      "bonus_start": "2023-07-12 11:00:00",
+      "bonus_end": "2023-08-16 10:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id_bonus",
+      "memo": "2302ガシャ",
+      "ribbon": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "100110050",
+      "enable": "1",
+      "sort_id": "1080",
+      "title": 68,
+      "desc": 72,
+      "detail_desc": 76,
+      "note_info": {
+        "warning_comment": 152
+      },
+      "category": [
+        {
+          "category_id": "6",
+          "category_name": 142,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 135,
+      "gender": "1",
+      "type": "0",
+      "reward_id": "100110050",
+      "prices": [
+        {
+          "currency_type": "1",
+          "price_of_one": "50",
+          "bulk_price": "500",
+          "amount": "11",
+          "comment": 65
+        }
+      ],
+      "tickets": [
+        {
+          "token_id": "100000101",
+          "price_of_one": "1"
+        }
+      ],
+      "banner": "UI_GashaBanner_100110050",
+      "simple_banner": "Gasha_009",
+      "gasha_start": "2023-08-16 11:00:00",
+      "gasha_end": "2023-09-20 10:00:00",
+      "bonus_id": "0003_0001",
+      "bonus_start": "2023-08-16 11:00:00",
+      "bonus_end": "2023-09-20 10:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id_bonus",
+      "memo": "2303ガシャ",
+      "ribbon": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "100120050",
+      "enable": "1",
+      "sort_id": "1090",
+      "title": 69,
+      "desc": 73,
+      "detail_desc": 77,
+      "note_info": {
+        "warning_comment": 153
+      },
+      "category": [
+        {
+          "category_id": "6",
+          "category_name": 142,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 136,
+      "gender": "0",
+      "type": "0",
+      "reward_id": "100120050",
+      "prices": [
+        {
+          "currency_type": "1",
+          "price_of_one": "50",
+          "bulk_price": "500",
+          "amount": "11",
+          "comment": 65
+        }
+      ],
+      "tickets": [
+        {
+          "token_id": "100000101",
+          "price_of_one": "1"
+        }
+      ],
+      "banner": "UI_GashaBanner_100120050",
+      "simple_banner": "Gasha_009",
+      "gasha_start": "2023-08-16 11:00:00",
+      "gasha_end": "2023-09-20 10:00:00",
+      "bonus_id": "0003_0002",
+      "bonus_start": "2023-08-16 11:00:00",
+      "bonus_end": "2023-09-20 10:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id_bonus",
+      "memo": "2303ガシャ",
+      "ribbon": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "100200060",
+      "enable": "1",
+      "sort_id": "1100",
+      "title": 107,
+      "desc": 116,
+      "detail_desc": 125,
+      "note_info": {
+        "warning_comment": 155
+      },
+      "category": [
+        {
+          "category_id": "7",
+          "category_name": 143,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 137,
+      "type": "0",
+      "reward_id": "100200060",
+      "prices": [
+        {
+          "currency_type": "1",
+          "price_of_one": "50",
+          "bulk_price": "500",
+          "amount": "11",
+          "comment": 65
+        }
+      ],
+      "tickets": [
+        {
+          "token_id": "100000101",
+          "price_of_one": "1"
+        }
+      ],
+      "banner": "UI_GashaBanner_100200060",
+      "simple_banner": "Gasha_009",
+      "gasha_start": "2023-08-16 11:00:00",
+      "gasha_end": "2023-09-20 10:00:00",
+      "bonus_id": "0003_0000",
+      "bonus_start": "2023-08-16 11:00:00",
+      "bonus_end": "2023-09-20 10:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id_bonus",
+      "memo": "2303ガシャ",
+      "ribbon": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "100110070",
+      "enable": "1",
+      "sort_id": "1110",
+      "title": 171,
+      "desc": 183,
+      "detail_desc": 186,
+      "note_info": {
+        "warning_comment": 227
+      },
+      "category": [
+        {
+          "category_id": "8",
+          "category_name": 216,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 138,
+      "gender": "1",
+      "type": "0",
+      "reward_id": "100110070",
+      "prices": [
+        {
+          "currency_type": "1",
+          "price_of_one": "50",
+          "bulk_price": "500",
+          "amount": "11",
+          "comment": 65
+        }
+      ],
+      "tickets": [
+        {
+          "token_id": "100000101",
+          "price_of_one": "1"
+        }
+      ],
+      "banner": "UI_GashaBanner_100110070",
+      "simple_banner": "Gasha_009",
+      "gasha_start": "2023-09-20 11:00:00",
+      "gasha_end": "2023-10-25 10:00:00",
+      "bonus_id": "0006_0001",
+      "bonus_start": "2023-09-20 11:00:00",
+      "bonus_end": "2023-10-25 10:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id_bonus",
+      "memo": "2304ガシャ",
+      "ribbon": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "100120070",
+      "enable": "1",
+      "sort_id": "1120",
+      "title": 172,
+      "desc": 184,
+      "detail_desc": 187,
+      "note_info": {
+        "warning_comment": 228
+      },
+      "category": [
+        {
+          "category_id": "8",
+          "category_name": 216,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 139,
+      "gender": "0",
+      "type": "0",
+      "reward_id": "100120070",
+      "prices": [
+        {
+          "currency_type": "1",
+          "price_of_one": "50",
+          "bulk_price": "500",
+          "amount": "11",
+          "comment": 65
+        }
+      ],
+      "tickets": [
+        {
+          "token_id": "100000101",
+          "price_of_one": "1"
+        }
+      ],
+      "banner": "UI_GashaBanner_100120070",
+      "simple_banner": "Gasha_009",
+      "gasha_start": "2023-09-20 11:00:00",
+      "gasha_end": "2023-10-25 10:00:00",
+      "bonus_id": "0006_0002",
+      "bonus_start": "2023-09-20 11:00:00",
+      "bonus_end": "2023-10-25 10:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id_bonus",
+      "memo": "2304ガシャ",
+      "ribbon": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "100200080",
+      "enable": "1",
+      "sort_id": "1130",
+      "title": 173,
+      "desc": 185,
+      "detail_desc": 188,
+      "note_info": {
+        "warning_comment": 229
+      },
+      "category": [
+        {
+          "category_id": "9",
+          "category_name": 217,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 140,
+      "type": "0",
+      "reward_id": "100200080",
+      "prices": [
+        {
+          "currency_type": "1",
+          "price_of_one": "50",
+          "bulk_price": "500",
+          "amount": "11",
+          "comment": 65
+        }
+      ],
+      "tickets": [
+        {
+          "token_id": "100000101",
+          "price_of_one": "1"
+        }
+      ],
+      "banner": "UI_GashaBanner_100200080",
+      "simple_banner": "Gasha_009",
+      "gasha_start": "2023-09-20 11:00:00",
+      "gasha_end": "2023-10-25 10:00:00",
+      "bonus_id": "0006_0000",
+      "bonus_start": "2023-09-20 11:00:00",
+      "bonus_end": "2023-10-25 10:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id_bonus",
+      "memo": "2304ガシャ",
+      "ribbon": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "100110090",
+      "enable": "1",
+      "sort_id": "1140",
+      "title": 162,
+      "desc": 174,
+      "detail_desc": 230,
+      "note_info": {
+        "warning_comment": 218
+      },
+      "category": [
+        {
+          "category_id": "10",
+          "category_name": 210,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 198,
+      "gender": "1",
+      "type": "0",
+      "reward_id": "100110090",
+      "prices": [
+        {
+          "currency_type": "1",
+          "price_of_one": "50",
+          "bulk_price": "500",
+          "amount": "11",
+          "comment": 65
+        }
+      ],
+      "tickets": [
+        {
+          "token_id": "100000101",
+          "price_of_one": "1"
+        }
+      ],
+      "banner": "UI_GashaBanner_100110090",
+      "simple_banner": "Gasha_009",
+      "gasha_start": "2023-10-25 11:00:00",
+      "gasha_end": "2023-11-22 10:00:00",
+      "bonus_id": "0007_0001",
+      "bonus_start": "2023-10-25 11:00:00",
+      "bonus_end": "2023-11-22 10:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id_bonus",
+      "memo": "2306ガシャ",
+      "ribbon": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "100120090",
+      "enable": "1",
+      "sort_id": "1150",
+      "title": 163,
+      "desc": 175,
+      "detail_desc": 231,
+      "note_info": {
+        "warning_comment": 219
+      },
+      "category": [
+        {
+          "category_id": "10",
+          "category_name": 210,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 199,
+      "gender": "0",
+      "type": "0",
+      "reward_id": "100120090",
+      "prices": [
+        {
+          "currency_type": "1",
+          "price_of_one": "50",
+          "bulk_price": "500",
+          "amount": "11",
+          "comment": 65
+        }
+      ],
+      "tickets": [
+        {
+          "token_id": "100000101",
+          "price_of_one": "1"
+        }
+      ],
+      "banner": "UI_GashaBanner_100120090",
+      "simple_banner": "Gasha_009",
+      "gasha_start": "2023-10-25 11:00:00",
+      "gasha_end": "2023-11-22 10:00:00",
+      "bonus_id": "0007_0002",
+      "bonus_start": "2023-10-25 11:00:00",
+      "bonus_end": "2023-11-22 10:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id_bonus",
+      "memo": "2306ガシャ",
+      "ribbon": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "100200100",
+      "enable": "1",
+      "sort_id": "1160",
+      "title": 164,
+      "desc": 176,
+      "detail_desc": 232,
+      "note_info": {
+        "warning_comment": 220
+      },
+      "category": [
+        {
+          "category_id": "11",
+          "category_name": 211,
+          "ribbon": "0"
+        }
+      ],
+      "tags": 200,
+      "type": "0",
+      "reward_id": "100200100",
+      "prices": [
+        {
+          "currency_type": "1",
+          "price_of_one": "50",
+          "bulk_price": "500",
+          "amount": "11",
+          "comment": 65
+        }
+      ],
+      "tickets": [
+        {
+          "token_id": "100000101",
+          "price_of_one": "1"
+        }
+      ],
+      "banner": "UI_GashaBanner_100200100",
+      "simple_banner": "Gasha_009",
+      "gasha_start": "2023-10-25 11:00:00",
+      "gasha_end": "2023-11-22 10:00:00",
+      "bonus_id": "0007_0000",
+      "bonus_start": "2023-10-25 11:00:00",
+      "bonus_end": "2023-11-22 10:00:00",
+      "format_gasha": "master_mail_format.id",
+      "format_bonus": "master_mail_format.id_bonus",
+      "memo": "2306ガシャ",
+      "ribbon": "0",
+      "version": "9.99.999"
+    }
+  ]
+}

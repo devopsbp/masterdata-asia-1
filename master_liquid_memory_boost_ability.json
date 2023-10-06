@@ -1,0 +1,106 @@
+﻿{
+  "header": {
+    "content_type": "master_liquid_memory_boost_abilities",
+    "timezone": "Asia/Taipei"
+  },
+  "payload": [
+    {
+      "version": "9.99.999",
+      "id": "1",
+      "liquid_memory_id": "10",
+      "bottle_accumulate_limit_bonus": "1000",
+      "desc": 1
+    },
+    {
+      "version": "9.99.999",
+      "id": "2",
+      "liquid_memory_id": "10010002",
+      "bottle_accumulate_limit_bonus": "20",
+      "desc": 2
+    },
+    {
+      "version": "9.99.999",
+      "id": "3",
+      "liquid_memory_id": "10010003",
+      "bottle_accumulate_limit_bonus": "10",
+      "desc": 3
+    },
+    {
+      "version": "9.99.999",
+      "id": "4",
+      "liquid_memory_id": "10020001",
+      "bottle_accumulate_limit_bonus": "2",
+      "desc": 4
+    },
+    {
+      "version": "9.99.999",
+      "id": "5",
+      "liquid_memory_id": "16",
+      "bottle_accumulate_limit_bonus": "500",
+      "desc": 5
+    },
+    {
+      "version": "1.00.000",
+      "id": "101",
+      "liquid_memory_id": "10",
+      "bottle_accumulate_limit_bonus": "50",
+      "desc": 6
+    },
+    {
+      "version": "1.00.000",
+      "id": "102",
+      "liquid_memory_id": "12",
+      "bottle_accumulate_limit_bonus": "1",
+      "desc": 7
+    },
+    {
+      "version": "1.00.000",
+      "id": "103",
+      "liquid_memory_id": "15",
+      "bottle_accumulate_limit_bonus": "25",
+      "desc": 8
+    },
+    {
+      "version": "1.00.000",
+      "id": "104",
+      "liquid_memory_id": "17",
+      "bottle_accumulate_limit_bonus": "50",
+      "desc": 9
+    },
+    {
+      "version": "1.00.000",
+      "id": "105",
+      "liquid_memory_id": "18",
+      "bottle_accumulate_limit_bonus": "50",
+      "desc": 10
+    },
+    {
+      "version": "1.00.000",
+      "id": "106",
+      "liquid_memory_id": "19",
+      "bottle_accumulate_limit_bonus": "10",
+      "desc": 11
+    },
+    {
+      "version": "1.00.000",
+      "id": "107",
+      "liquid_memory_id": "20",
+      "bottle_accumulate_limit_bonus": "1",
+      "desc": 12
+    },
+    {
+      "version": "1.00.000",
+      "id": "108",
+      "liquid_memory_id": "21",
+      "bottle_accumulate_limit_bonus": "1",
+      "desc": 13
+    },
+    {
+      "version": "1.00.000",
+      "id": "109",
+      "liquid_memory_id": "22",
+      "bottle_accumulate_limit_bonus": "1",
+      "desc": 14
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+﻿{
+  "header": {
+    "content_type": "master_network_cafe_buffs"
+  },
+  "payload": [
+    {
+      "id": "1",
+      "buff_type": "6",
+      "value": "30",
+      "version": "9.99.999"
+    },
+    {
+      "id": "2",
+      "buff_type": "8",
+      "value": "10",
+      "version": "9.99.999"
+    },
+    {
+      "id": "3",
+      "buff_type": "1",
+      "value": "10",
+      "version": "9.99.999"
+    },
+    {
+      "id": "4",
+      "buff_type": "2",
+      "value": "30",
+      "version": "9.99.999"
+    },
+    {
+      "id": "5",
+      "buff_type": "4",
+      "value": "2",
+      "version": "9.99.999"
+    },
+    {
+      "id": "6",
+      "buff_type": "5",
+      "value": "30",
+      "version": "9.99.999"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+﻿{
+  "header": {
+    "content_type": "master_event_challengequest_drop"
+  },
+  "payload": [
+    {
+      "version": "9.99.999",
+      "id": "999000",
+      "quest_id": "NQ_1002_2_001",
+      "term_id": "99991",
+      "entry_condition_id": "90007",
+      "drop_list": [
+        {
+          "item_type": "19",
+          "item_id": "190000100",
+          "min_num_of_acq": "1",
+          "max_num_of_acq": "5",
+          "step_size": "1",
+          "drop_rate": "10000"
+        },
+        {
+          "item_type": "19",
+          "item_id": "190000000",
+          "min_num_of_acq": "100",
+          "max_num_of_acq": "1000",
+          "step_size": "10",
+          "drop_rate": "10000"
+        }
+      ]
+    }
+  ]
+}

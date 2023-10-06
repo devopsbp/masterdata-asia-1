@@ -1,0 +1,12 @@
+﻿{
+  "header": {
+    "content_type": "master_text"
+  },
+  "payload": [
+    {
+      "id": "5",
+      "ja_JP": "報酬プラス利用可能回数 回復数が1増加",
+      "zh_TW": "獎勵追加可用次數 回復數增加1"
+    }
+  ]
+}

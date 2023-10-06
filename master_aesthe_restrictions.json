@@ -1,0 +1,649 @@
+﻿{
+  "header": {
+    "content_type": "master_aesthe_restrictions",
+    "timezone": "Asia/Taipei"
+  },
+  "payload": [
+    {
+      "id": "chara_type",
+      "gender": "2",
+      "object": "characreate.chara_type",
+      "edit_type": "2",
+      "pattern": "0",
+      "version": "1.00.000"
+    },
+    {
+      "id": "gender",
+      "gender": "2",
+      "object": "characreate.gender",
+      "edit_type": "2",
+      "pattern": "0,1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "body_type_male",
+      "gender": "0",
+      "object": "characreate.body_type",
+      "edit_type": "2",
+      "pattern": "1,2,4",
+      "version": "1.00.000"
+    },
+    {
+      "id": "body_type_female",
+      "gender": "1",
+      "object": "characreate.body_type",
+      "edit_type": "2",
+      "pattern": "7,8,10",
+      "version": "1.00.000"
+    },
+    {
+      "id": "slider_length",
+      "gender": "2",
+      "object": "characreate.slider<0>",
+      "edit_type": "2",
+      "min": "0",
+      "max": "1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "slider_plump",
+      "gender": "2",
+      "object": "characreate.slider<1>",
+      "edit_type": "2",
+      "min": "0",
+      "max": "1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "slider_chest",
+      "gender": "1",
+      "object": "characreate.slider<2>",
+      "edit_type": "2",
+      "min": "0",
+      "max": "1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "hair_mirror",
+      "gender": "2",
+      "object": "characreate.hair_mirror",
+      "edit_type": "2",
+      "min": "0",
+      "max": "1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "hair_color_main",
+      "gender": "2",
+      "object": "characreate.hair.parts_color_1_id",
+      "edit_type": "2",
+      "pattern": "0,1,2,3,4,5,6,7,8,9,10,11,12,13,14",
+      "version": "1.00.000"
+    },
+    {
+      "id": "hair_color_sub",
+      "gender": "2",
+      "object": "characreate.hair.parts_color_2_id",
+      "edit_type": "2",
+      "pattern": "0,1,2,3,4,5,6,7,8,9,10,11,12,13,14",
+      "version": "1.00.000"
+    },
+    {
+      "id": "hair_color_mesh",
+      "gender": "2",
+      "object": "characreate.hair.parts_color_3_id",
+      "edit_type": "1",
+      "pattern": "0,1,2,3,4,5,6,7,8,9,10,11,12,13,14",
+      "version": "1.00.000"
+    },
+    {
+      "id": "hair_brightness_main",
+      "gender": "2",
+      "object": "characreate.hair.parts_color_1_v",
+      "edit_type": "2",
+      "pattern": "0,1,2,3,4,5,6,7,8",
+      "version": "1.00.000"
+    },
+    {
+      "id": "hair_brightness_sub",
+      "gender": "2",
+      "object": "characreate.hair.parts_color_2_v",
+      "edit_type": "2",
+      "pattern": "0,1,2,3,4,5,6,7,8",
+      "version": "1.00.000"
+    },
+    {
+      "id": "hair_brightness_mesh",
+      "gender": "2",
+      "object": "characreate.hair.parts_color_3_v",
+      "edit_type": "1",
+      "pattern": "0,1,2,3,4,5,6,7,8",
+      "version": "1.00.000"
+    },
+    {
+      "id": "hair_mesh_switch_0_creation",
+      "gender": "2",
+      "object": "characreate.hair_mesh_switch<0>",
+      "edit_type": "0",
+      "pattern": "0",
+      "version": "1.00.000"
+    },
+    {
+      "id": "hair_mesh_switch_1_creation",
+      "gender": "2",
+      "object": "characreate.hair_mesh_switch<1>",
+      "edit_type": "0",
+      "pattern": "0",
+      "version": "1.00.000"
+    },
+    {
+      "id": "hair_mesh_switch_2_creation",
+      "gender": "2",
+      "object": "characreate.hair_mesh_switch<2>",
+      "edit_type": "0",
+      "pattern": "0",
+      "version": "1.00.000"
+    },
+    {
+      "id": "hair_mesh_switch_3_creation",
+      "gender": "2",
+      "object": "characreate.hair_mesh_switch<3>",
+      "edit_type": "0",
+      "pattern": "0",
+      "version": "1.00.000"
+    },
+    {
+      "id": "hair_mesh_switch_0_aesthe",
+      "gender": "2",
+      "object": "characreate.hair_mesh_switch<0>",
+      "edit_type": "1",
+      "pattern": "0,1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "hair_mesh_switch_1_aesthe",
+      "gender": "2",
+      "object": "characreate.hair_mesh_switch<1>",
+      "edit_type": "1",
+      "pattern": "0,1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "hair_mesh_switch_2_aesthe",
+      "gender": "2",
+      "object": "characreate.hair_mesh_switch<2>",
+      "edit_type": "1",
+      "pattern": "0,1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "hair_mesh_switch_3_aesthe",
+      "gender": "2",
+      "object": "characreate.hair_mesh_switch<3>",
+      "edit_type": "1",
+      "pattern": "0,1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "hair_gradation_range",
+      "gender": "2",
+      "object": "characreate.hair_gradation_range",
+      "edit_type": "2",
+      "min": "0",
+      "max": "30",
+      "version": "1.00.000"
+    },
+    {
+      "id": "hair_gradation_height_creation",
+      "gender": "2",
+      "object": "characreate.hair_gradation_height",
+      "edit_type": "0",
+      "min": "170",
+      "max": "170",
+      "version": "1.00.000"
+    },
+    {
+      "id": "hair_gradation_height_aesthe",
+      "gender": "2",
+      "object": "characreate.hair_gradation_height",
+      "edit_type": "1",
+      "min": "150",
+      "max": "190",
+      "version": "1.00.000"
+    },
+    {
+      "id": "skin_color",
+      "gender": "2",
+      "object": "characreate.skin.parts_color_id",
+      "edit_type": "2",
+      "pattern": "0,1,2,3,4,5,6",
+      "version": "1.00.000"
+    },
+    {
+      "id": "skin_brightness",
+      "gender": "2",
+      "object": "characreate.skin.parts_color_v",
+      "edit_type": "2",
+      "pattern": "0,1,2,3,4,5,6",
+      "version": "1.00.000"
+    },
+    {
+      "id": "eye_angle",
+      "gender": "2",
+      "object": "characreate.eye_angle",
+      "edit_type": "2",
+      "min": "-1",
+      "max": "1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "eyelash_color_value",
+      "gender": "2",
+      "object": "characreate.eyelash_color_value",
+      "edit_type": "2",
+      "pattern": "0,1,2,3,4,5,6,7,8",
+      "version": "1.00.000"
+    },
+    {
+      "id": "eyebrow_angle",
+      "gender": "2",
+      "object": "characreate.eyebrow_angle",
+      "edit_type": "2",
+      "min": "-1",
+      "max": "1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "eyebrow_color_value",
+      "gender": "2",
+      "object": "characreate.eyebrow_color_value",
+      "edit_type": "2",
+      "pattern": "0,1,2,3,4,5,6,7,8",
+      "version": "1.00.000"
+    },
+    {
+      "id": "left_iris_color_1",
+      "gender": "2",
+      "object": "characreate.eye_left.parts_color_1_id",
+      "edit_type": "2",
+      "pattern": "0,1,2,3,4,5,6,7,8,9,10,11",
+      "version": "1.00.000"
+    },
+    {
+      "id": "left_iris_color_2",
+      "gender": "2",
+      "object": "characreate.eye_left.parts_color_2_id",
+      "edit_type": "2",
+      "pattern": "0,1,2,3,4,5,6,7,8,9,10,11",
+      "version": "1.00.000"
+    },
+    {
+      "id": "left_iris_color_3",
+      "gender": "2",
+      "object": "characreate.eye_left.parts_color_3_id",
+      "edit_type": "2",
+      "pattern": "0,1,2,3,4,5,6,7,8,9,10,11",
+      "version": "1.00.000"
+    },
+    {
+      "id": "left_iris_color_4",
+      "gender": "2",
+      "object": "characreate.eye_left.parts_color_4_id",
+      "edit_type": "2",
+      "pattern": "0,1,2,3,4,5,6,7,8,9,10,11",
+      "version": "1.00.000"
+    },
+    {
+      "id": "right_iris_color_1",
+      "gender": "2",
+      "object": "characreate.eye_right.parts_color_1_id",
+      "edit_type": "2",
+      "pattern": "0,1,2,3,4,5,6,7,8,9,10,11",
+      "version": "1.00.000"
+    },
+    {
+      "id": "right_iris_color_2",
+      "gender": "2",
+      "object": "characreate.eye_right.parts_color_2_id",
+      "edit_type": "2",
+      "pattern": "0,1,2,3,4,5,6,7,8,9,10,11",
+      "version": "1.00.000"
+    },
+    {
+      "id": "right_iris_color_3",
+      "gender": "2",
+      "object": "characreate.eye_right.parts_color_3_id",
+      "edit_type": "2",
+      "pattern": "0,1,2,3,4,5,6,7,8,9,10,11",
+      "version": "1.00.000"
+    },
+    {
+      "id": "right_iris_color_4",
+      "gender": "2",
+      "object": "characreate.eye_right.parts_color_4_id",
+      "edit_type": "2",
+      "pattern": "0,1,2,3,4,5,6,7,8,9,10,11",
+      "version": "1.00.000"
+    },
+    {
+      "id": "left_iris_saturation_1",
+      "gender": "2",
+      "object": "characreate.eye_left.parts_color_1_s",
+      "edit_type": "2",
+      "pattern": "-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6",
+      "version": "1.00.000"
+    },
+    {
+      "id": "left_iris_saturation_2",
+      "gender": "2",
+      "object": "characreate.eye_left.parts_color_2_s",
+      "edit_type": "2",
+      "pattern": "-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6",
+      "version": "1.00.000"
+    },
+    {
+      "id": "left_iris_saturation_3",
+      "gender": "2",
+      "object": "characreate.eye_left.parts_color_3_s",
+      "edit_type": "2",
+      "pattern": "-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6",
+      "version": "1.00.000"
+    },
+    {
+      "id": "left_iris_saturation_4",
+      "gender": "2",
+      "object": "characreate.eye_left.parts_color_4_s",
+      "edit_type": "2",
+      "pattern": "-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6",
+      "version": "1.00.000"
+    },
+    {
+      "id": "right_iris_saturation_1",
+      "gender": "2",
+      "object": "characreate.eye_right.parts_color_1_s",
+      "edit_type": "2",
+      "pattern": "-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6",
+      "version": "1.00.000"
+    },
+    {
+      "id": "right_iris_saturation_2",
+      "gender": "2",
+      "object": "characreate.eye_right.parts_color_2_s",
+      "edit_type": "2",
+      "pattern": "-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6",
+      "version": "1.00.000"
+    },
+    {
+      "id": "right_iris_saturation_3",
+      "gender": "2",
+      "object": "characreate.eye_right.parts_color_3_s",
+      "edit_type": "2",
+      "pattern": "-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6",
+      "version": "1.00.000"
+    },
+    {
+      "id": "right_iris_saturation_4",
+      "gender": "2",
+      "object": "characreate.eye_right.parts_color_4_s",
+      "edit_type": "2",
+      "pattern": "-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6",
+      "version": "1.00.000"
+    },
+    {
+      "id": "left_iris_brightness_1",
+      "gender": "2",
+      "object": "characreate.eye_left.parts_color_1_v",
+      "edit_type": "2",
+      "pattern": "-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7",
+      "version": "1.00.000"
+    },
+    {
+      "id": "left_iris_brightness_2",
+      "gender": "2",
+      "object": "characreate.eye_left.parts_color_2_v",
+      "edit_type": "2",
+      "pattern": "-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7",
+      "version": "1.00.000"
+    },
+    {
+      "id": "left_iris_brightness_3",
+      "gender": "2",
+      "object": "characreate.eye_left.parts_color_3_v",
+      "edit_type": "2",
+      "pattern": "-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7",
+      "version": "1.00.000"
+    },
+    {
+      "id": "left_iris_brightness_4",
+      "gender": "2",
+      "object": "characreate.eye_left.parts_color_4_v",
+      "edit_type": "2",
+      "pattern": "-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7",
+      "version": "1.00.000"
+    },
+    {
+      "id": "right_iris_brightness_1",
+      "gender": "2",
+      "object": "characreate.eye_right.parts_color_1_v",
+      "edit_type": "2",
+      "pattern": "-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7",
+      "version": "1.00.000"
+    },
+    {
+      "id": "right_iris_brightness_2",
+      "gender": "2",
+      "object": "characreate.eye_right.parts_color_2_v",
+      "edit_type": "2",
+      "pattern": "-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7",
+      "version": "1.00.000"
+    },
+    {
+      "id": "right_iris_brightness_3",
+      "gender": "2",
+      "object": "characreate.eye_right.parts_color_3_v",
+      "edit_type": "2",
+      "pattern": "-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7",
+      "version": "1.00.000"
+    },
+    {
+      "id": "right_iris_brightness_4",
+      "gender": "2",
+      "object": "characreate.eye_right.parts_color_4_v",
+      "edit_type": "2",
+      "pattern": "-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7",
+      "version": "1.00.000"
+    },
+    {
+      "id": "odd_eye",
+      "gender": "2",
+      "object": "characreate.odd_eye",
+      "edit_type": "2",
+      "pattern": "0,1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "mole_1",
+      "gender": "2",
+      "object": "characreate.makeup_mole<0>.is_on",
+      "edit_type": "2",
+      "pattern": "0,1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "mole_2",
+      "gender": "2",
+      "object": "characreate.makeup_mole<1>.is_on",
+      "edit_type": "2",
+      "pattern": "0,1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "mole_3",
+      "gender": "2",
+      "object": "characreate.makeup_mole<2>.is_on",
+      "edit_type": "2",
+      "pattern": "0,1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "mole_4",
+      "gender": "2",
+      "object": "characreate.makeup_mole<3>.is_on",
+      "edit_type": "2",
+      "pattern": "0,1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "mole_1_mirror",
+      "gender": "2",
+      "object": "characreate.makeup_mole<0>.is_mirror",
+      "edit_type": "2",
+      "pattern": "0,1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "mole_2_mirror",
+      "gender": "2",
+      "object": "characreate.makeup_mole<1>.is_mirror",
+      "edit_type": "2",
+      "pattern": "0,1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "mole_3_mirror",
+      "gender": "2",
+      "object": "characreate.makeup_mole<2>.is_mirror",
+      "edit_type": "2",
+      "pattern": "0,1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "mole_4_mirror",
+      "gender": "2",
+      "object": "characreate.makeup_mole<3>.is_mirror",
+      "edit_type": "2",
+      "pattern": "0,1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "facial_marks_mirror",
+      "gender": "2",
+      "object": "characreate.makeup_condition.parts_mirror",
+      "edit_type": "2",
+      "pattern": "0,1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "facial_marks_color",
+      "gender": "2",
+      "object": "characreate.makeup_condition.parts_color_id",
+      "edit_type": "2",
+      "pattern": "0,1,2,3,4,5,6",
+      "version": "1.00.000"
+    },
+    {
+      "id": "facial_marks_brightness",
+      "gender": "2",
+      "object": "characreate.makeup_condition.parts_color_v",
+      "edit_type": "2",
+      "pattern": "0,1,2,3,4,5,6",
+      "version": "1.00.000"
+    },
+    {
+      "id": "lipstick_color",
+      "gender": "2",
+      "object": "characreate.makeup_lip.parts_color_id",
+      "edit_type": "2",
+      "pattern": "0,1,2,3,4,5,6,7,8,9,10,11",
+      "version": "1.00.000"
+    },
+    {
+      "id": "lipstick_saturation",
+      "gender": "2",
+      "object": "characreate.makeup_lip.parts_color_s",
+      "edit_type": "2",
+      "pattern": "-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5",
+      "version": "1.00.000"
+    },
+    {
+      "id": "lipstick_brightness",
+      "gender": "2",
+      "object": "characreate.makeup_lip.parts_color_v",
+      "edit_type": "2",
+      "pattern": "-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6",
+      "version": "1.00.000"
+    },
+    {
+      "id": "lipstick_highlight",
+      "gender": "2",
+      "object": "characreate.lip_highlight",
+      "edit_type": "2",
+      "pattern": "0,1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "makeup_1_color",
+      "gender": "2",
+      "object": "characreate.makeup_paint1.parts_color_id",
+      "edit_type": "2",
+      "pattern": "0,1,2,3,4,5,6,7,8,9,10,11",
+      "version": "1.00.000"
+    },
+    {
+      "id": "makeup_2_color",
+      "gender": "2",
+      "object": "characreate.makeup_paint2.parts_color_id",
+      "edit_type": "2",
+      "pattern": "0,1,2,3,4,5,6,7,8,9,10,11",
+      "version": "1.00.000"
+    },
+    {
+      "id": "makeup_1_saturation",
+      "gender": "2",
+      "object": "characreate.makeup_paint1.parts_color_s",
+      "edit_type": "2",
+      "pattern": "-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5",
+      "version": "1.00.000"
+    },
+    {
+      "id": "makeup_2_saturation",
+      "gender": "2",
+      "object": "characreate.makeup_paint2.parts_color_s",
+      "edit_type": "2",
+      "pattern": "-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5",
+      "version": "1.00.000"
+    },
+    {
+      "id": "makeup_1_brightness",
+      "gender": "2",
+      "object": "characreate.makeup_paint1.parts_color_v",
+      "edit_type": "2",
+      "pattern": "-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6",
+      "version": "1.00.000"
+    },
+    {
+      "id": "makeup_2_brightness",
+      "gender": "2",
+      "object": "characreate.makeup_paint2.parts_color_v",
+      "edit_type": "2",
+      "pattern": "-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6",
+      "version": "1.00.000"
+    },
+    {
+      "id": "class_type",
+      "gender": "2",
+      "object": "class_type",
+      "edit_type": "0",
+      "pattern": "6,7,11,12,19",
+      "version": "1.00.000"
+    },
+    {
+      "id": "voice_id",
+      "gender": "2",
+      "object": "characreate.voice_id",
+      "edit_type": "2",
+      "pattern": "0,1,2,3,4,5",
+      "version": "1.00.000"
+    }
+  ]
+}

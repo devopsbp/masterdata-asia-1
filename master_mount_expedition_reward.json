@@ -1,0 +1,378 @@
+﻿{
+  "header": {
+    "content_type": "master_mount_expedition_reward"
+  },
+  "payload": [
+    {
+      "id": "test1",
+      "table_id": "tableA",
+      "reward_id": "ME_tableA_00001",
+      "weight": "1",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test2",
+      "table_id": "tableB",
+      "reward_id": "ME_tableB_00001",
+      "weight": "50",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test3",
+      "table_id": "tableB",
+      "reward_id": "ME_tableB_00002",
+      "weight": "20",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test4",
+      "table_id": "tableB",
+      "reward_id": "ME_tableB_00003",
+      "weight": "10",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test5",
+      "table_id": "tableB",
+      "reward_id": "ME_tableB_00004",
+      "weight": "20",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test6",
+      "table_id": "tableC",
+      "reward_id": "ME_tableC_00001",
+      "weight": "1",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test7",
+      "table_id": "tableD",
+      "reward_id": "ME_tableD_00001",
+      "weight": "20",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test8",
+      "table_id": "tableD",
+      "reward_id": "ME_tableD_00002",
+      "weight": "20",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test9",
+      "table_id": "tableD",
+      "reward_id": "ME_tableD_00003",
+      "weight": "20",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test10",
+      "table_id": "tableD",
+      "reward_id": "ME_tableD_00004",
+      "weight": "20",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test11",
+      "table_id": "tableD",
+      "reward_id": "ME_tableD_00005",
+      "weight": "20",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test12",
+      "table_id": "tableE",
+      "reward_id": "ME_tableE_00001",
+      "weight": "10",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test13",
+      "table_id": "tableE",
+      "reward_id": "ME_tableE_00002",
+      "weight": "15",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test14",
+      "table_id": "tableE",
+      "reward_id": "ME_tableE_00003",
+      "weight": "15",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test15",
+      "table_id": "tableE",
+      "reward_id": "ME_tableE_00004",
+      "weight": "15",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test16",
+      "table_id": "tableE",
+      "reward_id": "ME_tableE_00005",
+      "weight": "15",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test17",
+      "table_id": "tableE",
+      "reward_id": "ME_tableE_00006",
+      "weight": "15",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test18",
+      "table_id": "tableE",
+      "reward_id": "ME_tableE_00007",
+      "weight": "15",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test19",
+      "table_id": "tableF",
+      "reward_id": "ME_tableF_00001",
+      "weight": "1",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test20",
+      "table_id": "tableG",
+      "reward_id": "ME_tableG_00001",
+      "weight": "10",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test21",
+      "table_id": "tableG",
+      "reward_id": "ME_tableG_00002",
+      "weight": "10",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test22",
+      "table_id": "tableG",
+      "reward_id": "ME_tableG_00003",
+      "weight": "10",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test23",
+      "table_id": "tableG",
+      "reward_id": "ME_tableG_00004",
+      "weight": "10",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test24",
+      "table_id": "tableG",
+      "reward_id": "ME_tableG_00005",
+      "weight": "10",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test25",
+      "table_id": "tableG",
+      "reward_id": "ME_tableG_00006",
+      "weight": "10",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test26",
+      "table_id": "tableG",
+      "reward_id": "ME_tableG_00007",
+      "weight": "10",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test27",
+      "table_id": "tableG",
+      "reward_id": "ME_tableG_00008",
+      "weight": "10",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test28",
+      "table_id": "tableG",
+      "reward_id": "ME_tableG_00009",
+      "weight": "10",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test29",
+      "table_id": "tableG",
+      "reward_id": "ME_tableG_00010",
+      "weight": "10",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test30",
+      "table_id": "tableH",
+      "reward_id": "ME_tableH_00001",
+      "weight": "5",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test31",
+      "table_id": "tableH",
+      "reward_id": "ME_tableH_00002",
+      "weight": "8",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test32",
+      "table_id": "tableH",
+      "reward_id": "ME_tableH_00003",
+      "weight": "8",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test33",
+      "table_id": "tableH",
+      "reward_id": "ME_tableH_00004",
+      "weight": "8",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test34",
+      "table_id": "tableH",
+      "reward_id": "ME_tableH_00005",
+      "weight": "8",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test35",
+      "table_id": "tableH",
+      "reward_id": "ME_tableH_00006",
+      "weight": "8",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test36",
+      "table_id": "tableH",
+      "reward_id": "ME_tableH_00007",
+      "weight": "8",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test37",
+      "table_id": "tableH",
+      "reward_id": "ME_tableH_00008",
+      "weight": "5",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test38",
+      "table_id": "tableH",
+      "reward_id": "ME_tableH_00009",
+      "weight": "7",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test39",
+      "table_id": "tableH",
+      "reward_id": "ME_tableH_00010",
+      "weight": "7",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test40",
+      "table_id": "tableH",
+      "reward_id": "ME_tableH_00011",
+      "weight": "7",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test41",
+      "table_id": "tableH",
+      "reward_id": "ME_tableH_00012",
+      "weight": "7",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test42",
+      "table_id": "tableH",
+      "reward_id": "ME_tableH_00013",
+      "weight": "7",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test43",
+      "table_id": "tableH",
+      "reward_id": "ME_tableH_00014",
+      "weight": "7",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test44",
+      "table_id": "tableI",
+      "reward_id": "ME_tableI_00001",
+      "weight": "1",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test45",
+      "table_id": "tableJ",
+      "reward_id": "ME_tableJ_00001",
+      "weight": "50",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test46",
+      "table_id": "tableJ",
+      "reward_id": "ME_tableJ_00002",
+      "weight": "30",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test47",
+      "table_id": "tableJ",
+      "reward_id": "ME_tableJ_00003",
+      "weight": "20",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test48",
+      "table_id": "tableJ",
+      "reward_id": "ME_tableJ_00004",
+      "weight": "10",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test49",
+      "table_id": "tableK",
+      "reward_id": "ME_tableK_00001",
+      "weight": "47",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test50",
+      "table_id": "tableK",
+      "reward_id": "ME_tableK_00002",
+      "weight": "30",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test51",
+      "table_id": "tableK",
+      "reward_id": "ME_tableK_00003",
+      "weight": "20",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test52",
+      "table_id": "tableK",
+      "reward_id": "ME_tableK_00004",
+      "weight": "10",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test53",
+      "table_id": "tableK",
+      "reward_id": "ME_tableK_00005",
+      "weight": "3",
+      "version": "9.99.999"
+    }
+  ]
+}

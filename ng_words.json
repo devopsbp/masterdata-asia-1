@@ -1,0 +1,3417 @@
+﻿{
+  "header": {
+    "content_type": "master_ng_words"
+  },
+  "payload": [
+    {
+      "text": "@docomo",
+      "target": "0",
+      "reason": "個人情報"
+    },
+    {
+      "text": "@docomo.",
+      "target": "0",
+      "reason": "個人情報"
+    },
+    {
+      "text": "@ezweb",
+      "target": "0",
+      "reason": "個人情報"
+    },
+    {
+      "text": "@ezweb.",
+      "target": "0",
+      "reason": "個人情報"
+    },
+    {
+      "text": "@gmail",
+      "target": "0",
+      "reason": "個人情報"
+    },
+    {
+      "text": "@i.softbank",
+      "target": "0",
+      "reason": "個人情報"
+    },
+    {
+      "text": "@i.softbank.",
+      "target": "0",
+      "reason": "個人情報"
+    },
+    {
+      "text": "@softbank",
+      "target": "0",
+      "reason": "個人情報"
+    },
+    {
+      "text": "@softbank.",
+      "target": "0",
+      "reason": "個人情報"
+    },
+    {
+      "text": "@yahoo",
+      "target": "0",
+      "reason": "個人情報"
+    },
+    {
+      "text": "@yahoo.",
+      "target": "0",
+      "reason": "個人情報"
+    },
+    {
+      "text": "╰u╯",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "AV女優",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "AV男優",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "callboy",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "callgirl",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "cock",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "dick",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "drug",
+      "target": "0",
+      "reason": "反社会的表現"
+    },
+    {
+      "text": "fuck",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "gスポット",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ｇすぽっと",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "gスポツト",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ISIS",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "manko",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "mannko",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "negro",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "négro",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "negur",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "neguro",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "nigger",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "ochinchin",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ochinnchin",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "omanco",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "omanko",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "omannco",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "omannko",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "omeco",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "omeko",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "onani",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "onani-",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "otinntin",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "otintin",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "penis",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "pénis",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "penisu",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "porn",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "porno",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "pussy",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "rape",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "sex",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "sfボシュウ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ｓｆぼしゅう",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ｓｆボシュウ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "sfボシユウ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "sf募集",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "SFぼしゅう",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "smチョウキョウ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ｓｍちょうきょう",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ｓｍチョウキョウ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "smチヨウキヨウ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "smプレイ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ｓｍぷれい",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "sm調教",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "sperm",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "sperma",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "terrorist",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "tikubi",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "tinbo",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "tinco",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "tinko",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "tinnko",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "tinnpo",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "tinnpoco",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "tinnpoko",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "tinntinn",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "tinpo",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "tinpoco",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "tinpoko",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "unko",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "unnchi",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "unnko",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "vagina",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "vagna",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "wagina",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "zaamen",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "zamen",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "za-men",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "アイルランド共和軍",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "アクメ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "麻原彰晃",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "アスホ-ル",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "アナル",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "あなる",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "あなるせっくす",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ｱﾅﾙ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "アナニ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ｱﾅﾆ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "あなるふぁっく",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "アニリングス",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "アヌス",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "アビマエル・グスマン",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "アブ・サヤフ",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "アブサヤフ",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "アブノーマルセックス",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "あぶのーまるせっくす",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "アブノーマルプレイ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "あぶのーまるぷれい",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "アブノ-マル",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "アブノ-マルセツクス",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "アブノ-マルプレイ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "アフマド・ヤーシーン",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "アラン・ヘニング",
+      "target": "0",
+      "reason": "テロ被害者"
+    },
+    {
+      "text": "アランヘニング",
+      "target": "0",
+      "reason": "テロ被害者"
+    },
+    {
+      "text": "アル・シャバーブ",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "アルカーイダ",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "アルカイダ",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "アンサール・アル・スンナ軍",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "アンサールアルスンナ軍",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "イスラーム国",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "イスラーム聖戦",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "イスラム国",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "イスラム運動",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "イスラム集団",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "イスラム聖戦",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "イチモツ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "イマラチオ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "イラマチオ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "インド共産党毛沢東主義派",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "インポ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "インモウ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ウ◯ンコ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ウ・Д・ンコ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ウ0ンコ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ヴァギナ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ヴアギナ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ヴェルピライ・プラブハカラン",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "ウンコ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "うんこ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ウンチ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "うんち",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "援交",
+      "target": "0",
+      "reason": "出会い系"
+    },
+    {
+      "text": "援助交際",
+      "target": "0",
+      "reason": "出会い系"
+    },
+    {
+      "text": "ホ別",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "エンジヨコウサイ",
+      "target": "0",
+      "reason": "出会い系"
+    },
+    {
+      "text": "オxコ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "オウム真理教",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "オーラルセックス",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "おーらるせっくす",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "おーらるセックス",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "オーラルせっくす",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "オーラルプレイ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "チンチン",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "おちんちん",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "オッパイ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "おっぱい",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "オツパイ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "オナニ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "オナニ-",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "オナニー",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "才ナ二",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "おなにー",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "オナペット",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "おなぺっと",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "オナペツト",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "オナル",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "おフェラ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "オマ コ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "オマxコ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "オマコ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "マンコ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "おまんこ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "オメコ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "おめこ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "買春",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ガマン汁",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "がまん汁",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "キジルシ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "きじるし",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "キチガイ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "きちがい",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "キチガイイ",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "キンタマ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "きんたま",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "キ印",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "き印",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "クリトソス",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "クリトリス",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "栗と栗鼠",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "くりとりす",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "クルド労働者党",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "クロンボ",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "強盗",
+      "target": "0",
+      "reason": "反社会的表現"
+    },
+    {
+      "text": "コカイン",
+      "target": "0",
+      "reason": "反社会的表現"
+    },
+    {
+      "text": "覚醒剤",
+      "target": "0",
+      "reason": "反社会的表現"
+    },
+    {
+      "text": "後藤健二",
+      "target": "0",
+      "reason": "テロ被害者"
+    },
+    {
+      "text": "ごむシャク",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ゴムしゃく",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ゴムフェラ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ごむフェラ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ゴムふぇら",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ゴムフエラ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ゴム尺",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "コロシタイ",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "殺す",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "ころす",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "殺せ",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "コロンビア革命軍",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "コロンビア自衛軍連合",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "コンド-ム",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "コンドゥム",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ザアメン",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ザーメン",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ざーめん",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "さおシマイ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "サオ姉妹",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "さお姉妹",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "させこ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "サセ子",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "させ子",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "殺害",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "殺傷",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "殺人",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "ザ-メン",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ザルカーウィー",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "ジースポット",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "じーすぽっと",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "まんぴー",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ジェームス・フォーリー",
+      "target": "0",
+      "reason": "テロ被害者"
+    },
+    {
+      "text": "ジェームスフォーリー",
+      "target": "0",
+      "reason": "テロ被害者"
+    },
+    {
+      "text": "ジェマ・イスラミア",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "ジェマイスラミア",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "死刑",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "シネ",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "死ね",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "ジハード団",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "死亡",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "ションベン",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "しょんべん",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "スカトロ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "すかとろ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "スティーブン・ソトノフ",
+      "target": "0",
+      "reason": "テロ被害者"
+    },
+    {
+      "text": "スティーブンソトノフ",
+      "target": "0",
+      "reason": "テロ被害者"
+    },
+    {
+      "text": "ストーカー",
+      "target": "0",
+      "reason": "反社会的表現"
+    },
+    {
+      "text": "スペルマ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "すぺるま",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "スマタ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ズリセン",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ずりせん",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ズリネタ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ズリねた",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ずりネタ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "スワッピング",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "すわっぴんぐ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "セイエキ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "セックス",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "せっくす",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "セツクス",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "窃盗",
+      "target": "0",
+      "reason": "反社会的表現"
+    },
+    {
+      "text": "セフレ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "センズリ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "せんずり",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ソクアポ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "そくアポ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ソクあぽ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ソクハメ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "そくハメ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ソクはめ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ソ-プ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ターリバーン",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "ターリバン",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "大麻",
+      "target": "0",
+      "reason": "反社会的表現"
+    },
+    {
+      "text": "ダッチワイフ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "だっちわいふ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "だっちワイフ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ダッチわいふ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ダツチワイフ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "タマキン",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "たまきん",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "タミル・イーラム解放のトラ",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "タミルイーラム解放のトラ",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "チクビ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ちくび",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "チソコ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "チンカス",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "チンゲ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "チンコ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ちんこ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ちんちん",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "チンボ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ちんぼ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "チンポ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ちんぽ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ツンボ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "つんぼ",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "デービッド・ヘインズ",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "デービッドヘインズ",
+      "target": "0",
+      "reason": "テロ被害者"
+    },
+    {
+      "text": "デカパイ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "デカマラ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "てこき",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "てコキ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "テこき",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "テマン",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "てまん",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "てマン",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "テまん",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "テロリスト",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "テロリズム",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "盗撮",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "盗聴",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ナカダシ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "なかだし",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "なかダシ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ナカだし",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ナカ出シ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "なか出し",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ナカ出し",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ナチス",
+      "target": "0",
+      "reason": "歴史的背景"
+    },
+    {
+      "text": "ナマシャク",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "なまシャク",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ナマしゃく",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ナマシヤク",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ナマフェラ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "なまフェラ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "なまふぇら",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ナマふぇら",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ナマホンバン",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "なまほんばん",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "なまホンバン",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ナマほんばん",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ナマ尺",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "なま尺",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ナマ本番",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "なま本番",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ニガ-",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "ニガー",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "ニクツボ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "にくツボ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ニクつぼ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ニクベンキ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "にくべんき",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "にくベンキ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ニクべんき",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ニグロ",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "ニク壷",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "にく壷",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ニク便器",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "にく便器",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ニク壺",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "にく壺",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ニッガー",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "ネオナチ",
+      "target": "0",
+      "reason": "歴史的背景"
+    },
+    {
+      "text": "ネオナチス",
+      "target": "0",
+      "reason": "歴史的背景"
+    },
+    {
+      "text": "ネグロ",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "バイアグラ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "売春",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "バイシュン",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "バイシユン",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "パイズリ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ぱいずり",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "パイパン",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ぱいぱん",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "バイブ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "バイブレータ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "バイブレ-タ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "バギナ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ばぎな",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "バグダーディー",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "バグダディ",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "バスク祖国と自由",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "パパボシュウ",
+      "target": "0",
+      "reason": "出会い系"
+    },
+    {
+      "text": "ぱぱぼしゅう",
+      "target": "0",
+      "reason": "出会い系"
+    },
+    {
+      "text": "ぱぱボシュウ",
+      "target": "0",
+      "reason": "出会い系"
+    },
+    {
+      "text": "パパぼしゅう",
+      "target": "0",
+      "reason": "出会い系"
+    },
+    {
+      "text": "パパボシヨウ",
+      "target": "0",
+      "reason": "出会い系"
+    },
+    {
+      "text": "パパ募集",
+      "target": "0",
+      "reason": "出会い系"
+    },
+    {
+      "text": "ぱぱ募集",
+      "target": "0",
+      "reason": "出会い系"
+    },
+    {
+      "text": "ハマース",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "ハメどり",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ハメ撮リ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "はめ撮り",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ハメ撮り",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "パ-ルロ-タ-",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "パレスチナ解放人民戦線",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "ピーター・カッシグ",
+      "target": "0",
+      "reason": "テロ被害者"
+    },
+    {
+      "text": "ピーターカッシグ",
+      "target": "0",
+      "reason": "テロ被害者"
+    },
+    {
+      "text": "ビイチク",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ビーチク",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ヒズボラ",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "ビ-チク",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ビン・ラディン",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "ピンクサロン",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ぴんくさろん",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ピンサロ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ビンラーディン",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "ビンラディン",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "ビンラデイン",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "ファッカー",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "ファック",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "ふぁっく",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "フアツク",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "フェラチオ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ふぇらちお",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "フエラチオ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ブツコロス",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "プツシ-",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ブッシュマン",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "ぶっしゅまん",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "ブツシユマン",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "フルチン",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ペッティング",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ぺってぃんぐ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ペツテイング",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ペニス",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ぺにす",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ペニスパンツ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ぺにすぱんつ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ペニパン",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ぺニパン",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ぺにぱん",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ディルドー",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ヘルス",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ホウケ-",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ホウケイ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ホ-ケ-",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ホ-ケイ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ボコ・ハラム",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "ポコチン",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "マxコ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ますたーべーしょん",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ますたーベーション",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "マスターべーしょん",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "マスタベーション",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "マスタベ-シヨン",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "マスタ-ベ-シヨン",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "マソコ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "マヌエル・マルランダ",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "マフムード・ザッハール",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "マリファナ",
+      "target": "0",
+      "reason": "反社会的表現"
+    },
+    {
+      "text": "まんこ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "まんジル",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "マンじる",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "マン汁",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "まん汁",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ムハンマド・オマル",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "モリマン",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ヤクザ",
+      "target": "0",
+      "reason": "反社会的表現"
+    },
+    {
+      "text": "ヤリマン",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "やりマン",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ヤリまん",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ヤリ友",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "湯川遥菜",
+      "target": "0",
+      "reason": "テロ被害者"
+    },
+    {
+      "text": "ゆるマン",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ユルまん",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ライビョウ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "らいびょう",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "らいビョウ",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "ライびょう",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "ライビヨウ",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "ライ病",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "らい病",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "ラシュカレトイバ",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "ラブジュース",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "らぶジュース",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "らぶじゅーす",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ラブじゅーす",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ラブジユ-ス",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ランコウパーティ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "らんこうパーティ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "らんこうぱーてぃ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ランコウぱーてぃ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "リアルIRA",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "レイプ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "れいぷ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ワギナ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "わぎな",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ㄘンコ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ㄘンポ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ㄘンㄘン",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "愛液",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "愛奴",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "愛撫",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "慰安婦",
+      "target": "0",
+      "reason": "歴史的背景"
+    },
+    {
+      "text": "淫行",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "淫売",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "我慢汁",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "害児",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "姦",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "姦通",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "姦夫",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "姦婦",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "漢族",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "監禁",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "竿シマイ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "竿しまい",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "竿姉妹",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "顔射",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "顔面キジョウ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "顔面きじょう",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "顔面キジヨウ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "顔面ハッシャ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "顔面はっしゃ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "顔面ハツシヤ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "顔面騎乗",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "顔面発射",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "奇形児",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "気チガイ",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "気違イ",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "気違い",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "騎乗位",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "亀甲シバリ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "亀甲しばり",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "亀甲縛リ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "亀甲縛り",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "亀頭",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "陰唇",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "陰核",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "虐待",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "巨根",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "巨乳",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "強姦",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "近親相姦",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "金玉",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "穴兄弟",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "後背位",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "香田証生",
+      "target": "0",
+      "reason": "テロ被害者"
+    },
+    {
+      "text": "黒ンボ",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "黒んぼ",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "黒ン坊",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "黒ん坊",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "在日韓国人",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "在日中国人",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "在日朝鮮人",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "殺サ",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "殺シ",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "殺ス",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "殺セ",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "殺ソ",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "殺意",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "殺鬼",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "殺略",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "殺戮",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "死ネ",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "氏ネ",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "自慰",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "自殺",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "自爆テロ",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "手コキ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "手こき",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "手マン",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "手まん",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "酒鬼薔薇",
+      "target": "0",
+      "reason": "反社会的表現"
+    },
+    {
+      "text": "従軍慰安婦",
+      "target": "0",
+      "reason": "歴史的背景"
+    },
+    {
+      "text": "出会イ系",
+      "target": "0",
+      "reason": "出会い系"
+    },
+    {
+      "text": "女陰",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "娼婦",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "小便",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "松本智津夫",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "焼死",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "障児",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "障者",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "情夫",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "情婦",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "新人民軍",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "身体障害者",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "性感帯",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "性交",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "性行為",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "性奴",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "性隷",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "正常位",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "生フェラ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "生ふぇら",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "生フエラ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "生ホンバン",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "生ほんばん",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "生尺",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "生本番",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "精液",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "青姦",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "前立腺",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "素股",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "早漏",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "即アポ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "即あぽ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "即ハメ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "即はめ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "大便",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "第三国人",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "男根",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "陰茎",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "肉棒",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "肉欲",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "珍宝",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "女人棒",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ティンポ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ﾃｨﾝﾎﾟ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ﾃｨﾝｺ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ティンコ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "知恵オクレ",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "知恵おくれ",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "知恵後レ",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "知恵遅レ",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "知恵遅れ",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "知障",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "恥垢",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "池沼",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "痴ホウ",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "痴漢",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "遅漏",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "中ダシ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "中だし",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "中出シ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "中出し",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "低脳",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "天安門事件",
+      "target": "0",
+      "reason": "歴史的背景"
+    },
+    {
+      "text": "屠殺",
+      "target": "0",
+      "reason": "反社会的表現"
+    },
+    {
+      "text": "土人",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "奴隷",
+      "target": "0",
+      "reason": "反社会的表現"
+    },
+    {
+      "text": "同時テロ",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "南京大虐殺",
+      "target": "0",
+      "reason": "歴史的背景"
+    },
+    {
+      "text": "肉ツボ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "肉つぼ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "肉ベンキ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "肉べんき",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "肉壷",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "肉便器",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "肉壺",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "日本赤軍",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "赤軍",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "乳首",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "乳輪",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "尿",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "お小水",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "おしっこ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "オシッコ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "ｵｼｯｺ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "売女",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "白痴",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "爆死",
+      "target": "0",
+      "reason": "反社会的表現"
+    },
+    {
+      "text": "爆破テロ",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "半島ジン",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "半島じん",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "半島人",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "彼氏募集",
+      "target": "0",
+      "reason": "出会い系"
+    },
+    {
+      "text": "彼女募集",
+      "target": "0",
+      "reason": "出会い系"
+    },
+    {
+      "text": "避妊具",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "非人",
+      "target": "0",
+      "reason": "差別用語"
+    },
+    {
+      "text": "武装イスラム集団",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "糞",
+      "target": "0",
+      "reason": "暴力的表現"
+    },
+    {
+      "text": "泡ヒメ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "泡ひめ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "泡姫",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "麻薬",
+      "target": "0",
+      "reason": "反社会的表現"
+    },
+    {
+      "text": "ISIL",
+      "target": "0",
+      "reason": "テロリスト・組織"
+    },
+    {
+      "text": "クンニ",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "@icloud",
+      "target": "0",
+      "reason": "個人情報"
+    },
+    {
+      "text": "【",
+      "target": "1",
+      "reason": "サービス専用"
+    },
+    {
+      "text": "】",
+      "target": "1",
+      "reason": "サービス専用"
+    },
+    {
+      "text": "GM",
+      "target": "1",
+      "reason": "サービス専用"
+    },
+    {
+      "text": "ＧＭ",
+      "target": "1",
+      "reason": "サービス専用"
+    },
+    {
+      "text": "運営",
+      "target": "1",
+      "reason": "サービス専用"
+    },
+    {
+      "text": "BNO",
+      "target": "1",
+      "reason": "サービス専用"
+    },
+    {
+      "text": "ＢＮＯ",
+      "target": "1",
+      "reason": "サービス専用"
+    },
+    {
+      "text": "BNS",
+      "target": "1",
+      "reason": "サービス専用"
+    },
+    {
+      "text": "ＢＮＳ",
+      "target": "1",
+      "reason": "サービス専用"
+    },
+    {
+      "text": "下岡聡吉",
+      "target": "1",
+      "reason": "サービス専用"
+    },
+    {
+      "text": "鈴木貴宏",
+      "target": "1",
+      "reason": "サービス専用"
+    },
+    {
+      "text": "福崎恵介",
+      "target": "1",
+      "reason": "サービス専用"
+    },
+    {
+      "text": "下岡P",
+      "target": "1",
+      "reason": "サービス専用"
+    },
+    {
+      "text": "下岡EP",
+      "target": "1",
+      "reason": "サービス専用"
+    },
+    {
+      "text": "鈴木P",
+      "target": "1",
+      "reason": "サービス専用"
+    },
+    {
+      "text": "福崎D",
+      "target": "1",
+      "reason": "サービス専用"
+    },
+    {
+      "text": "BLUEPROTOCOL",
+      "target": "1",
+      "reason": "サービス専用"
+    },
+    {
+      "text": "バンダイナムコ",
+      "target": "1",
+      "reason": "サービス専用"
+    },
+    {
+      "text": "バンナム",
+      "target": "1",
+      "reason": "サービス専用"
+    },
+    {
+      "text": "gすぽっと",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "smちょうきょう",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "smぷれい",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "Gすぽっと",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "SMちょうきょう",
+      "target": "0",
+      "reason": "卑猥"
+    },
+    {
+      "text": "SMぷれい",
+      "target": "0",
+      "reason": "卑猥"
+    }
+  ]
+}

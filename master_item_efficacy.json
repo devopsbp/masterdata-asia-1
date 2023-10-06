@@ -1,0 +1,324 @@
+﻿{
+  "header": {
+    "content_type": "master_item_efficacy"
+  },
+  "payload": [
+    {
+      "id": "0",
+      "activate_type": "1",
+      "can_use_city": "0",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "0",
+      "version": "1.00.000"
+    },
+    {
+      "id": "1",
+      "activate_type": "1",
+      "can_use_city": "0",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "2",
+      "activate_type": "1",
+      "can_use_city": "0",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "3",
+      "activate_type": "1",
+      "can_use_city": "0",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "4",
+      "activate_type": "1",
+      "can_use_city": "0",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "5",
+      "activate_type": "1",
+      "can_use_city": "0",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "8",
+      "activate_type": "1",
+      "can_use_city": "0",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "9",
+      "activate_type": "1",
+      "can_use_city": "0",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "10",
+      "activate_type": "1",
+      "can_use_city": "0",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "12",
+      "activate_type": "1",
+      "can_use_city": "0",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "13",
+      "activate_type": "3",
+      "can_use_city": "0",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "14",
+      "activate_type": "1",
+      "can_use_city": "1",
+      "can_use_warehouse": "1",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "0",
+      "version": "1.00.000"
+    },
+    {
+      "id": "15",
+      "activate_type": "1",
+      "can_use_city": "1",
+      "can_use_warehouse": "1",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "0",
+      "version": "1.00.000"
+    },
+    {
+      "id": "16",
+      "activate_type": "1",
+      "can_use_city": "0",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "17",
+      "activate_type": "2",
+      "can_use_city": "0",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "18",
+      "activate_type": "1",
+      "can_use_city": "0",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "19",
+      "activate_type": "2",
+      "can_use_city": "0",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "33",
+      "activate_type": "1",
+      "can_use_city": "0",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "37",
+      "activate_type": "1",
+      "can_use_city": "0",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "38",
+      "activate_type": "1",
+      "can_use_city": "0",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "39",
+      "activate_type": "3",
+      "can_use_city": "1",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "0",
+      "can_register_shortcut": "1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "40",
+      "activate_type": "1",
+      "can_use_city": "1",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "0",
+      "version": "1.00.000"
+    },
+    {
+      "id": "41",
+      "activate_type": "4",
+      "can_use_city": "1",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "0",
+      "version": "1.00.000"
+    },
+    {
+      "id": "42",
+      "activate_type": "4",
+      "can_use_city": "1",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "0",
+      "version": "1.00.000"
+    },
+    {
+      "id": "43",
+      "activate_type": "4",
+      "can_use_city": "1",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "0",
+      "version": "1.00.000"
+    },
+    {
+      "id": "44",
+      "activate_type": "4",
+      "can_use_city": "1",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "0",
+      "version": "1.00.000"
+    },
+    {
+      "id": "45",
+      "activate_type": "4",
+      "can_use_city": "1",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "0",
+      "version": "1.00.000"
+    },
+    {
+      "id": "46",
+      "activate_type": "4",
+      "can_use_city": "1",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "0",
+      "server_effect": "1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "47",
+      "activate_type": "4",
+      "can_use_city": "1",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "0",
+      "version": "1.00.000"
+    },
+    {
+      "id": "48",
+      "activate_type": "4",
+      "can_use_city": "1",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "0",
+      "server_effect": "2",
+      "version": "1.00.000"
+    },
+    {
+      "id": "49",
+      "activate_type": "1",
+      "can_use_city": "1",
+      "can_use_warehouse": "1",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "0",
+      "version": "1.00.000"
+    },
+    {
+      "id": "50",
+      "activate_type": "1",
+      "can_use_city": "1",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "0",
+      "can_register_shortcut": "1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "51",
+      "activate_type": "3",
+      "can_use_city": "0",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "1",
+      "version": "1.00.000"
+    },
+    {
+      "id": "52",
+      "activate_type": "4",
+      "can_use_city": "1",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "0",
+      "version": "1.00.000"
+    },
+    {
+      "id": "53",
+      "activate_type": "4",
+      "can_use_city": "1",
+      "can_use_warehouse": "0",
+      "can_use_other_item": "1",
+      "can_register_shortcut": "0",
+      "version": "1.00.000"
+    }
+  ]
+}

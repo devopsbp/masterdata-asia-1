@@ -1,0 +1,3210 @@
+﻿{
+  "header": {
+    "content_type": "master_adventure_boards"
+  },
+  "payload": [
+    {
+      "version": "9.99.999",
+      "id": "900000001",
+      "board_type": "0",
+      "name": 25,
+      "desc": 155,
+      "icon_id": "900000001",
+      "bg_id": "200001",
+      "class_type": "12",
+      "sort_id": "900000000",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "9.99.999",
+      "id": "900000002",
+      "board_type": "0",
+      "name": 26,
+      "desc": 156,
+      "icon_id": "900000002",
+      "bg_id": "200001",
+      "sort_id": "900000001",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "9.99.999",
+      "id": "900000003",
+      "board_type": "0",
+      "name": 47,
+      "desc": 157,
+      "icon_id": "900000003",
+      "bg_id": "200001",
+      "sort_id": "900000002",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "9.99.999",
+      "id": "900000004",
+      "board_type": "0",
+      "name": 48,
+      "desc": 158,
+      "icon_id": "900000004",
+      "bg_id": "200001",
+      "sort_id": "900000003",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "9.99.999",
+      "id": "900000005",
+      "board_type": "2",
+      "name": 49,
+      "desc": 159,
+      "icon_id": "900000004",
+      "bg_id": "200001",
+      "sort_id": "900000004",
+      "board_version": "1.02.000"
+    },
+    {
+      "version": "9.99.999",
+      "id": "900001000",
+      "board_type": "0",
+      "name": 52,
+      "desc": 160,
+      "icon_id": "900001000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "co900001000"
+        }
+      ],
+      "sort_id": "900000005",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "9.99.999",
+      "id": "900002000",
+      "board_type": "0",
+      "name": 272,
+      "desc": 274,
+      "icon_id": "900001000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "co900001000"
+        }
+      ],
+      "sort_id": "900000006",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "9.99.999",
+      "id": "900003000",
+      "board_type": "0",
+      "name": 273,
+      "desc": 275,
+      "icon_id": "900001000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "co900001000"
+        }
+      ],
+      "sort_id": "900000007",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "9.99.999",
+      "id": "900004000",
+      "board_type": "0",
+      "name": 284,
+      "desc": 285,
+      "icon_id": "900004000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV110002000_COMP"
+        }
+      ],
+      "sort_id": "900000008",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "9.99.999",
+      "id": "900005000",
+      "board_type": "0",
+      "name": 390,
+      "desc": 391,
+      "icon_id": "900001000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV110002000_COMP"
+        }
+      ],
+      "sort_id": "900000009",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "9.99.999",
+      "id": "900006000",
+      "board_type": "1",
+      "name": 400,
+      "desc": 401,
+      "icon_id": "900001000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV110002000_COMP"
+        }
+      ],
+      "challenge_term_id": "100100600",
+      "acceptance_term_id": "100100600",
+      "sort_id": "900000010",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "9.99.999",
+      "id": "900007000",
+      "board_type": "0",
+      "name": 402,
+      "desc": 407,
+      "icon_id": "900001000",
+      "bg_id": "200001",
+      "sort_id": "900000011",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "9.99.999",
+      "id": "900008000",
+      "board_type": "0",
+      "name": 403,
+      "desc": 408,
+      "icon_id": "900001000",
+      "bg_id": "200001",
+      "sort_id": "900000012",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "9.99.999",
+      "id": "900009000",
+      "board_type": "0",
+      "name": 404,
+      "desc": 409,
+      "icon_id": "900001000",
+      "bg_id": "200001",
+      "sort_id": "900000013",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "9.99.999",
+      "id": "900010000",
+      "board_type": "0",
+      "name": 405,
+      "desc": 410,
+      "icon_id": "900001000",
+      "bg_id": "200001",
+      "sort_id": "900000014",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "9.99.999",
+      "id": "900011000",
+      "board_type": "0",
+      "name": 406,
+      "desc": 411,
+      "icon_id": "900001000",
+      "bg_id": "200001",
+      "sort_id": "900000015",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "110002000",
+      "board_type": "2",
+      "name": 53,
+      "desc": 161,
+      "icon_id": "110002000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV110002000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "601000000",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "110003000",
+      "board_type": "2",
+      "name": 54,
+      "desc": 162,
+      "icon_id": "110003000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV110003000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "601000001",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "110004000",
+      "board_type": "2",
+      "name": 55,
+      "desc": 163,
+      "icon_id": "110004000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV110004000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "601000002",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "110005000",
+      "board_type": "2",
+      "name": 56,
+      "desc": 164,
+      "icon_id": "110005000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV110005000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "601000003",
+      "board_version": "9.99.999"
+    },
+    {
+      "version": "1.00.000",
+      "id": "110006000",
+      "board_type": "2",
+      "name": 57,
+      "desc": 165,
+      "icon_id": "110006000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV110006000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "601000004",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "110007000",
+      "board_type": "2",
+      "name": 58,
+      "desc": 166,
+      "icon_id": "110007000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV110007000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "601000005",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "110008000",
+      "board_type": "2",
+      "name": 59,
+      "desc": 167,
+      "icon_id": "110008000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV110008000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "601000006",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "110009000",
+      "board_type": "2",
+      "name": 60,
+      "desc": 168,
+      "icon_id": "110009000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV110009000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "601000007",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "110010000",
+      "board_type": "2",
+      "name": 276,
+      "desc": 278,
+      "icon_id": "110010000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV110010000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "601020000",
+      "board_version": "1.02.000"
+    },
+    {
+      "version": "1.02.000",
+      "id": "110011000",
+      "board_type": "2",
+      "name": 277,
+      "desc": 279,
+      "icon_id": "110011000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV110011000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "601020001",
+      "board_version": "1.02.000"
+    },
+    {
+      "version": "1.02.000",
+      "id": "110012000",
+      "board_type": "2",
+      "name": 280,
+      "desc": 281,
+      "icon_id": "110012000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV110012000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "601040000",
+      "board_version": "1.04.000"
+    },
+    {
+      "version": "1.04.000",
+      "id": "110013000",
+      "board_type": "2",
+      "name": 282,
+      "desc": 283,
+      "icon_id": "110013000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV110013000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "601040001",
+      "board_version": "1.04.000"
+    },
+    {
+      "version": "1.04.000",
+      "id": "110014000",
+      "board_type": "2",
+      "name": 286,
+      "desc": 287,
+      "icon_id": "110014000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV110014000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "601060000",
+      "board_version": "1.06.000"
+    },
+    {
+      "version": "1.06.000",
+      "id": "110015000",
+      "board_type": "2",
+      "name": 288,
+      "desc": 289,
+      "icon_id": "110015000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV110015000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "601060001",
+      "board_version": "1.06.000"
+    },
+    {
+      "version": "1.06.000",
+      "id": "110016000",
+      "board_type": "2",
+      "name": 290,
+      "desc": 291,
+      "icon_id": "110016000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV110016000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "601080000",
+      "board_version": "1.08.000"
+    },
+    {
+      "version": "1.08.000",
+      "id": "110017000",
+      "board_type": "2",
+      "name": 292,
+      "desc": 293,
+      "icon_id": "110017000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV110017000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "601080001",
+      "board_version": "1.08.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "120001000",
+      "board_type": "0",
+      "name": 24,
+      "desc": 169,
+      "icon_id": "120001000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV120001000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "501000000",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "120002000",
+      "board_type": "0",
+      "name": 61,
+      "desc": 170,
+      "icon_id": "120002000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV120002000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "501000001",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "120003000",
+      "board_type": "0",
+      "name": 62,
+      "desc": 171,
+      "icon_id": "120003000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV120003000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "501000002",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "120004000",
+      "board_type": "0",
+      "name": 63,
+      "desc": 172,
+      "icon_id": "120004000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV120004000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "501000003",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "120005000",
+      "board_type": "0",
+      "name": 64,
+      "desc": 173,
+      "icon_id": "120005000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV120005000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "501000004",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "120006000",
+      "board_type": "0",
+      "name": 65,
+      "desc": 174,
+      "icon_id": "120006000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV120006000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "501000005",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "120007000",
+      "board_type": "0",
+      "name": 66,
+      "desc": 175,
+      "icon_id": "120007000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV120007000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "501000006",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "120008000",
+      "board_type": "0",
+      "name": 67,
+      "desc": 176,
+      "icon_id": "120008000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV120008000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "501000007",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "120009000",
+      "board_type": "0",
+      "name": 68,
+      "desc": 177,
+      "icon_id": "120009000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV120009000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "501000008",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "120010000",
+      "board_type": "0",
+      "name": 69,
+      "desc": 178,
+      "icon_id": "120010000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV120010000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "501000009",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.100",
+      "id": "120011000",
+      "board_type": "0",
+      "name": 70,
+      "desc": 179,
+      "icon_id": "120011000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV120011000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "501001000",
+      "board_version": "1.00.100"
+    },
+    {
+      "version": "1.00.100",
+      "id": "120012000",
+      "board_type": "0",
+      "name": 71,
+      "desc": 180,
+      "icon_id": "120012000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV120012000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "501001001",
+      "board_version": "1.00.100"
+    },
+    {
+      "version": "1.01.000",
+      "id": "120013000",
+      "board_type": "0",
+      "name": 72,
+      "desc": 181,
+      "icon_id": "120013000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV120013000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "501010000",
+      "board_version": "1.01.000"
+    },
+    {
+      "version": "1.01.000",
+      "id": "120014000",
+      "board_type": "0",
+      "name": 73,
+      "desc": 182,
+      "icon_id": "120014000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV120014000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "501010001",
+      "board_version": "1.01.000"
+    },
+    {
+      "version": "1.01.100",
+      "id": "120015000",
+      "board_type": "0",
+      "name": 74,
+      "desc": 183,
+      "icon_id": "120015000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV120015000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "501011000",
+      "board_version": "1.01.100"
+    },
+    {
+      "version": "1.01.100",
+      "id": "120016000",
+      "board_type": "0",
+      "name": 75,
+      "desc": 184,
+      "icon_id": "120016000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV120016000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "501011001",
+      "board_version": "1.01.100"
+    },
+    {
+      "version": "1.02.000",
+      "id": "120017000",
+      "board_type": "0",
+      "name": 334,
+      "desc": 342,
+      "icon_id": "120017000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV120017000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "501020000",
+      "board_version": "1.02.000"
+    },
+    {
+      "version": "1.02.000",
+      "id": "120018000",
+      "board_type": "0",
+      "name": 335,
+      "desc": 343,
+      "icon_id": "120018000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV120018000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "501020001",
+      "board_version": "1.02.000"
+    },
+    {
+      "version": "1.02.000",
+      "id": "120019000",
+      "board_type": "0",
+      "name": 336,
+      "desc": 344,
+      "icon_id": "120019000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV120019000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "501020002",
+      "board_version": "1.02.000"
+    },
+    {
+      "version": "1.02.000",
+      "id": "120020000",
+      "board_type": "0",
+      "name": 337,
+      "desc": 345,
+      "icon_id": "120020000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV120020000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "501020003",
+      "board_version": "1.02.000"
+    },
+    {
+      "version": "1.02.000",
+      "id": "120021000",
+      "board_type": "0",
+      "name": 338,
+      "desc": 346,
+      "icon_id": "120021000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV120021000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "501020004",
+      "board_version": "1.02.000"
+    },
+    {
+      "version": "1.02.000",
+      "id": "120022000",
+      "board_type": "0",
+      "name": 339,
+      "desc": 347,
+      "icon_id": "120022000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV120022000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "501020005",
+      "board_version": "1.02.000"
+    },
+    {
+      "version": "1.02.100",
+      "id": "120023000",
+      "board_type": "0",
+      "name": 340,
+      "desc": 348,
+      "icon_id": "120023000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV120023000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "501021000",
+      "board_version": "1.02.100"
+    },
+    {
+      "version": "1.02.100",
+      "id": "120024000",
+      "board_type": "0",
+      "name": 341,
+      "desc": 349,
+      "icon_id": "120024000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV120024000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "501021001",
+      "board_version": "1.02.100"
+    },
+    {
+      "version": "1.03.000",
+      "id": "120025000",
+      "board_type": "0",
+      "name": 350,
+      "desc": 354,
+      "icon_id": "120025000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV120025000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "501030000",
+      "board_version": "1.03.000"
+    },
+    {
+      "version": "1.03.000",
+      "id": "120026000",
+      "board_type": "0",
+      "name": 351,
+      "desc": 355,
+      "icon_id": "120026000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV120026000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "501030001",
+      "board_version": "1.03.000"
+    },
+    {
+      "version": "1.03.100",
+      "id": "120027000",
+      "board_type": "0",
+      "name": 352,
+      "desc": 356,
+      "icon_id": "120027000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV120027000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "501031000",
+      "board_version": "1.03.100"
+    },
+    {
+      "version": "1.03.100",
+      "id": "120028000",
+      "board_type": "0",
+      "name": 353,
+      "desc": 357,
+      "icon_id": "120028000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV120028000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "501031001",
+      "board_version": "1.03.100"
+    },
+    {
+      "version": "1.00.000",
+      "id": "130001000",
+      "board_type": "0",
+      "name": 143,
+      "desc": 256,
+      "icon_id": "130001000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV130001000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "class_type": "12",
+      "sort_id": "201000000",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "130002000",
+      "board_type": "0",
+      "name": 144,
+      "desc": 257,
+      "icon_id": "130002000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV130002000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "class_type": "7",
+      "sort_id": "201000001",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "130003000",
+      "board_type": "0",
+      "name": 145,
+      "desc": 258,
+      "icon_id": "130003000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV130003000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "class_type": "6",
+      "sort_id": "201000002",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "130004000",
+      "board_type": "0",
+      "name": 146,
+      "desc": 259,
+      "icon_id": "130004000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV130004000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "class_type": "11",
+      "sort_id": "201000003",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "130005000",
+      "board_type": "0",
+      "name": 147,
+      "desc": 260,
+      "icon_id": "130005000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV130005000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "class_type": "19",
+      "sort_id": "201000004",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.01.000",
+      "id": "130006000",
+      "board_type": "0",
+      "name": 148,
+      "desc": 261,
+      "icon_id": "130006000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV130006000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "class_type": "20",
+      "sort_id": "201010005",
+      "board_version": "1.01.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140001000",
+      "board_type": "0",
+      "name": 36,
+      "desc": 185,
+      "icon_id": "140001000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140001000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000000",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140002000",
+      "board_type": "0",
+      "name": 46,
+      "desc": 186,
+      "icon_id": "140002000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140002000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000001",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140003000",
+      "board_type": "0",
+      "name": 76,
+      "desc": 187,
+      "icon_id": "140003000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140003000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000002",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140004000",
+      "board_type": "0",
+      "name": 77,
+      "desc": 188,
+      "icon_id": "140004000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140004000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000003",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140005000",
+      "board_type": "0",
+      "name": 78,
+      "desc": 189,
+      "icon_id": "140005000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140005000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000004",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140006000",
+      "board_type": "0",
+      "name": 79,
+      "desc": 190,
+      "icon_id": "140006000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140006000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000005",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140007000",
+      "board_type": "0",
+      "name": 80,
+      "desc": 191,
+      "icon_id": "140007000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140007000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000006",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140008000",
+      "board_type": "0",
+      "name": 81,
+      "desc": 192,
+      "icon_id": "140008000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140008000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000007",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140009000",
+      "board_type": "0",
+      "name": 82,
+      "desc": 193,
+      "icon_id": "140009000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140009000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000008",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140010000",
+      "board_type": "0",
+      "name": 83,
+      "desc": 194,
+      "icon_id": "140010000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140010000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000009",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140011000",
+      "board_type": "0",
+      "name": 84,
+      "desc": 195,
+      "icon_id": "140011000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140011000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000010",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140012000",
+      "board_type": "0",
+      "name": 85,
+      "desc": 196,
+      "icon_id": "140012000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140012000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000011",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140013000",
+      "board_type": "0",
+      "name": 86,
+      "desc": 197,
+      "icon_id": "140013000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140013000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000012",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140014000",
+      "board_type": "0",
+      "name": 87,
+      "desc": 198,
+      "icon_id": "140014000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140014000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000013",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140015000",
+      "board_type": "0",
+      "name": 88,
+      "desc": 199,
+      "icon_id": "140015000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140015000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000014",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140016000",
+      "board_type": "0",
+      "name": 89,
+      "desc": 200,
+      "icon_id": "140016000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140016000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000015",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140017000",
+      "board_type": "0",
+      "name": 90,
+      "desc": 201,
+      "icon_id": "140017000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140017000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000016",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140018000",
+      "board_type": "0",
+      "name": 91,
+      "desc": 202,
+      "icon_id": "140018000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140018000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000017",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140019000",
+      "board_type": "0",
+      "name": 92,
+      "desc": 203,
+      "icon_id": "140019000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140019000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000018",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140020000",
+      "board_type": "0",
+      "name": 93,
+      "desc": 204,
+      "icon_id": "140020000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140020000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000019",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140021000",
+      "board_type": "0",
+      "name": 94,
+      "desc": 205,
+      "icon_id": "140021000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140021000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000020",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140022000",
+      "board_type": "0",
+      "name": 95,
+      "desc": 206,
+      "icon_id": "140022000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140022000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000021",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140023000",
+      "board_type": "0",
+      "name": 96,
+      "desc": 207,
+      "icon_id": "140023000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140023000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000022",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140024000",
+      "board_type": "0",
+      "name": 97,
+      "desc": 208,
+      "icon_id": "140024000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140024000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000023",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140025000",
+      "board_type": "0",
+      "name": 98,
+      "desc": 209,
+      "icon_id": "140025000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140025000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000024",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140026000",
+      "board_type": "0",
+      "name": 99,
+      "desc": 210,
+      "icon_id": "140026000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140026000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000025",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140027000",
+      "board_type": "0",
+      "name": 100,
+      "desc": 211,
+      "icon_id": "140027000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140027000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000026",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140028000",
+      "board_type": "0",
+      "name": 101,
+      "desc": 212,
+      "icon_id": "140028000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140028000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000027",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140029000",
+      "board_type": "0",
+      "name": 102,
+      "desc": 213,
+      "icon_id": "140029000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140029000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000028",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140030000",
+      "board_type": "0",
+      "name": 103,
+      "desc": 214,
+      "icon_id": "140030000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140030000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000029",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140031000",
+      "board_type": "0",
+      "name": 104,
+      "desc": 215,
+      "icon_id": "140031000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140031000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000030",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140032000",
+      "board_type": "0",
+      "name": 105,
+      "desc": 216,
+      "icon_id": "140032000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140032000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000031",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140033000",
+      "board_type": "0",
+      "name": 106,
+      "desc": 217,
+      "icon_id": "140033000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140033000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000032",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140034000",
+      "board_type": "0",
+      "name": 107,
+      "desc": 218,
+      "icon_id": "140034000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140034000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000033",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140035000",
+      "board_type": "0",
+      "name": 108,
+      "desc": 219,
+      "icon_id": "140035000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140035000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000034",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140036000",
+      "board_type": "0",
+      "name": 109,
+      "desc": 220,
+      "icon_id": "140036000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140036000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000035",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140037000",
+      "board_type": "0",
+      "name": 110,
+      "desc": 221,
+      "icon_id": "140037000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140037000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000036",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140038000",
+      "board_type": "0",
+      "name": 111,
+      "desc": 222,
+      "icon_id": "140038000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140038000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000037",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140039000",
+      "board_type": "0",
+      "name": 112,
+      "desc": 223,
+      "icon_id": "140039000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140039000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000038",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140040000",
+      "board_type": "0",
+      "name": 113,
+      "desc": 224,
+      "icon_id": "140040000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140040000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000039",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140041000",
+      "board_type": "0",
+      "name": 114,
+      "desc": 225,
+      "icon_id": "140041000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140041000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000040",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140042000",
+      "board_type": "0",
+      "name": 115,
+      "desc": 226,
+      "icon_id": "140042000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140042000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000041",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140043000",
+      "board_type": "0",
+      "name": 116,
+      "desc": 227,
+      "icon_id": "140043000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140043000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000042",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140044000",
+      "board_type": "0",
+      "name": 117,
+      "desc": 228,
+      "icon_id": "140044000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140044000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000043",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "140045000",
+      "board_type": "0",
+      "name": 118,
+      "desc": 229,
+      "icon_id": "140045000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140045000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301000044",
+      "board_version": "1.00.000"
+    },
+    {
+      "version": "1.00.100",
+      "id": "140046000",
+      "board_type": "0",
+      "name": 119,
+      "desc": 230,
+      "icon_id": "140046000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140046000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301001000",
+      "board_version": "1.00.100"
+    },
+    {
+      "version": "1.00.100",
+      "id": "140047000",
+      "board_type": "0",
+      "name": 120,
+      "desc": 231,
+      "icon_id": "140047000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140047000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301001001",
+      "board_version": "1.00.100"
+    },
+    {
+      "version": "1.00.100",
+      "id": "140048000",
+      "board_type": "0",
+      "name": 121,
+      "desc": 232,
+      "icon_id": "140048000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140048000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301001002",
+      "board_version": "1.00.100"
+    },
+    {
+      "version": "1.00.100",
+      "id": "140049000",
+      "board_type": "0",
+      "name": 122,
+      "desc": 233,
+      "icon_id": "140049000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140049000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301001003",
+      "board_version": "1.00.100"
+    },
+    {
+      "version": "1.00.100",
+      "id": "140050000",
+      "board_type": "0",
+      "name": 123,
+      "desc": 234,
+      "icon_id": "140050000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140050000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301001004",
+      "board_version": "1.00.100"
+    },
+    {
+      "version": "1.00.100",
+      "id": "140051000",
+      "board_type": "0",
+      "name": 124,
+      "desc": 235,
+      "icon_id": "140051000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140051000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301001005",
+      "board_version": "1.00.100"
+    },
+    {
+      "version": "1.00.100",
+      "id": "140052000",
+      "board_type": "0",
+      "name": 125,
+      "desc": 236,
+      "icon_id": "140052000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140052000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301001006",
+      "board_version": "1.00.100"
+    },
+    {
+      "version": "1.00.100",
+      "id": "140053000",
+      "board_type": "0",
+      "name": 126,
+      "desc": 237,
+      "icon_id": "140053000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140053000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301001007",
+      "board_version": "1.00.100"
+    },
+    {
+      "version": "1.01.000",
+      "id": "140054000",
+      "board_type": "0",
+      "name": 127,
+      "desc": 238,
+      "icon_id": "140054000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140054000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301010000",
+      "board_version": "1.01.000"
+    },
+    {
+      "version": "1.01.000",
+      "id": "140055000",
+      "board_type": "0",
+      "name": 128,
+      "desc": 239,
+      "icon_id": "140055000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140055000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301010001",
+      "board_version": "1.01.000"
+    },
+    {
+      "version": "1.01.000",
+      "id": "140056000",
+      "board_type": "0",
+      "name": 129,
+      "desc": 240,
+      "icon_id": "140056000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140056000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301010002",
+      "board_version": "1.01.000"
+    },
+    {
+      "version": "1.01.000",
+      "id": "140057000",
+      "board_type": "0",
+      "name": 130,
+      "desc": 241,
+      "icon_id": "140057000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140057000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301010003",
+      "board_version": "1.01.000"
+    },
+    {
+      "version": "1.01.000",
+      "id": "140058000",
+      "board_type": "0",
+      "name": 131,
+      "desc": 242,
+      "icon_id": "140058000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140058000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301010004",
+      "board_version": "1.01.000"
+    },
+    {
+      "version": "1.01.000",
+      "id": "140059000",
+      "board_type": "0",
+      "name": 132,
+      "desc": 243,
+      "icon_id": "140059000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140059000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301010005",
+      "board_version": "1.01.000"
+    },
+    {
+      "version": "1.01.000",
+      "id": "140060000",
+      "board_type": "0",
+      "name": 133,
+      "desc": 244,
+      "icon_id": "140060000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140060000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301010006",
+      "board_version": "1.01.000"
+    },
+    {
+      "version": "1.01.000",
+      "id": "140061000",
+      "board_type": "0",
+      "name": 134,
+      "desc": 245,
+      "icon_id": "140061000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140061000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301010007",
+      "board_version": "1.01.000"
+    },
+    {
+      "version": "1.01.100",
+      "id": "140062000",
+      "board_type": "0",
+      "name": 135,
+      "desc": 246,
+      "icon_id": "140062000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140062000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301011000",
+      "board_version": "1.01.100"
+    },
+    {
+      "version": "1.01.100",
+      "id": "140063000",
+      "board_type": "0",
+      "name": 136,
+      "desc": 247,
+      "icon_id": "140063000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140063000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301011001",
+      "board_version": "1.01.100"
+    },
+    {
+      "version": "1.01.100",
+      "id": "140064000",
+      "board_type": "0",
+      "name": 137,
+      "desc": 248,
+      "icon_id": "140064000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140064000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301011002",
+      "board_version": "1.01.100"
+    },
+    {
+      "version": "1.01.100",
+      "id": "140065000",
+      "board_type": "0",
+      "name": 138,
+      "desc": 249,
+      "icon_id": "140065000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140065000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301011003",
+      "board_version": "1.01.100"
+    },
+    {
+      "version": "1.01.100",
+      "id": "140066000",
+      "board_type": "0",
+      "name": 139,
+      "desc": 250,
+      "icon_id": "140066000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140066000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301011004",
+      "board_version": "1.01.100"
+    },
+    {
+      "version": "1.01.100",
+      "id": "140067000",
+      "board_type": "0",
+      "name": 140,
+      "desc": 251,
+      "icon_id": "140067000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140067000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301011005",
+      "board_version": "1.01.100"
+    },
+    {
+      "version": "1.01.100",
+      "id": "140068000",
+      "board_type": "0",
+      "name": 141,
+      "desc": 252,
+      "icon_id": "140068000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140068000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301011006",
+      "board_version": "1.01.100"
+    },
+    {
+      "version": "1.01.100",
+      "id": "140069000",
+      "board_type": "0",
+      "name": 142,
+      "desc": 253,
+      "icon_id": "140069000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140069000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301011007",
+      "board_version": "1.01.100"
+    },
+    {
+      "version": "1.02.000",
+      "id": "140070000",
+      "board_type": "0",
+      "name": 298,
+      "desc": 314,
+      "icon_id": "140070000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140070000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301020000",
+      "board_version": "1.02.000"
+    },
+    {
+      "version": "1.02.000",
+      "id": "140071000",
+      "board_type": "0",
+      "name": 299,
+      "desc": 315,
+      "icon_id": "140071000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140071000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301020001",
+      "board_version": "1.02.000"
+    },
+    {
+      "version": "1.02.000",
+      "id": "140072000",
+      "board_type": "0",
+      "name": 300,
+      "desc": 316,
+      "icon_id": "140072000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140072000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301020002",
+      "board_version": "1.02.000"
+    },
+    {
+      "version": "1.02.000",
+      "id": "140073000",
+      "board_type": "0",
+      "name": 301,
+      "desc": 317,
+      "icon_id": "140073000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140073000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301020003",
+      "board_version": "1.02.000"
+    },
+    {
+      "version": "1.02.000",
+      "id": "140074000",
+      "board_type": "0",
+      "name": 302,
+      "desc": 318,
+      "icon_id": "140074000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140074000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301020004",
+      "board_version": "1.02.000"
+    },
+    {
+      "version": "1.02.000",
+      "id": "140075000",
+      "board_type": "0",
+      "name": 303,
+      "desc": 319,
+      "icon_id": "140075000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140075000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301020005",
+      "board_version": "1.02.000"
+    },
+    {
+      "version": "1.02.000",
+      "id": "140076000",
+      "board_type": "0",
+      "name": 304,
+      "desc": 320,
+      "icon_id": "140076000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140076000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301020006",
+      "board_version": "1.02.000"
+    },
+    {
+      "version": "1.02.000",
+      "id": "140077000",
+      "board_type": "0",
+      "name": 305,
+      "desc": 321,
+      "icon_id": "140077000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140077000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301020007",
+      "board_version": "1.02.000"
+    },
+    {
+      "version": "1.02.100",
+      "id": "140078000",
+      "board_type": "0",
+      "name": 306,
+      "desc": 322,
+      "icon_id": "140078000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140078000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301021000",
+      "board_version": "1.02.100"
+    },
+    {
+      "version": "1.02.100",
+      "id": "140079000",
+      "board_type": "0",
+      "name": 307,
+      "desc": 323,
+      "icon_id": "140079000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140079000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301021001",
+      "board_version": "1.02.100"
+    },
+    {
+      "version": "1.02.100",
+      "id": "140080000",
+      "board_type": "0",
+      "name": 308,
+      "desc": 324,
+      "icon_id": "140080000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140080000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301021002",
+      "board_version": "1.02.100"
+    },
+    {
+      "version": "1.02.100",
+      "id": "140081000",
+      "board_type": "0",
+      "name": 309,
+      "desc": 325,
+      "icon_id": "140081000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140081000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301021003",
+      "board_version": "1.02.100"
+    },
+    {
+      "version": "1.02.100",
+      "id": "140082000",
+      "board_type": "0",
+      "name": 310,
+      "desc": 326,
+      "icon_id": "140082000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140082000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301021004",
+      "board_version": "1.02.100"
+    },
+    {
+      "version": "1.02.100",
+      "id": "140083000",
+      "board_type": "0",
+      "name": 311,
+      "desc": 327,
+      "icon_id": "140083000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140083000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301021005",
+      "board_version": "1.02.100"
+    },
+    {
+      "version": "1.02.100",
+      "id": "140084000",
+      "board_type": "0",
+      "name": 312,
+      "desc": 328,
+      "icon_id": "140084000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140084000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301021006",
+      "board_version": "1.02.100"
+    },
+    {
+      "version": "1.02.100",
+      "id": "140085000",
+      "board_type": "0",
+      "name": 313,
+      "desc": 329,
+      "icon_id": "140085000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140085000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301021007",
+      "board_version": "1.02.100"
+    },
+    {
+      "version": "1.03.000",
+      "id": "140086000",
+      "board_type": "0",
+      "name": 358,
+      "desc": 374,
+      "icon_id": "140086000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140086000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301030001",
+      "board_version": "1.03.000"
+    },
+    {
+      "version": "1.03.000",
+      "id": "140087000",
+      "board_type": "0",
+      "name": 359,
+      "desc": 375,
+      "icon_id": "140087000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140087000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301030002",
+      "board_version": "1.03.000"
+    },
+    {
+      "version": "1.03.000",
+      "id": "140088000",
+      "board_type": "0",
+      "name": 360,
+      "desc": 376,
+      "icon_id": "140088000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140088000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301030003",
+      "board_version": "1.03.000"
+    },
+    {
+      "version": "1.03.000",
+      "id": "140089000",
+      "board_type": "0",
+      "name": 361,
+      "desc": 377,
+      "icon_id": "140089000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140089000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301030004",
+      "board_version": "1.03.000"
+    },
+    {
+      "version": "1.03.000",
+      "id": "140090000",
+      "board_type": "0",
+      "name": 362,
+      "desc": 378,
+      "icon_id": "140090000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140090000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301030005",
+      "board_version": "1.03.000"
+    },
+    {
+      "version": "1.03.000",
+      "id": "140091000",
+      "board_type": "0",
+      "name": 363,
+      "desc": 379,
+      "icon_id": "140091000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140091000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301030006",
+      "board_version": "1.03.000"
+    },
+    {
+      "version": "1.03.000",
+      "id": "140092000",
+      "board_type": "0",
+      "name": 364,
+      "desc": 380,
+      "icon_id": "140092000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140092000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301030007",
+      "board_version": "1.03.000"
+    },
+    {
+      "version": "1.03.000",
+      "id": "140093000",
+      "board_type": "0",
+      "name": 365,
+      "desc": 381,
+      "icon_id": "140093000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140093000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301030008",
+      "board_version": "1.03.000"
+    },
+    {
+      "version": "1.03.100",
+      "id": "140094000",
+      "board_type": "0",
+      "name": 366,
+      "desc": 382,
+      "icon_id": "140094000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140094000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301031001",
+      "board_version": "1.03.100"
+    },
+    {
+      "version": "1.03.100",
+      "id": "140095000",
+      "board_type": "0",
+      "name": 367,
+      "desc": 383,
+      "icon_id": "140095000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140095000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301031002",
+      "board_version": "1.03.100"
+    },
+    {
+      "version": "1.03.100",
+      "id": "140096000",
+      "board_type": "0",
+      "name": 368,
+      "desc": 384,
+      "icon_id": "140096000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140096000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301031003",
+      "board_version": "1.03.100"
+    },
+    {
+      "version": "1.03.100",
+      "id": "140097000",
+      "board_type": "0",
+      "name": 369,
+      "desc": 385,
+      "icon_id": "140097000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140097000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301031004",
+      "board_version": "1.03.100"
+    },
+    {
+      "version": "1.03.100",
+      "id": "140098000",
+      "board_type": "0",
+      "name": 370,
+      "desc": 386,
+      "icon_id": "140098000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140098000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301031005",
+      "board_version": "1.03.100"
+    },
+    {
+      "version": "1.03.100",
+      "id": "140099000",
+      "board_type": "0",
+      "name": 371,
+      "desc": 387,
+      "icon_id": "140099000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140099000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301031006",
+      "board_version": "1.03.100"
+    },
+    {
+      "version": "1.03.100",
+      "id": "140100000",
+      "board_type": "0",
+      "name": 372,
+      "desc": 388,
+      "icon_id": "140100000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140100000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301031007",
+      "board_version": "1.03.100"
+    },
+    {
+      "version": "1.03.100",
+      "id": "140101000",
+      "board_type": "0",
+      "name": 373,
+      "desc": 389,
+      "icon_id": "140101000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV140101000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "301031008",
+      "board_version": "1.03.100"
+    },
+    {
+      "version": "1.00.100",
+      "id": "210011000",
+      "board_type": "1",
+      "name": 330,
+      "desc": 332,
+      "icon_id": "210011000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV210011000"
+        }
+      ],
+      "challenge_term_id": "100100600",
+      "acceptance_term_id": "100100600",
+      "sort_id": "701010000",
+      "board_version": "1.00.100"
+    },
+    {
+      "version": "1.00.100",
+      "id": "210012000",
+      "board_type": "1",
+      "name": 331,
+      "desc": 333,
+      "icon_id": "210012000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV210012000"
+        }
+      ],
+      "challenge_term_id": "100100600",
+      "acceptance_term_id": "100100600",
+      "sort_id": "701010001",
+      "board_version": "1.00.100"
+    },
+    {
+      "version": "1.01.000",
+      "id": "210001000",
+      "board_type": "1",
+      "name": 50,
+      "desc": 254,
+      "icon_id": "210001000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV210001000"
+        }
+      ],
+      "challenge_term_id": "101000600",
+      "acceptance_term_id": "101000600",
+      "sort_id": "701001000",
+      "board_version": "1.01.000"
+    },
+    {
+      "version": "1.01.000",
+      "id": "210002000",
+      "board_type": "1",
+      "name": 51,
+      "desc": 255,
+      "icon_id": "210002000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV210002000"
+        }
+      ],
+      "challenge_term_id": "101000600",
+      "acceptance_term_id": "101000600",
+      "sort_id": "701001001",
+      "board_version": "1.01.000"
+    },
+    {
+      "version": "1.01.100",
+      "id": "210015000",
+      "board_type": "1",
+      "name": 392,
+      "desc": 394,
+      "icon_id": "210015000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV210015000_COMP"
+        }
+      ],
+      "challenge_term_id": "101100600",
+      "acceptance_term_id": "101100600",
+      "sort_id": "701020000",
+      "board_version": "1.01.100"
+    },
+    {
+      "version": "1.01.100",
+      "id": "210016000",
+      "board_type": "1",
+      "name": 393,
+      "desc": 395,
+      "icon_id": "210016000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV210016000_COMP"
+        }
+      ],
+      "challenge_term_id": "101100600",
+      "acceptance_term_id": "101100600",
+      "sort_id": "701020001",
+      "board_version": "1.01.100"
+    },
+    {
+      "version": "1.02.000",
+      "id": "210009000",
+      "board_type": "1",
+      "name": 294,
+      "desc": 296,
+      "icon_id": "210009000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV210009000"
+        }
+      ],
+      "challenge_term_id": "102000600",
+      "acceptance_term_id": "102000600",
+      "sort_id": "701021000",
+      "board_version": "1.02.000"
+    },
+    {
+      "version": "1.02.000",
+      "id": "210010000",
+      "board_type": "1",
+      "name": 295,
+      "desc": 297,
+      "icon_id": "210010000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV210010000"
+        }
+      ],
+      "challenge_term_id": "102000600",
+      "acceptance_term_id": "102000600",
+      "sort_id": "701021001",
+      "board_version": "1.02.000"
+    },
+    {
+      "version": "1.03.100",
+      "id": "210003000",
+      "board_type": "1",
+      "name": 262,
+      "desc": 266,
+      "icon_id": "210003000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV210003000"
+        }
+      ],
+      "challenge_term_id": "103100600",
+      "acceptance_term_id": "103100600",
+      "sort_id": "701051000",
+      "board_version": "1.03.100"
+    },
+    {
+      "version": "1.03.100",
+      "id": "210004000",
+      "board_type": "1",
+      "name": 263,
+      "desc": 267,
+      "icon_id": "210004000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV210004000"
+        }
+      ],
+      "challenge_term_id": "103100600",
+      "acceptance_term_id": "103100600",
+      "sort_id": "701051001",
+      "board_version": "1.03.100"
+    },
+    {
+      "version": "1.05.000",
+      "id": "210005000",
+      "board_type": "1",
+      "name": 264,
+      "desc": 268,
+      "icon_id": "210005000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV210005000"
+        }
+      ],
+      "challenge_term_id": "105000600",
+      "acceptance_term_id": "105000600",
+      "sort_id": "701041000",
+      "board_version": "1.05.000"
+    },
+    {
+      "version": "1.05.000",
+      "id": "210006000",
+      "board_type": "1",
+      "name": 265,
+      "desc": 269,
+      "icon_id": "210006000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV210006000"
+        }
+      ],
+      "challenge_term_id": "105000600",
+      "acceptance_term_id": "105000600",
+      "sort_id": "701041001",
+      "board_version": "1.05.000"
+    },
+    {
+      "version": "1.07.000",
+      "id": "210013000",
+      "board_type": "1",
+      "name": 396,
+      "desc": 398,
+      "icon_id": "210013000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV210013000_COMP"
+        }
+      ],
+      "challenge_term_id": "107000600",
+      "acceptance_term_id": "107000600",
+      "sort_id": "701011000",
+      "board_version": "1.07.000"
+    },
+    {
+      "version": "1.07.000",
+      "id": "210014000",
+      "board_type": "1",
+      "name": 397,
+      "desc": 399,
+      "icon_id": "210014000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV210014000_COMP"
+        }
+      ],
+      "challenge_term_id": "107000600",
+      "acceptance_term_id": "107000600",
+      "sort_id": "701011001",
+      "board_version": "1.07.000"
+    },
+    {
+      "version": "1.00.000",
+      "id": "410001000",
+      "board_type": "0",
+      "name": 270,
+      "desc": 271,
+      "icon_id": "410001000",
+      "bg_id": "200001",
+      "complete_reward_id_list": [
+        {
+          "reward_id": "ADV410001000_COMP"
+        }
+      ],
+      "challenge_term_id": "",
+      "acceptance_term_id": "",
+      "sort_id": "101000000",
+      "board_version": "1.00.000"
+    }
+  ]
+}

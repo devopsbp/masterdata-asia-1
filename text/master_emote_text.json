@@ -1,0 +1,1177 @@
+﻿{
+  "header": {
+    "content_type": "master_text"
+  },
+  "payload": [
+    {
+      "id": "1",
+      "ja_JP": "笑い",
+      "zh_TW": "笑"
+    },
+    {
+      "id": "2",
+      "ja_JP": "やったぜ",
+      "zh_TW": "太好啦!"
+    },
+    {
+      "id": "3",
+      "ja_JP": "やったね",
+      "zh_TW": "太好了!"
+    },
+    {
+      "id": "4",
+      "ja_JP": "おどろき",
+      "zh_TW": "驚訝"
+    },
+    {
+      "id": "5",
+      "ja_JP": "呆れる",
+      "zh_TW": "傻眼"
+    },
+    {
+      "id": "6",
+      "ja_JP": "泣く",
+      "zh_TW": "哭泣"
+    },
+    {
+      "id": "7",
+      "ja_JP": "落ち込み",
+      "zh_TW": "失落"
+    },
+    {
+      "id": "8",
+      "ja_JP": "お辞儀",
+      "zh_TW": "鞠躬"
+    },
+    {
+      "id": "9",
+      "ja_JP": "丁寧なお辞儀",
+      "zh_TW": "禮貌地鞠躬"
+    },
+    {
+      "id": "10",
+      "ja_JP": "手を振る１",
+      "zh_TW": "揮手１"
+    },
+    {
+      "id": "11",
+      "ja_JP": "手を振る２",
+      "zh_TW": "揮手２"
+    },
+    {
+      "id": "12",
+      "ja_JP": "拍手",
+      "zh_TW": "拍手"
+    },
+    {
+      "id": "13",
+      "ja_JP": "土下座",
+      "zh_TW": "下跪道歉"
+    },
+    {
+      "id": "14",
+      "ja_JP": "ごまかす",
+      "zh_TW": "敷衍"
+    },
+    {
+      "id": "15",
+      "ja_JP": "あぐら座り",
+      "zh_TW": "盤腿"
+    },
+    {
+      "id": "16",
+      "ja_JP": "かかえ座り",
+      "zh_TW": "抱膝坐"
+    },
+    {
+      "id": "17",
+      "ja_JP": "ジャンプ",
+      "zh_TW": "跳躍"
+    },
+    {
+      "id": "18",
+      "ja_JP": "待機",
+      "zh_TW": "待命"
+    },
+    {
+      "id": "19",
+      "ja_JP": "考え込む",
+      "zh_TW": "沉思"
+    },
+    {
+      "id": "20",
+      "ja_JP": "踊る",
+      "zh_TW": "跳舞"
+    },
+    {
+      "id": "21",
+      "ja_JP": "じゃんけん（待機）",
+      "zh_TW": "猜拳(待機)"
+    },
+    {
+      "id": "22",
+      "ja_JP": "じゃんけんグー",
+      "zh_TW": "石頭"
+    },
+    {
+      "id": "23",
+      "ja_JP": "じゃんけんチョキ",
+      "zh_TW": "剪刀"
+    },
+    {
+      "id": "24",
+      "ja_JP": "じゃんけんパー",
+      "zh_TW": "布"
+    },
+    {
+      "id": "25",
+      "ja_JP": "手つなぎ（待機）",
+      "zh_TW": "牽手(待機)"
+    },
+    {
+      "id": "26",
+      "ja_JP": "大喜び",
+      "zh_TW": "非常高興"
+    },
+    {
+      "id": "27",
+      "ja_JP": "片膝座り",
+      "zh_TW": "立膝坐"
+    },
+    {
+      "id": "29",
+      "ja_JP": "腕組み",
+      "zh_TW": "抱手"
+    },
+    {
+      "id": "30",
+      "ja_JP": "不思議な力",
+      "zh_TW": "不可思議的力量"
+    },
+    {
+      "id": "31",
+      "ja_JP": "得意げなポーズ１",
+      "zh_TW": "得意的姿勢1"
+    },
+    {
+      "id": "32",
+      "ja_JP": "得意げなポーズ２",
+      "zh_TW": "得意的姿勢2"
+    },
+    {
+      "id": "33",
+      "ja_JP": "うつ伏せ",
+      "zh_TW": "趴著"
+    },
+    {
+      "id": "34",
+      "ja_JP": "足パタパタ",
+      "zh_TW": "腳拍打"
+    },
+    {
+      "id": "35",
+      "ja_JP": "仰向け",
+      "zh_TW": "仰臥"
+    },
+    {
+      "id": "36",
+      "ja_JP": "寝そべり",
+      "zh_TW": "躺下"
+    },
+    {
+      "id": "37",
+      "ja_JP": "ハートビーム",
+      "zh_TW": "萌萌愛心攻擊"
+    },
+    {
+      "id": "38",
+      "ja_JP": "狼ポーズ1",
+      "zh_TW": "狼姿勢1"
+    },
+    {
+      "id": "39",
+      "ja_JP": "狼ポーズ2",
+      "zh_TW": "狼姿勢2"
+    },
+    {
+      "id": "40",
+      "ja_JP": "仰天する１",
+      "zh_TW": "大吃一驚1"
+    },
+    {
+      "id": "41",
+      "ja_JP": "仰天する２",
+      "zh_TW": "大吃一驚2"
+    },
+    {
+      "id": "42",
+      "ja_JP": "余裕",
+      "zh_TW": "NONONO"
+    },
+    {
+      "id": "43",
+      "ja_JP": "指さし",
+      "zh_TW": "指人"
+    },
+    {
+      "id": "44",
+      "ja_JP": "つっこみ",
+      "zh_TW": "吐槽"
+    },
+    {
+      "id": "45",
+      "ja_JP": "掛け声",
+      "zh_TW": "叫聲"
+    },
+    {
+      "id": "46",
+      "ja_JP": "壁ドンする",
+      "zh_TW": "壁咚"
+    },
+    {
+      "id": "47",
+      "ja_JP": "壁ドンされる",
+      "zh_TW": "被壁咚"
+    },
+    {
+      "id": "48",
+      "ja_JP": "ローリングダンス",
+      "zh_TW": "旋轉舞"
+    },
+    {
+      "id": "50",
+      "ja_JP": "かわいいダンス",
+      "zh_TW": "可愛舞蹈"
+    },
+    {
+      "id": "52",
+      "ja_JP": "陶酔ポーズ1",
+      "zh_TW": "陶醉的姿勢1"
+    },
+    {
+      "id": "53",
+      "ja_JP": "陶酔ポーズ2",
+      "zh_TW": "陶醉的姿勢2"
+    },
+    {
+      "id": "59",
+      "ja_JP": "キザな投げキッス",
+      "zh_TW": "讓人不舒服的飛吻"
+    },
+    {
+      "id": "60",
+      "ja_JP": "かわいい投げキッス",
+      "zh_TW": "可愛的飛吻"
+    },
+    {
+      "id": "61",
+      "ja_JP": "ファンキーな投げキッス",
+      "zh_TW": "誇張的飛吻"
+    },
+    {
+      "id": "62",
+      "ja_JP": "魅惑の投げキッス",
+      "zh_TW": "魅惑的飛吻"
+    },
+    {
+      "id": "65",
+      "ja_JP": "盆踊り",
+      "zh_TW": "盂蘭盆舞"
+    },
+    {
+      "id": "67",
+      "ja_JP": "ニンニンポーズ",
+      "zh_TW": "忍者姿勢"
+    },
+    {
+      "id": "72",
+      "ja_JP": "敬意を払う",
+      "zh_TW": "表達敬意"
+    },
+    {
+      "id": "73",
+      "ja_JP": "お帰りなさいませ",
+      "zh_TW": "請慢走"
+    },
+    {
+      "id": "74",
+      "ja_JP": "星霊祭ダンス",
+      "zh_TW": "星靈祭舞蹈"
+    },
+    {
+      "id": "75",
+      "ja_JP": "ボディビル1",
+      "zh_TW": "健身姿勢1"
+    },
+    {
+      "id": "76",
+      "ja_JP": "ボディビル2",
+      "zh_TW": "健身姿勢2"
+    },
+    {
+      "id": "250",
+      "ja_JP": "跪く",
+      "zh_TW": "跪下"
+    },
+    {
+      "id": "253",
+      "ja_JP": "うさぎのマネ",
+      "zh_TW": "模仿兔子"
+    },
+    {
+      "id": "265",
+      "ja_JP": "バーンハルト騎士団の敬礼",
+      "zh_TW": "本爾哈騎士團的敬禮"
+    },
+    {
+      "id": "266",
+      "ja_JP": "メガネくいっ",
+      "zh_TW": "推眼鏡"
+    },
+    {
+      "id": "267",
+      "ja_JP": "くるっと回る",
+      "zh_TW": "旋轉"
+    },
+    {
+      "id": "274",
+      "ja_JP": "クリエイション１",
+      "zh_TW": "自創1"
+    },
+    {
+      "id": "275",
+      "ja_JP": "クリエイション２",
+      "zh_TW": "自創2"
+    },
+    {
+      "id": "276",
+      "ja_JP": "クリエイション３",
+      "zh_TW": "自創3"
+    },
+    {
+      "id": "277",
+      "ja_JP": "クリエイション４",
+      "zh_TW": "自創4"
+    },
+    {
+      "id": "278",
+      "ja_JP": "クリエイション５",
+      "zh_TW": "自創5"
+    },
+    {
+      "id": "279",
+      "ja_JP": "クリエイション６",
+      "zh_TW": "自創6"
+    },
+    {
+      "id": "280",
+      "ja_JP": "クリエイション７",
+      "zh_TW": "自創7"
+    },
+    {
+      "id": "281",
+      "ja_JP": "クリエイション８",
+      "zh_TW": "自創8"
+    },
+    {
+      "id": "298",
+      "ja_JP": "きりっとした正座",
+      "zh_TW": "端正地正座"
+    },
+    {
+      "id": "301",
+      "ja_JP": "しとやかな正座",
+      "zh_TW": "優雅地正座"
+    },
+    {
+      "id": "304",
+      "ja_JP": "倒れる",
+      "zh_TW": "倒下"
+    },
+    {
+      "id": "305",
+      "ja_JP": "かわいいダンス",
+      "zh_TW": "可愛舞蹈"
+    },
+    {
+      "id": "77",
+      "ja_JP": "{CharacterName}が笑った。",
+      "zh_TW": "{CharacterName}笑了。"
+    },
+    {
+      "id": "78",
+      "ja_JP": "{CharacterName}が喜んだ。",
+      "zh_TW": "{CharacterName}很高興。"
+    },
+    {
+      "id": "79",
+      "ja_JP": "{CharacterName}が喜んだ。",
+      "zh_TW": "{CharacterName}很高興。"
+    },
+    {
+      "id": "80",
+      "ja_JP": "{CharacterName}が驚いた。",
+      "zh_TW": "{CharacterName}嚇到了。"
+    },
+    {
+      "id": "81",
+      "ja_JP": "{CharacterName}が呆れた。",
+      "zh_TW": "{CharacterName}傻眼。"
+    },
+    {
+      "id": "82",
+      "ja_JP": "{CharacterName}が泣いた。",
+      "zh_TW": "{CharacterName}哭了。"
+    },
+    {
+      "id": "83",
+      "ja_JP": "{CharacterName}が落ち込んだ。",
+      "zh_TW": "{CharacterName}很失落。"
+    },
+    {
+      "id": "84",
+      "ja_JP": "{CharacterName}がお辞儀した。",
+      "zh_TW": "{CharacterName}鞠躬了。"
+    },
+    {
+      "id": "85",
+      "ja_JP": "{CharacterName}が丁寧にお辞儀した。",
+      "zh_TW": "{CharacterName}很禮貌地鞠躬了。"
+    },
+    {
+      "id": "86",
+      "ja_JP": "{CharacterName}が手をふった。",
+      "zh_TW": "{CharacterName}揮了手。"
+    },
+    {
+      "id": "87",
+      "ja_JP": "{CharacterName}が手をふった。",
+      "zh_TW": "{CharacterName}揮了手。"
+    },
+    {
+      "id": "88",
+      "ja_JP": "{CharacterName}が拍手した。",
+      "zh_TW": "{CharacterName}拍了手。"
+    },
+    {
+      "id": "89",
+      "ja_JP": "{CharacterName}が土下座した。",
+      "zh_TW": "{CharacterName}下跪了。"
+    },
+    {
+      "id": "90",
+      "ja_JP": "{CharacterName}がごまかした。",
+      "zh_TW": "{CharacterName}敷衍。"
+    },
+    {
+      "id": "91",
+      "ja_JP": "{CharacterName}が座った。",
+      "zh_TW": "{CharacterName}坐下。"
+    },
+    {
+      "id": "92",
+      "ja_JP": "{CharacterName}が座った。",
+      "zh_TW": "{CharacterName}坐下。"
+    },
+    {
+      "id": "93",
+      "ja_JP": "{CharacterName}がジャンプした。",
+      "zh_TW": "{CharacterName}跳躍。"
+    },
+    {
+      "id": "94",
+      "ja_JP": "{CharacterName}が待機した。",
+      "zh_TW": "{CharacterName}待命。"
+    },
+    {
+      "id": "95",
+      "ja_JP": "{CharacterName}が考え込んだ。",
+      "zh_TW": "{CharacterName}陷入沉思。"
+    },
+    {
+      "id": "96",
+      "ja_JP": "{CharacterName}が踊った。",
+      "zh_TW": "{CharacterName}跳起舞。"
+    },
+    {
+      "id": "97",
+      "ja_JP": "{CharacterName}がじゃんけんを申し込んだ。",
+      "zh_TW": "{CharacterName}發出猜拳的邀請。"
+    },
+    {
+      "id": "98",
+      "ja_JP": "{CharacterName}が「グー」を出した。",
+      "zh_TW": "{CharacterName}出了「石頭」。"
+    },
+    {
+      "id": "99",
+      "ja_JP": "{CharacterName}が「チョキ」を出した。",
+      "zh_TW": "{CharacterName}出了「剪刀」。"
+    },
+    {
+      "id": "100",
+      "ja_JP": "{CharacterName}が「パー」を出した。",
+      "zh_TW": "{CharacterName}出了「布」。"
+    },
+    {
+      "id": "101",
+      "ja_JP": "{CharacterName}が手つなぎを申し込んだ。",
+      "zh_TW": "{CharacterName}提出牽手的要求。"
+    },
+    {
+      "id": "102",
+      "ja_JP": "{CharacterName}が大喜びした。",
+      "zh_TW": "{CharacterName}表現出超級開心的樣子。"
+    },
+    {
+      "id": "103",
+      "ja_JP": "{CharacterName}が座った。",
+      "zh_TW": "{CharacterName}坐下。"
+    },
+    {
+      "id": "105",
+      "ja_JP": "{CharacterName}が腕組みした。",
+      "zh_TW": "{CharacterName}在胸前交叉雙臂。"
+    },
+    {
+      "id": "106",
+      "ja_JP": "{CharacterName}が不思議な力を使った。",
+      "zh_TW": "{CharacterName}展現了奇妙的力量。"
+    },
+    {
+      "id": "107",
+      "ja_JP": "{CharacterName}が得意げなポーズをした。",
+      "zh_TW": "{CharacterName}做出得意的姿勢。"
+    },
+    {
+      "id": "108",
+      "ja_JP": "{CharacterName}が得意げなポーズをした。",
+      "zh_TW": "{CharacterName}做出得意的姿勢。"
+    },
+    {
+      "id": "109",
+      "ja_JP": "{CharacterName}がうつ伏せになった。",
+      "zh_TW": "{CharacterName}趴下了。"
+    },
+    {
+      "id": "110",
+      "ja_JP": "{CharacterName}が足をパタパタした。",
+      "zh_TW": "{CharacterName}以雙腳亂踢。"
+    },
+    {
+      "id": "111",
+      "ja_JP": "{CharacterName}が仰向けになった。",
+      "zh_TW": "{CharacterName}仰躺。"
+    },
+    {
+      "id": "112",
+      "ja_JP": "{CharacterName}が寝そべった。",
+      "zh_TW": "{CharacterName}躺下。"
+    },
+    {
+      "id": "113",
+      "ja_JP": "{CharacterName}がキュンハートした。",
+      "zh_TW": "{CharacterName}做出甜美愛心。"
+    },
+    {
+      "id": "114",
+      "ja_JP": "{CharacterName}が狼のポーズをした。",
+      "zh_TW": "{CharacterName}擺出了狼的姿勢"
+    },
+    {
+      "id": "115",
+      "ja_JP": "{CharacterName}が狼のポーズをした。",
+      "zh_TW": "{CharacterName}擺出了狼的姿勢"
+    },
+    {
+      "id": "116",
+      "ja_JP": "{CharacterName}が大きく驚いた。",
+      "zh_TW": "{CharacterName}大吃一驚"
+    },
+    {
+      "id": "117",
+      "ja_JP": "{CharacterName}が大きく驚いた。",
+      "zh_TW": "{CharacterName}大吃一驚"
+    },
+    {
+      "id": "118",
+      "ja_JP": "{CharacterName}が余裕を見せた。",
+      "zh_TW": "{CharacterName}展現了從容的態度。"
+    },
+    {
+      "id": "119",
+      "ja_JP": "{CharacterName}が指さした。",
+      "zh_TW": "{CharacterName}用手指人。"
+    },
+    {
+      "id": "120",
+      "ja_JP": "{CharacterName}がつっこんだ。",
+      "zh_TW": "{CharacterName}吐槽。"
+    },
+    {
+      "id": "121",
+      "ja_JP": "{CharacterName}が応援した。",
+      "zh_TW": "{CharacterName}加油打氣。"
+    },
+    {
+      "id": "122",
+      "ja_JP": "{CharacterName}が壁ドンした。",
+      "zh_TW": "{CharacterName}壁咚。"
+    },
+    {
+      "id": "123",
+      "ja_JP": "{CharacterName}が受けた。",
+      "zh_TW": "{CharacterName}接受。"
+    },
+    {
+      "id": "124",
+      "ja_JP": "{CharacterName}が踊った。",
+      "zh_TW": "{CharacterName}跳舞。"
+    },
+    {
+      "id": "126",
+      "ja_JP": "{CharacterName}が踊った。",
+      "zh_TW": "{CharacterName}跳舞。"
+    },
+    {
+      "id": "128",
+      "ja_JP": "{CharacterName}がかっこいいポーズをした。",
+      "zh_TW": "{CharacterName}擺出帥氣的姿勢。"
+    },
+    {
+      "id": "129",
+      "ja_JP": "{CharacterName}がかっこいいポーズをした。",
+      "zh_TW": "{CharacterName}擺出帥氣的姿勢。"
+    },
+    {
+      "id": "135",
+      "ja_JP": "{CharacterName}が投げキッスをした。",
+      "zh_TW": "{CharacterName}給出飛吻。"
+    },
+    {
+      "id": "136",
+      "ja_JP": "{CharacterName}が投げキッスをした。",
+      "zh_TW": "{CharacterName}給出飛吻。"
+    },
+    {
+      "id": "137",
+      "ja_JP": "{CharacterName}が投げキッスをした。",
+      "zh_TW": "{CharacterName}給出飛吻。"
+    },
+    {
+      "id": "138",
+      "ja_JP": "{CharacterName}が投げキッスをした。",
+      "zh_TW": "{CharacterName}給出飛吻。"
+    },
+    {
+      "id": "141",
+      "ja_JP": "{CharacterName}が踊った。",
+      "zh_TW": "{CharacterName}跳起了舞。"
+    },
+    {
+      "id": "143",
+      "ja_JP": "{CharacterName}がポーズを披露した。",
+      "zh_TW": "{CharacterName}擺了POSE。"
+    },
+    {
+      "id": "148",
+      "ja_JP": "{CharacterName}が執事のように待機した。",
+      "zh_TW": "{CharacterName}像執事一樣地待命。"
+    },
+    {
+      "id": "149",
+      "ja_JP": "{CharacterName}が丁寧に挨拶した。",
+      "zh_TW": "{CharacterName}有禮貌地打了招呼。"
+    },
+    {
+      "id": "150",
+      "ja_JP": "{CharacterName}が踊った。",
+      "zh_TW": "{CharacterName}跳起了舞。"
+    },
+    {
+      "id": "151",
+      "ja_JP": "{CharacterName}がポーズを披露した。",
+      "zh_TW": "{CharacterName}擺了POSE。"
+    },
+    {
+      "id": "152",
+      "ja_JP": "{CharacterName}がポーズを披露した。",
+      "zh_TW": "{CharacterName}擺了POSE。"
+    },
+    {
+      "id": "251",
+      "ja_JP": "{CharacterName}が跪いた。",
+      "zh_TW": "{CharacterName}跪下了"
+    },
+    {
+      "id": "254",
+      "ja_JP": "{CharacterName}がうさぎのマネをした。",
+      "zh_TW": "{CharacterName}模仿了兔子"
+    },
+    {
+      "id": "268",
+      "ja_JP": "{CharacterName}が敬礼した。",
+      "zh_TW": "{CharacterName}敬了禮"
+    },
+    {
+      "id": "269",
+      "ja_JP": "{CharacterName}がメガネを直した。",
+      "zh_TW": "{CharacterName}推了眼鏡"
+    },
+    {
+      "id": "270",
+      "ja_JP": "{CharacterName}がその場で回った。",
+      "zh_TW": "{CharacterName}當場轉了一圈"
+    },
+    {
+      "id": "282",
+      "ja_JP": "{CharacterName}がかっこいいポーズをした。",
+      "zh_TW": "{CharacterName}擺了一個很帥的姿勢"
+    },
+    {
+      "id": "283",
+      "ja_JP": "{CharacterName}がかっこいいポーズをした。",
+      "zh_TW": "{CharacterName}擺了一個很帥的姿勢"
+    },
+    {
+      "id": "284",
+      "ja_JP": "{CharacterName}がかっこいいポーズをした。",
+      "zh_TW": "{CharacterName}擺了一個很帥的姿勢"
+    },
+    {
+      "id": "285",
+      "ja_JP": "{CharacterName}がポーズを決めた。",
+      "zh_TW": "{CharacterName}決定了這個姿勢"
+    },
+    {
+      "id": "286",
+      "ja_JP": "{CharacterName}がポーズを決めた。",
+      "zh_TW": "{CharacterName}決定了這個姿勢"
+    },
+    {
+      "id": "287",
+      "ja_JP": "{CharacterName}がポーズを決めた。",
+      "zh_TW": "{CharacterName}決定了這個姿勢"
+    },
+    {
+      "id": "288",
+      "ja_JP": "{CharacterName}がポーズを決めた。",
+      "zh_TW": "{CharacterName}決定了這個姿勢"
+    },
+    {
+      "id": "289",
+      "ja_JP": "{CharacterName}がポーズを決めた。",
+      "zh_TW": "{CharacterName}決定了這個姿勢"
+    },
+    {
+      "id": "299",
+      "ja_JP": "{CharacterName}が正座をした。",
+      "zh_TW": "{CharacterName}正座。"
+    },
+    {
+      "id": "302",
+      "ja_JP": "{CharacterName}が正座をした。",
+      "zh_TW": "{CharacterName}正座。"
+    },
+    {
+      "id": "306",
+      "ja_JP": "{CharacterName}が倒れた。",
+      "zh_TW": "{CharacterName}倒下。"
+    },
+    {
+      "id": "307",
+      "ja_JP": "{CharacterName}が踊った。",
+      "zh_TW": "{CharacterName}跳舞。"
+    },
+    {
+      "id": "153",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に笑った。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}笑了。"
+    },
+    {
+      "id": "154",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に喜んだ。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}感到開心。"
+    },
+    {
+      "id": "155",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に喜んだ。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}感到開心。"
+    },
+    {
+      "id": "156",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に驚いた。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}感到驚訝。"
+    },
+    {
+      "id": "157",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に呆れた。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}感到傻眼。"
+    },
+    {
+      "id": "158",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に泣いた。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}哭了。"
+    },
+    {
+      "id": "159",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に落ち込んだ。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}表現出失落的樣子。"
+    },
+    {
+      "id": "160",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}にお辞儀した。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}鞠了個躬。"
+    },
+    {
+      "id": "161",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に丁寧にお辞儀した。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}有禮貌地鞠躬。"
+    },
+    {
+      "id": "162",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に手をふった。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}揮手。"
+    },
+    {
+      "id": "163",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に手をふった。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}揮手。"
+    },
+    {
+      "id": "164",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に拍手した。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}拍手。"
+    },
+    {
+      "id": "165",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に土下座した。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}跪地道歉。"
+    },
+    {
+      "id": "166",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}にごまかした。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}敷衍。"
+    },
+    {
+      "id": "167",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に向かって座った。",
+      "zh_TW": "{CharacterName}面向{OtherCharacterName}坐下。"
+    },
+    {
+      "id": "168",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に向かって座った。",
+      "zh_TW": "{CharacterName}面向{OtherCharacterName}坐下。"
+    },
+    {
+      "id": "169",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に向かってジャンプした。",
+      "zh_TW": "{CharacterName}面向{OtherCharacterName}跳躍。"
+    },
+    {
+      "id": "170",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に向かって待機した。",
+      "zh_TW": "{CharacterName}面向{OtherCharacterName}待機。"
+    },
+    {
+      "id": "171",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に対して考え込んだ。",
+      "zh_TW": "{CharacterName}面向{OtherCharacterName}陷入沉思。"
+    },
+    {
+      "id": "172",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に向かって踊った。",
+      "zh_TW": "{CharacterName}面向{OtherCharacterName}跳起舞。"
+    },
+    {
+      "id": "173",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}にじゃんけんを申し込んだ。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}發起猜拳比賽。"
+    },
+    {
+      "id": "174",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に「グー」を出した。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}出了「石頭」。"
+    },
+    {
+      "id": "175",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に「チョキ」を出した。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}出了「剪刀」。"
+    },
+    {
+      "id": "176",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に「パー」を出した。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}出了「布」。"
+    },
+    {
+      "id": "177",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に手つなぎを申し込んだ。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}提出牽手的要求。"
+    },
+    {
+      "id": "178",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に大喜びした。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}表現出超級開心的樣子。"
+    },
+    {
+      "id": "179",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に向かって座った。",
+      "zh_TW": "{CharacterName}面向{OtherCharacterName}坐下。"
+    },
+    {
+      "id": "181",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に向かって腕組みした。",
+      "zh_TW": "{CharacterName}面向{OtherCharacterName}在胸前交叉雙臂。"
+    },
+    {
+      "id": "182",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に不思議な力を見せた。",
+      "zh_TW": "{CharacterName}面向{OtherCharacterName}展現了奇妙的力量。"
+    },
+    {
+      "id": "183",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}にポーズを披露した。",
+      "zh_TW": "{CharacterName}面向{OtherCharacterName}秀了姿勢。"
+    },
+    {
+      "id": "184",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}にポーズを披露した。",
+      "zh_TW": "{CharacterName}面向{OtherCharacterName}秀了姿勢。"
+    },
+    {
+      "id": "185",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に向かってうつ伏せになった。",
+      "zh_TW": "{CharacterName}面向{OtherCharacterName}趴下了。"
+    },
+    {
+      "id": "186",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に向かって足をパタパタした。",
+      "zh_TW": "{CharacterName}面向{OtherCharacterName}兩腳亂踢。"
+    },
+    {
+      "id": "187",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に向かって仰向けになった。",
+      "zh_TW": "{CharacterName}面向{OtherCharacterName}四腳朝天。"
+    },
+    {
+      "id": "188",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に向かって寝そべった。",
+      "zh_TW": "{CharacterName}面向{OtherCharacterName}睡了起來。"
+    },
+    {
+      "id": "189",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に向かってキュンハートをした。",
+      "zh_TW": "{CharacterName}面向{OtherCharacterName}做了可愛的愛心。"
+    },
+    {
+      "id": "190",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に向かって狼のポーズをした。",
+      "zh_TW": "{CharacterName}面向{OtherCharacterName}做了狼的POSE。"
+    },
+    {
+      "id": "191",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に向かって狼のポーズをした。",
+      "zh_TW": "{CharacterName}面向{OtherCharacterName}做了狼的POSE。"
+    },
+    {
+      "id": "192",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に驚いた。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}感到驚訝。"
+    },
+    {
+      "id": "193",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に驚いた。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}感到驚訝。"
+    },
+    {
+      "id": "194",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に余裕を見せた。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}展現出從容的態度。"
+    },
+    {
+      "id": "195",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に指さした。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}以手指指著。"
+    },
+    {
+      "id": "196",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}につっこんだ。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}吐槽。"
+    },
+    {
+      "id": "197",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}を応援した。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}加油打氣。"
+    },
+    {
+      "id": "198",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に壁ドンした。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}壁咚。"
+    },
+    {
+      "id": "199",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}を受けた。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}接受。"
+    },
+    {
+      "id": "200",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に向かって踊った。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}跳舞。"
+    },
+    {
+      "id": "202",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に向かって踊った。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}跳舞。"
+    },
+    {
+      "id": "204",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}にポーズを披露した。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}秀了個POSE。"
+    },
+    {
+      "id": "205",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}にポーズを披露した。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}秀了個POSE。"
+    },
+    {
+      "id": "211",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に投げキッスをした。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}丟了個飛吻。"
+    },
+    {
+      "id": "212",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に投げキッスをした。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}丟了個飛吻。"
+    },
+    {
+      "id": "213",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に投げキッスをした。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}丟了個飛吻。"
+    },
+    {
+      "id": "214",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に投げキッスをした。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}丟了個飛吻。"
+    },
+    {
+      "id": "217",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に向かって踊った。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}跳起了舞。"
+    },
+    {
+      "id": "219",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}にポーズを披露した。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}秀了個POSE。"
+    },
+    {
+      "id": "224",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に向かって執事のように待機した。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}像執事一樣地待命。"
+    },
+    {
+      "id": "225",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に向かって丁寧に挨拶した。",
+      "zh_TW": "{CharacterName}向{OtherCharacterName}有禮貌地打了招呼。"
+    },
+    {
+      "id": "226",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に向かって踊った。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}跳起了舞。"
+    },
+    {
+      "id": "227",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}にポーズを披露した。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}秀了個POSE。"
+    },
+    {
+      "id": "228",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}にポーズを披露した。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}秀了個POSE。"
+    },
+    {
+      "id": "252",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に対して跪いた。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}跪下了"
+    },
+    {
+      "id": "255",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に向かってうさぎのマネをした。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}模仿了兔子"
+    },
+    {
+      "id": "271",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に敬礼した。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}敬了禮"
+    },
+    {
+      "id": "272",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}にメガネを直して見せた。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}推了眼鏡"
+    },
+    {
+      "id": "273",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}にくるっと回って見せた。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}轉了一圈"
+    },
+    {
+      "id": "290",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}にポーズを披露した。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}擺了一個很帥的姿勢"
+    },
+    {
+      "id": "291",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}にポーズを披露した。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}擺了一個很帥的姿勢"
+    },
+    {
+      "id": "292",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}にポーズを披露した。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}擺了一個很帥的姿勢"
+    },
+    {
+      "id": "293",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}にポーズを披露した。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}擺了一個很帥的姿勢"
+    },
+    {
+      "id": "294",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}にポーズを披露した。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}擺了一個很帥的姿勢"
+    },
+    {
+      "id": "295",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}にポーズを披露した。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}擺了一個很帥的姿勢"
+    },
+    {
+      "id": "296",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}にポーズを披露した。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}擺了一個很帥的姿勢"
+    },
+    {
+      "id": "297",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}にポーズを披露した。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}擺了一個很帥的姿勢"
+    },
+    {
+      "id": "300",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に正座をした。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}正座"
+    },
+    {
+      "id": "303",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に正座をした。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}正座"
+    },
+    {
+      "id": "308",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に向かって倒れた。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}倒下"
+    },
+    {
+      "id": "309",
+      "ja_JP": "{CharacterName}が{OtherCharacterName}に向かって踊った。",
+      "zh_TW": "{CharacterName}對{OtherCharacterName}倒下"
+    }
+  ]
+}

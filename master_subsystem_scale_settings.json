@@ -1,0 +1,42 @@
+﻿{
+  "header": {
+    "content_type": "master_subsystem_scale_settings"
+  },
+  "payload": [
+    {
+      "id": "1",
+      "subsystem_type": "default",
+      "buffer_pct": "10",
+      "min_ccu": "0",
+      "max_ccu": "9999999"
+    },
+    {
+      "id": "2",
+      "subsystem_type": "datastore",
+      "buffer_pct": "10",
+      "min_ccu": "0",
+      "max_ccu": "9999999"
+    },
+    {
+      "id": "3",
+      "subsystem_type": "xmpp",
+      "buffer_pct": "10",
+      "min_ccu": "0",
+      "max_ccu": "9999999"
+    },
+    {
+      "id": "4",
+      "subsystem_type": "party",
+      "buffer_pct": "10",
+      "min_ccu": "0",
+      "max_ccu": "9999999"
+    },
+    {
+      "id": "5",
+      "subsystem_type": "match",
+      "buffer_pct": "10",
+      "min_ccu": "0",
+      "max_ccu": "9999999"
+    }
+  ]
+}

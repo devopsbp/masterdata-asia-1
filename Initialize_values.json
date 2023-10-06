@@ -1,0 +1,35 @@
+﻿{
+  "header": {
+    "content_type": "master_initialize_values"
+  },
+  "payload": [
+    {
+      "key": "money",
+      "value": "3000"
+    },
+    {
+      "key": "reward_boost_count",
+      "value": "5"
+    },
+    {
+      "key": "quest_auto_order_daily_default_reload ",
+      "value": "2"
+    },
+    {
+      "key": "quest_auto_order_daily_reload_price",
+      "value": "50"
+    },
+    {
+      "key": "character_slot_initial",
+      "value": "2"
+    },
+    {
+      "key": "character_slot_buy_max",
+      "value": "0"
+    },
+    {
+      "key": "achievement1",
+      "value": "1"
+    }
+  ]
+}

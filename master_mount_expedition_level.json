@@ -1,0 +1,37 @@
+﻿{
+  "header": {
+    "content_type": "master_mount_expedition_level"
+  },
+  "payload": [
+    {
+      "type": "mount_expedition_test",
+      "level": "1",
+      "next_exp": "250",
+      "version": "9.99.999"
+    },
+    {
+      "type": "mount_expedition_test",
+      "level": "2",
+      "next_exp": "1000",
+      "version": "9.99.999"
+    },
+    {
+      "type": "mount_expedition_test",
+      "level": "3",
+      "next_exp": "2500",
+      "version": "9.99.999"
+    },
+    {
+      "type": "mount_expedition_test",
+      "level": "4",
+      "next_exp": "5000",
+      "version": "9.99.999"
+    },
+    {
+      "type": "mount_expedition_test",
+      "level": "5",
+      "next_exp": "0",
+      "version": "9.99.999"
+    }
+  ]
+}

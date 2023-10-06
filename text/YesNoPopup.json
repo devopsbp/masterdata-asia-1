@@ -1,0 +1,17 @@
+﻿{
+  "header": {
+    "content_type": "master_text"
+  },
+  "payload": [
+    {
+      "id": "1",
+      "ja_JP": "受ける",
+      "zh_CN": "受ける"
+    },
+    {
+      "id": "2",
+      "ja_JP": "断る",
+      "zh_CN": "断る"
+    }
+  ]
+}

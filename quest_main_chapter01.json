@@ -1,0 +1,1942 @@
+﻿{
+  "header": {
+    "content_type": "master_quest",
+    "timezone": "Asia/Taipei"
+  },
+  "payload": [
+    {
+      "id": "101020",
+      "long_id": "MQ101_020",
+      "active": "true",
+      "category1": "1",
+      "category2": "1",
+      "category3": "1",
+      "name": 1,
+      "desc": 18,
+      "reporter_id": "MQ101_020_done_Npc_Jake",
+      "auto_report": "false",
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "MQ101_020_step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "1",
+              "npcId": "Npc_Coin_Owner",
+              "placeId": "cty01_Top",
+              "descriptionId": [
+                {
+                  "descriptionId": 97
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 151
+                }
+              ]
+            }
+          ],
+          "route_guide_prohibit": "TRUE"
+        },
+        {
+          "id": "step1",
+          "location_id": "MQ101_020_step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "5",
+              "placeId": "cty01_Top",
+              "descriptionId": [
+                {
+                  "descriptionId": 98
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 152
+                }
+              ]
+            }
+          ],
+          "route_guide_prohibit": "TRUE"
+        },
+        {
+          "id": "step2",
+          "location_id": "MQ101_020_step2",
+          "condition_items": [
+            {
+              "id": "2",
+              "type": "1",
+              "npcId": "MQ101_020_step2_Npc_Feste",
+              "placeId": "cty01_Top",
+              "descriptionId": [
+                {
+                  "descriptionId": 99
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 153
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step3",
+          "location_id": "MQ101_020_step3",
+          "condition_items": [
+            {
+              "id": "3",
+              "type": "8",
+              "npcId": "cty01",
+              "placeId": "cty01_Top",
+              "descriptionId": [
+                {
+                  "descriptionId": 100
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 154
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step4",
+          "location_id": "MQ101_020_step4",
+          "condition_items": [
+            {
+              "id": "4",
+              "type": "5",
+              "placeId": "fld001_001",
+              "descriptionId": [
+                {
+                  "descriptionId": 101
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 155
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step5",
+          "location_id": "MQ101_020_step5",
+          "condition_items": [
+            {
+              "id": "5",
+              "type": "5",
+              "placeId": "fld001_002",
+              "descriptionId": [
+                {
+                  "descriptionId": 102
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 156
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step6",
+          "location_id": "MQ101_020_step6",
+          "condition_items": [
+            {
+              "id": "6",
+              "type": "1",
+              "npcId": "MQ101_020_step6_Npc_Feste",
+              "placeId": "fld001_003",
+              "descriptionId": [
+                {
+                  "descriptionId": 103
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 157
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step7",
+          "location_id": "MQ101_020_step7",
+          "condition_items": [
+            {
+              "id": "7",
+              "type": "5",
+              "placeId": "cty01_Top",
+              "descriptionId": [
+                {
+                  "descriptionId": 104
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 158
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "MQ101_020_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "MQ101_020_2",
+          "hidden_flag": "1"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "MQ101_020_3",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "4",
+          "category": "0",
+          "master_rewards_id": "MQ101_020_4",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "5",
+          "category": "0",
+          "master_rewards_id": "MQ101_020_5",
+          "hidden_flag": "0"
+        }
+      ],
+      "done_text": 51,
+      "close_text": 68,
+      "close_synopsis": 87,
+      "ignore_complete_jingle": "false",
+      "version": "1.00.000"
+    },
+    {
+      "id": "101030",
+      "long_id": "MQ101_030",
+      "active": "true",
+      "category1": "1",
+      "category2": "1",
+      "category3": "1",
+      "name": 4,
+      "desc": 21,
+      "client_id": "Npc_Murrie",
+      "reporter_id": "Npc_Murrie",
+      "auto_report": "false",
+      "conditions": [
+        {
+          "id": "step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "2",
+              "enemyId": "E006_00_00_01001",
+              "locationId": "fld001_S",
+              "amount": "5",
+              "descriptionId": [
+                {
+                  "descriptionId": 113
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 167
+                }
+              ],
+              "areaIconInfoId": "fld001_S_EnemyB"
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "MQ101_030_step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "1",
+              "npcId": "Npc_Murrie",
+              "descriptionId": [
+                {
+                  "descriptionId": 189
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 168
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "location_id": "MQ101_030_step2",
+          "condition_items": [
+            {
+              "id": "2",
+              "type": "5",
+              "placeId": "fld001_S_Top",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 190
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 169
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step3",
+          "location_id": "MQ101_030_step3",
+          "condition_items": [
+            {
+              "id": "3",
+              "type": "4",
+              "dungeonId": "sce0101",
+              "placeId": "fld001_S_Top",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 191
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 194
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step4",
+          "location_id": "MQ101_030_step4",
+          "condition_items": [
+            {
+              "id": "4",
+              "type": "5",
+              "placeId": "fld001_S_Top",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 192
+                }
+              ],
+              "synopsisId": [
+                {}
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step5",
+          "location_id": "MQ101_030_step5",
+          "condition_items": [
+            {
+              "id": "5",
+              "type": "1",
+              "npcId": "Npc_Murrie",
+              "descriptionId": [
+                {
+                  "descriptionId": 195
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 202
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step6",
+          "location_id": "MQ101_030_step6",
+          "condition_items": [
+            {
+              "id": "6",
+              "type": "1",
+              "npcId": "MQ101_030_step6_Npc_Huovi",
+              "descriptionId": [
+                {
+                  "descriptionId": 196
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 203
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step7",
+          "location_id": "MQ101_030_step7",
+          "condition_items": [
+            {
+              "id": "7",
+              "type": "10",
+              "item_type": "2",
+              "placeId": "cty01_Top",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 197
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 204
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step8",
+          "location_id": "MQ101_030_step8",
+          "condition_items": [
+            {
+              "id": "8",
+              "type": "1",
+              "npcId": "MQ101_030_step6_Npc_Huovi",
+              "descriptionId": [
+                {
+                  "descriptionId": 198
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 205
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step9",
+          "location_id": "MQ101_030_step9",
+          "condition_items": [
+            {
+              "id": "9",
+              "type": "1",
+              "npcId": "MQ101_030_step9_Npc_Poirier",
+              "descriptionId": [
+                {
+                  "descriptionId": 199
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 206
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step10",
+          "location_id": "MQ101_030_step10",
+          "condition_items": [
+            {
+              "id": "10",
+              "type": "3",
+              "item_type": "5",
+              "item_id": "111000100",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 200
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 207
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step11",
+          "location_id": "MQ101_030_step11",
+          "condition_items": [
+            {
+              "id": "11",
+              "type": "1",
+              "npcId": "MQ101_030_step9_Npc_Poirier",
+              "descriptionId": [
+                {
+                  "descriptionId": 201
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 208
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "MQ101_030_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "MQ101_030_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "MQ101_030_3",
+          "hidden_flag": "1"
+        },
+        {
+          "index": "4",
+          "category": "0",
+          "master_rewards_id": "MQ101_030_4",
+          "hidden_flag": "1"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ101_020",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 54,
+      "close_text": 71,
+      "done_synopsis": 80,
+      "close_synopsis": 90,
+      "ignore_complete_jingle": "false",
+      "version": "1.00.000"
+    },
+    {
+      "id": "101040",
+      "long_id": "MQ101_040",
+      "active": "true",
+      "category1": "1",
+      "category2": "1",
+      "category3": "2",
+      "name": 6,
+      "desc": 23,
+      "client_id": "MQ101_040_start_Npc_Jake",
+      "reporter_id": "MQ101_040_start_Npc_Jake",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "4",
+          "value1": "2"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "MQ101_040_step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "1",
+              "npcId": "MQ101_040_step0_Npc_Jake",
+              "locationId": "fld001_E",
+              "placeId": "dng009_Top",
+              "descriptionId": [
+                {
+                  "descriptionId": 117
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 171
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "MQ101_040_step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "4",
+              "dungeonId": "sce009",
+              "locationId": "fld001_E",
+              "placeId": "dng009_Top",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 118
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 172
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "MQ101_040_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "MQ101_040_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "MQ101_040_3",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "4",
+          "category": "0",
+          "master_rewards_id": "MQ101_040_4",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ101_030",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 56,
+      "close_text": 73,
+      "done_synopsis": 82,
+      "close_synopsis": 92,
+      "ignore_complete_jingle": "false",
+      "version": "1.00.000"
+    },
+    {
+      "id": "101050",
+      "long_id": "MQ101_050",
+      "active": "true",
+      "category1": "1",
+      "category2": "1",
+      "category3": "1",
+      "name": 7,
+      "desc": 24,
+      "client_id": "Npc_Coin_Owner",
+      "reporter_id": "MQ101_050_step1_Npc_Milene",
+      "auto_report": "false",
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "MQ101_050_step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "1",
+              "npcId": "MQ101_050_step0_Npc_Priest_1stClass",
+              "locationId": "Astelreas",
+              "placeId": "cty01_Top",
+              "descriptionId": [
+                {
+                  "descriptionId": 119
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 173
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "MQ101_050_step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "1",
+              "npcId": "MQ101_050_step1_Npc_Milene",
+              "placeId": "fld001_004",
+              "descriptionId": [
+                {
+                  "descriptionId": 120
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 174
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "location_id": "MQ101_050_step2",
+          "condition_items": [
+            {
+              "id": "2",
+              "type": "4",
+              "dungeonId": "ins002",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 121
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 175
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step3",
+          "location_id": "MQ101_050_step3",
+          "condition_items": [
+            {
+              "id": "3",
+              "type": "5",
+              "descriptionId": [
+                {
+                  "descriptionId": 188
+                }
+              ],
+              "synopsisId": [
+                {}
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "MQ101_050_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "MQ101_050_2",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ101_040",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 57,
+      "close_text": 74,
+      "done_synopsis": 83,
+      "close_synopsis": 93,
+      "ignore_complete_jingle": "false",
+      "version": "1.00.000"
+    },
+    {
+      "id": "101060",
+      "long_id": "MQ101_060",
+      "active": "true",
+      "category1": "1",
+      "category2": "1",
+      "category3": "2",
+      "name": 8,
+      "desc": 25,
+      "client_id": "MQ101_060_start_Npc_Feste",
+      "reporter_id": "MQ101_060_done_Npc_Feste",
+      "auto_report": "false",
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "MQ101_060_step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "1",
+              "npcId": "MQ101_060_step0_Npc_GateKeeper",
+              "locationId": "fld002_S",
+              "placeId": "fld002_002",
+              "descriptionId": [
+                {
+                  "descriptionId": 122
+                }
+              ],
+              "synopsisId": [
+                {}
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "MQ101_060_step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "1",
+              "npcId": "MQ101_060_step1_Npc_Feste",
+              "locationId": "fld002_S",
+              "placeId": "fld002_002",
+              "descriptionId": [
+                {
+                  "descriptionId": 123
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 176
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "location_id": "MQ101_060_step2",
+          "condition_items": [
+            {
+              "id": "2",
+              "type": "1",
+              "npcId": "MQ101_060_step2_Npc_PilgrimPriest01",
+              "locationId": "fld002_E",
+              "placeId": "fld002_004",
+              "descriptionId": [
+                {
+                  "descriptionId": 124
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 177
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step3",
+          "location_id": "MQ101_060_step3",
+          "condition_items": [
+            {
+              "id": "3",
+              "type": "1",
+              "npcId": "MQ101_060_step0_Npc_GateKeeper",
+              "locationId": "fld002_S",
+              "placeId": "dng005_Top",
+              "descriptionId": [
+                {
+                  "descriptionId": 125
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 178
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step4",
+          "location_id": "MQ101_060_step4",
+          "condition_items": [
+            {
+              "id": "4",
+              "type": "4",
+              "dungeonId": "sce005",
+              "locationId": "sce005",
+              "placeId": "dng005_Top",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 126
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 179
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "MQ101_060_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "MQ101_060_2",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ101_050",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 58,
+      "close_text": 75,
+      "done_synopsis": 84,
+      "close_synopsis": 94,
+      "ignore_complete_jingle": "false",
+      "version": "1.00.000"
+    },
+    {
+      "id": "101070",
+      "long_id": "MQ101_070",
+      "active": "true",
+      "category1": "1",
+      "category2": "1",
+      "category3": "3",
+      "name": 9,
+      "desc": 26,
+      "client_id": "MQ101_070_start_Npc_Tyris",
+      "reporter_id": "MQ101_070_start_Npc_Tyris",
+      "auto_report": "false",
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "MQ101_070_step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "4",
+              "dungeonId": "sce0102",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 127
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 180
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "MQ101_070_step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "5",
+              "descriptionId": [
+                {
+                  "descriptionId": 128
+                }
+              ],
+              "synopsisId": [
+                {}
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "MQ101_070_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "MQ101_070_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "MQ101_070_3",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "4",
+          "category": "0",
+          "master_rewards_id": "MQ101_070_4",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ101_060",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 59,
+      "close_text": 76,
+      "done_synopsis": 85,
+      "close_synopsis": 95,
+      "ignore_complete_jingle": "false",
+      "version": "1.00.000"
+    },
+    {
+      "id": "101080",
+      "long_id": "MQ101_080",
+      "active": "true",
+      "category1": "1",
+      "category2": "1",
+      "category3": "2",
+      "name": 10,
+      "desc": 27,
+      "client_id": "MQ101_080_start_Npc_Feste",
+      "reporter_id": "MQ101_080_done_Npc_Tyris",
+      "auto_report": "false",
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "MQ101_080_step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "1",
+              "npcId": "MQ101_080_step0_Npc_Aerinse",
+              "locationId": "fld003_C",
+              "descriptionId": [
+                {
+                  "descriptionId": 129
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 181
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "MQ101_080_step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "4",
+              "dungeonId": "ins003",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 130
+                }
+              ],
+              "synopsisId": [
+                {
+                  "synopsisId": 182
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "MQ101_080_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "MQ101_080_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "MQ101_080_3",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "4",
+          "category": "0",
+          "master_rewards_id": "MQ101_080_4",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ101_070",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 60,
+      "close_text": 77,
+      "done_synopsis": 86,
+      "close_synopsis": 96,
+      "ignore_complete_jingle": "false",
+      "version": "1.00.000"
+    },
+    {
+      "id": "30101901",
+      "long_id": "EQ101_901",
+      "active": "true",
+      "category1": "1",
+      "category2": "3",
+      "category3": "1",
+      "name": 11,
+      "desc": 28,
+      "client_id": "EQ101_901_start",
+      "reporter_id": "EQ101_901_start",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "4"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "EQ101_901_step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "1",
+              "npcId": "EQ101_901_step0",
+              "locationId": "Astelreas",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 131
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "EQ101_901_start",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "1",
+              "npcId": "EQ101_901_start",
+              "locationId": "Astelreas",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 132
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "location_id": "EQ101_901_step2",
+          "condition_items": [
+            {
+              "id": "2",
+              "type": "1",
+              "npcId": "EQ101_901_step2",
+              "locationId": "Astelreas",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 133
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "EQ101_901_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "EQ101_901_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "EQ101_901_3",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "4",
+          "category": "0",
+          "master_rewards_id": "EQ101_901_4",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "2",
+            "quest_id": "MQ101_050",
+            "quest_step": "0"
+          }
+        ]
+      },
+      "done_text": 61,
+      "ignore_complete_jingle": "false",
+      "version": "1.00.000"
+    },
+    {
+      "id": "30101902",
+      "long_id": "EQ101_902",
+      "active": "true",
+      "category1": "1",
+      "category2": "3",
+      "category3": "1",
+      "name": 12,
+      "desc": 29,
+      "client_id": "EQ101_902_start",
+      "reporter_id": "EQ101_902_done",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "7"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld002_S_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "13",
+              "enemyId": "E004_00_00_01001",
+              "locationId": "fld002_S",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "10",
+              "trigger_name": [
+                {
+                  "trigger_name": 184
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 134
+                }
+              ],
+              "areaIconInfoId": "fld002_S_EnemyC"
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "EQ101_902_step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "1",
+              "npcId": "EQ101_902_start",
+              "locationId": "fld002_S",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 135
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "EQ101_902_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "EQ101_902_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "EQ101_902_3",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "4",
+          "category": "0",
+          "master_rewards_id": "EQ101_902_4",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ101_060",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 62,
+      "ignore_complete_jingle": "false",
+      "version": "1.00.000"
+    },
+    {
+      "id": "30101903",
+      "long_id": "EQ101_903",
+      "active": "true",
+      "category1": "1",
+      "category2": "3",
+      "category3": "1",
+      "name": 13,
+      "desc": 30,
+      "client_id": "EQ101_903_start",
+      "reporter_id": "EQ101_903_step0",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "4"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "EQ101_903_step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "1",
+              "npcId": "EQ101_903_step0",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 136
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "EQ101_903_step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "1",
+              "npcId": "EQ101_903_step1",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 137
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "EQ101_903_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "EQ101_903_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "EQ101_903_3",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "4",
+          "category": "0",
+          "master_rewards_id": "EQ101_903_4",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "2",
+            "quest_id": "MQ101_060",
+            "quest_step": "1"
+          }
+        ]
+      },
+      "done_text": 63,
+      "ignore_complete_jingle": "false",
+      "version": "1.00.000"
+    },
+    {
+      "id": "30101904",
+      "long_id": "EQ101_904",
+      "active": "true",
+      "category1": "1",
+      "category2": "3",
+      "category3": "1",
+      "name": 14,
+      "desc": 31,
+      "client_id": "EQ101_904_start",
+      "reporter_id": "EQ101_904_done",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "14"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "EQ101_904_step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "1",
+              "npcId": "EQ101_904_step0",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 138
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "EQ101_904_step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "1",
+              "npcId": "EQ101_904_step1",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 139
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "location_id": "EQ101_904_step2",
+          "condition_items": [
+            {
+              "id": "2",
+              "type": "4",
+              "dungeonId": "exq010",
+              "locationId": "fld002_S",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 209
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step3",
+          "location_id": "EQ101_904_step3",
+          "condition_items": [
+            {
+              "id": "3",
+              "type": "1",
+              "npcId": "EQ101_904_step3",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 140
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "EQ101_904_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "EQ101_904_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "EQ101_904_3",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "4",
+          "category": "0",
+          "master_rewards_id": "EQ101_904_4",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "2",
+            "quest_id": "MQ101_080",
+            "quest_step": "1"
+          }
+        ]
+      },
+      "done_text": 64,
+      "ignore_complete_jingle": "false",
+      "version": "1.00.000"
+    },
+    {
+      "id": "30101905",
+      "long_id": "EQ101_905",
+      "active": "true",
+      "category1": "1",
+      "category2": "3",
+      "category3": "3",
+      "name": 15,
+      "desc": 32,
+      "client_id": "EQ101_905_start",
+      "reporter_id": "EQ101_905_done",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "14"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "fld002_E_QST",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "13",
+              "enemyId": "E000_00_00_01001",
+              "locationId": "fld002_E",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "10",
+              "trigger_name": [
+                {
+                  "trigger_name": 185
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 141
+                }
+              ],
+              "areaIconInfoId": "fld002_E_EnemyC"
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "EQ101_905_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "EQ101_905_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "EQ101_905_3",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "4",
+          "category": "0",
+          "master_rewards_id": "EQ101_905_4",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ101_080",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 65,
+      "ignore_complete_jingle": "false",
+      "version": "1.00.000"
+    },
+    {
+      "id": "30101906",
+      "long_id": "EQ101_906",
+      "active": "true",
+      "category1": "1",
+      "category2": "3",
+      "category3": "1",
+      "name": 16,
+      "desc": 33,
+      "client_id": "EQ101_906_start",
+      "reporter_id": "EQ101_906_start",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "7"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "EQ101_906_step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "1",
+              "npcId": "EQ101_906_step0",
+              "locationId": "fld002_S",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 142
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "fld002_S_QST",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "14",
+              "locationId": "fld002_S",
+              "gatherPointType": "10",
+              "timezone": "2",
+              "trigger_dropRate": "10000",
+              "trigger_dropMin": "1",
+              "trigger_dropMax": "1",
+              "amount": "1",
+              "trigger_name": [
+                {
+                  "trigger_name": 186
+                }
+              ],
+              "descriptionId": [
+                {
+                  "descriptionId": 143
+                }
+              ],
+              "areaIconInfoId": "fld002_S_QST"
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "location_id": "EQ101_906_step2",
+          "condition_items": [
+            {
+              "id": "2",
+              "type": "1",
+              "npcId": "EQ101_906_step0",
+              "locationId": "fld002_S",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 144
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "EQ101_906_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "EQ101_906_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "EQ101_906_3",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "4",
+          "category": "0",
+          "master_rewards_id": "EQ101_906_4",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ101_060",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 66,
+      "ignore_complete_jingle": "false",
+      "version": "1.00.000"
+    },
+    {
+      "id": "30101907",
+      "long_id": "EQ101_907",
+      "active": "true",
+      "category1": "1",
+      "category2": "3",
+      "category3": "1",
+      "name": 17,
+      "desc": 34,
+      "client_id": "EQ101_907_start",
+      "reporter_id": "EQ101_907_done",
+      "auto_report": "false",
+      "preconditions": [
+        {
+          "type": "2",
+          "value1": "14"
+        }
+      ],
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "EQ101_907_step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "1",
+              "npcId": "EQ101_907_step0",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 145
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "1",
+              "npcId": "EQ101_907_step1_Npc_Corolla_01",
+              "placeId": "fld003_001",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 146
+                }
+              ],
+              "areaIconInfoId": "EQ101_907_step1_01"
+            },
+            {
+              "id": "2",
+              "type": "1",
+              "npcId": "EQ101_907_step1_Npc_Corolla_02",
+              "placeId": "fld003_001",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 147
+                }
+              ],
+              "areaIconInfoId": "EQ101_907_step1_02"
+            },
+            {
+              "id": "3",
+              "type": "1",
+              "npcId": "EQ101_907_step1_Npc_Corolla_03",
+              "placeId": "fld003_001",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 148
+                }
+              ],
+              "areaIconInfoId": "EQ101_907_step1_03"
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "location_id": "EQ101_907_step0",
+          "condition_items": [
+            {
+              "id": "4",
+              "type": "1",
+              "npcId": "EQ101_907_step0",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 149
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step3",
+          "location_id": "EQ101_907_step3",
+          "condition_items": [
+            {
+              "id": "5",
+              "type": "5",
+              "npcId": "EQ101_907_step3",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 150
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "EQ101_907_1",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "2",
+          "category": "0",
+          "master_rewards_id": "EQ101_907_2",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "3",
+          "category": "0",
+          "master_rewards_id": "EQ101_907_3",
+          "hidden_flag": "0"
+        },
+        {
+          "index": "4",
+          "category": "0",
+          "master_rewards_id": "EQ101_907_4",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ101_080",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 67,
+      "ignore_complete_jingle": "false",
+      "version": "1.00.000"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿{
+  "header": {
+    "content_type": "master_craft_token"
+  },
+  "payload": [
+    {
+      "version": "1.00.000",
+      "token_id": "140000100",
+      "type": "1",
+      "add_bonus_rate": "10"
+    },
+    {
+      "version": "1.00.000",
+      "token_id": "140000200",
+      "type": "1",
+      "add_bonus_rate": "100"
+    },
+    {
+      "version": "1.00.000",
+      "token_id": "140000800",
+      "type": "1",
+      "add_bonus_rate": "30"
+    }
+  ]
+}

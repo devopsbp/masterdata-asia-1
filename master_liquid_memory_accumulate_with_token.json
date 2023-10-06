@@ -1,0 +1,140 @@
+﻿{
+  "header": {
+    "content_type": "master_liquid_memory_accumulate_with_token"
+  },
+  "payload": [
+    {
+      "token_id": "180000010",
+      "liquid_memory_id": "10",
+      "type": "1",
+      "number_of_accumulated": "1",
+      "version": "1.00.000"
+    },
+    {
+      "token_id": "180000012",
+      "liquid_memory_id": "12",
+      "type": "1",
+      "number_of_accumulated": "1",
+      "version": "1.00.000"
+    },
+    {
+      "token_id": "180000015",
+      "liquid_memory_id": "15",
+      "type": "1",
+      "number_of_accumulated": "1",
+      "version": "1.00.000"
+    },
+    {
+      "token_id": "180000017",
+      "liquid_memory_id": "17",
+      "type": "1",
+      "number_of_accumulated": "1",
+      "version": "1.00.000"
+    },
+    {
+      "token_id": "180000018",
+      "liquid_memory_id": "18",
+      "type": "1",
+      "number_of_accumulated": "1",
+      "version": "1.00.000"
+    },
+    {
+      "token_id": "180000019",
+      "liquid_memory_id": "19",
+      "type": "1",
+      "number_of_accumulated": "1",
+      "version": "1.00.000"
+    },
+    {
+      "token_id": "180000020",
+      "liquid_memory_id": "20",
+      "type": "1",
+      "number_of_accumulated": "1",
+      "version": "1.00.000"
+    },
+    {
+      "token_id": "180000021",
+      "liquid_memory_id": "21",
+      "type": "1",
+      "number_of_accumulated": "1",
+      "version": "1.00.000"
+    },
+    {
+      "token_id": "180000022",
+      "liquid_memory_id": "22",
+      "type": "1",
+      "number_of_accumulated": "1",
+      "version": "1.00.000"
+    },
+    {
+      "token_id": "180000110",
+      "liquid_memory_id": "10",
+      "type": "1",
+      "version": "1.00.000"
+    },
+    {
+      "token_id": "180000112",
+      "liquid_memory_id": "12",
+      "type": "1",
+      "version": "1.00.000"
+    },
+    {
+      "token_id": "180000115",
+      "liquid_memory_id": "15",
+      "type": "1",
+      "version": "1.00.000"
+    },
+    {
+      "token_id": "180000117",
+      "liquid_memory_id": "17",
+      "type": "1",
+      "version": "1.00.000"
+    },
+    {
+      "token_id": "180000118",
+      "liquid_memory_id": "18",
+      "type": "1",
+      "version": "1.00.000"
+    },
+    {
+      "token_id": "180000119",
+      "liquid_memory_id": "19",
+      "type": "1",
+      "version": "1.00.000"
+    },
+    {
+      "token_id": "180000120",
+      "liquid_memory_id": "20",
+      "type": "1",
+      "version": "1.00.000"
+    },
+    {
+      "token_id": "180000121",
+      "liquid_memory_id": "21",
+      "type": "1",
+      "version": "1.00.000"
+    },
+    {
+      "token_id": "180000122",
+      "liquid_memory_id": "22",
+      "type": "1",
+      "version": "1.00.000"
+    },
+    {
+      "token_id": "180000200",
+      "type": "2",
+      "number_of_accumulated": "1",
+      "version": "1.00.000"
+    },
+    {
+      "token_id": "180000300",
+      "type": "2",
+      "version": "1.00.000"
+    },
+    {
+      "token_id": "180000400",
+      "type": "3",
+      "version": "1.00.000"
+    }
+  ]
+}

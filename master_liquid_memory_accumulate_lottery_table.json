@@ -1,0 +1,82 @@
+﻿{
+  "header": {
+    "content_type": "master_liquid_memory_accumulate_lottery_table"
+  },
+  "payload": [
+    {
+      "table_type": "table_001",
+      "accumulate_value": "5",
+      "lottery_rate": "40"
+    },
+    {
+      "table_type": "table_001",
+      "accumulate_value": "10",
+      "lottery_rate": "30"
+    },
+    {
+      "table_type": "table_001",
+      "accumulate_value": "15",
+      "lottery_rate": "20"
+    },
+    {
+      "table_type": "table_001",
+      "accumulate_value": "20",
+      "lottery_rate": "5"
+    },
+    {
+      "table_type": "table_001",
+      "accumulate_value": "25",
+      "lottery_rate": "4"
+    },
+    {
+      "table_type": "table_001",
+      "accumulate_value": "50",
+      "lottery_rate": "1"
+    },
+    {
+      "table_type": "table_002",
+      "accumulate_value": "4",
+      "lottery_rate": "52"
+    },
+    {
+      "table_type": "table_002",
+      "accumulate_value": "12",
+      "lottery_rate": "36"
+    },
+    {
+      "table_type": "table_002",
+      "accumulate_value": "28",
+      "lottery_rate": "10"
+    },
+    {
+      "table_type": "table_002",
+      "accumulate_value": "42",
+      "lottery_rate": "2"
+    },
+    {
+      "table_type": "table_003",
+      "accumulate_value": "3",
+      "lottery_rate": "45"
+    },
+    {
+      "table_type": "table_003",
+      "accumulate_value": "6",
+      "lottery_rate": "35"
+    },
+    {
+      "table_type": "table_003",
+      "accumulate_value": "12",
+      "lottery_rate": "15"
+    },
+    {
+      "table_type": "table_003",
+      "accumulate_value": "24",
+      "lottery_rate": "3"
+    },
+    {
+      "table_type": "table_003",
+      "accumulate_value": "48",
+      "lottery_rate": "2"
+    }
+  ]
+}

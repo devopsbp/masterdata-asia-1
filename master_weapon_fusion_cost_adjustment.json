@@ -1,0 +1,27 @@
+﻿{
+  "header": {
+    "content_type": "master_weapon_fusion_cost_adjustment"
+  },
+  "payload": [
+    {
+      "version": "1.00.000",
+      "fusion_number": "1",
+      "adjustment": "1"
+    },
+    {
+      "version": "1.00.000",
+      "fusion_number": "2",
+      "adjustment": "1"
+    },
+    {
+      "version": "1.00.000",
+      "fusion_number": "3",
+      "adjustment": "1"
+    },
+    {
+      "version": "1.00.000",
+      "fusion_number": "4",
+      "adjustment": "1"
+    }
+  ]
+}

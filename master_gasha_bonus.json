@@ -1,0 +1,467 @@
+﻿{
+  "header": {
+    "content_type": "master_gasha_bonus"
+  },
+  "payload": [
+    {
+      "id": "test_bonus_0001",
+      "bonus": [
+        {
+          "unique_id": "1",
+          "num": "10",
+          "limit": "1",
+          "item_id": "901000320"
+        },
+        {
+          "unique_id": "2",
+          "num": "20",
+          "limit": "1",
+          "item_id": "901000307"
+        },
+        {
+          "unique_id": "3",
+          "num": "30",
+          "limit": "1",
+          "item_id": "901000308"
+        },
+        {
+          "unique_id": "4",
+          "num": "40",
+          "limit": "1",
+          "item_id": "901000309"
+        },
+        {
+          "unique_id": "5",
+          "num": "50",
+          "limit": "1",
+          "item_id": "901000310"
+        },
+        {
+          "unique_id": "6",
+          "num": "60",
+          "limit": "1",
+          "item_id": "901000311"
+        },
+        {
+          "unique_id": "7",
+          "num": "70",
+          "limit": "1",
+          "item_id": "901000312"
+        },
+        {
+          "unique_id": "8",
+          "num": "80",
+          "limit": "1",
+          "item_id": "901000313"
+        },
+        {
+          "unique_id": "9",
+          "num": "90",
+          "limit": "1",
+          "item_id": "901000316"
+        },
+        {
+          "unique_id": "10",
+          "num": "100",
+          "limit": "1",
+          "item_id": "901000322"
+        },
+        {
+          "unique_id": "11",
+          "num": "110",
+          "limit": "1",
+          "item_id": "901000362"
+        },
+        {
+          "unique_id": "12",
+          "num": "120",
+          "limit": "1",
+          "item_id": "465"
+        },
+        {
+          "unique_id": "13",
+          "num": "130",
+          "limit": "1",
+          "item_id": "901000323"
+        }
+      ],
+      "repeat_num": "10",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test_bonus_0002",
+      "bonus": [
+        {
+          "unique_id": "1",
+          "num": "11",
+          "limit": "0",
+          "item_id": "335"
+        },
+        {
+          "unique_id": "2",
+          "num": "110",
+          "limit": "1",
+          "item_id": "282"
+        },
+        {
+          "unique_id": "3",
+          "num": "1100",
+          "limit": "1",
+          "item_id": "283"
+        }
+      ],
+      "repeat_num": "11",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test_bonus_0003",
+      "bonus": [
+        {
+          "unique_id": "1",
+          "num": "0",
+          "limit": "0",
+          "item_id": "335"
+        },
+        {
+          "unique_id": "2",
+          "num": "2",
+          "limit": "1",
+          "item_id": "282"
+        },
+        {
+          "unique_id": "3",
+          "num": "3",
+          "limit": "1",
+          "item_id": "283"
+        }
+      ],
+      "repeat_num": "1",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test_bonus_0004",
+      "bonus": [
+        {
+          "unique_id": "1",
+          "num": "0",
+          "limit": "0",
+          "item_id": "335"
+        },
+        {
+          "unique_id": "2",
+          "num": "5",
+          "limit": "0",
+          "item_id": "282"
+        },
+        {
+          "unique_id": "3",
+          "num": "5",
+          "limit": "0",
+          "item_id": "283"
+        }
+      ],
+      "repeat_num": "11",
+      "version": "9.99.999"
+    },
+    {
+      "id": "9901_0001_0001",
+      "bonus": [
+        {
+          "unique_id": "1",
+          "num": "1",
+          "limit": "0",
+          "item_id": "17"
+        },
+        {
+          "unique_id": "2",
+          "num": "10",
+          "limit": "1",
+          "item_id": "18"
+        }
+      ],
+      "repeat_num": "50",
+      "version": "9.99.999"
+    },
+    {
+      "id": "0001_0001",
+      "bonus": [
+        {
+          "unique_id": "1",
+          "num": "10",
+          "limit": "1",
+          "item_id": "100001"
+        }
+      ],
+      "repeat_num": "10",
+      "version": "9.99.999"
+    },
+    {
+      "id": "0001_0002",
+      "bonus": [
+        {
+          "unique_id": "1",
+          "num": "10",
+          "limit": "1",
+          "item_id": "100001"
+        }
+      ],
+      "repeat_num": "10",
+      "version": "9.99.999"
+    },
+    {
+      "id": "0002_0001",
+      "bonus": [
+        {
+          "unique_id": "1",
+          "num": "10",
+          "limit": "1",
+          "item_id": "100001"
+        }
+      ],
+      "repeat_num": "10",
+      "version": "9.99.999"
+    },
+    {
+      "id": "0002_0002",
+      "bonus": [
+        {
+          "unique_id": "1",
+          "num": "10",
+          "limit": "1",
+          "item_id": "100001"
+        }
+      ],
+      "repeat_num": "10",
+      "version": "9.99.999"
+    },
+    {
+      "id": "0001_0000",
+      "bonus": [
+        {
+          "unique_id": "1",
+          "num": "10",
+          "limit": "1",
+          "item_id": "100002"
+        }
+      ],
+      "repeat_num": "10",
+      "version": "9.99.999"
+    },
+    {
+      "id": "0004_0001",
+      "bonus": [
+        {
+          "unique_id": "1",
+          "num": "10",
+          "limit": "1",
+          "item_id": "100003"
+        },
+        {
+          "unique_id": "2",
+          "num": "20",
+          "limit": "1",
+          "item_id": "100004"
+        }
+      ],
+      "repeat_num": "20",
+      "version": "9.99.999"
+    },
+    {
+      "id": "0004_0002",
+      "bonus": [
+        {
+          "unique_id": "1",
+          "num": "10",
+          "limit": "1",
+          "item_id": "100005"
+        },
+        {
+          "unique_id": "2",
+          "num": "20",
+          "limit": "1",
+          "item_id": "100006"
+        }
+      ],
+      "repeat_num": "20",
+      "version": "9.99.999"
+    },
+    {
+      "id": "0004_0000",
+      "bonus": [
+        {
+          "unique_id": "1",
+          "num": "10",
+          "limit": "1",
+          "item_id": "100007"
+        },
+        {
+          "unique_id": "2",
+          "num": "20",
+          "limit": "1",
+          "item_id": "100008"
+        }
+      ],
+      "repeat_num": "20",
+      "version": "9.99.999"
+    },
+    {
+      "id": "0003_0001",
+      "bonus": [
+        {
+          "unique_id": "1",
+          "num": "10",
+          "limit": "1",
+          "item_id": "100009"
+        },
+        {
+          "unique_id": "2",
+          "num": "20",
+          "limit": "1",
+          "item_id": "100010"
+        },
+        {
+          "unique_id": "3",
+          "num": "30",
+          "limit": "1",
+          "item_id": "100011"
+        }
+      ],
+      "repeat_num": "30",
+      "version": "9.99.999"
+    },
+    {
+      "id": "0003_0002",
+      "bonus": [
+        {
+          "unique_id": "1",
+          "num": "10",
+          "limit": "1",
+          "item_id": "100009"
+        },
+        {
+          "unique_id": "2",
+          "num": "20",
+          "limit": "1",
+          "item_id": "100010"
+        },
+        {
+          "unique_id": "3",
+          "num": "30",
+          "limit": "1",
+          "item_id": "100011"
+        }
+      ],
+      "repeat_num": "30",
+      "version": "9.99.999"
+    },
+    {
+      "id": "0003_0000",
+      "bonus": [
+        {
+          "unique_id": "1",
+          "num": "10",
+          "limit": "1",
+          "item_id": "100012"
+        }
+      ],
+      "repeat_num": "10",
+      "version": "9.99.999"
+    },
+    {
+      "id": "0006_0001",
+      "bonus": [
+        {
+          "unique_id": "1",
+          "num": "10",
+          "limit": "1",
+          "item_id": "100013"
+        },
+        {
+          "unique_id": "2",
+          "num": "20",
+          "limit": "1",
+          "item_id": "100014"
+        }
+      ],
+      "repeat_num": "20",
+      "version": "9.99.999"
+    },
+    {
+      "id": "0006_0002",
+      "bonus": [
+        {
+          "unique_id": "1",
+          "num": "10",
+          "limit": "1",
+          "item_id": "100015"
+        },
+        {
+          "unique_id": "2",
+          "num": "20",
+          "limit": "1",
+          "item_id": "100016"
+        }
+      ],
+      "repeat_num": "20",
+      "version": "9.99.999"
+    },
+    {
+      "id": "0006_0000",
+      "bonus": [
+        {
+          "unique_id": "1",
+          "num": "10",
+          "limit": "1",
+          "item_id": "100017"
+        },
+        {
+          "unique_id": "2",
+          "num": "20",
+          "limit": "1",
+          "item_id": "100018"
+        }
+      ],
+      "repeat_num": "20",
+      "version": "9.99.999"
+    },
+    {
+      "id": "0007_0001",
+      "bonus": [
+        {
+          "unique_id": "1",
+          "num": "10",
+          "limit": "1",
+          "item_id": "100019"
+        }
+      ],
+      "repeat_num": "10",
+      "version": "9.99.999"
+    },
+    {
+      "id": "0007_0002",
+      "bonus": [
+        {
+          "unique_id": "1",
+          "num": "10",
+          "limit": "1",
+          "item_id": "100020"
+        }
+      ],
+      "repeat_num": "10",
+      "version": "9.99.999"
+    },
+    {
+      "id": "0007_0000",
+      "bonus": [
+        {
+          "unique_id": "1",
+          "num": "10",
+          "limit": "1",
+          "item_id": "100021"
+        }
+      ],
+      "repeat_num": "10",
+      "version": "9.99.999"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+﻿{
+  "header": {
+    "content_type": "master_mount_expedition_tokens"
+  },
+  "payload": [
+    {
+      "token_id": "990000000",
+      "effect_type": "1",
+      "effect_value": "1",
+      "version": "9.99.999"
+    },
+    {
+      "token_id": "990000001",
+      "effect_type": "1",
+      "effect_value": "5",
+      "version": "9.99.999"
+    },
+    {
+      "token_id": "990000002",
+      "effect_type": "2",
+      "effect_value": "100",
+      "version": "9.99.999"
+    },
+    {
+      "token_id": "990000003",
+      "effect_type": "3",
+      "effect_value": "20",
+      "version": "9.99.999"
+    },
+    {
+      "token_id": "990000004",
+      "effect_type": "4",
+      "effect_value": "1",
+      "version": "9.99.999"
+    },
+    {
+      "token_id": "990000005",
+      "effect_type": "5",
+      "effect_value": "1",
+      "version": "9.99.999"
+    }
+  ]
+}

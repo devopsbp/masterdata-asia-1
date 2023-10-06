@@ -1,0 +1,471 @@
+﻿{
+  "header": {
+    "content_type": "master_craft_recipe_sets",
+    "timezone": "Asia/Taipei"
+  },
+  "payload": [
+    {
+      "version": "9.99.999",
+      "id": "1",
+      "recipe_ids": [
+        {
+          "recipe_id": "70001"
+        },
+        {
+          "recipe_id": "70002"
+        },
+        {
+          "recipe_id": "70003"
+        }
+      ],
+      "name": 1
+    },
+    {
+      "version": "9.99.999",
+      "id": "2",
+      "recipe_ids": [
+        {
+          "recipe_id": "10001"
+        },
+        {
+          "recipe_id": "10002"
+        },
+        {
+          "recipe_id": "10003"
+        },
+        {
+          "recipe_id": "10004"
+        }
+      ],
+      "name": 2
+    },
+    {
+      "version": "9.99.999",
+      "id": "3",
+      "recipe_ids": [
+        {
+          "recipe_id": "20001"
+        },
+        {
+          "recipe_id": "20002"
+        }
+      ],
+      "name": 3
+    },
+    {
+      "version": "9.99.999",
+      "id": "4",
+      "recipe_ids": [
+        {
+          "recipe_id": "30001"
+        },
+        {
+          "recipe_id": "30002"
+        },
+        {
+          "recipe_id": "30003"
+        },
+        {
+          "recipe_id": "30004"
+        }
+      ],
+      "name": 4
+    },
+    {
+      "version": "9.99.999",
+      "id": "5",
+      "recipe_ids": [
+        {
+          "recipe_id": "280001"
+        },
+        {
+          "recipe_id": "280002"
+        },
+        {
+          "recipe_id": "280003"
+        },
+        {
+          "recipe_id": "280004"
+        },
+        {
+          "recipe_id": "280005"
+        }
+      ],
+      "name": 5
+    },
+    {
+      "version": "1.00.000",
+      "id": "10000",
+      "recipe_ids": [
+        {
+          "recipe_id": "10001"
+        },
+        {
+          "recipe_id": "10002"
+        },
+        {
+          "recipe_id": "10003"
+        },
+        {
+          "recipe_id": "10004"
+        },
+        {
+          "recipe_id": "10005"
+        }
+      ],
+      "name": 6
+    },
+    {
+      "version": "1.00.000",
+      "id": "20000",
+      "recipe_ids": [
+        {
+          "recipe_id": "20001"
+        },
+        {
+          "recipe_id": "20002"
+        },
+        {
+          "recipe_id": "20003"
+        },
+        {
+          "recipe_id": "20004"
+        },
+        {
+          "recipe_id": "20005"
+        }
+      ],
+      "name": 7
+    },
+    {
+      "version": "1.00.000",
+      "id": "30000",
+      "recipe_ids": [
+        {
+          "recipe_id": "30001"
+        },
+        {
+          "recipe_id": "30002"
+        },
+        {
+          "recipe_id": "30003"
+        },
+        {
+          "recipe_id": "30004"
+        },
+        {
+          "recipe_id": "30005"
+        }
+      ],
+      "name": 8
+    },
+    {
+      "version": "1.00.000",
+      "id": "40000",
+      "recipe_ids": [
+        {
+          "recipe_id": "40001"
+        },
+        {
+          "recipe_id": "40002"
+        },
+        {
+          "recipe_id": "40003"
+        },
+        {
+          "recipe_id": "40004"
+        },
+        {
+          "recipe_id": "40005"
+        }
+      ],
+      "name": 9
+    },
+    {
+      "version": "1.00.000",
+      "id": "50000",
+      "recipe_ids": [
+        {
+          "recipe_id": "50001"
+        },
+        {
+          "recipe_id": "50002"
+        },
+        {
+          "recipe_id": "50003"
+        },
+        {
+          "recipe_id": "50004"
+        },
+        {
+          "recipe_id": "50005"
+        }
+      ],
+      "name": 10
+    },
+    {
+      "version": "1.00.000",
+      "id": "60000",
+      "recipe_ids": [
+        {
+          "recipe_id": "60001"
+        },
+        {
+          "recipe_id": "60002"
+        },
+        {
+          "recipe_id": "60003"
+        },
+        {
+          "recipe_id": "60004"
+        },
+        {
+          "recipe_id": "60005"
+        }
+      ],
+      "name": 11
+    },
+    {
+      "version": "1.00.000",
+      "id": "70000",
+      "recipe_ids": [
+        {
+          "recipe_id": "70001"
+        },
+        {
+          "recipe_id": "70002"
+        },
+        {
+          "recipe_id": "70003"
+        },
+        {
+          "recipe_id": "70004"
+        },
+        {
+          "recipe_id": "70005"
+        }
+      ],
+      "name": 12
+    },
+    {
+      "version": "1.00.000",
+      "id": "80000",
+      "recipe_ids": [
+        {
+          "recipe_id": "80001"
+        },
+        {
+          "recipe_id": "80002"
+        },
+        {
+          "recipe_id": "80003"
+        },
+        {
+          "recipe_id": "80004"
+        },
+        {
+          "recipe_id": "80005"
+        }
+      ],
+      "name": 13
+    },
+    {
+      "version": "1.00.000",
+      "id": "90000",
+      "recipe_ids": [
+        {
+          "recipe_id": "90001"
+        },
+        {
+          "recipe_id": "90002"
+        },
+        {
+          "recipe_id": "90003"
+        },
+        {
+          "recipe_id": "90004"
+        },
+        {
+          "recipe_id": "90005"
+        }
+      ],
+      "name": 14
+    },
+    {
+      "version": "1.00.000",
+      "id": "300000",
+      "recipe_ids": [
+        {
+          "recipe_id": "300001"
+        },
+        {
+          "recipe_id": "300002"
+        },
+        {
+          "recipe_id": "300003"
+        },
+        {
+          "recipe_id": "300004"
+        },
+        {
+          "recipe_id": "300005"
+        }
+      ],
+      "name": 15
+    },
+    {
+      "version": "1.00.000",
+      "id": "150000",
+      "recipe_ids": [
+        {
+          "recipe_id": "150001"
+        },
+        {
+          "recipe_id": "150002"
+        },
+        {
+          "recipe_id": "150003"
+        },
+        {
+          "recipe_id": "150004"
+        },
+        {
+          "recipe_id": "150005"
+        }
+      ],
+      "name": 16
+    },
+    {
+      "version": "1.00.100",
+      "id": "250000",
+      "recipe_ids": [
+        {
+          "recipe_id": "250001"
+        },
+        {
+          "recipe_id": "250002"
+        },
+        {
+          "recipe_id": "250003"
+        },
+        {
+          "recipe_id": "250004"
+        },
+        {
+          "recipe_id": "250005"
+        }
+      ],
+      "name": 17
+    },
+    {
+      "version": "1.00.100",
+      "id": "210000",
+      "recipe_ids": [
+        {
+          "recipe_id": "210001"
+        },
+        {
+          "recipe_id": "210002"
+        },
+        {
+          "recipe_id": "210003"
+        },
+        {
+          "recipe_id": "210004"
+        },
+        {
+          "recipe_id": "210005"
+        }
+      ],
+      "name": 18
+    },
+    {
+      "version": "1.01.000",
+      "id": "260000",
+      "recipe_ids": [
+        {
+          "recipe_id": "260001"
+        },
+        {
+          "recipe_id": "260002"
+        },
+        {
+          "recipe_id": "260003"
+        },
+        {
+          "recipe_id": "260004"
+        },
+        {
+          "recipe_id": "260005"
+        }
+      ],
+      "name": 19
+    },
+    {
+      "version": "1.01.000",
+      "id": "220000",
+      "recipe_ids": [
+        {
+          "recipe_id": "220001"
+        },
+        {
+          "recipe_id": "220002"
+        },
+        {
+          "recipe_id": "220003"
+        },
+        {
+          "recipe_id": "220004"
+        },
+        {
+          "recipe_id": "220005"
+        }
+      ],
+      "name": 20
+    },
+    {
+      "version": "1.01.100",
+      "id": "390000",
+      "recipe_ids": [
+        {
+          "recipe_id": "390001"
+        },
+        {
+          "recipe_id": "390002"
+        },
+        {
+          "recipe_id": "390003"
+        },
+        {
+          "recipe_id": "390004"
+        },
+        {
+          "recipe_id": "390005"
+        }
+      ],
+      "name": 21
+    },
+    {
+      "version": "1.01.100",
+      "id": "280000",
+      "recipe_ids": [
+        {
+          "recipe_id": "280001"
+        },
+        {
+          "recipe_id": "280002"
+        },
+        {
+          "recipe_id": "280003"
+        },
+        {
+          "recipe_id": "280004"
+        },
+        {
+          "recipe_id": "280005"
+        }
+      ],
+      "name": 22
+    }
+  ]
+}

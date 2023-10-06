@@ -1,0 +1,21 @@
+﻿{
+  "header": {
+    "content_type": "master_login_bonus_extra_rewards",
+    "timezone": "Asia/Taipei"
+  },
+  "payload": [
+    {
+      "version": "9.99.999",
+      "id": "1",
+      "login_bonus_id": "4",
+      "start_at": "2022-4-7 04:00:00",
+      "end_at": "2023-4-7 04:00:00",
+      "item_type": "3",
+      "item_id": "121000000",
+      "item_info": {},
+      "amount": "5",
+      "extra_attributes_id": "0",
+      "mail_format_id": "login_stamp_normal"
+    }
+  ]
+}

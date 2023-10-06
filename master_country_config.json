@@ -1,0 +1,21 @@
+﻿{
+  "header": {
+    "content_type": "master_country_config"
+  },
+  "payload": [
+    {
+      "id": "1",
+      "separate_paid_free": "1",
+      "currency_history": "1",
+      "registration_age_verification": "0",
+      "expired_amount_amortization": "0",
+      "paid_only_product": "1",
+      "gasha_rate": "1",
+      "specified_commercial_transactions_act": "0",
+      "tz": "Asia/Taipei",
+      "date_change_time": "04:00:00",
+      "consumption_priority": "3",
+      "week_change_day_of_week": "4"
+    }
+  ]
+}

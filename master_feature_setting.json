@@ -1,0 +1,25 @@
+﻿{
+  "header": {
+    "content_type": "master_feature_settings"
+  },
+  "payload": [
+    {
+      "id": "1",
+      "feature_id": "DeliveryQuest",
+      "enabled": "0",
+      "version": "1.00.000"
+    },
+    {
+      "id": "2",
+      "feature_id": "SeasonPass",
+      "enabled": "0",
+      "version": "1.00.000"
+    },
+    {
+      "id": "3",
+      "feature_id": "BillingShop",
+      "enabled": "0",
+      "version": "1.00.000"
+    }
+  ]
+}

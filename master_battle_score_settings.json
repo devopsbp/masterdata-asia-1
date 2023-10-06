@@ -1,0 +1,51 @@
+﻿{
+  "header": {
+    "content_type": "master_battle_score_settings"
+  },
+  "payload": [
+    {
+      "id": "0",
+      "setting_type": "0",
+      "coefficient": "100",
+      "min": "0",
+      "max": "99999",
+      "rounding_type": "1"
+    },
+    {
+      "id": "1",
+      "setting_type": "1",
+      "coefficient": "0",
+      "rounding_type": "0"
+    },
+    {
+      "id": "2",
+      "setting_type": "2",
+      "coefficient": "0.5",
+      "rounding_type": "0"
+    },
+    {
+      "id": "3",
+      "setting_type": "3",
+      "coefficient": "0.3",
+      "rounding_type": "0"
+    },
+    {
+      "id": "4",
+      "setting_type": "4",
+      "coefficient": "0.2",
+      "rounding_type": "0"
+    },
+    {
+      "id": "5",
+      "setting_type": "5",
+      "coefficient": "0",
+      "rounding_type": "0"
+    },
+    {
+      "id": "6",
+      "setting_type": "6",
+      "coefficient": "0.2",
+      "rounding_type": "0"
+    }
+  ]
+}

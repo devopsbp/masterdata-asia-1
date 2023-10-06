@@ -1,0 +1,11 @@
+﻿{
+  "header": {
+    "content_type": "master_version"
+  },
+  "payload": [
+    {
+      "id": "master_data",
+      "version": "1.00.001"
+    }
+  ]
+}

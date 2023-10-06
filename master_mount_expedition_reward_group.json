@@ -1,0 +1,279 @@
+﻿{
+  "header": {
+    "content_type": "master_mount_expedition_reward_group"
+  },
+  "payload": [
+    {
+      "id": "test1_1_certainty",
+      "mount_expedition_time_id": "test1_1",
+      "type": "1",
+      "target_types": "1",
+      "reward_table_id": "tableA",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test1_1_1_random",
+      "mount_expedition_time_id": "test1_1",
+      "type": "2",
+      "target_types": "1",
+      "reward_table_id": "tableB",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test2_1_certainty",
+      "mount_expedition_time_id": "test2_1",
+      "type": "1",
+      "target_types": "1",
+      "reward_table_id": "tableA",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test2_1_1_random",
+      "mount_expedition_time_id": "test2_1",
+      "type": "2",
+      "target_types": "1",
+      "reward_table_id": "tableB",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test3_1_certainty",
+      "mount_expedition_time_id": "test3_1",
+      "type": "1",
+      "target_types": "1",
+      "reward_table_id": "tableA",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test3_1_1_random",
+      "mount_expedition_time_id": "test3_1",
+      "type": "2",
+      "target_types": "1",
+      "reward_table_id": "tableB",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test4_1_certainty",
+      "mount_expedition_time_id": "test4_1",
+      "type": "1",
+      "target_types": "1",
+      "reward_table_id": "tableA",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test4_1_1_random",
+      "mount_expedition_time_id": "test4_1",
+      "type": "2",
+      "target_types": "1",
+      "reward_table_id": "tableB",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test5_1_certainty",
+      "mount_expedition_time_id": "test5_1",
+      "type": "1",
+      "target_types": "1",
+      "reward_table_id": "tableA",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test5_1_1_random",
+      "mount_expedition_time_id": "test5_1",
+      "type": "2",
+      "target_types": "1",
+      "reward_table_id": "tableB",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test6_1_certainty",
+      "mount_expedition_time_id": "test6_1",
+      "type": "1",
+      "target_types": "1",
+      "reward_table_id": "tableC",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test6_1_1_random",
+      "mount_expedition_time_id": "test6_1",
+      "type": "2",
+      "target_types": "1",
+      "reward_table_id": "tableD",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test6_1_2_random",
+      "mount_expedition_time_id": "test6_1",
+      "type": "2",
+      "target_types": "2",
+      "reward_table_id": "tableD",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test6_1_3_random",
+      "mount_expedition_time_id": "test6_1",
+      "type": "2",
+      "target_types": "3",
+      "reward_table_id": "tableE",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test6_2_certainty",
+      "mount_expedition_time_id": "test6_2",
+      "type": "1",
+      "target_types": "1",
+      "reward_table_id": "tableF",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test6_2_1_random",
+      "mount_expedition_time_id": "test6_2",
+      "type": "2",
+      "target_types": "1",
+      "reward_table_id": "tableG",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test6_2_2_random",
+      "mount_expedition_time_id": "test6_2",
+      "type": "2",
+      "target_types": "2",
+      "reward_table_id": "tableG",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test6_2_3_random",
+      "mount_expedition_time_id": "test6_2",
+      "type": "2",
+      "target_types": "3",
+      "reward_table_id": "tableH",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test7_1_certainty",
+      "mount_expedition_time_id": "test7_1",
+      "type": "1",
+      "target_types": "1",
+      "reward_table_id": "tableC",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test7_1_1_random",
+      "mount_expedition_time_id": "test7_1",
+      "type": "2",
+      "target_types": "1",
+      "reward_table_id": "tableD",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test7_1_2_random",
+      "mount_expedition_time_id": "test7_1",
+      "type": "2",
+      "target_types": "2",
+      "reward_table_id": "tableD",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test7_1_3_random",
+      "mount_expedition_time_id": "test7_1",
+      "type": "2",
+      "target_types": "3",
+      "reward_table_id": "tableE",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test7_2_certainty",
+      "mount_expedition_time_id": "test7_2",
+      "type": "1",
+      "target_types": "1",
+      "reward_table_id": "tableF",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test7_2_1_random",
+      "mount_expedition_time_id": "test7_2",
+      "type": "2",
+      "target_types": "1",
+      "reward_table_id": "tableG",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test7_2_2_random",
+      "mount_expedition_time_id": "test7_2",
+      "type": "2",
+      "target_types": "2",
+      "reward_table_id": "tableG",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test7_2_3_random",
+      "mount_expedition_time_id": "test7_2",
+      "type": "2",
+      "target_types": "3",
+      "reward_table_id": "tableH",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test8_1_certainty",
+      "mount_expedition_time_id": "test8_1",
+      "type": "1",
+      "target_types": "1",
+      "reward_table_id": "tableI",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test8_1_1_random",
+      "mount_expedition_time_id": "test8_1",
+      "type": "2",
+      "target_types": "1",
+      "reward_table_id": "tableJ",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test8_1_2_random",
+      "mount_expedition_time_id": "test8_1",
+      "type": "2",
+      "target_types": "2",
+      "reward_table_id": "tableJ",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test8_1_3_random",
+      "mount_expedition_time_id": "test8_1",
+      "type": "2",
+      "target_types": "3",
+      "reward_table_id": "tableK",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test9_1_certainty",
+      "mount_expedition_time_id": "test9_1",
+      "type": "1",
+      "target_types": "1",
+      "reward_table_id": "tableI",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test9_1_1_random",
+      "mount_expedition_time_id": "test9_1",
+      "type": "2",
+      "target_types": "1",
+      "reward_table_id": "tableJ",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test9_1_2_random",
+      "mount_expedition_time_id": "test9_1",
+      "type": "2",
+      "target_types": "2",
+      "reward_table_id": "tableJ",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test9_1_3_random",
+      "mount_expedition_time_id": "test9_1",
+      "type": "2",
+      "target_types": "3",
+      "reward_table_id": "tableK",
+      "version": "9.99.999"
+    }
+  ]
+}

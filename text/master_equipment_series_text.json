@@ -1,0 +1,17 @@
+﻿{
+  "header": {
+    "content_type": "master_text"
+  },
+  "payload": [
+    {
+      "id": "1",
+      "ja_JP": "アドベンチャーズシリーズ",
+      "version": "9.99.999"
+    },
+    {
+      "id": "2",
+      "ja_JP": "ドラゴンネイルシリーズ",
+      "version": "9.99.999"
+    }
+  ]
+}

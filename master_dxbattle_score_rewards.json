@@ -1,0 +1,120 @@
+﻿{
+  "header": {
+    "content_type": "master_dxbattle_score_rewards",
+    "timezone": "Asia/Taipei"
+  },
+  "payload": [
+    {
+      "version": "1.03.000",
+      "id": "100111",
+      "game_content_id": "def001",
+      "dungeon_reward_search_name": "def001_100111",
+      "required_score": "1",
+      "total_score_type": "0"
+    },
+    {
+      "version": "1.03.000",
+      "id": "100112",
+      "game_content_id": "def001",
+      "dungeon_reward_search_name": "def001_100112",
+      "required_score": "0",
+      "total_score_type": "0"
+    },
+    {
+      "version": "1.03.000",
+      "id": "100121",
+      "game_content_id": "def001",
+      "dungeon_reward_search_name": "def001_100121",
+      "required_score": "100",
+      "total_score_type": "1"
+    },
+    {
+      "version": "1.03.000",
+      "id": "100122",
+      "game_content_id": "def001",
+      "dungeon_reward_search_name": "def001_100122",
+      "required_score": "50",
+      "total_score_type": "1"
+    },
+    {
+      "version": "1.03.000",
+      "id": "100123",
+      "game_content_id": "def001",
+      "dungeon_reward_search_name": "def001_100123",
+      "required_score": "10",
+      "total_score_type": "1"
+    },
+    {
+      "version": "1.03.000",
+      "id": "100131",
+      "game_content_id": "def001",
+      "dungeon_reward_search_name": "def001_100131",
+      "required_score": "20",
+      "total_score_type": "2"
+    },
+    {
+      "version": "1.03.000",
+      "id": "100132",
+      "game_content_id": "def001",
+      "dungeon_reward_search_name": "def001_100132",
+      "required_score": "10",
+      "total_score_type": "2"
+    },
+    {
+      "version": "1.03.000",
+      "id": "100133",
+      "game_content_id": "def001",
+      "dungeon_reward_search_name": "def001_100133",
+      "required_score": "5",
+      "total_score_type": "2"
+    },
+    {
+      "version": "1.03.000",
+      "id": "100141",
+      "game_content_id": "def001",
+      "dungeon_reward_search_name": "def001_100141",
+      "required_score": "2",
+      "total_score_type": "3"
+    },
+    {
+      "version": "1.03.000",
+      "id": "100142",
+      "game_content_id": "def001",
+      "dungeon_reward_search_name": "def001_100142",
+      "required_score": "1",
+      "total_score_type": "3"
+    },
+    {
+      "version": "1.03.000",
+      "id": "100143",
+      "game_content_id": "def001",
+      "dungeon_reward_search_name": "def001_100143",
+      "required_score": "0",
+      "total_score_type": "3"
+    },
+    {
+      "version": "1.03.000",
+      "id": "100151",
+      "game_content_id": "def001",
+      "dungeon_reward_search_name": "def001_100151",
+      "required_score": "2",
+      "total_score_type": "4"
+    },
+    {
+      "version": "1.03.000",
+      "id": "100152",
+      "game_content_id": "def001",
+      "dungeon_reward_search_name": "def001_100152",
+      "required_score": "1",
+      "total_score_type": "4"
+    },
+    {
+      "version": "1.03.000",
+      "id": "100153",
+      "game_content_id": "def001",
+      "dungeon_reward_search_name": "def001_100153",
+      "required_score": "0",
+      "total_score_type": "4"
+    }
+  ]
+}

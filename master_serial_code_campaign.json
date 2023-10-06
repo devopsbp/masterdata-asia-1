@@ -1,0 +1,162 @@
+﻿{
+  "header": {
+    "content_type": "master_serial_code_campaign",
+    "timezone": "Asia/Taipei"
+  },
+  "payload": [
+    {
+      "id": "20111901",
+      "group": "1",
+      "platform": "0",
+      "type_id": "1",
+      "usage_limit": "1000",
+      "active_from": "21-12-23 12:00:00",
+      "active_until": "22-03-23 00:00:00",
+      "title": 1,
+      "message": 7,
+      "version": "9.99.999"
+    },
+    {
+      "id": "20111902",
+      "group": "2",
+      "platform": "0",
+      "type_id": "1",
+      "usage_limit": "200",
+      "active_from": "21-12-23 12:00:00",
+      "active_until": "22-03-23 00:00:00",
+      "title": 2,
+      "message": 8,
+      "version": "9.99.999"
+    },
+    {
+      "id": "20111903",
+      "group": "3",
+      "platform": "0",
+      "type_id": "0",
+      "usage_limit": "1",
+      "title": 3,
+      "message": 9,
+      "version": "9.99.999"
+    },
+    {
+      "id": "20111904",
+      "group": "1",
+      "platform": "0",
+      "type_id": "1",
+      "usage_limit": "300",
+      "title": 4,
+      "message": 10,
+      "version": "9.99.999"
+    },
+    {
+      "id": "20111905",
+      "group": "2",
+      "platform": "0",
+      "type_id": "0",
+      "usage_limit": "1",
+      "title": 5,
+      "message": 11,
+      "version": "9.99.999"
+    },
+    {
+      "id": "20111906",
+      "group": "3",
+      "platform": "0",
+      "type_id": "0",
+      "usage_limit": "1",
+      "title": 6,
+      "message": 12,
+      "version": "9.99.999"
+    },
+    {
+      "id": "20211115",
+      "group": "1",
+      "platform": "0",
+      "type_id": "1",
+      "usage_limit": "1",
+      "Comment": "テスト用20211115",
+      "title": 16,
+      "message": 15,
+      "version": "9.99.999"
+    },
+    {
+      "id": "20211116",
+      "group": "1",
+      "platform": "0",
+      "type_id": "1",
+      "usage_limit": "1",
+      "Comment": "テスト用20211116",
+      "title": 17,
+      "message": 18,
+      "version": "9.99.999"
+    },
+    {
+      "id": "20220303",
+      "group": "1",
+      "platform": "0",
+      "type_id": "1",
+      "usage_limit": "2",
+      "Comment": "テスト用20220303",
+      "title": 19,
+      "message": 20,
+      "version": "9.99.999"
+    },
+    {
+      "id": "20220317",
+      "group": "1",
+      "platform": "0",
+      "type_id": "0",
+      "usage_limit": "1",
+      "active_until": "22-03-18 00:00:00",
+      "Comment": "テスト用20220317",
+      "title": 21,
+      "message": 22,
+      "version": "9.99.999"
+    },
+    {
+      "id": "20220405",
+      "group": "1",
+      "platform": "0",
+      "type_id": "0",
+      "usage_limit": "5",
+      "Comment": "テスト用20220405",
+      "title": 23,
+      "message": 26,
+      "version": "9.99.999"
+    },
+    {
+      "id": "2022040502",
+      "group": "1",
+      "platform": "0",
+      "type_id": "1",
+      "usage_limit": "1",
+      "active_until": "22-04-18 00:00:00",
+      "Comment": "テスト用202204052",
+      "title": 24,
+      "message": 27,
+      "version": "9.99.999"
+    },
+    {
+      "id": "2022040503",
+      "group": "1",
+      "platform": "0",
+      "type_id": "1",
+      "usage_limit": "3",
+      "Comment": "テスト用20220405",
+      "title": 25,
+      "message": 28,
+      "version": "9.99.999"
+    },
+    {
+      "id": "20220520",
+      "group": "1",
+      "platform": "0",
+      "type_id": "1",
+      "usage_limit": "30",
+      "Comment": "テスト用20220520",
+      "title": 29,
+      "message": 30,
+      "version": "9.99.999"
+    }
+  ]
+}

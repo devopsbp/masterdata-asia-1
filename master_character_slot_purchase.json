@@ -1,0 +1,39 @@
+﻿{
+  "header": {
+    "content_type": "master_character_slot_purchase"
+  },
+  "payload": [
+    {
+      "character_slot": "0",
+      "purchase_amount": "200"
+    },
+    {
+      "character_slot": "1",
+      "purchase_amount": "200"
+    },
+    {
+      "character_slot": "2",
+      "purchase_amount": "200"
+    },
+    {
+      "character_slot": "3",
+      "purchase_amount": "200"
+    },
+    {
+      "character_slot": "4",
+      "purchase_amount": "200"
+    },
+    {
+      "character_slot": "5",
+      "purchase_amount": "200"
+    },
+    {
+      "character_slot": "6",
+      "purchase_amount": "200"
+    },
+    {
+      "character_slot": "7",
+      "purchase_amount": "200"
+    }
+  ]
+}

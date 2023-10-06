@@ -1,0 +1,5858 @@
+﻿{
+  "header": {
+    "content_type": "master_quest_auto_order_season",
+    "timezone": "Asia/Taipei"
+  },
+  "payload": [
+    {
+      "version": "9.99.999",
+      "id": "130000043",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000043",
+      "quest_name": 85,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1043",
+          "condition_type": "48",
+          "condition_description": 147,
+          "complete_value": "10"
+        }
+      ],
+      "quest_valid_term_id": "100000702",
+      "season_id": "100000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "200",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000044",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000044",
+      "quest_name": 86,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1044",
+          "condition_type": "48",
+          "condition_description": 148,
+          "complete_value": "20"
+        }
+      ],
+      "quest_valid_term_id": "100000702",
+      "season_id": "100000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "240",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000045",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000045",
+      "quest_name": 87,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1045",
+          "condition_type": "48",
+          "condition_description": 149,
+          "complete_value": "30"
+        }
+      ],
+      "quest_valid_term_id": "100000702",
+      "season_id": "100000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "300",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000046",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000046",
+      "quest_name": 88,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1046",
+          "condition_type": "56",
+          "condition_description": 150,
+          "complete_value": "20"
+        }
+      ],
+      "quest_valid_term_id": "100000702",
+      "season_id": "100000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "500",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000047",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000047",
+      "quest_name": 89,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1047",
+          "condition_type": "57",
+          "condition_description": 151,
+          "complete_value": "27"
+        }
+      ],
+      "quest_valid_term_id": "100000702",
+      "season_id": "100000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "550",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000048",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000048",
+      "quest_name": 90,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1048",
+          "condition_type": "48",
+          "condition_description": 152,
+          "complete_value": "5"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "110",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000049",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000049",
+      "quest_name": 91,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1049",
+          "condition_type": "48",
+          "condition_description": 153,
+          "complete_value": "30"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "220",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000050",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000050",
+      "quest_name": 92,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1050",
+          "condition_type": "7",
+          "condition_description": 154,
+          "complete_value": "10",
+          "item_type": "3"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "30",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000051",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000051",
+      "quest_name": 93,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1051",
+          "condition_type": "7",
+          "condition_description": 155,
+          "complete_value": "20",
+          "item_type": "3"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "50",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000052",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000052",
+      "quest_name": 94,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1052",
+          "condition_type": "7",
+          "condition_description": 156,
+          "complete_value": "30",
+          "item_type": "3"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "60",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000053",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000053",
+      "quest_name": 95,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1053",
+          "condition_type": "15",
+          "condition_description": 157,
+          "complete_value": "10"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "30",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000054",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000054",
+      "quest_name": 96,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1054",
+          "condition_type": "15",
+          "condition_description": 158,
+          "complete_value": "30"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "70",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000055",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000055",
+      "quest_name": 97,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1055",
+          "condition_type": "15",
+          "condition_description": 159,
+          "complete_value": "50"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "90",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000056",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000056",
+      "quest_name": 98,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1056",
+          "condition_type": "20",
+          "condition_description": 160,
+          "complete_value": "100"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "40",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000057",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000057",
+      "quest_name": 99,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1057",
+          "condition_type": "20",
+          "condition_description": 161,
+          "complete_value": "300"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "80",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000058",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000058",
+      "quest_name": 100,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1058",
+          "condition_type": "20",
+          "condition_description": 162,
+          "complete_value": "500"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "100",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000059",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000059",
+      "quest_name": 101,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1059",
+          "condition_type": "22",
+          "condition_description": 163,
+          "complete_value": "25"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "70",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000060",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000060",
+      "quest_name": 102,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1060",
+          "condition_type": "22",
+          "condition_description": 164,
+          "complete_value": "50"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "90",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000061",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000061",
+      "quest_name": 103,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1061",
+          "condition_type": "22",
+          "condition_description": 165,
+          "complete_value": "100"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "150",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000062",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000062",
+      "quest_name": 104,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1062",
+          "condition_type": "20",
+          "condition_description": 166,
+          "complete_value": "10",
+          "enemy_type": "2"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "150",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000063",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000063",
+      "quest_name": 105,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1063",
+          "condition_type": "20",
+          "condition_description": 167,
+          "complete_value": "15",
+          "enemy_type": "2"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "220",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000064",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000064",
+      "quest_name": 106,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1064",
+          "condition_type": "20",
+          "condition_description": 168,
+          "complete_value": "30",
+          "enemy_type": "2"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "450",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "130000065",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000065",
+      "quest_name": 107,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1065",
+          "condition_type": "22",
+          "condition_description": 169,
+          "complete_value": "1",
+          "map_id": "pat0101"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "100",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "130000066",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000066",
+      "quest_name": 108,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1066",
+          "condition_type": "22",
+          "condition_description": 170,
+          "complete_value": "1",
+          "map_id": "dng009"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "300",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "130000067",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000067",
+      "quest_name": 109,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1067",
+          "condition_type": "22",
+          "condition_description": 171,
+          "complete_value": "1",
+          "map_id": "dng005"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "300",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "130000068",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000068",
+      "quest_name": 110,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1068",
+          "condition_type": "22",
+          "condition_description": 172,
+          "complete_value": "1",
+          "map_id": "pat0102"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "300",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "130000069",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000069",
+      "quest_name": 111,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1069",
+          "condition_type": "25",
+          "condition_description": 173,
+          "complete_value": "1",
+          "game_mode": "RaidBattle"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "200",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "130000070",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000070",
+      "quest_name": 112,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1070",
+          "condition_type": "26",
+          "condition_description": 174,
+          "complete_value": "1",
+          "game_mode": "RaidBattle"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "500",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "130000071",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000071",
+      "quest_name": 113,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1071",
+          "condition_type": "25",
+          "condition_description": 175,
+          "complete_value": "1",
+          "game_mode": "BattleArena"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "200",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "130000072",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000072",
+      "quest_name": 114,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1072",
+          "condition_type": "26",
+          "condition_description": 176,
+          "complete_value": "1",
+          "game_mode": "BattleArena"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "500",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "130000073",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000073",
+      "quest_name": 115,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1073",
+          "condition_type": "20",
+          "condition_description": 177,
+          "complete_value": "400"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "100",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "130000074",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000074",
+      "quest_name": 116,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1074",
+          "condition_type": "20",
+          "condition_description": 178,
+          "complete_value": "600"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "500",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "130000075",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000075",
+      "quest_name": 117,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1075",
+          "condition_type": "20",
+          "condition_description": 179,
+          "complete_value": "3",
+          "enemy_type": "2",
+          "enemy_id": "E005_00_01_01001"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "350",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "130000076",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000076",
+      "quest_name": 118,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1076",
+          "condition_type": "20",
+          "condition_description": 180,
+          "complete_value": "20",
+          "enemy_type": "2"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "400",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "130000077",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000077",
+      "quest_name": 119,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1077",
+          "condition_type": "20",
+          "condition_description": 181,
+          "complete_value": "25",
+          "enemy_type": "2"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "500",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "130000078",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000078",
+      "quest_name": 120,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1078",
+          "condition_type": "20",
+          "condition_description": 182,
+          "complete_value": "30",
+          "enemy_type": "2"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "350",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "130000079",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000079",
+      "quest_name": 121,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1079",
+          "condition_type": "20",
+          "condition_description": 183,
+          "complete_value": "50"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "400",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "130000080",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10000000080",
+      "quest_name": 122,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1080",
+          "condition_type": "20",
+          "condition_description": 184,
+          "complete_value": "150"
+        }
+      ],
+      "quest_valid_term_id": "100000701",
+      "season_id": "100000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "500",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000081",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000081",
+      "quest_name": 123,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1081",
+          "condition_type": "48",
+          "condition_description": 185,
+          "complete_value": "10"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "50",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000082",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000082",
+      "quest_name": 124,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1082",
+          "condition_type": "48",
+          "condition_description": 186,
+          "complete_value": "20"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "100",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000083",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000083",
+      "quest_name": 125,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1083",
+          "condition_type": "48",
+          "condition_description": 187,
+          "complete_value": "50"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "300",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000084",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000084",
+      "quest_name": 126,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1084",
+          "condition_type": "20",
+          "condition_description": 188,
+          "complete_value": "50"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "75",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000085",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000085",
+      "quest_name": 127,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1085",
+          "condition_type": "20",
+          "condition_description": 189,
+          "complete_value": "200"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "125",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000086",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000086",
+      "quest_name": 128,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1086",
+          "condition_type": "22",
+          "condition_description": 190,
+          "complete_value": "10"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "50",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000087",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000087",
+      "quest_name": 129,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1087",
+          "condition_type": "22",
+          "condition_description": 191,
+          "complete_value": "30"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "100",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000088",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000088",
+      "quest_name": 130,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1088",
+          "condition_type": "7",
+          "condition_description": 192,
+          "complete_value": "30",
+          "item_type": "3"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "30",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000089",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000089",
+      "quest_name": 131,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1089",
+          "condition_type": "15",
+          "condition_description": 193,
+          "complete_value": "50"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "50",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000090",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000090",
+      "quest_name": 132,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1090",
+          "condition_type": "20",
+          "condition_description": 194,
+          "complete_value": "100"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "20",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000091",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000091",
+      "quest_name": 133,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1091",
+          "condition_type": "20",
+          "condition_description": 195,
+          "complete_value": "300"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "30",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000092",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000092",
+      "quest_name": 134,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1092",
+          "condition_type": "20",
+          "condition_description": 196,
+          "complete_value": "600"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "60",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000093",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000093",
+      "quest_name": 135,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1093",
+          "condition_type": "20",
+          "condition_description": 197,
+          "complete_value": "900"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "90",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000094",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000094",
+      "quest_name": 136,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1094",
+          "condition_type": "22",
+          "condition_description": 198,
+          "complete_value": "30"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "50",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000095",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000095",
+      "quest_name": 137,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1095",
+          "condition_type": "22",
+          "condition_description": 199,
+          "complete_value": "80"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "80",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000096",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000096",
+      "quest_name": 138,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1096",
+          "condition_type": "20",
+          "condition_description": 200,
+          "complete_value": "10",
+          "enemy_type": "2"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "20",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000097",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000097",
+      "quest_name": 139,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1097",
+          "condition_type": "20",
+          "condition_description": 201,
+          "complete_value": "30",
+          "enemy_type": "2"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "40",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000098",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000098",
+      "quest_name": 140,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1098",
+          "condition_type": "20",
+          "condition_description": 202,
+          "complete_value": "50",
+          "enemy_type": "2"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "70",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000099",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000099",
+      "quest_name": 141,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1099",
+          "condition_type": "26",
+          "condition_description": 203,
+          "complete_value": "1",
+          "game_mode": "RaidBattle"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "3",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "100",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000100",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000100",
+      "quest_name": 142,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1100",
+          "condition_type": "26",
+          "condition_description": 204,
+          "complete_value": "1",
+          "game_mode": "BattleArena"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "3",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "100",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000101",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000101",
+      "quest_name": 143,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1101",
+          "condition_type": "25",
+          "condition_description": 205,
+          "complete_value": "1",
+          "game_mode": "DungeonTimeAttack"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "3",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "75",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000102",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000102",
+      "quest_name": 144,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1102",
+          "condition_type": "25",
+          "condition_description": 206,
+          "complete_value": "1",
+          "game_mode": "DungeonScoreAttack"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "3",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "75",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000103",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000103",
+      "quest_name": 145,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1103",
+          "condition_type": "21",
+          "condition_description": 207,
+          "complete_value": "1",
+          "map_id": "dng009_Hard"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "8",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "100",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000104",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000104",
+      "quest_name": 146,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1104",
+          "condition_type": "22",
+          "condition_description": 208,
+          "complete_value": "1",
+          "map_id": "dng009_Hard"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "8",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000105",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000105",
+      "quest_name": 209,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1105",
+          "condition_type": "15",
+          "condition_description": 215,
+          "complete_value": "60"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "2",
+      "grant_rank_point": "75",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000106",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000106",
+      "quest_name": 210,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1106",
+          "condition_type": "15",
+          "condition_description": 216,
+          "complete_value": "70"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "2",
+      "grant_rank_point": "100",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000107",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000107",
+      "quest_name": 211,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1107",
+          "condition_type": "20",
+          "condition_description": 217,
+          "complete_value": "750"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "2",
+      "grant_rank_point": "75",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000108",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000108",
+      "quest_name": 212,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1108",
+          "condition_type": "20",
+          "condition_description": 218,
+          "complete_value": "1000"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "2",
+      "grant_rank_point": "100",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000109",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000109",
+      "quest_name": 213,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1109",
+          "condition_type": "22",
+          "condition_description": 219,
+          "complete_value": "50"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "7",
+      "grant_rank_point": "100",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000110",
+      "quest_group_id": "SQ003_001",
+      "quest_id": "10000000110",
+      "quest_name": 214,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1110",
+          "condition_type": "22",
+          "condition_description": 220,
+          "complete_value": "90"
+        }
+      ],
+      "quest_valid_term_id": "101000701",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "7",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "1",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "1",
+      "quest_name": 221,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1",
+          "condition_type": "22",
+          "condition_description": 222,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "challengeable_character_class": "12",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "2",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "2",
+      "quest_name": 223,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_2",
+          "condition_type": "59",
+          "condition_description": 224,
+          "complete_value": "90"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "3",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "3",
+      "quest_name": 225,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_3",
+          "condition_type": "1",
+          "condition_description": 262,
+          "complete_value": "3"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_04"
+        },
+        {
+          "reward_id": "Testachieve_01_05"
+        },
+        {
+          "reward_id": "Testachieve_01_06"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "4",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "4",
+      "quest_name": 226,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_4",
+          "condition_type": "3",
+          "condition_description": 263,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "5",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "5",
+      "quest_name": 227,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_5",
+          "condition_type": "4",
+          "condition_description": 264,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "6",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "6",
+      "quest_name": 228,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_6",
+          "condition_type": "5",
+          "condition_description": 265,
+          "complete_value": "3",
+          "item_type": "24",
+          "item_id": "10000"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "7",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "7",
+      "quest_name": 229,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_7",
+          "condition_type": "6",
+          "condition_description": 266,
+          "complete_value": "3",
+          "item_type": "24",
+          "item_id": "10000"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "8",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "8",
+      "quest_name": 230,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_8",
+          "condition_type": "7",
+          "condition_description": 267,
+          "complete_value": "3",
+          "item_type": "24",
+          "item_id": "10000"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "9",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "9",
+      "quest_name": 231,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_9",
+          "condition_type": "9",
+          "condition_description": 268,
+          "complete_value": "3",
+          "item_type": "24",
+          "item_id": "10000"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "10",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "10",
+      "quest_name": 232,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_10",
+          "condition_type": "11",
+          "condition_description": 269,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "11",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "11",
+      "quest_name": 233,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_11",
+          "condition_type": "13",
+          "condition_description": 270,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "12",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "12",
+      "quest_name": 234,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_12",
+          "condition_type": "14",
+          "condition_description": 271,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_07"
+        },
+        {
+          "reward_id": "Testachieve_01_08"
+        },
+        {
+          "reward_id": "Testachieve_01_09"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "13",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "13",
+      "quest_name": 235,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_13",
+          "condition_type": "15",
+          "condition_description": 272,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "14",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "14",
+      "quest_name": 236,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_14",
+          "condition_type": "19",
+          "condition_description": 273,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_10"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "15",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "15",
+      "quest_name": 237,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_15",
+          "condition_type": "20",
+          "condition_description": 274,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "16",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "16",
+      "quest_name": 238,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_16",
+          "condition_type": "22",
+          "condition_description": 275,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "17",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "17",
+      "quest_name": 239,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_17",
+          "condition_type": "25",
+          "condition_description": 276,
+          "complete_value": "1",
+          "game_mode": "BattleArena"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "18",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "18",
+      "quest_name": 240,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_18",
+          "condition_type": "26",
+          "condition_description": 277,
+          "complete_value": "1",
+          "game_mode": "BattleArena"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "19",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "19",
+      "quest_name": 241,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_19",
+          "condition_type": "31",
+          "condition_description": 278,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "20",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "20",
+      "quest_name": 242,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_20",
+          "condition_type": "32",
+          "condition_description": 279,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "21",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "21",
+      "quest_name": 243,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_21",
+          "condition_type": "33",
+          "condition_description": 280,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "22",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "22",
+      "quest_name": 244,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_22",
+          "condition_type": "34",
+          "condition_description": 281,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "23",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "23",
+      "quest_name": 245,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_23",
+          "condition_type": "35",
+          "condition_description": 282,
+          "complete_value": "3000"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "24",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "24",
+      "quest_name": 246,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_24",
+          "condition_type": "37",
+          "condition_description": 283,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "25",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "25",
+      "quest_name": 247,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_25",
+          "condition_type": "38",
+          "condition_description": 284,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "26",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "26",
+      "quest_name": 248,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_26",
+          "condition_type": "39",
+          "condition_description": 285,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "27",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "27",
+      "quest_name": 249,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_27",
+          "condition_type": "40",
+          "condition_description": 286,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "28",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "28",
+      "quest_name": 250,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_28",
+          "condition_type": "41",
+          "condition_description": 287,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "29",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "29",
+      "quest_name": 251,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_29",
+          "condition_type": "42",
+          "condition_description": 288,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "30",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "30",
+      "quest_name": 252,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_30",
+          "condition_type": "44",
+          "condition_description": 289,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "31",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "31",
+      "quest_name": 253,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_31",
+          "condition_type": "45",
+          "condition_description": 290,
+          "complete_value": "1",
+          "place": "2"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "32",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "32",
+      "quest_name": 254,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_32",
+          "condition_type": "46",
+          "condition_description": 291,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "33",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "33",
+      "quest_name": 255,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_33",
+          "condition_type": "47",
+          "condition_description": 292,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "34",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "34",
+      "quest_name": 256,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_34",
+          "condition_type": "48",
+          "condition_description": 293,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "35",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "35",
+      "quest_name": 257,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_35",
+          "condition_type": "49",
+          "condition_description": 294,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "36",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "36",
+      "quest_name": 258,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_36",
+          "condition_type": "53",
+          "condition_description": 295,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "37",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "37",
+      "quest_name": 259,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_37",
+          "condition_type": "54",
+          "condition_description": 296,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "38",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "38",
+      "quest_name": 260,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_38",
+          "condition_type": "55",
+          "condition_description": 297,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "39",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "39",
+      "quest_name": 261,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_39",
+          "condition_type": "58",
+          "condition_description": 298,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "85003",
+      "season_id": "101000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "40",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "40",
+      "quest_name": 442,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_40",
+          "condition_type": "105",
+          "condition_description": 429,
+          "complete_value": "20",
+          "game_mode": "DxBattle"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "41",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "41",
+      "quest_name": 443,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_41",
+          "condition_type": "105",
+          "condition_description": 430,
+          "complete_value": "3",
+          "class_type": "12",
+          "map_id": "def001",
+          "game_mode": "DxBattle"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "42",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "42",
+      "quest_name": 444,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_42",
+          "condition_type": "106",
+          "condition_description": 431,
+          "complete_value": "3",
+          "game_mode": "DxBattle"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "43",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "43",
+      "quest_name": 445,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_43",
+          "condition_type": "106",
+          "condition_description": 432,
+          "complete_value": "3",
+          "class_type": "12",
+          "map_id": "def001",
+          "game_mode": "DxBattle"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "44",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "44",
+      "quest_name": 446,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_44",
+          "condition_type": "102",
+          "condition_description": 433,
+          "complete_value": "5"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "45",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "45",
+      "quest_name": 447,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_45",
+          "condition_type": "102",
+          "condition_description": 434,
+          "complete_value": "5",
+          "class_type": "12"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "46",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "46",
+      "quest_name": 448,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_46",
+          "condition_type": "107",
+          "condition_description": 435,
+          "complete_value": "5",
+          "item_type": "4",
+          "item_id": "112000200"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "47",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "47",
+      "quest_name": 449,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_47",
+          "condition_type": "103",
+          "condition_description": 436,
+          "complete_value": "1"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "48",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "48",
+      "quest_name": 450,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_48",
+          "condition_type": "103",
+          "condition_description": 437,
+          "complete_value": "3",
+          "class_type": "12"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "49",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "49",
+      "quest_name": 451,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_49",
+          "condition_type": "108",
+          "condition_description": 438,
+          "complete_value": "3",
+          "item_type": "4",
+          "item_id": "112000200"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "50",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "50",
+      "quest_name": 452,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_50",
+          "condition_type": "104",
+          "condition_description": 439,
+          "complete_value": "3"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "51",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "51",
+      "quest_name": 453,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_51",
+          "condition_type": "104",
+          "condition_description": 440,
+          "complete_value": "3",
+          "class_type": "12"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "52",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "52",
+      "quest_name": 454,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_52",
+          "condition_type": "109",
+          "condition_description": 441,
+          "complete_value": "3",
+          "item_type": "4",
+          "item_id": "112000200"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "53",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "53",
+      "quest_name": 455,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_53",
+          "condition_type": "107",
+          "condition_description": 458,
+          "complete_value": "3",
+          "item_type": "24",
+          "item_id": "10000"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "54",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "54",
+      "quest_name": 456,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_54",
+          "condition_type": "108",
+          "condition_description": 459,
+          "complete_value": "3",
+          "item_type": "24",
+          "item_id": "10000"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "55",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "55",
+      "quest_name": 457,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_55",
+          "condition_type": "109",
+          "condition_description": 460,
+          "complete_value": "3",
+          "item_type": "24",
+          "item_id": "10000"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "56",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "56",
+      "quest_name": 461,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_56",
+          "condition_type": "6",
+          "condition_description": 464,
+          "complete_value": "2",
+          "item_type": "24",
+          "item_id": "1000"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "57",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "57",
+      "quest_name": 462,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_57",
+          "condition_type": "6",
+          "condition_description": 465,
+          "complete_value": "2",
+          "item_type": "24",
+          "item_id": "2000"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "58",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "58",
+      "quest_name": 463,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_58",
+          "condition_type": "6",
+          "condition_description": 466,
+          "complete_value": "1",
+          "item_type": "24",
+          "item_id": "3000"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "59",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "59",
+      "quest_name": 470,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_59",
+          "condition_type": "107",
+          "condition_description": 467,
+          "complete_value": "3",
+          "item_type": "24",
+          "item_id": "1000"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "60",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "60",
+      "quest_name": 471,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_60",
+          "condition_type": "108",
+          "condition_description": 468,
+          "complete_value": "3",
+          "item_type": "24",
+          "item_id": "1000"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "61",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "61",
+      "quest_name": 472,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_61",
+          "condition_type": "109",
+          "condition_description": 469,
+          "complete_value": "3",
+          "item_type": "24",
+          "item_id": "1000"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "62",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "62",
+      "quest_name": 473,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_62",
+          "condition_type": "103",
+          "condition_description": 477,
+          "complete_value": "2"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "63",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "63",
+      "quest_name": 474,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_63",
+          "condition_type": "103",
+          "condition_description": 478,
+          "complete_value": "3"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "64",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "64",
+      "quest_name": 475,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_64",
+          "condition_type": "103",
+          "condition_description": 479,
+          "complete_value": "4"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "65",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "65",
+      "quest_name": 476,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_65",
+          "condition_type": "103",
+          "condition_description": 480,
+          "complete_value": "5"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "66",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "66",
+      "quest_name": 481,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_66",
+          "condition_type": "108",
+          "condition_description": 486,
+          "complete_value": "1",
+          "item_type": "24",
+          "item_id": "10000"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "67",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "67",
+      "quest_name": 482,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_67",
+          "condition_type": "108",
+          "condition_description": 487,
+          "complete_value": "2",
+          "item_type": "4",
+          "item_id": "112000200"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "68",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "68",
+      "quest_name": 483,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_68",
+          "condition_type": "108",
+          "condition_description": 488,
+          "complete_value": "3",
+          "item_type": "6",
+          "item_id": "131000900"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "69",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "69",
+      "quest_name": 484,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_69",
+          "condition_type": "108",
+          "condition_description": 489,
+          "complete_value": "4",
+          "item_type": "7",
+          "item_id": "111000100"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "70",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "70",
+      "quest_name": 485,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_70",
+          "condition_type": "108",
+          "condition_description": 490,
+          "complete_value": "5",
+          "item_type": "24",
+          "item_id": "10000"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "71",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "71",
+      "quest_name": 491,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_71",
+          "condition_type": "107",
+          "condition_description": 494,
+          "complete_value": "3",
+          "item_type": "24",
+          "item_id": "1000",
+          "class_type": "12"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "72",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "72",
+      "quest_name": 492,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_72",
+          "condition_type": "108",
+          "condition_description": 495,
+          "complete_value": "3",
+          "item_type": "24",
+          "item_id": "1000",
+          "class_type": "12"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "73",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "73",
+      "quest_name": 493,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_73",
+          "condition_type": "109",
+          "condition_description": 496,
+          "complete_value": "3",
+          "item_type": "24",
+          "item_id": "1000",
+          "class_type": "12"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "74",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "74",
+      "quest_name": 497,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_74",
+          "condition_type": "109",
+          "condition_description": 498,
+          "complete_value": "4",
+          "item_type": "24",
+          "item_id": "10000",
+          "class_type": "12"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "75",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "75",
+      "quest_name": 499,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_75",
+          "condition_type": "109",
+          "condition_description": 501,
+          "complete_value": "3",
+          "item_type": "7",
+          "item_id": "111000100",
+          "class_type": "12"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "10.00.000",
+      "id": "76",
+      "quest_group_id": "SQ002_001",
+      "quest_id": "76",
+      "quest_name": 500,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_76",
+          "condition_type": "109",
+          "condition_description": 502,
+          "complete_value": "3",
+          "item_type": "6",
+          "item_id": "131000900",
+          "class_type": "12"
+        }
+      ],
+      "quest_reward_id": [
+        {
+          "reward_id": "Testachieve_01_01"
+        },
+        {
+          "reward_id": "Testachieve_01_02"
+        },
+        {
+          "reward_id": "Testachieve_01_03"
+        }
+      ],
+      "quest_valid_term_id": "100000000",
+      "season_id": "100000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000111",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000111",
+      "quest_name": 299,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1111",
+          "condition_type": "48",
+          "condition_description": 329,
+          "complete_value": "10"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "50",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000112",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000112",
+      "quest_name": 300,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1112",
+          "condition_type": "48",
+          "condition_description": 330,
+          "complete_value": "20"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "100",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000113",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000113",
+      "quest_name": 301,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1113",
+          "condition_type": "48",
+          "condition_description": 331,
+          "complete_value": "50"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "300",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000114",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000114",
+      "quest_name": 302,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1114",
+          "condition_type": "20",
+          "condition_description": 332,
+          "complete_value": "50"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "75",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000115",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000115",
+      "quest_name": 303,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1115",
+          "condition_type": "20",
+          "condition_description": 333,
+          "complete_value": "200"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "125",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000116",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000116",
+      "quest_name": 304,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1116",
+          "condition_type": "22",
+          "condition_description": 334,
+          "complete_value": "10"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "50",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000117",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000117",
+      "quest_name": 305,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1117",
+          "condition_type": "22",
+          "condition_description": 335,
+          "complete_value": "30"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "100",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000118",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000118",
+      "quest_name": 306,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1118",
+          "condition_type": "7",
+          "condition_description": 336,
+          "complete_value": "30",
+          "item_type": "3"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "30",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000119",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000119",
+      "quest_name": 307,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1119",
+          "condition_type": "15",
+          "condition_description": 337,
+          "complete_value": "50"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "50",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000120",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000120",
+      "quest_name": 308,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1120",
+          "condition_type": "20",
+          "condition_description": 338,
+          "complete_value": "100"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "20",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000121",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000121",
+      "quest_name": 309,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1121",
+          "condition_type": "20",
+          "condition_description": 339,
+          "complete_value": "300"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "30",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000122",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000122",
+      "quest_name": 310,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1122",
+          "condition_type": "20",
+          "condition_description": 340,
+          "complete_value": "600"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "60",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000123",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000123",
+      "quest_name": 311,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1123",
+          "condition_type": "20",
+          "condition_description": 341,
+          "complete_value": "900"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "90",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000124",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000124",
+      "quest_name": 312,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1124",
+          "condition_type": "22",
+          "condition_description": 342,
+          "complete_value": "30"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "50",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000125",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000125",
+      "quest_name": 313,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1125",
+          "condition_type": "22",
+          "condition_description": 343,
+          "complete_value": "80"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "80",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000126",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000126",
+      "quest_name": 314,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1126",
+          "condition_type": "20",
+          "condition_description": 344,
+          "complete_value": "10",
+          "enemy_type": "2"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "20",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000127",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000127",
+      "quest_name": 315,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1127",
+          "condition_type": "20",
+          "condition_description": 345,
+          "complete_value": "30",
+          "enemy_type": "2"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "40",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000128",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000128",
+      "quest_name": 316,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1128",
+          "condition_type": "20",
+          "condition_description": 346,
+          "complete_value": "50",
+          "enemy_type": "2"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "70",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000129",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000129",
+      "quest_name": 317,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1129",
+          "condition_type": "26",
+          "condition_description": 347,
+          "complete_value": "1",
+          "game_mode": "RaidBattle"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "3",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "100",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000130",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000130",
+      "quest_name": 318,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1130",
+          "condition_type": "26",
+          "condition_description": 348,
+          "complete_value": "1",
+          "game_mode": "BattleArena"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "3",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "100",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000131",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000131",
+      "quest_name": 319,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1131",
+          "condition_type": "25",
+          "condition_description": 349,
+          "complete_value": "1",
+          "game_mode": "DungeonTimeAttack"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "3",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "75",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000132",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000132",
+      "quest_name": 320,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1132",
+          "condition_type": "25",
+          "condition_description": 350,
+          "complete_value": "1",
+          "game_mode": "DungeonScoreAttack"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "3",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "75",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000133",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000133",
+      "quest_name": 321,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1133",
+          "condition_type": "21",
+          "condition_description": 351,
+          "complete_value": "1",
+          "map_id": "pat0102_Hard"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "8",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "100",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000134",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000134",
+      "quest_name": 322,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1134",
+          "condition_type": "22",
+          "condition_description": 352,
+          "complete_value": "1",
+          "map_id": "pat0102_Hard"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "8",
+      "adventure_rank_required_to": "9",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000135",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000135",
+      "quest_name": 323,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1135",
+          "condition_type": "15",
+          "condition_description": 353,
+          "complete_value": "60"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "2",
+      "grant_rank_point": "75",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000136",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000136",
+      "quest_name": 324,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1136",
+          "condition_type": "15",
+          "condition_description": 354,
+          "complete_value": "70"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "2",
+      "grant_rank_point": "100",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000137",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000137",
+      "quest_name": 325,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1137",
+          "condition_type": "20",
+          "condition_description": 355,
+          "complete_value": "750"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "2",
+      "grant_rank_point": "75",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000138",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000138",
+      "quest_name": 326,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1138",
+          "condition_type": "20",
+          "condition_description": 356,
+          "complete_value": "1000"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "2",
+      "grant_rank_point": "100",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000139",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000139",
+      "quest_name": 327,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1139",
+          "condition_type": "22",
+          "condition_description": 357,
+          "complete_value": "50"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "7",
+      "grant_rank_point": "100",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000140",
+      "quest_group_id": "SQ004_001",
+      "quest_id": "130000140",
+      "quest_name": 328,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1140",
+          "condition_type": "22",
+          "condition_description": 358,
+          "complete_value": "90"
+        }
+      ],
+      "quest_valid_term_id": "102000701",
+      "season_id": "102000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "7",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000141",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000141",
+      "quest_name": 359,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1141",
+          "condition_type": "48",
+          "condition_description": 389,
+          "complete_value": "10"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "11",
+      "grant_rank_point": "50",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000142",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000142",
+      "quest_name": 360,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1142",
+          "condition_type": "48",
+          "condition_description": 390,
+          "complete_value": "20"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "11",
+      "grant_rank_point": "100",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000143",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000143",
+      "quest_name": 361,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1143",
+          "condition_type": "48",
+          "condition_description": 391,
+          "complete_value": "50"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "11",
+      "grant_rank_point": "300",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000144",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000144",
+      "quest_name": 362,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1144",
+          "condition_type": "20",
+          "condition_description": 392,
+          "complete_value": "50"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "11",
+      "grant_rank_point": "75",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000145",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000145",
+      "quest_name": 363,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1145",
+          "condition_type": "20",
+          "condition_description": 393,
+          "complete_value": "200"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "11",
+      "grant_rank_point": "125",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000146",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000146",
+      "quest_name": 364,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1146",
+          "condition_type": "22",
+          "condition_description": 394,
+          "complete_value": "10"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "11",
+      "grant_rank_point": "50",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000147",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000147",
+      "quest_name": 365,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1147",
+          "condition_type": "22",
+          "condition_description": 395,
+          "complete_value": "30"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "2",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "11",
+      "grant_rank_point": "100",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000148",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000148",
+      "quest_name": 366,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1148",
+          "condition_type": "7",
+          "condition_description": 396,
+          "complete_value": "30",
+          "item_type": "3"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "11",
+      "grant_rank_point": "30",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000149",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000149",
+      "quest_name": 367,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1149",
+          "condition_type": "15",
+          "condition_description": 397,
+          "complete_value": "50"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "11",
+      "grant_rank_point": "50",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000150",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000150",
+      "quest_name": 368,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1150",
+          "condition_type": "20",
+          "condition_description": 398,
+          "complete_value": "100"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "11",
+      "grant_rank_point": "20",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000151",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000151",
+      "quest_name": 369,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1151",
+          "condition_type": "20",
+          "condition_description": 399,
+          "complete_value": "300"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "11",
+      "grant_rank_point": "30",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000152",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000152",
+      "quest_name": 370,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1152",
+          "condition_type": "20",
+          "condition_description": 400,
+          "complete_value": "600"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "11",
+      "grant_rank_point": "60",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000153",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000153",
+      "quest_name": 371,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1153",
+          "condition_type": "20",
+          "condition_description": 401,
+          "complete_value": "900"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "11",
+      "grant_rank_point": "90",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000154",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000154",
+      "quest_name": 372,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1154",
+          "condition_type": "22",
+          "condition_description": 402,
+          "complete_value": "30"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "11",
+      "grant_rank_point": "50",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000155",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000155",
+      "quest_name": 373,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1155",
+          "condition_type": "22",
+          "condition_description": 403,
+          "complete_value": "80"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "11",
+      "grant_rank_point": "80",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000156",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000156",
+      "quest_name": 374,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1156",
+          "condition_type": "20",
+          "condition_description": 404,
+          "complete_value": "10",
+          "enemy_type": "2"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "11",
+      "grant_rank_point": "20",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000157",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000157",
+      "quest_name": 375,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1157",
+          "condition_type": "20",
+          "condition_description": 405,
+          "complete_value": "30",
+          "enemy_type": "2"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "11",
+      "grant_rank_point": "40",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000158",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000158",
+      "quest_name": 376,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1158",
+          "condition_type": "20",
+          "condition_description": 406,
+          "complete_value": "50",
+          "enemy_type": "2"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "11",
+      "grant_rank_point": "70",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000159",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000159",
+      "quest_name": 377,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1159",
+          "condition_type": "26",
+          "condition_description": 407,
+          "complete_value": "1",
+          "game_mode": "RaidBattle"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "3",
+      "adventure_rank_required_to": "11",
+      "grant_rank_point": "100",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000160",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000160",
+      "quest_name": 378,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1160",
+          "condition_type": "26",
+          "condition_description": 408,
+          "complete_value": "1",
+          "game_mode": "BattleArena"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "3",
+      "adventure_rank_required_to": "11",
+      "grant_rank_point": "100",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000161",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000161",
+      "quest_name": 379,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1161",
+          "condition_type": "25",
+          "condition_description": 409,
+          "complete_value": "1",
+          "game_mode": "DungeonTimeAttack"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "3",
+      "adventure_rank_required_to": "11",
+      "grant_rank_point": "75",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000162",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000162",
+      "quest_name": 380,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1162",
+          "condition_type": "25",
+          "condition_description": 410,
+          "complete_value": "1",
+          "game_mode": "DungeonScoreAttack"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "3",
+      "adventure_rank_required_to": "11",
+      "grant_rank_point": "75",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000163",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000163",
+      "quest_name": 381,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1163",
+          "condition_type": "21",
+          "condition_description": 411,
+          "complete_value": "1",
+          "map_id": "pat0301_Hard"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "9",
+      "adventure_rank_required_to": "11",
+      "grant_rank_point": "100",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000164",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000164",
+      "quest_name": 382,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1164",
+          "condition_type": "22",
+          "condition_description": 412,
+          "complete_value": "1",
+          "map_id": "pat0301_Hard"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "9",
+      "adventure_rank_required_to": "11",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000165",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000165",
+      "quest_name": 383,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1165",
+          "condition_type": "15",
+          "condition_description": 413,
+          "complete_value": "60"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "2",
+      "grant_rank_point": "75",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000166",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000166",
+      "quest_name": 384,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1166",
+          "condition_type": "15",
+          "condition_description": 414,
+          "complete_value": "70"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "2",
+      "grant_rank_point": "100",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000167",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000167",
+      "quest_name": 385,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1167",
+          "condition_type": "20",
+          "condition_description": 415,
+          "complete_value": "750"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "2",
+      "grant_rank_point": "75",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000168",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000168",
+      "quest_name": 386,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1168",
+          "condition_type": "20",
+          "condition_description": 416,
+          "complete_value": "1000"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "2",
+      "grant_rank_point": "100",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000169",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000169",
+      "quest_name": 387,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1169",
+          "condition_type": "22",
+          "condition_description": 417,
+          "complete_value": "50"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "8",
+      "grant_rank_point": "100",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    },
+    {
+      "version": "9.99.999",
+      "id": "130000170",
+      "quest_group_id": "SQ005_001",
+      "quest_id": "130000170",
+      "quest_name": 388,
+      "quest_achievement_condition": [
+        {
+          "quest_achievement_condition_id": "bc_achievement_1170",
+          "condition_type": "22",
+          "condition_description": 418,
+          "complete_value": "90"
+        }
+      ],
+      "quest_valid_term_id": "103000701",
+      "season_id": "103000",
+      "season_pass_type": "1",
+      "adventure_rank_required_from": "0",
+      "adventure_rank_required_to": "8",
+      "grant_rank_point": "250",
+      "quest_achieved_token_count": "0",
+      "active": "TRUE",
+      "debug": "FALSE"
+    }
+  ]
+}

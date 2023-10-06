@@ -1,0 +1,221 @@
+﻿{
+  "header": {
+    "content_type": "master_mount_expedition"
+  },
+  "payload": [
+    {
+      "id": "test1",
+      "name": 1,
+      "large_category": "1",
+      "max_mount_num": "1",
+      "sort_id": "10000",
+      "expedition_times": [
+        {
+          "id": "test1_1",
+          "time": "360",
+          "exp": "100",
+          "max_add_num": "20"
+        }
+      ],
+      "is_rare": "0",
+      "level_type": "mount_expedition_test",
+      "requester_name": 10,
+      "request_text": 19,
+      "ui_pos_x": "0",
+      "ui_pos_y": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test2",
+      "name": 2,
+      "large_category": "1",
+      "max_mount_num": "1",
+      "sort_id": "10000",
+      "expedition_times": [
+        {
+          "id": "test2_1",
+          "time": "360",
+          "exp": "100",
+          "max_add_num": "20"
+        }
+      ],
+      "is_rare": "0",
+      "level_type": "mount_expedition_test",
+      "requester_name": 11,
+      "request_text": 20,
+      "ui_pos_x": "0",
+      "ui_pos_y": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test3",
+      "name": 3,
+      "large_category": "1",
+      "max_mount_num": "1",
+      "sort_id": "10000",
+      "expedition_times": [
+        {
+          "id": "test3_1",
+          "time": "360",
+          "exp": "100",
+          "max_add_num": "20"
+        }
+      ],
+      "is_rare": "0",
+      "level_type": "mount_expedition_test",
+      "requester_name": 12,
+      "request_text": 21,
+      "ui_pos_x": "0",
+      "ui_pos_y": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test4",
+      "name": 4,
+      "large_category": "1",
+      "max_mount_num": "1",
+      "sort_id": "10000",
+      "expedition_times": [
+        {
+          "id": "test4_1",
+          "time": "360",
+          "exp": "100",
+          "max_add_num": "20"
+        }
+      ],
+      "is_rare": "0",
+      "level_type": "mount_expedition_test",
+      "requester_name": 13,
+      "request_text": 22,
+      "ui_pos_x": "0",
+      "ui_pos_y": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test5",
+      "name": 5,
+      "large_category": "1",
+      "max_mount_num": "1",
+      "sort_id": "10000",
+      "expedition_times": [
+        {
+          "id": "test5_1",
+          "time": "360",
+          "exp": "100",
+          "max_add_num": "20"
+        }
+      ],
+      "is_rare": "0",
+      "level_type": "mount_expedition_test",
+      "requester_name": 14,
+      "request_text": 23,
+      "ui_pos_x": "0",
+      "ui_pos_y": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test6",
+      "name": 6,
+      "large_category": "2",
+      "middle_category": "TP_Fld001_S_01",
+      "max_mount_num": "3",
+      "sort_id": "10000",
+      "expedition_times": [
+        {
+          "id": "test6_1",
+          "time": "720",
+          "exp": "50",
+          "max_add_num": "20"
+        },
+        {
+          "id": "test6_2",
+          "time": "1440",
+          "exp": "100",
+          "max_add_num": "20"
+        }
+      ],
+      "is_rare": "0",
+      "level_type": "mount_expedition_test",
+      "requester_name": 15,
+      "request_text": 24,
+      "ui_pos_x": "0",
+      "ui_pos_y": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test7",
+      "name": 7,
+      "large_category": "2",
+      "middle_category": "TP_Fld001_S_02",
+      "max_mount_num": "3",
+      "sort_id": "10000",
+      "expedition_times": [
+        {
+          "id": "test7_1",
+          "time": "720",
+          "exp": "50",
+          "max_add_num": "20"
+        },
+        {
+          "id": "test7_2",
+          "time": "1440",
+          "exp": "100",
+          "max_add_num": "20"
+        }
+      ],
+      "is_rare": "0",
+      "level_type": "mount_expedition_test",
+      "requester_name": 16,
+      "request_text": 25,
+      "ui_pos_x": "0",
+      "ui_pos_y": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test8",
+      "name": 8,
+      "large_category": "3",
+      "middle_category": "sce0101",
+      "max_mount_num": "1",
+      "sort_id": "10000",
+      "expedition_times": [
+        {
+          "id": "test8_1",
+          "time": "720",
+          "exp": "100",
+          "max_add_num": "20"
+        }
+      ],
+      "is_rare": "1",
+      "level_type": "mount_expedition_test",
+      "requester_name": 17,
+      "request_text": 26,
+      "ui_pos_x": "0",
+      "ui_pos_y": "0",
+      "version": "9.99.999"
+    },
+    {
+      "id": "test9",
+      "name": 9,
+      "large_category": "3",
+      "middle_category": "sce009",
+      "max_mount_num": "1",
+      "sort_id": "10000",
+      "expedition_times": [
+        {
+          "id": "test9_1",
+          "time": "720",
+          "exp": "100",
+          "max_add_num": "20"
+        }
+      ],
+      "is_rare": "1",
+      "level_type": "mount_expedition_test",
+      "requester_name": 18,
+      "request_text": 27,
+      "ui_pos_x": "0",
+      "ui_pos_y": "0",
+      "version": "9.99.999"
+    }
+  ]
+}

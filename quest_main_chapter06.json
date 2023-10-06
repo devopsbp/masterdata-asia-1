@@ -1,0 +1,588 @@
+﻿{
+  "header": {
+    "content_type": "master_quest",
+    "timezone": "Asia/Tokyo"
+  },
+  "payload": [
+    {
+      "id": "106010",
+      "long_id": "MQ106_010",
+      "active": "true",
+      "category1": "1",
+      "category2": "1",
+      "category3": "1",
+      "name": 5,
+      "desc": 6,
+      "client_id": "MQ106_010_start_Npc_Feste",
+      "reporter_id": "MQ106_010_done_Npc_Norbert",
+      "auto_report": "false",
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "MQ106_010_step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "1",
+              "npcId": "MQ106_010_step0",
+              "descriptionId": [
+                {
+                  "descriptionId": 7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "MQ106_010_step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "1",
+              "npcId": "MQ106_010_step1_Npc_Bernhardt_Soldier",
+              "descriptionId": [
+                {
+                  "descriptionId": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "location_id": "MQ106_010_step2",
+          "condition_items": [
+            {
+              "id": "2",
+              "type": "1",
+              "npcId": "MQ106_010_step2_Npc_Carvain",
+              "descriptionId": [
+                {
+                  "descriptionId": 9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step3",
+          "location_id": "MQ106_010_step3",
+          "condition_items": [
+            {
+              "id": "3",
+              "type": "5",
+              "descriptionId": [
+                {
+                  "descriptionId": 10
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step4",
+          "location_id": "MQ106_010_step4",
+          "condition_items": [
+            {
+              "id": "4",
+              "type": "5",
+              "descriptionId": [
+                {
+                  "descriptionId": 11
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "MQ105_010_1",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ105_060",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 4,
+      "close_text": 42,
+      "ignore_complete_jingle": "false",
+      "version": "1.06.000"
+    },
+    {
+      "id": "106020",
+      "long_id": "MQ106_020",
+      "active": "true",
+      "category1": "1",
+      "category2": "1",
+      "category3": "1",
+      "name": 12,
+      "desc": 13,
+      "client_id": "MQ105_060_start_Npc_Ryugerio",
+      "reporter_id": "MQ106_020_done",
+      "auto_report": "false",
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "MQ106_020_step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "1",
+              "npcId": "MQ106_020_step0_Npc_Lalaforte",
+              "descriptionId": [
+                {
+                  "descriptionId": 15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "MQ106_020_step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "5",
+              "npcId": "MQ106_020_step1",
+              "descriptionId": [
+                {
+                  "descriptionId": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "location_id": "MQ106_020_step2",
+          "condition_items": [
+            {
+              "id": "2",
+              "type": "5",
+              "npcId": "MQ106_020_step2",
+              "descriptionId": [
+                {
+                  "descriptionId": 17
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step3",
+          "location_id": "MQ106_020_step3",
+          "condition_items": [
+            {
+              "id": "3",
+              "type": "5",
+              "npcId": "MQ106_020_step3_dummy",
+              "descriptionId": [
+                {
+                  "descriptionId": 18
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step4",
+          "location_id": "MQ106_020_step4",
+          "condition_items": [
+            {
+              "id": "4",
+              "type": "1",
+              "npcId": "MQ106_020_step4_Npc_Kapakuku",
+              "descriptionId": [
+                {
+                  "descriptionId": 19
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "MQ105_010_1",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ106_010",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 14,
+      "close_text": 43,
+      "ignore_complete_jingle": "false",
+      "version": "1.06.000"
+    },
+    {
+      "id": "106030",
+      "long_id": "MQ106_030",
+      "active": "true",
+      "category1": "1",
+      "category2": "1",
+      "category3": "1",
+      "name": 21,
+      "desc": 25,
+      "client_id": "MQ106_030_start_Npc_Lalaforte",
+      "reporter_id": "MQ106_030_done_Npc_Kapakuku",
+      "auto_report": "false",
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "MQ106_030_step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "5",
+              "descriptionId": [
+                {
+                  "descriptionId": 33
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "MQ106_030_step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "5",
+              "descriptionId": [
+                {
+                  "descriptionId": 48
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "location_id": "MQ106_030_step2",
+          "condition_items": [
+            {
+              "id": "2",
+              "type": "1",
+              "npcId": "MQ106_030_step2_Npc_Kapakuku",
+              "descriptionId": [
+                {
+                  "descriptionId": 49
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step3",
+          "location_id": "MQ106_030_step3",
+          "condition_items": [
+            {
+              "id": "3",
+              "type": "5",
+              "npcId": "MQ106_030_step3",
+              "descriptionId": [
+                {
+                  "descriptionId": 50
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "MQ105_010_1",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ106_020",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 29,
+      "close_text": 44,
+      "ignore_complete_jingle": "false",
+      "version": "1.06.000"
+    },
+    {
+      "id": "106040",
+      "long_id": "MQ106_040",
+      "active": "true",
+      "category1": "1",
+      "category2": "1",
+      "category3": "1",
+      "name": 22,
+      "desc": 26,
+      "client_id": "MQ106_040_start_Npc_Kapakuku",
+      "reporter_id": "MQ106_040_done",
+      "auto_report": "false",
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "MQ106_040_step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "5",
+              "npcId": "MQ106_040_step0",
+              "descriptionId": [
+                {
+                  "descriptionId": 34
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "MQ106_040_step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "5",
+              "npcId": "MQ106_040_step1",
+              "descriptionId": [
+                {
+                  "descriptionId": 35
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "location_id": "MQ106_040_step2",
+          "condition_items": [
+            {
+              "id": "2",
+              "type": "4",
+              "dungeonId": "sce0702",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 36
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "MQ105_010_1",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ106_030",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 30,
+      "close_text": 45,
+      "ignore_complete_jingle": "false",
+      "version": "1.06.000"
+    },
+    {
+      "id": "106050",
+      "long_id": "MQ106_050",
+      "active": "true",
+      "category1": "1",
+      "category2": "1",
+      "category3": "1",
+      "name": 23,
+      "desc": 27,
+      "client_id": "MQ106_050_start_Npc_Kapakuku",
+      "reporter_id": "MQ106_050_done_Npc_Kavaaku",
+      "auto_report": "false",
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "MQ106_050_step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "5",
+              "npcId": "MQ106_050_step0",
+              "descriptionId": [
+                {
+                  "descriptionId": 38
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "MQ106_050_step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "5",
+              "npcId": "MQ106_050_step1",
+              "descriptionId": [
+                {
+                  "descriptionId": 51
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "location_id": "MQ106_050_step2",
+          "condition_items": [
+            {
+              "id": "2",
+              "type": "1",
+              "npcId": "MQ106_050_done_Npc_Kavaaku",
+              "descriptionId": [
+                {
+                  "descriptionId": 52
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "MQ105_010_1",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ106_040",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 31,
+      "close_text": 46,
+      "ignore_complete_jingle": "false",
+      "version": "1.06.000"
+    },
+    {
+      "id": "106060",
+      "long_id": "MQ106_060",
+      "active": "true",
+      "category1": "1",
+      "category2": "1",
+      "category3": "1",
+      "name": 24,
+      "desc": 28,
+      "client_id": "MQ106_060_start_Npc_Kapakuku",
+      "auto_report": "true",
+      "conditions": [
+        {
+          "id": "step0",
+          "location_id": "MQ106_060_step0",
+          "condition_items": [
+            {
+              "id": "0",
+              "type": "1",
+              "npcId": "MQ106_060_step0_Npc_Pipimarukas_Soldier",
+              "descriptionId": [
+                {
+                  "descriptionId": 39
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step1",
+          "location_id": "MQ106_060_step1",
+          "condition_items": [
+            {
+              "id": "1",
+              "type": "4",
+              "dungeonId": "sce020",
+              "amount": "1",
+              "descriptionId": [
+                {
+                  "descriptionId": 40
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step2",
+          "location_id": "MQ106_060_step2",
+          "condition_items": [
+            {
+              "id": "2",
+              "type": "5",
+              "descriptionId": [
+                {
+                  "descriptionId": 53
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "index": "1",
+          "category": "0",
+          "master_rewards_id": "MQ105_010_1",
+          "hidden_flag": "0"
+        }
+      ],
+      "unlock_data": {
+        "quest_conditions": [
+          {
+            "type": "1",
+            "quest_id": "MQ106_050",
+            "quest_status": "1"
+          }
+        ]
+      },
+      "done_text": 32,
+      "close_text": 47,
+      "ignore_complete_jingle": "false",
+      "version": "1.06.000"
+    }
+  ]
+}
