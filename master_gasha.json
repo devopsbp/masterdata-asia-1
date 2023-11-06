@@ -1,7 +1,7 @@
 ﻿{
   "header": {
     "content_type": "master_gasha",
-    "timezone": "Asia/Taipei"
+    "timezone": "Asia/Tokyo"
   },
   "payload": [
     {
@@ -643,7 +643,7 @@
       "format_bonus": "master_mail_format.id_bonus",
       "memo": "2301ガシャ",
       "ribbon": "0",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "100120000",
@@ -692,7 +692,7 @@
       "format_bonus": "master_mail_format.id_bonus",
       "memo": "2301ガシャ",
       "ribbon": "0",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "100110010",
@@ -741,7 +741,7 @@
       "format_bonus": "master_mail_format.id_bonus",
       "memo": "2301ガシャ",
       "ribbon": "0",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "100120010",
@@ -790,7 +790,7 @@
       "format_bonus": "master_mail_format.id_bonus",
       "memo": "2301ガシャ",
       "ribbon": "0",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "100200020",
@@ -838,7 +838,7 @@
       "format_bonus": "master_mail_format.id_bonus",
       "memo": "2301ガシャ",
       "ribbon": "0",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "100110030",
@@ -887,7 +887,7 @@
       "format_bonus": "master_mail_format.id_bonus",
       "memo": "2302ガシャ",
       "ribbon": "0",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "100120030",
@@ -936,7 +936,7 @@
       "format_bonus": "master_mail_format.id_bonus",
       "memo": "2302ガシャ",
       "ribbon": "0",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "100200040",
@@ -984,7 +984,7 @@
       "format_bonus": "master_mail_format.id_bonus",
       "memo": "2302ガシャ",
       "ribbon": "0",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "100110050",
@@ -1033,7 +1033,7 @@
       "format_bonus": "master_mail_format.id_bonus",
       "memo": "2303ガシャ",
       "ribbon": "0",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "100120050",
@@ -1082,7 +1082,7 @@
       "format_bonus": "master_mail_format.id_bonus",
       "memo": "2303ガシャ",
       "ribbon": "0",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "100200060",
@@ -1130,7 +1130,7 @@
       "format_bonus": "master_mail_format.id_bonus",
       "memo": "2303ガシャ",
       "ribbon": "0",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "100110070",
@@ -1179,7 +1179,7 @@
       "format_bonus": "master_mail_format.id_bonus",
       "memo": "2304ガシャ",
       "ribbon": "0",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "100120070",
@@ -1228,7 +1228,7 @@
       "format_bonus": "master_mail_format.id_bonus",
       "memo": "2304ガシャ",
       "ribbon": "0",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "100200080",
@@ -1276,7 +1276,7 @@
       "format_bonus": "master_mail_format.id_bonus",
       "memo": "2304ガシャ",
       "ribbon": "0",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "100110090",
@@ -1325,7 +1325,7 @@
       "format_bonus": "master_mail_format.id_bonus",
       "memo": "2306ガシャ",
       "ribbon": "0",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "100120090",
@@ -1374,7 +1374,7 @@
       "format_bonus": "master_mail_format.id_bonus",
       "memo": "2306ガシャ",
       "ribbon": "0",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "100200100",
@@ -1422,7 +1422,7 @@
       "format_bonus": "master_mail_format.id_bonus",
       "memo": "2306ガシャ",
       "ribbon": "0",
-      "version": "9.99.999"
+      "version": "1.02.000"
     }
   ]
 }

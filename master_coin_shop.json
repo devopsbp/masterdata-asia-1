@@ -1,7 +1,7 @@
 ﻿{
   "header": {
     "content_type": "master_coin_shop",
-    "timezone": "Asia/Taipei"
+    "timezone": "Asia/Tokyo"
   },
   "payload": [
     {
@@ -6411,7 +6411,7 @@
       "gender_condition": "1",
       "start_date": "2023-01-01 0:00:00",
       "end_date": "2023-08-16 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30001",
@@ -6442,7 +6442,7 @@
       "gender_condition": "2",
       "start_date": "2023-01-01 0:00:00",
       "end_date": "2023-08-16 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30002",
@@ -6473,7 +6473,7 @@
       "gender_condition": "1",
       "start_date": "2023-01-01 0:00:00",
       "end_date": "2023-08-16 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30003",
@@ -6504,7 +6504,7 @@
       "gender_condition": "2",
       "start_date": "2023-01-01 0:00:00",
       "end_date": "2023-08-16 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30004",
@@ -6535,7 +6535,7 @@
       "gender_condition": "0",
       "start_date": "2023-01-01 0:00:00",
       "end_date": "2023-08-16 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30005",
@@ -6562,7 +6562,7 @@
       "period_ribbon_type": "0",
       "gender_condition": "0",
       "start_date": "2023-01-01 0:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30006",
@@ -6589,7 +6589,7 @@
       "period_ribbon_type": "0",
       "gender_condition": "0",
       "start_date": "2023-01-01 0:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30007",
@@ -6616,7 +6616,7 @@
       "period_ribbon_type": "3",
       "gender_condition": "0",
       "start_date": "2023-01-01 0:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30008",
@@ -6642,7 +6642,7 @@
       "period_ribbon_type": "0",
       "gender_condition": "0",
       "start_date": "2023-01-01 0:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30009",
@@ -6672,7 +6672,7 @@
       "period_ribbon_type": "0",
       "gender_condition": "0",
       "start_date": "2023-01-01 0:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30010",
@@ -6702,7 +6702,7 @@
       "period_ribbon_type": "0",
       "gender_condition": "0",
       "start_date": "2023-01-01 0:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30011",
@@ -6729,7 +6729,7 @@
       "period_ribbon_type": "0",
       "gender_condition": "1",
       "start_date": "2023-01-01 0:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30012",
@@ -6756,7 +6756,7 @@
       "period_ribbon_type": "0",
       "gender_condition": "2",
       "start_date": "2023-01-01 0:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30013",
@@ -6783,7 +6783,7 @@
       "period_ribbon_type": "3",
       "gender_condition": "0",
       "start_date": "2023-01-01 0:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30014",
@@ -6811,7 +6811,7 @@
       "gender_condition": "1",
       "start_date": "2023-01-01 0:00:00",
       "end_date": "2023-08-16 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30015",
@@ -6839,7 +6839,7 @@
       "gender_condition": "1",
       "start_date": "2023-01-01 0:00:00",
       "end_date": "2023-08-16 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30016",
@@ -6867,7 +6867,7 @@
       "gender_condition": "2",
       "start_date": "2023-01-01 0:00:00",
       "end_date": "2023-08-16 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30017",
@@ -6895,7 +6895,7 @@
       "gender_condition": "2",
       "start_date": "2023-01-01 0:00:00",
       "end_date": "2023-08-16 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30018",
@@ -6923,7 +6923,7 @@
       "gender_condition": "1",
       "start_date": "2023-01-01 0:00:00",
       "end_date": "2023-08-16 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30019",
@@ -6951,7 +6951,7 @@
       "gender_condition": "1",
       "start_date": "2023-01-01 0:00:00",
       "end_date": "2023-08-16 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30020",
@@ -6979,7 +6979,7 @@
       "gender_condition": "2",
       "start_date": "2023-01-01 0:00:00",
       "end_date": "2023-08-16 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30021",
@@ -7007,7 +7007,7 @@
       "gender_condition": "2",
       "start_date": "2023-01-01 0:00:00",
       "end_date": "2023-08-16 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30022",
@@ -7034,7 +7034,7 @@
       "period_ribbon_type": "0",
       "gender_condition": "1",
       "start_date": "2023-01-01 0:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30023",
@@ -7061,7 +7061,7 @@
       "period_ribbon_type": "0",
       "gender_condition": "1",
       "start_date": "2023-01-01 0:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30024",
@@ -7088,7 +7088,7 @@
       "period_ribbon_type": "0",
       "gender_condition": "2",
       "start_date": "2023-01-01 0:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30025",
@@ -7115,7 +7115,7 @@
       "period_ribbon_type": "0",
       "gender_condition": "2",
       "start_date": "2023-01-01 0:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30026",
@@ -7143,7 +7143,7 @@
       "gender_condition": "1",
       "start_date": "2023-01-01 0:00:00",
       "end_date": "2023-08-16 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30027",
@@ -7171,7 +7171,7 @@
       "gender_condition": "1",
       "start_date": "2023-01-01 0:00:00",
       "end_date": "2023-08-16 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30028",
@@ -7199,7 +7199,7 @@
       "gender_condition": "2",
       "start_date": "2023-01-01 0:00:00",
       "end_date": "2023-08-16 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30029",
@@ -7227,7 +7227,7 @@
       "gender_condition": "2",
       "start_date": "2023-01-01 0:00:00",
       "end_date": "2023-08-16 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "30030",
@@ -7258,7 +7258,7 @@
       "gender_condition": "1",
       "start_date": "2023-07-12 11:00:00",
       "end_date": "2023-09-20 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "30031",
@@ -7289,7 +7289,7 @@
       "gender_condition": "2",
       "start_date": "2023-07-12 11:00:00",
       "end_date": "2023-09-20 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "30032",
@@ -7320,7 +7320,7 @@
       "gender_condition": "0",
       "start_date": "2023-07-12 11:00:00",
       "end_date": "2023-09-20 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "30033",
@@ -7348,7 +7348,7 @@
       "gender_condition": "1",
       "start_date": "2023-07-12 11:00:00",
       "end_date": "2023-09-20 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "30034",
@@ -7376,7 +7376,7 @@
       "gender_condition": "1",
       "start_date": "2023-07-12 11:00:00",
       "end_date": "2023-09-20 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "30035",
@@ -7404,7 +7404,7 @@
       "gender_condition": "2",
       "start_date": "2023-07-12 11:00:00",
       "end_date": "2023-09-20 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "30036",
@@ -7432,7 +7432,7 @@
       "gender_condition": "2",
       "start_date": "2023-07-12 11:00:00",
       "end_date": "2023-09-20 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "30037",
@@ -7460,7 +7460,7 @@
       "gender_condition": "1",
       "start_date": "2023-07-12 11:00:00",
       "end_date": "2023-09-20 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "30038",
@@ -7488,7 +7488,7 @@
       "gender_condition": "1",
       "start_date": "2023-07-12 11:00:00",
       "end_date": "2023-09-20 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "30039",
@@ -7516,7 +7516,7 @@
       "gender_condition": "2",
       "start_date": "2023-07-12 11:00:00",
       "end_date": "2023-09-20 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "30040",
@@ -7544,7 +7544,7 @@
       "gender_condition": "2",
       "start_date": "2023-07-12 11:00:00",
       "end_date": "2023-09-20 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "30041",
@@ -7573,9 +7573,10 @@
       "ribbon": "1",
       "period_ribbon_type": "0",
       "gender_condition": "1",
+      "special_action_flg": "",
       "start_date": "2023-08-16 11:00:00",
       "end_date": "2023-10-25 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "30042",
@@ -7604,9 +7605,10 @@
       "ribbon": "1",
       "period_ribbon_type": "0",
       "gender_condition": "2",
+      "special_action_flg": "",
       "start_date": "2023-08-16 11:00:00",
       "end_date": "2023-10-25 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "30043",
@@ -7637,7 +7639,7 @@
       "gender_condition": "0",
       "start_date": "2023-08-16 11:00:00",
       "end_date": "2023-10-25 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "30044",
@@ -7665,7 +7667,7 @@
       "gender_condition": "1",
       "start_date": "2023-08-16 11:00:00",
       "end_date": "2023-10-25 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "30045",
@@ -7693,7 +7695,7 @@
       "gender_condition": "1",
       "start_date": "2023-08-16 11:00:00",
       "end_date": "2023-10-25 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "30046",
@@ -7721,7 +7723,7 @@
       "gender_condition": "2",
       "start_date": "2023-08-16 11:00:00",
       "end_date": "2023-10-25 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "30047",
@@ -7749,7 +7751,7 @@
       "gender_condition": "2",
       "start_date": "2023-08-16 11:00:00",
       "end_date": "2023-10-25 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "30048",
@@ -7777,7 +7779,7 @@
       "gender_condition": "1",
       "start_date": "2023-08-16 11:00:00",
       "end_date": "2023-10-25 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "30049",
@@ -7805,7 +7807,7 @@
       "gender_condition": "1",
       "start_date": "2023-08-16 11:00:00",
       "end_date": "2023-10-25 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "30050",
@@ -7833,7 +7835,7 @@
       "gender_condition": "2",
       "start_date": "2023-08-16 11:00:00",
       "end_date": "2023-10-25 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "30051",
@@ -7861,7 +7863,7 @@
       "gender_condition": "2",
       "start_date": "2023-08-16 11:00:00",
       "end_date": "2023-10-25 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "30052",
@@ -7889,7 +7891,7 @@
       "gender_condition": "1",
       "start_date": "2023-08-16 11:00:00",
       "end_date": "2023-10-25 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "30053",
@@ -7917,7 +7919,7 @@
       "gender_condition": "2",
       "start_date": "2023-08-16 11:00:00",
       "end_date": "2023-10-25 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "30054",
@@ -7945,7 +7947,7 @@
       "gender_condition": "1",
       "start_date": "2023-08-16 11:00:00",
       "end_date": "2023-10-25 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "30055",
@@ -7973,7 +7975,7 @@
       "gender_condition": "2",
       "start_date": "2023-08-16 11:00:00",
       "end_date": "2023-10-25 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "30056",
@@ -8004,7 +8006,7 @@
       "gender_condition": "1",
       "start_date": "2023-09-20 11:00:00",
       "end_date": "2023-11-22 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "30057",
@@ -8035,7 +8037,7 @@
       "gender_condition": "2",
       "start_date": "2023-09-20 11:00:00",
       "end_date": "2023-11-22 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "30058",
@@ -8066,7 +8068,7 @@
       "gender_condition": "0",
       "start_date": "2023-09-20 11:00:00",
       "end_date": "2023-11-22 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "30059",
@@ -8094,7 +8096,7 @@
       "gender_condition": "0",
       "start_date": "2023-09-20 11:00:00",
       "end_date": "2023-11-22 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "30060",
@@ -8122,7 +8124,7 @@
       "gender_condition": "1",
       "start_date": "2023-09-20 11:00:00",
       "end_date": "2023-11-22 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "30061",
@@ -8150,7 +8152,7 @@
       "gender_condition": "2",
       "start_date": "2023-09-20 11:00:00",
       "end_date": "2023-11-22 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "30062",
@@ -8178,7 +8180,7 @@
       "gender_condition": "1",
       "start_date": "2023-09-20 11:00:00",
       "end_date": "2023-11-22 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "30063",
@@ -8206,7 +8208,7 @@
       "gender_condition": "1",
       "start_date": "2023-09-20 11:00:00",
       "end_date": "2023-11-22 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "30064",
@@ -8234,7 +8236,7 @@
       "gender_condition": "2",
       "start_date": "2023-09-20 11:00:00",
       "end_date": "2023-11-22 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "30065",
@@ -8262,7 +8264,7 @@
       "gender_condition": "2",
       "start_date": "2023-09-20 11:00:00",
       "end_date": "2023-11-22 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "30066",
@@ -8290,7 +8292,7 @@
       "gender_condition": "1",
       "start_date": "2023-09-20 11:00:00",
       "end_date": "2023-11-22 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "30067",
@@ -8318,7 +8320,7 @@
       "gender_condition": "2",
       "start_date": "2023-09-20 11:00:00",
       "end_date": "2023-11-22 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "30068",
@@ -8345,7 +8347,7 @@
       "gender_condition": "1",
       "start_date": "2023-09-20 11:00:00",
       "end_date": "2023-11-22 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "30069",
@@ -8372,7 +8374,7 @@
       "gender_condition": "2",
       "start_date": "2023-09-20 11:00:00",
       "end_date": "2023-11-22 10:00:00",
-      "version": "9.99.999"
+      "version": "1.01.100"
     }
   ]
 }

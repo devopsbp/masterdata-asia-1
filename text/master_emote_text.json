@@ -224,26 +224,6 @@
       "zh_TW": "叫聲"
     },
     {
-      "id": "46",
-      "ja_JP": "壁ドンする",
-      "zh_TW": "壁咚"
-    },
-    {
-      "id": "47",
-      "ja_JP": "壁ドンされる",
-      "zh_TW": "被壁咚"
-    },
-    {
-      "id": "48",
-      "ja_JP": "ローリングダンス",
-      "zh_TW": "旋轉舞"
-    },
-    {
-      "id": "50",
-      "ja_JP": "かわいいダンス",
-      "zh_TW": "可愛舞蹈"
-    },
-    {
       "id": "52",
       "ja_JP": "陶酔ポーズ1",
       "zh_TW": "陶醉的姿勢1"
@@ -372,26 +352,6 @@
       "id": "281",
       "ja_JP": "クリエイション８",
       "zh_TW": "自創8"
-    },
-    {
-      "id": "298",
-      "ja_JP": "きりっとした正座",
-      "zh_TW": "端正地正座"
-    },
-    {
-      "id": "301",
-      "ja_JP": "しとやかな正座",
-      "zh_TW": "優雅地正座"
-    },
-    {
-      "id": "304",
-      "ja_JP": "倒れる",
-      "zh_TW": "倒下"
-    },
-    {
-      "id": "305",
-      "ja_JP": "かわいいダンス",
-      "zh_TW": "可愛舞蹈"
     },
     {
       "id": "77",
@@ -614,26 +574,6 @@
       "zh_TW": "{CharacterName}加油打氣。"
     },
     {
-      "id": "122",
-      "ja_JP": "{CharacterName}が壁ドンした。",
-      "zh_TW": "{CharacterName}壁咚。"
-    },
-    {
-      "id": "123",
-      "ja_JP": "{CharacterName}が受けた。",
-      "zh_TW": "{CharacterName}接受。"
-    },
-    {
-      "id": "124",
-      "ja_JP": "{CharacterName}が踊った。",
-      "zh_TW": "{CharacterName}跳舞。"
-    },
-    {
-      "id": "126",
-      "ja_JP": "{CharacterName}が踊った。",
-      "zh_TW": "{CharacterName}跳舞。"
-    },
-    {
       "id": "128",
       "ja_JP": "{CharacterName}がかっこいいポーズをした。",
       "zh_TW": "{CharacterName}擺出帥氣的姿勢。"
@@ -762,26 +702,6 @@
       "id": "289",
       "ja_JP": "{CharacterName}がポーズを決めた。",
       "zh_TW": "{CharacterName}決定了這個姿勢"
-    },
-    {
-      "id": "299",
-      "ja_JP": "{CharacterName}が正座をした。",
-      "zh_TW": "{CharacterName}正座。"
-    },
-    {
-      "id": "302",
-      "ja_JP": "{CharacterName}が正座をした。",
-      "zh_TW": "{CharacterName}正座。"
-    },
-    {
-      "id": "306",
-      "ja_JP": "{CharacterName}が倒れた。",
-      "zh_TW": "{CharacterName}倒下。"
-    },
-    {
-      "id": "307",
-      "ja_JP": "{CharacterName}が踊った。",
-      "zh_TW": "{CharacterName}跳舞。"
     },
     {
       "id": "153",
@@ -1004,26 +924,6 @@
       "zh_TW": "{CharacterName}對{OtherCharacterName}加油打氣。"
     },
     {
-      "id": "198",
-      "ja_JP": "{CharacterName}が{OtherCharacterName}に壁ドンした。",
-      "zh_TW": "{CharacterName}對{OtherCharacterName}壁咚。"
-    },
-    {
-      "id": "199",
-      "ja_JP": "{CharacterName}が{OtherCharacterName}を受けた。",
-      "zh_TW": "{CharacterName}對{OtherCharacterName}接受。"
-    },
-    {
-      "id": "200",
-      "ja_JP": "{CharacterName}が{OtherCharacterName}に向かって踊った。",
-      "zh_TW": "{CharacterName}對{OtherCharacterName}跳舞。"
-    },
-    {
-      "id": "202",
-      "ja_JP": "{CharacterName}が{OtherCharacterName}に向かって踊った。",
-      "zh_TW": "{CharacterName}對{OtherCharacterName}跳舞。"
-    },
-    {
       "id": "204",
       "ja_JP": "{CharacterName}が{OtherCharacterName}にポーズを披露した。",
       "zh_TW": "{CharacterName}對{OtherCharacterName}秀了個POSE。"
@@ -1152,26 +1052,6 @@
       "id": "297",
       "ja_JP": "{CharacterName}が{OtherCharacterName}にポーズを披露した。",
       "zh_TW": "{CharacterName}對{OtherCharacterName}擺了一個很帥的姿勢"
-    },
-    {
-      "id": "300",
-      "ja_JP": "{CharacterName}が{OtherCharacterName}に正座をした。",
-      "zh_TW": "{CharacterName}對{OtherCharacterName}正座"
-    },
-    {
-      "id": "303",
-      "ja_JP": "{CharacterName}が{OtherCharacterName}に正座をした。",
-      "zh_TW": "{CharacterName}對{OtherCharacterName}正座"
-    },
-    {
-      "id": "308",
-      "ja_JP": "{CharacterName}が{OtherCharacterName}に向かって倒れた。",
-      "zh_TW": "{CharacterName}對{OtherCharacterName}倒下"
-    },
-    {
-      "id": "309",
-      "ja_JP": "{CharacterName}が{OtherCharacterName}に向かって踊った。",
-      "zh_TW": "{CharacterName}對{OtherCharacterName}倒下"
     }
   ]
 }

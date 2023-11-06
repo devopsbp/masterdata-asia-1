@@ -1,7 +1,7 @@
 ﻿{
   "header": {
     "content_type": "master_season_pass_shop_purchase_limit",
-    "timezone": "Asia/Taipei"
+    "timezone": "Asia/Tokyo"
   },
   "payload": [
     {
@@ -450,7 +450,7 @@
       "points": "800"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "40000",
       "purchase_limit_id": "100",
       "count_type": "1",
@@ -477,7 +477,7 @@
       "points": "2000"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "40001",
       "purchase_limit_id": "101",
       "count_type": "1",
@@ -504,7 +504,7 @@
       "points": "2000"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "40002",
       "purchase_limit_id": "102",
       "count_type": "1",
@@ -531,7 +531,7 @@
       "points": "500"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "40003",
       "purchase_limit_id": "103",
       "count_type": "1",
@@ -558,7 +558,7 @@
       "points": "500"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "40004",
       "purchase_limit_id": "104",
       "count_type": "1",
@@ -585,7 +585,7 @@
       "points": "500"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "40005",
       "purchase_limit_id": "105",
       "count_type": "1",
@@ -612,7 +612,7 @@
       "points": "500"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "40006",
       "purchase_limit_id": "106",
       "count_type": "1",
@@ -639,7 +639,7 @@
       "points": "500"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "40007",
       "purchase_limit_id": "107",
       "count_type": "1",
@@ -666,7 +666,7 @@
       "points": "500"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "40008",
       "purchase_limit_id": "108",
       "count_type": "1",
@@ -693,7 +693,7 @@
       "points": "500"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "40009",
       "purchase_limit_id": "109",
       "count_type": "1",
@@ -720,7 +720,7 @@
       "points": "500"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "40010",
       "purchase_limit_id": "110",
       "count_type": "1",
@@ -737,7 +737,7 @@
       "points": "1000"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "40011",
       "purchase_limit_id": "111",
       "count_type": "1",
@@ -754,7 +754,7 @@
       "points": "300"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "40012",
       "purchase_limit_id": "112",
       "count_type": "1",
@@ -781,7 +781,7 @@
       "points": "10"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "40013",
       "purchase_limit_id": "113",
       "count_type": "1",
@@ -808,7 +808,7 @@
       "points": "5"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "40014",
       "purchase_limit_id": "114",
       "count_type": "1",
@@ -835,7 +835,7 @@
       "points": "2000"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "40015",
       "purchase_limit_id": "115",
       "count_type": "1",
@@ -862,7 +862,7 @@
       "points": "2000"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "40016",
       "purchase_limit_id": "116",
       "count_type": "1",
@@ -889,7 +889,7 @@
       "points": "500"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "40017",
       "purchase_limit_id": "117",
       "count_type": "1",
@@ -916,7 +916,7 @@
       "points": "500"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "40018",
       "purchase_limit_id": "118",
       "count_type": "1",
@@ -943,7 +943,7 @@
       "points": "500"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "40019",
       "purchase_limit_id": "119",
       "count_type": "1",
@@ -970,7 +970,7 @@
       "points": "500"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "40020",
       "purchase_limit_id": "120",
       "count_type": "1",
@@ -987,7 +987,7 @@
       "points": "1000"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "40021",
       "purchase_limit_id": "121",
       "count_type": "1",
@@ -1004,7 +1004,7 @@
       "points": "300"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "40022",
       "purchase_limit_id": "122",
       "count_type": "1",
@@ -1031,7 +1031,7 @@
       "points": "10"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "40023",
       "purchase_limit_id": "123",
       "count_type": "1",

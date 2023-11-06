@@ -1,7 +1,7 @@
 ﻿{
   "header": {
     "content_type": "master_shop_realmoney_item",
-    "timezone": "Asia/Taipei"
+    "timezone": "Asia/Tokyo"
   },
   "payload": [
     {
@@ -25,7 +25,7 @@
       "planner_comment": "",
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "2",
@@ -48,7 +48,7 @@
       "planner_comment": "",
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "3",
@@ -71,7 +71,7 @@
       "planner_comment": "",
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "4",
@@ -94,7 +94,7 @@
       "planner_comment": "",
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "5",
@@ -117,7 +117,7 @@
       "planner_comment": "",
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "6",
@@ -140,7 +140,7 @@
       "planner_comment": "",
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "7",
@@ -163,7 +163,7 @@
       "planner_comment": "",
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "8",
@@ -186,7 +186,7 @@
       "planner_comment": "",
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "9",
@@ -209,7 +209,7 @@
       "planner_comment": "",
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "10",
@@ -233,7 +233,7 @@
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
       "end_date": "2023-10-25 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "11",
@@ -257,7 +257,7 @@
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
       "end_date": "2023-10-25 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "12",
@@ -281,7 +281,7 @@
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
       "end_date": "2023-10-25 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "13",
@@ -305,7 +305,7 @@
       "is_enabled": "1",
       "start_date": "2023-10-25 11:00:00",
       "end_date": "2024-02-28 10:00:00",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "14",
@@ -329,7 +329,7 @@
       "is_enabled": "1",
       "start_date": "2023-10-25 11:00:00",
       "end_date": "2024-02-28 10:00:00",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "15",
@@ -353,7 +353,7 @@
       "is_enabled": "1",
       "start_date": "2023-10-25 11:00:00",
       "end_date": "2024-02-28 10:00:00",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "20001",
@@ -377,7 +377,7 @@
       "planner_comment": "",
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "20002",
@@ -401,7 +401,7 @@
       "planner_comment": "",
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "20003",
@@ -425,7 +425,7 @@
       "planner_comment": "",
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "20004",
@@ -449,7 +449,7 @@
       "planner_comment": "",
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "20005",
@@ -473,7 +473,7 @@
       "planner_comment": "",
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "20006",
@@ -497,7 +497,7 @@
       "planner_comment": "",
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "20007",
@@ -521,7 +521,7 @@
       "planner_comment": "",
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "20008",
@@ -545,7 +545,7 @@
       "planner_comment": "",
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "20009",
@@ -569,7 +569,7 @@
       "planner_comment": "",
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "20010",
@@ -594,7 +594,7 @@
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
       "end_date": "2024-02-28 10:00:00",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "20011",
@@ -619,7 +619,7 @@
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
       "end_date": "2024-02-28 10:00:00",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "20012",
@@ -644,7 +644,7 @@
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
       "end_date": "2024-02-28 10:00:00",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "30001",
@@ -668,7 +668,7 @@
       "planner_comment": "",
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "30002",
@@ -692,7 +692,7 @@
       "planner_comment": "",
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "30003",
@@ -716,7 +716,7 @@
       "planner_comment": "",
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "30004",
@@ -740,7 +740,7 @@
       "planner_comment": "",
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "30005",
@@ -764,7 +764,7 @@
       "planner_comment": "",
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "30006",
@@ -788,7 +788,7 @@
       "planner_comment": "",
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "30007",
@@ -812,7 +812,7 @@
       "planner_comment": "",
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "30008",
@@ -836,7 +836,7 @@
       "planner_comment": "",
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "30009",
@@ -860,7 +860,7 @@
       "planner_comment": "",
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "30010",
@@ -885,7 +885,7 @@
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
       "end_date": "2024-02-28 10:00:00",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "30011",
@@ -910,7 +910,7 @@
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
       "end_date": "2024-02-28 10:00:00",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "30012",
@@ -935,7 +935,7 @@
       "is_enabled": "1",
       "start_date": "2023-01-01 00:00:00",
       "end_date": "2024-02-28 10:00:00",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "901",

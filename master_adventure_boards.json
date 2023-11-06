@@ -142,7 +142,7 @@
     {
       "version": "9.99.999",
       "id": "900006000",
-      "board_type": "1",
+      "board_type": "0",
       "name": 400,
       "desc": 401,
       "icon_id": "900001000",
@@ -152,8 +152,6 @@
           "reward_id": "ADV110002000_COMP"
         }
       ],
-      "challenge_term_id": "100100600",
-      "acceptance_term_id": "100100600",
       "sort_id": "900000010",
       "board_version": "1.00.000"
     },
@@ -282,7 +280,7 @@
       "challenge_term_id": "",
       "acceptance_term_id": "",
       "sort_id": "601000003",
-      "board_version": "9.99.999"
+      "board_version": "1.00.000"
     },
     {
       "version": "1.00.000",

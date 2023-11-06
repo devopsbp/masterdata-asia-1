@@ -1,7 +1,7 @@
 ﻿{
   "header": {
     "content_type": "master_quest",
-    "timezone": "Asia/Taipei"
+    "timezone": "Asia/Tokyo"
   },
   "payload": [
     {
@@ -2641,7 +2641,7 @@
     {
       "id": "10101107",
       "long_id": "SQ101_107",
-      "active": "false",
+      "active": "true",
       "sort_id": "1000",
       "category1": "1",
       "category2": "2",
@@ -4344,7 +4344,7 @@
     {
       "id": "10101138",
       "long_id": "SQ101_138",
-      "active": "false",
+      "active": "true",
       "sort_id": "1000",
       "category1": "1",
       "category2": "5",
@@ -4433,7 +4433,7 @@
     {
       "id": "10101140",
       "long_id": "SQ101_140",
-      "active": "false",
+      "active": "true",
       "sort_id": "1000",
       "category1": "1",
       "category2": "5",
@@ -4796,7 +4796,7 @@
     {
       "id": "10101145",
       "long_id": "SQ101_145",
-      "active": "false",
+      "active": "true",
       "sort_id": "1000",
       "category1": "1",
       "category2": "5",
@@ -4872,7 +4872,7 @@
     {
       "id": "10101146",
       "long_id": "SQ101_146",
-      "active": "false",
+      "active": "true",
       "sort_id": "1000",
       "category1": "1",
       "category2": "5",
@@ -5631,7 +5631,7 @@
     {
       "id": "10101215",
       "long_id": "SQ101_215",
-      "active": "false",
+      "active": "true",
       "sort_id": "1000",
       "category1": "1",
       "category2": "2",
@@ -6258,7 +6258,7 @@
     {
       "id": "10101309",
       "long_id": "SQ101_309",
-      "active": "false",
+      "active": "true",
       "sort_id": "1000",
       "category1": "1",
       "category2": "2",
@@ -6348,7 +6348,7 @@
     {
       "id": "10101310",
       "long_id": "SQ101_310",
-      "active": "false",
+      "active": "true",
       "sort_id": "1000",
       "category1": "1",
       "category2": "2",

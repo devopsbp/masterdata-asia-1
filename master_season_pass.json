@@ -1,7 +1,7 @@
 ﻿{
   "header": {
     "content_type": "master_season_pass",
-    "timezone": "Asia/Taipei"
+    "timezone": "Asia/Tokyo"
   },
   "payload": [
     {
@@ -77,7 +77,7 @@
       "attention": 30
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "season_id": "100000",
       "type": "0",
       "need_free": "0",
@@ -89,7 +89,7 @@
       "attention": 37
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "season_id": "100000",
       "type": "1",
       "need_free": "180",
@@ -101,7 +101,7 @@
       "attention": 38
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "season_id": "100000",
       "type": "2",
       "need_free": "550",
@@ -113,7 +113,7 @@
       "attention": 39
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "season_id": "101000",
       "type": "0",
       "need_free": "0",
@@ -125,7 +125,7 @@
       "attention": 46
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "season_id": "101000",
       "type": "1",
       "need_free": "180",
@@ -137,7 +137,7 @@
       "attention": 47
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "season_id": "101000",
       "type": "2",
       "need_free": "550",

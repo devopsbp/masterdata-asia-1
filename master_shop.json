@@ -1,7 +1,7 @@
 ﻿{
   "header": {
     "content_type": "master_shop",
-    "timezone": "Asia/Taipei"
+    "timezone": "Asia/Tokyo"
   },
   "payload": [
     {
@@ -10,7 +10,7 @@
       "shop_name": 1,
       "shop_description": 5,
       "banner": "",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "2",
@@ -40,7 +40,7 @@
           "type": "3"
         }
       ],
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1000000",
@@ -48,7 +48,7 @@
       "shop_name": 3,
       "shop_description": 7,
       "banner": "",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "2000000",
@@ -88,7 +88,7 @@
           "type": "3"
         }
       ],
-      "version": "9.99.999"
+      "version": "1.00.000"
     }
   ]
 }

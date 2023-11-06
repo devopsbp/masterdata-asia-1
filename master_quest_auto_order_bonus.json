@@ -1,7 +1,7 @@
 ﻿{
   "header": {
     "content_type": "master_quest_auto_order_bonus",
-    "timezone": "Asia/Taipei"
+    "timezone": "Asia/Tokyo"
   },
   "payload": [
     {
@@ -678,7 +678,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "100000001",
       "quest_group_id": "BQ003_001",
       "quest_id": "100000001",
@@ -709,7 +709,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "100000002",
       "quest_group_id": "BQ003_001",
       "quest_id": "100000002",
@@ -739,7 +739,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "100000003",
       "quest_group_id": "BQ003_001",
       "quest_id": "100000003",
@@ -770,7 +770,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "100000004",
       "quest_group_id": "BQ003_001",
       "quest_id": "100000004",
@@ -801,7 +801,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "100000005",
       "quest_group_id": "BQ003_001",
       "quest_id": "100000005",
@@ -832,7 +832,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "100000006",
       "quest_group_id": "BQ003_001",
       "quest_id": "100000006",
@@ -862,7 +862,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "100000007",
       "quest_group_id": "BQ003_001",
       "quest_id": "100000007",
@@ -893,7 +893,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "100000008",
       "quest_group_id": "BQ003_001",
       "quest_id": "100000008",
@@ -924,7 +924,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "100000009",
       "quest_group_id": "BQ003_001",
       "quest_id": "100000009",
@@ -954,7 +954,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "100000010",
       "quest_group_id": "BQ003_001",
       "quest_id": "100000010",
@@ -985,7 +985,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "100000011",
       "quest_group_id": "BQ003_001",
       "quest_id": "100000011",
@@ -1017,7 +1017,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.100",
       "id": "230700001",
       "quest_group_id": "BQ2307_001",
       "quest_id": "230700001",
@@ -1047,7 +1047,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.100",
       "id": "230700002",
       "quest_group_id": "BQ2307_001",
       "quest_id": "230700002",
@@ -1077,7 +1077,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.100",
       "id": "230700003",
       "quest_group_id": "BQ2307_001",
       "quest_id": "230700003",
@@ -1107,7 +1107,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.100",
       "id": "230700004",
       "quest_group_id": "BQ2307_001",
       "quest_id": "230700004",
@@ -1137,7 +1137,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.100",
       "id": "230700005",
       "quest_group_id": "BQ2307_001",
       "quest_id": "230700005",
@@ -1167,7 +1167,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.100",
       "id": "230700006",
       "quest_group_id": "BQ2307_001",
       "quest_id": "230700006",
@@ -1197,7 +1197,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.100",
       "id": "230700007",
       "quest_group_id": "BQ2307_001",
       "quest_id": "230700007",
@@ -1227,7 +1227,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.100",
       "id": "230700008",
       "quest_group_id": "BQ2307_001",
       "quest_id": "230700008",
@@ -1257,7 +1257,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.100",
       "id": "230700009",
       "quest_group_id": "BQ2307_001",
       "quest_id": "230700009",
@@ -1287,7 +1287,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.100",
       "id": "230700010",
       "quest_group_id": "BQ2307_001",
       "quest_id": "230700010",
@@ -1317,7 +1317,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.100",
       "id": "230700011",
       "quest_group_id": "BQ2307_001",
       "quest_id": "230700011",
@@ -1347,7 +1347,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.100",
       "id": "230700012",
       "quest_group_id": "BQ2307_001",
       "quest_id": "230700012",
@@ -1377,7 +1377,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.100",
       "id": "230700013",
       "quest_group_id": "BQ2307_001",
       "quest_id": "230700013",
@@ -1408,7 +1408,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.100",
       "id": "230700014",
       "quest_group_id": "BQ2307_001",
       "quest_id": "230700014",
@@ -1439,7 +1439,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.100",
       "id": "230700015",
       "quest_group_id": "BQ2307_001",
       "quest_id": "230700015",
@@ -1470,7 +1470,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.100",
       "id": "230700016",
       "quest_group_id": "BQ2307_001",
       "quest_id": "230700016",
@@ -1501,7 +1501,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.100",
       "id": "230700017",
       "quest_group_id": "BQ2307_001",
       "quest_id": "230700017",
@@ -1531,7 +1531,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.100",
       "id": "230700018",
       "quest_group_id": "BQ2307_001",
       "quest_id": "230700018",
@@ -1561,7 +1561,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.100",
       "id": "230700019",
       "quest_group_id": "BQ2307_001",
       "quest_id": "230700019",
@@ -1591,7 +1591,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.100",
       "id": "230700020",
       "quest_group_id": "BQ2307_001",
       "quest_id": "230700020",
@@ -1622,7 +1622,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "230200001",
       "quest_group_id": "BQ2302_001",
       "quest_id": "23020000001",
@@ -1652,7 +1652,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "230200002",
       "quest_group_id": "BQ2302_001",
       "quest_id": "23020000002",
@@ -1682,7 +1682,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "230200003",
       "quest_group_id": "BQ2302_001",
       "quest_id": "23020000003",
@@ -1712,7 +1712,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "230200004",
       "quest_group_id": "BQ2302_001",
       "quest_id": "23020000004",
@@ -1742,7 +1742,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "230200005",
       "quest_group_id": "BQ2302_001",
       "quest_id": "23020000005",
@@ -1772,7 +1772,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "230200006",
       "quest_group_id": "BQ2302_001",
       "quest_id": "23020000006",
@@ -1802,7 +1802,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "230200007",
       "quest_group_id": "BQ2302_001",
       "quest_id": "23020000007",
@@ -1832,7 +1832,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "230200008",
       "quest_group_id": "BQ2302_001",
       "quest_id": "23020000008",
@@ -1862,7 +1862,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "230200009",
       "quest_group_id": "BQ2302_001",
       "quest_id": "23020000009",
@@ -1892,7 +1892,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "230200010",
       "quest_group_id": "BQ2302_001",
       "quest_id": "23020000010",
@@ -1922,7 +1922,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "230200011",
       "quest_group_id": "BQ2302_001",
       "quest_id": "23020000011",
@@ -1952,7 +1952,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "230200012",
       "quest_group_id": "BQ2302_001",
       "quest_id": "23020000012",
@@ -1982,7 +1982,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "230200013",
       "quest_group_id": "BQ2302_001",
       "quest_id": "23020000013",
@@ -2013,7 +2013,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "230200014",
       "quest_group_id": "BQ2302_001",
       "quest_id": "23020000014",
@@ -2044,7 +2044,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "230200015",
       "quest_group_id": "BQ2302_001",
       "quest_id": "23020000015",
@@ -2075,7 +2075,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "230200016",
       "quest_group_id": "BQ2302_001",
       "quest_id": "23020000016",
@@ -2106,7 +2106,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "230200017",
       "quest_group_id": "BQ2302_001",
       "quest_id": "23020000017",
@@ -2136,7 +2136,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "230200018",
       "quest_group_id": "BQ2302_001",
       "quest_id": "23020000018",
@@ -2166,7 +2166,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "230200019",
       "quest_group_id": "BQ2302_001",
       "quest_id": "23020000019",
@@ -2196,7 +2196,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "230200020",
       "quest_group_id": "BQ2302_001",
       "quest_id": "23020000020",
@@ -2227,7 +2227,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.100",
       "id": "230900001",
       "quest_group_id": "BQ2309_001",
       "quest_id": "230900001",
@@ -2257,7 +2257,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.100",
       "id": "230900002",
       "quest_group_id": "BQ2309_001",
       "quest_id": "230900002",
@@ -2287,7 +2287,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.100",
       "id": "230900003",
       "quest_group_id": "BQ2309_001",
       "quest_id": "230900003",
@@ -2317,7 +2317,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.100",
       "id": "230900004",
       "quest_group_id": "BQ2309_001",
       "quest_id": "230900004",
@@ -2347,7 +2347,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.100",
       "id": "230900005",
       "quest_group_id": "BQ2309_001",
       "quest_id": "230900005",
@@ -2377,7 +2377,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.100",
       "id": "230900006",
       "quest_group_id": "BQ2309_001",
       "quest_id": "230900006",
@@ -2407,7 +2407,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.100",
       "id": "230900007",
       "quest_group_id": "BQ2309_001",
       "quest_id": "230900007",
@@ -2437,7 +2437,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.100",
       "id": "230900008",
       "quest_group_id": "BQ2309_001",
       "quest_id": "230900008",
@@ -2467,7 +2467,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.100",
       "id": "230900009",
       "quest_group_id": "BQ2309_001",
       "quest_id": "230900009",
@@ -2497,7 +2497,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.100",
       "id": "230900010",
       "quest_group_id": "BQ2309_001",
       "quest_id": "230900010",
@@ -2527,7 +2527,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.100",
       "id": "230900011",
       "quest_group_id": "BQ2309_001",
       "quest_id": "230900011",
@@ -2557,7 +2557,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.100",
       "id": "230900012",
       "quest_group_id": "BQ2309_001",
       "quest_id": "230900012",
@@ -2587,7 +2587,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.100",
       "id": "230900013",
       "quest_group_id": "BQ2309_001",
       "quest_id": "230900013",
@@ -2618,7 +2618,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.100",
       "id": "230900014",
       "quest_group_id": "BQ2309_001",
       "quest_id": "230900014",
@@ -2649,7 +2649,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.100",
       "id": "230900015",
       "quest_group_id": "BQ2309_001",
       "quest_id": "230900015",
@@ -2680,7 +2680,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.100",
       "id": "230900016",
       "quest_group_id": "BQ2309_001",
       "quest_id": "230900016",
@@ -2711,7 +2711,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.100",
       "id": "230900017",
       "quest_group_id": "BQ2309_001",
       "quest_id": "230900017",
@@ -2741,7 +2741,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.100",
       "id": "230900018",
       "quest_group_id": "BQ2309_001",
       "quest_id": "230900018",
@@ -2771,7 +2771,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.100",
       "id": "230900019",
       "quest_group_id": "BQ2309_001",
       "quest_id": "230900019",
@@ -2801,7 +2801,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.100",
       "id": "230900020",
       "quest_group_id": "BQ2309_001",
       "quest_id": "230900020",
@@ -2832,7 +2832,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000001",
       "quest_group_id": "BQ102_001",
       "quest_id": "102000001",
@@ -2862,7 +2862,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000002",
       "quest_group_id": "BQ102_001",
       "quest_id": "102000002",
@@ -2892,7 +2892,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000003",
       "quest_group_id": "BQ102_001",
       "quest_id": "102000003",
@@ -2922,7 +2922,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000004",
       "quest_group_id": "BQ102_001",
       "quest_id": "102000004",
@@ -2952,7 +2952,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000005",
       "quest_group_id": "BQ102_001",
       "quest_id": "102000005",
@@ -2982,7 +2982,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000006",
       "quest_group_id": "BQ102_001",
       "quest_id": "102000006",
@@ -3013,7 +3013,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000007",
       "quest_group_id": "BQ102_001",
       "quest_id": "102000007",
@@ -3043,7 +3043,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000008",
       "quest_group_id": "BQ102_001",
       "quest_id": "102000008",
@@ -3073,7 +3073,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000009",
       "quest_group_id": "BQ102_001",
       "quest_id": "102000009",
@@ -3103,7 +3103,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000010",
       "quest_group_id": "BQ102_001",
       "quest_id": "102000010",
@@ -3134,7 +3134,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000011",
       "quest_group_id": "BQ102_001",
       "quest_id": "102000011",
@@ -3165,7 +3165,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000012",
       "quest_group_id": "BQ102_001",
       "quest_id": "102000012",
@@ -3196,7 +3196,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000013",
       "quest_group_id": "BQ102_001",
       "quest_id": "102000013",
@@ -3227,7 +3227,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000014",
       "quest_group_id": "BQ102_001",
       "quest_id": "102000014",
@@ -3258,7 +3258,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000015",
       "quest_group_id": "BQ102_001",
       "quest_id": "102000015",
@@ -3289,7 +3289,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000016",
       "quest_group_id": "BQ102_001",
       "quest_id": "102000016",
@@ -3320,7 +3320,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000017",
       "quest_group_id": "BQ102_001",
       "quest_id": "102000017",
@@ -3351,7 +3351,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000018",
       "quest_group_id": "BQ102_001",
       "quest_id": "102000018",
@@ -3382,7 +3382,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000019",
       "quest_group_id": "BQ102_001",
       "quest_id": "102000019",
@@ -3413,7 +3413,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000020",
       "quest_group_id": "BQ102_001",
       "quest_id": "102000020",
@@ -3444,7 +3444,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000021",
       "quest_group_id": "BQ102_001",
       "quest_id": "102000021",
@@ -3475,7 +3475,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000022",
       "quest_group_id": "BQ102_001",
       "quest_id": "102000022",
@@ -3506,7 +3506,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000023",
       "quest_group_id": "BQ102_001",
       "quest_id": "102000023",
@@ -3537,7 +3537,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000024",
       "quest_group_id": "BQ102_001",
       "quest_id": "102000024",
@@ -3568,7 +3568,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "231000001",
       "quest_group_id": "BQ2310_001",
       "quest_id": "231000001",
@@ -3598,7 +3598,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "231000002",
       "quest_group_id": "BQ2310_001",
       "quest_id": "231000002",
@@ -3628,7 +3628,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "231000003",
       "quest_group_id": "BQ2310_001",
       "quest_id": "231000003",
@@ -3658,7 +3658,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "231000004",
       "quest_group_id": "BQ2310_001",
       "quest_id": "231000004",
@@ -3688,7 +3688,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "231000005",
       "quest_group_id": "BQ2310_001",
       "quest_id": "231000005",
@@ -3718,7 +3718,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "231000006",
       "quest_group_id": "BQ2310_001",
       "quest_id": "231000006",
@@ -3748,7 +3748,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "231000007",
       "quest_group_id": "BQ2310_001",
       "quest_id": "231000007",
@@ -3778,7 +3778,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "231000008",
       "quest_group_id": "BQ2310_001",
       "quest_id": "231000008",
@@ -3808,7 +3808,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "231000009",
       "quest_group_id": "BQ2310_001",
       "quest_id": "231000009",
@@ -3838,7 +3838,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "231000010",
       "quest_group_id": "BQ2310_001",
       "quest_id": "231000010",
@@ -3868,7 +3868,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "231000011",
       "quest_group_id": "BQ2310_001",
       "quest_id": "231000011",
@@ -3898,7 +3898,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "231000012",
       "quest_group_id": "BQ2310_001",
       "quest_id": "231000012",
@@ -3928,7 +3928,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "231000013",
       "quest_group_id": "BQ2310_001",
       "quest_id": "231000013",
@@ -3959,7 +3959,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "231000014",
       "quest_group_id": "BQ2310_001",
       "quest_id": "231000014",
@@ -3990,7 +3990,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "231000015",
       "quest_group_id": "BQ2310_001",
       "quest_id": "231000015",
@@ -4021,7 +4021,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "231000016",
       "quest_group_id": "BQ2310_001",
       "quest_id": "231000016",
@@ -4052,7 +4052,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.100",
       "id": "231100001",
       "quest_group_id": "BQ2311_001",
       "quest_id": "231100001",
@@ -4082,7 +4082,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.100",
       "id": "231100002",
       "quest_group_id": "BQ2311_001",
       "quest_id": "231100002",
@@ -4112,7 +4112,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.100",
       "id": "231100003",
       "quest_group_id": "BQ2311_001",
       "quest_id": "231100003",
@@ -4142,7 +4142,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.100",
       "id": "231100004",
       "quest_group_id": "BQ2311_001",
       "quest_id": "231100004",
@@ -4172,7 +4172,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.100",
       "id": "231100005",
       "quest_group_id": "BQ2311_001",
       "quest_id": "231100005",
@@ -4202,7 +4202,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.100",
       "id": "231100006",
       "quest_group_id": "BQ2311_001",
       "quest_id": "231100006",
@@ -4232,7 +4232,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.100",
       "id": "231100007",
       "quest_group_id": "BQ2311_001",
       "quest_id": "231100007",
@@ -4262,7 +4262,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.100",
       "id": "231100008",
       "quest_group_id": "BQ2311_001",
       "quest_id": "231100008",
@@ -4292,7 +4292,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.100",
       "id": "231100009",
       "quest_group_id": "BQ2311_001",
       "quest_id": "231100009",
@@ -4322,7 +4322,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.100",
       "id": "231100010",
       "quest_group_id": "BQ2311_001",
       "quest_id": "231100010",
@@ -4352,7 +4352,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.100",
       "id": "231100011",
       "quest_group_id": "BQ2311_001",
       "quest_id": "231100011",
@@ -4382,7 +4382,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.100",
       "id": "231100012",
       "quest_group_id": "BQ2311_001",
       "quest_id": "231100012",
@@ -4412,7 +4412,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.100",
       "id": "231100013",
       "quest_group_id": "BQ2311_001",
       "quest_id": "231100013",
@@ -4443,7 +4443,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.100",
       "id": "231100014",
       "quest_group_id": "BQ2311_001",
       "quest_id": "231100014",
@@ -4474,7 +4474,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.100",
       "id": "231100015",
       "quest_group_id": "BQ2311_001",
       "quest_id": "231100015",
@@ -4505,7 +4505,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.100",
       "id": "231100016",
       "quest_group_id": "BQ2311_001",
       "quest_id": "231100016",
@@ -4536,7 +4536,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "231200001",
       "quest_group_id": "BQ2312_001",
       "quest_id": "231200001",
@@ -4566,7 +4566,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "231200002",
       "quest_group_id": "BQ2312_001",
       "quest_id": "231200002",
@@ -4596,7 +4596,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "231200003",
       "quest_group_id": "BQ2312_001",
       "quest_id": "231200003",
@@ -4626,7 +4626,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "231200004",
       "quest_group_id": "BQ2312_001",
       "quest_id": "231200004",
@@ -4656,7 +4656,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "231200005",
       "quest_group_id": "BQ2312_001",
       "quest_id": "231200005",
@@ -4686,7 +4686,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "231200006",
       "quest_group_id": "BQ2312_001",
       "quest_id": "231200006",
@@ -4716,7 +4716,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "231200007",
       "quest_group_id": "BQ2312_001",
       "quest_id": "231200007",
@@ -4746,7 +4746,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "231200008",
       "quest_group_id": "BQ2312_001",
       "quest_id": "231200008",
@@ -4776,7 +4776,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "231200009",
       "quest_group_id": "BQ2312_001",
       "quest_id": "231200009",
@@ -4806,7 +4806,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "231200010",
       "quest_group_id": "BQ2312_001",
       "quest_id": "231200010",
@@ -4836,7 +4836,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "231200011",
       "quest_group_id": "BQ2312_001",
       "quest_id": "231200011",
@@ -4866,7 +4866,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "231200012",
       "quest_group_id": "BQ2312_001",
       "quest_id": "231200012",
@@ -4896,7 +4896,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "231200013",
       "quest_group_id": "BQ2312_001",
       "quest_id": "231200013",
@@ -4927,7 +4927,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "231200014",
       "quest_group_id": "BQ2312_001",
       "quest_id": "231200014",
@@ -4958,7 +4958,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "231200015",
       "quest_group_id": "BQ2312_001",
       "quest_id": "231200015",
@@ -4989,7 +4989,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "231200016",
       "quest_group_id": "BQ2312_001",
       "quest_id": "231200016",
@@ -5020,7 +5020,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "231200017",
       "quest_group_id": "BQ2312_001",
       "quest_id": "231200017",
@@ -5050,7 +5050,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "231200018",
       "quest_group_id": "BQ2312_001",
       "quest_id": "231200018",
@@ -5080,7 +5080,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "231200019",
       "quest_group_id": "BQ2312_001",
       "quest_id": "231200019",
@@ -5110,7 +5110,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "231200020",
       "quest_group_id": "BQ2312_001",
       "quest_id": "231200020",
@@ -5141,7 +5141,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "231200021",
       "quest_group_id": "BQ2312_002",
       "quest_id": "231200021",
@@ -5171,7 +5171,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "231200022",
       "quest_group_id": "BQ2312_003",
       "quest_id": "231200022",
@@ -5201,7 +5201,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.100",
       "id": "240100001",
       "quest_group_id": "BQ2401_001",
       "quest_id": "240100001",
@@ -5231,7 +5231,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.100",
       "id": "240100002",
       "quest_group_id": "BQ2401_001",
       "quest_id": "240100002",
@@ -5261,7 +5261,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.100",
       "id": "240100003",
       "quest_group_id": "BQ2401_001",
       "quest_id": "240100003",
@@ -5291,7 +5291,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.100",
       "id": "240100004",
       "quest_group_id": "BQ2401_001",
       "quest_id": "240100004",
@@ -5321,7 +5321,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.100",
       "id": "240100005",
       "quest_group_id": "BQ2401_001",
       "quest_id": "240100005",
@@ -5351,7 +5351,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.100",
       "id": "240100006",
       "quest_group_id": "BQ2401_001",
       "quest_id": "240100006",
@@ -5381,7 +5381,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.100",
       "id": "240100007",
       "quest_group_id": "BQ2401_001",
       "quest_id": "240100007",
@@ -5411,7 +5411,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.100",
       "id": "240100008",
       "quest_group_id": "BQ2401_001",
       "quest_id": "240100008",
@@ -5441,7 +5441,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.100",
       "id": "240100009",
       "quest_group_id": "BQ2401_001",
       "quest_id": "240100009",
@@ -5471,7 +5471,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.100",
       "id": "240100010",
       "quest_group_id": "BQ2401_001",
       "quest_id": "240100010",
@@ -5501,7 +5501,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.100",
       "id": "240100011",
       "quest_group_id": "BQ2401_001",
       "quest_id": "240100011",
@@ -5531,7 +5531,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.100",
       "id": "240100012",
       "quest_group_id": "BQ2401_001",
       "quest_id": "240100012",
@@ -5561,7 +5561,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.100",
       "id": "240100013",
       "quest_group_id": "BQ2401_001",
       "quest_id": "240100013",
@@ -5592,7 +5592,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.100",
       "id": "240100014",
       "quest_group_id": "BQ2401_001",
       "quest_id": "240100014",
@@ -5623,7 +5623,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.100",
       "id": "240100015",
       "quest_group_id": "BQ2401_001",
       "quest_id": "240100015",
@@ -5654,7 +5654,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.100",
       "id": "240100016",
       "quest_group_id": "BQ2401_001",
       "quest_id": "240100016",
@@ -5685,7 +5685,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.100",
       "id": "240100017",
       "quest_group_id": "BQ2401_001",
       "quest_id": "240100017",
@@ -5715,7 +5715,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.100",
       "id": "240100018",
       "quest_group_id": "BQ2401_001",
       "quest_id": "240100018",
@@ -5745,7 +5745,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.100",
       "id": "240100019",
       "quest_group_id": "BQ2401_001",
       "quest_id": "240100019",
@@ -5775,7 +5775,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.100",
       "id": "240100020",
       "quest_group_id": "BQ2401_001",
       "quest_id": "240100020",
@@ -5806,7 +5806,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.000",
       "id": "240200001",
       "quest_group_id": "BQ2402_001",
       "quest_id": "240200001",
@@ -5836,7 +5836,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.000",
       "id": "240200002",
       "quest_group_id": "BQ2402_001",
       "quest_id": "240200002",
@@ -5866,7 +5866,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.000",
       "id": "240200003",
       "quest_group_id": "BQ2402_001",
       "quest_id": "240200003",
@@ -5896,7 +5896,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.000",
       "id": "240200004",
       "quest_group_id": "BQ2402_001",
       "quest_id": "240200004",
@@ -5926,7 +5926,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.000",
       "id": "240200005",
       "quest_group_id": "BQ2402_001",
       "quest_id": "240200005",
@@ -5956,7 +5956,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.000",
       "id": "240200006",
       "quest_group_id": "BQ2402_001",
       "quest_id": "240200006",
@@ -5986,7 +5986,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.000",
       "id": "240200007",
       "quest_group_id": "BQ2402_001",
       "quest_id": "240200007",
@@ -6016,7 +6016,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.000",
       "id": "240200008",
       "quest_group_id": "BQ2402_001",
       "quest_id": "240200008",
@@ -6046,7 +6046,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.000",
       "id": "240200009",
       "quest_group_id": "BQ2402_001",
       "quest_id": "240200009",
@@ -6076,7 +6076,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.000",
       "id": "240200010",
       "quest_group_id": "BQ2402_001",
       "quest_id": "240200010",
@@ -6106,7 +6106,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.000",
       "id": "240200011",
       "quest_group_id": "BQ2402_001",
       "quest_id": "240200011",
@@ -6136,7 +6136,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.000",
       "id": "240200012",
       "quest_group_id": "BQ2402_001",
       "quest_id": "240200012",
@@ -6166,7 +6166,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.000",
       "id": "240200013",
       "quest_group_id": "BQ2402_001",
       "quest_id": "240200013",
@@ -6197,7 +6197,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.000",
       "id": "240200014",
       "quest_group_id": "BQ2402_001",
       "quest_id": "240200014",
@@ -6228,7 +6228,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.000",
       "id": "240200015",
       "quest_group_id": "BQ2402_001",
       "quest_id": "240200015",
@@ -6259,7 +6259,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.000",
       "id": "240200016",
       "quest_group_id": "BQ2402_001",
       "quest_id": "240200016",
@@ -6290,7 +6290,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.100",
       "id": "240300001",
       "quest_group_id": "BQ2403_001",
       "quest_id": "240300001",
@@ -6320,7 +6320,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.100",
       "id": "240300002",
       "quest_group_id": "BQ2403_001",
       "quest_id": "240300002",
@@ -6350,7 +6350,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.100",
       "id": "240300003",
       "quest_group_id": "BQ2403_001",
       "quest_id": "240300003",
@@ -6380,7 +6380,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.100",
       "id": "240300004",
       "quest_group_id": "BQ2403_001",
       "quest_id": "240300004",
@@ -6410,7 +6410,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.100",
       "id": "240300005",
       "quest_group_id": "BQ2403_001",
       "quest_id": "240300005",
@@ -6440,7 +6440,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.100",
       "id": "240300006",
       "quest_group_id": "BQ2403_001",
       "quest_id": "240300006",
@@ -6470,7 +6470,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.100",
       "id": "240300007",
       "quest_group_id": "BQ2403_001",
       "quest_id": "240300007",
@@ -6500,7 +6500,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.100",
       "id": "240300008",
       "quest_group_id": "BQ2403_001",
       "quest_id": "240300008",
@@ -6530,7 +6530,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.100",
       "id": "240300009",
       "quest_group_id": "BQ2403_001",
       "quest_id": "240300009",
@@ -6560,7 +6560,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.100",
       "id": "240300010",
       "quest_group_id": "BQ2403_001",
       "quest_id": "240300010",
@@ -6590,7 +6590,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.100",
       "id": "240300011",
       "quest_group_id": "BQ2403_001",
       "quest_id": "240300011",
@@ -6620,7 +6620,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.100",
       "id": "240300012",
       "quest_group_id": "BQ2403_001",
       "quest_id": "240300012",
@@ -6650,7 +6650,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.100",
       "id": "240300013",
       "quest_group_id": "BQ2403_001",
       "quest_id": "240300013",
@@ -6681,7 +6681,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.100",
       "id": "240300014",
       "quest_group_id": "BQ2403_001",
       "quest_id": "240300014",
@@ -6712,7 +6712,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.100",
       "id": "240300015",
       "quest_group_id": "BQ2403_001",
       "quest_id": "240300015",
@@ -6743,7 +6743,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.100",
       "id": "240300016",
       "quest_group_id": "BQ2403_001",
       "quest_id": "240300016",
@@ -6774,7 +6774,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.05.000",
       "id": "240400001",
       "quest_group_id": "BQ2404_001",
       "quest_id": "240400001",
@@ -6804,7 +6804,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.05.000",
       "id": "240400002",
       "quest_group_id": "BQ2404_001",
       "quest_id": "240400002",
@@ -6834,7 +6834,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.05.000",
       "id": "240400003",
       "quest_group_id": "BQ2404_001",
       "quest_id": "240400003",
@@ -6864,7 +6864,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.05.000",
       "id": "240400004",
       "quest_group_id": "BQ2404_001",
       "quest_id": "240400004",
@@ -6894,7 +6894,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.05.000",
       "id": "240400005",
       "quest_group_id": "BQ2404_001",
       "quest_id": "240400005",
@@ -6924,7 +6924,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.05.000",
       "id": "240400006",
       "quest_group_id": "BQ2404_001",
       "quest_id": "240400006",
@@ -6954,7 +6954,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.05.000",
       "id": "240400007",
       "quest_group_id": "BQ2404_001",
       "quest_id": "240400007",
@@ -6984,7 +6984,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.05.000",
       "id": "240400008",
       "quest_group_id": "BQ2404_001",
       "quest_id": "240400008",
@@ -7014,7 +7014,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.05.000",
       "id": "240400009",
       "quest_group_id": "BQ2404_001",
       "quest_id": "240400009",
@@ -7044,7 +7044,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.05.000",
       "id": "240400010",
       "quest_group_id": "BQ2404_001",
       "quest_id": "240400010",
@@ -7074,7 +7074,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.05.000",
       "id": "240400011",
       "quest_group_id": "BQ2404_001",
       "quest_id": "240400011",
@@ -7104,7 +7104,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.05.000",
       "id": "240400012",
       "quest_group_id": "BQ2404_001",
       "quest_id": "240400012",
@@ -7134,7 +7134,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.05.000",
       "id": "240400013",
       "quest_group_id": "BQ2404_001",
       "quest_id": "240400013",
@@ -7165,7 +7165,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.05.000",
       "id": "240400014",
       "quest_group_id": "BQ2404_001",
       "quest_id": "240400014",
@@ -7196,7 +7196,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.05.000",
       "id": "240400015",
       "quest_group_id": "BQ2404_001",
       "quest_id": "240400015",
@@ -7227,7 +7227,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.05.000",
       "id": "240400016",
       "quest_group_id": "BQ2404_001",
       "quest_id": "240400016",
@@ -7258,7 +7258,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.05.000",
       "id": "240400017",
       "quest_group_id": "BQ2404_001",
       "quest_id": "240400017",
@@ -7288,7 +7288,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.05.000",
       "id": "240400018",
       "quest_group_id": "BQ2404_001",
       "quest_id": "240400018",
@@ -7318,7 +7318,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.05.000",
       "id": "240400019",
       "quest_group_id": "BQ2404_001",
       "quest_id": "240400019",
@@ -7348,7 +7348,7 @@
       "debug": "FALSE"
     },
     {
-      "version": "9.99.999",
+      "version": "1.05.000",
       "id": "240400020",
       "quest_group_id": "BQ2404_001",
       "quest_id": "240400020",

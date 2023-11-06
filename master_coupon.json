@@ -1,7 +1,7 @@
 ﻿{
   "header": {
     "content_type": "master_coupon",
-    "timezone": "Asia/Taipei"
+    "timezone": "Asia/Tokyo"
   },
   "payload": [
     {
@@ -173,7 +173,7 @@
       "duration_days": "14",
       "start_at": "2023-01-01 00:00:00",
       "end_at": "2023-07-12 10:00:00",
-      "version": "9.99.999"
+      "version": "1.00.00"
     },
     {
       "id": "2",
@@ -241,7 +241,7 @@
       "duration_days": "14",
       "start_at": "2023-07-12 11:00:00",
       "end_at": "2033-07-12 11:00:00",
-      "version": "9.99.999"
+      "version": "1.00.00"
     }
   ]
 }

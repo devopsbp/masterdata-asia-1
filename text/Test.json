@@ -1,0 +1,62 @@
+﻿{
+  "header": {
+    "content_type": "master_text"
+  },
+  "payload": [
+    {
+      "id": "1",
+      "ja_JP": "改行テスト\n二行目",
+      "zh_TW": "換行測試第二行"
+    },
+    {
+      "id": "2",
+      "ja_JP": "色変え、サイズ変更テスト\n<span color=\"#0000ff\" size=\"32\">青色で大きく表示</>",
+      "zh_TW": "變色、尺寸變更<span color=\"#0000ff\" size=\"32\">藍色變大顯示</>"
+    },
+    {
+      "id": "3",
+      "ja_JP": "Yes/Noメッセージ",
+      "zh_TW": "Yes/No訊息"
+    },
+    {
+      "id": "4",
+      "ja_JP": "メッセージダイアログようメッセージ\n(サーバーより取得)",
+      "zh_TW": "從訊息對話取得的訊息(從伺服器取得)"
+    },
+    {
+      "id": "5",
+      "ja_JP": "吹き出しウィンドウ\nこのメッセージはサーバーからとりました",
+      "zh_TW": "提示視窗\r\n此訊息從伺服器處取得"
+    },
+    {
+      "id": "6",
+      "ja_JP": "ゲームデータ取得\nアカウント名は<value type=\"playerAccountName\"></>です",
+      "zh_TW": "遊戲數據取得帳號名為<value type=\"playerAccountName\"></>"
+    },
+    {
+      "id": "7",
+      "ja_JP": "クエスト名は\n<value type=\"questName\" id=\"1\"></>です",
+      "zh_TW": "任務名為\r\n<value type=\"questName\" id=\"1\"></>"
+    },
+    {
+      "id": "8",
+      "ja_JP": "ゲームデータ取得\nアイテム名は<value type=\"itemName\" id=\"1\"></>です",
+      "zh_TW": "遊戲數據取得道具名為<value type=\"playerAccountName\"></>"
+    },
+    {
+      "id": "9",
+      "ja_JP": "ゲームデータ取得\nキャラクタ名は<value type=\"playerCharacterName\"></>です",
+      "zh_TW": "遊戲數據取得角色名為<value type=\"playerAccountName\"></>"
+    },
+    {
+      "id": "10",
+      "ja_JP": "絵文字\n<image src=\"Item1Icon\"></>",
+      "zh_TW": "表情符號\r\n<image src=\"Item1Icon\"></>"
+    },
+    {
+      "id": "11",
+      "ja_JP": "ボタン\nジャンプは<button name=\"Jump\"></>です",
+      "zh_TW": "按鈕\r\n跳躍為<button name=\"Jump\"></>"
+    }
+  ]
+}

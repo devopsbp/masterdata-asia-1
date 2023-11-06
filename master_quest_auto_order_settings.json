@@ -1,7 +1,7 @@
 ﻿{
   "header": {
     "content_type": "master_quest_auto_order_settings",
-    "timezone": "Asia/Taipei"
+    "timezone": "Asia/Tokyo"
   },
   "payload": [
     {
@@ -552,7 +552,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "18",
       "quest_group_id": "WQ001_001",
       "season_pass_type": "1",
@@ -580,7 +580,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "19",
       "quest_group_id": "WQ001_001",
       "season_pass_type": "2",
@@ -606,7 +606,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "20",
       "quest_group_id": "WQ001_001",
       "season_pass_type": "0",
@@ -634,7 +634,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "23",
       "quest_group_id": "DQ001_001",
       "season_pass_type": "1",
@@ -659,7 +659,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "24",
       "quest_group_id": "DQ001_001",
       "season_pass_type": "2",
@@ -675,7 +675,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "25",
       "quest_group_id": "DQ001_001",
       "season_pass_type": "0",
@@ -700,7 +700,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "32",
       "quest_group_id": "BQ2302_001",
       "season_pass_type": "1",
@@ -791,7 +791,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "33",
       "quest_group_id": "SQ002_001",
       "season_pass_type": "1",
@@ -870,7 +870,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "34",
       "quest_group_id": "SQ002_001",
       "season_pass_type": "2",
@@ -901,7 +901,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "35",
       "quest_group_id": "SQ003_001",
       "season_pass_type": "1",
@@ -980,7 +980,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "36",
       "quest_group_id": "SQ003_001",
       "season_pass_type": "2",
@@ -1019,7 +1019,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "37",
       "quest_group_id": "BQ003_001",
       "season_pass_type": "1",
@@ -1074,7 +1074,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.100",
       "id": "38",
       "quest_group_id": "BQ2307_001",
       "season_pass_type": "1",
@@ -1208,7 +1208,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "40",
       "quest_group_id": "WQ001_002",
       "season_pass_type": "1",
@@ -1224,7 +1224,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "42",
       "quest_group_id": "WQ001_003",
       "season_pass_type": "1",
@@ -1252,7 +1252,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "43",
       "quest_group_id": "WQ001_003",
       "season_pass_type": "2",
@@ -1278,7 +1278,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "44",
       "quest_group_id": "SQ004_001",
       "season_pass_type": "1",
@@ -1357,7 +1357,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "45",
       "quest_group_id": "SQ004_001",
       "season_pass_type": "2",
@@ -1396,7 +1396,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.100",
       "id": "46",
       "quest_group_id": "BQ2309_001",
       "season_pass_type": "1",
@@ -1487,7 +1487,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "47",
       "quest_group_id": "BQ102_001",
       "season_pass_type": "1",
@@ -1594,7 +1594,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "48",
       "quest_group_id": "BQ2310_001",
       "season_pass_type": "1",
@@ -1669,7 +1669,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.100",
       "id": "49",
       "quest_group_id": "BQ2311_001",
       "season_pass_type": "1",
@@ -1744,7 +1744,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "50",
       "quest_group_id": "SQ005_001",
       "season_pass_type": "1",
@@ -1823,7 +1823,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "51",
       "quest_group_id": "SQ005_001",
       "season_pass_type": "2",
@@ -1862,7 +1862,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "52",
       "quest_group_id": "BQ2312_001",
       "season_pass_type": "1",
@@ -1953,7 +1953,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "53",
       "quest_group_id": "BQ2312_002",
       "season_pass_type": "1",
@@ -1968,7 +1968,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "54",
       "quest_group_id": "BQ2312_003",
       "season_pass_type": "1",
@@ -1983,7 +1983,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.100",
       "id": "55",
       "quest_group_id": "BQ2401_001",
       "season_pass_type": "1",
@@ -2074,7 +2074,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.000",
       "id": "56",
       "quest_group_id": "BQ2402_001",
       "season_pass_type": "1",
@@ -2149,7 +2149,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.100",
       "id": "57",
       "quest_group_id": "BQ2403_001",
       "season_pass_type": "1",
@@ -2224,7 +2224,7 @@
       ]
     },
     {
-      "version": "9.99.999",
+      "version": "1.05.000",
       "id": "58",
       "quest_group_id": "BQ2404_001",
       "season_pass_type": "1",

@@ -1,11 +1,11 @@
 ﻿{
   "header": {
     "content_type": "master_season",
-    "timezone": "Asia/Taipei"
+    "timezone": "Asia/Tokyo"
   },
   "payload": [
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "100000",
       "season_name": 9,
       "start_date": "2023/06/14 08:00:00",
@@ -22,7 +22,7 @@
       "guide_paid_plan": 10
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "101000",
       "season_name": 11,
       "start_date": "2023/06/28 11:00:00",
@@ -39,7 +39,7 @@
       "guide_paid_plan": 12
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000",
       "season_name": 13,
       "start_date": "2023/09/27 10:00:00",
@@ -56,7 +56,7 @@
       "guide_paid_plan": 15
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "103000",
       "season_name": 14,
       "start_date": "2023/11/22 10:00:00",
@@ -73,7 +73,7 @@
       "guide_paid_plan": 16
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.000",
       "id": "104000",
       "season_name": 17,
       "start_date": "2024/01/24 10:00:00",
@@ -90,7 +90,7 @@
       "guide_paid_plan": 19
     },
     {
-      "version": "9.99.999",
+      "version": "1.05.000",
       "id": "105000",
       "season_name": 18,
       "start_date": "2024/03/27 10:00:00",

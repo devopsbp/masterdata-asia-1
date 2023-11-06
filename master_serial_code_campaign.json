@@ -1,7 +1,7 @@
 ﻿{
   "header": {
     "content_type": "master_serial_code_campaign",
-    "timezone": "Asia/Taipei"
+    "timezone": "Asia/Tokyo"
   },
   "payload": [
     {
@@ -12,6 +12,7 @@
       "usage_limit": "1000",
       "active_from": "21-12-23 12:00:00",
       "active_until": "22-03-23 00:00:00",
+      "enabled": "1",
       "title": 1,
       "message": 7,
       "version": "9.99.999"
@@ -24,6 +25,7 @@
       "usage_limit": "200",
       "active_from": "21-12-23 12:00:00",
       "active_until": "22-03-23 00:00:00",
+      "enabled": "0",
       "title": 2,
       "message": 8,
       "version": "9.99.999"
@@ -34,6 +36,7 @@
       "platform": "0",
       "type_id": "0",
       "usage_limit": "1",
+      "enabled": "0",
       "title": 3,
       "message": 9,
       "version": "9.99.999"
@@ -44,6 +47,7 @@
       "platform": "0",
       "type_id": "1",
       "usage_limit": "300",
+      "enabled": "1",
       "title": 4,
       "message": 10,
       "version": "9.99.999"
@@ -54,6 +58,7 @@
       "platform": "0",
       "type_id": "0",
       "usage_limit": "1",
+      "enabled": "1",
       "title": 5,
       "message": 11,
       "version": "9.99.999"
@@ -64,6 +69,7 @@
       "platform": "0",
       "type_id": "0",
       "usage_limit": "1",
+      "enabled": "1",
       "title": 6,
       "message": 12,
       "version": "9.99.999"
@@ -74,6 +80,7 @@
       "platform": "0",
       "type_id": "1",
       "usage_limit": "1",
+      "enabled": "1",
       "Comment": "テスト用20211115",
       "title": 16,
       "message": 15,
@@ -85,6 +92,7 @@
       "platform": "0",
       "type_id": "1",
       "usage_limit": "1",
+      "enabled": "1",
       "Comment": "テスト用20211116",
       "title": 17,
       "message": 18,
@@ -96,6 +104,7 @@
       "platform": "0",
       "type_id": "1",
       "usage_limit": "2",
+      "enabled": "1",
       "Comment": "テスト用20220303",
       "title": 19,
       "message": 20,
@@ -108,6 +117,7 @@
       "type_id": "0",
       "usage_limit": "1",
       "active_until": "22-03-18 00:00:00",
+      "enabled": "1",
       "Comment": "テスト用20220317",
       "title": 21,
       "message": 22,
@@ -119,6 +129,7 @@
       "platform": "0",
       "type_id": "0",
       "usage_limit": "5",
+      "enabled": "1",
       "Comment": "テスト用20220405",
       "title": 23,
       "message": 26,
@@ -131,6 +142,7 @@
       "type_id": "1",
       "usage_limit": "1",
       "active_until": "22-04-18 00:00:00",
+      "enabled": "1",
       "Comment": "テスト用202204052",
       "title": 24,
       "message": 27,
@@ -142,6 +154,7 @@
       "platform": "0",
       "type_id": "1",
       "usage_limit": "3",
+      "enabled": "1",
       "Comment": "テスト用20220405",
       "title": 25,
       "message": 28,
@@ -153,6 +166,7 @@
       "platform": "0",
       "type_id": "1",
       "usage_limit": "30",
+      "enabled": "1",
       "Comment": "テスト用20220520",
       "title": 29,
       "message": 30,

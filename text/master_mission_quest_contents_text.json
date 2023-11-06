@@ -1,0 +1,97 @@
+﻿{
+  "header": {
+    "content_type": "master_text"
+  },
+  "payload": [
+    {
+      "id": "1",
+      "ja_JP": "{EnemyName}の討伐",
+      "zh_TW": "{EnemyName}討伐"
+    },
+    {
+      "id": "2",
+      "ja_JP": "{DungeonName}のクリア",
+      "zh_TW": "{DungeonName}完成"
+    },
+    {
+      "id": "3",
+      "ja_JP": "採取を行え",
+      "zh_TW": "進行採集"
+    },
+    {
+      "id": "4",
+      "ja_JP": "{EnemyName}の討伐",
+      "zh_TW": "{EnemyName}討伐"
+    },
+    {
+      "id": "5",
+      "ja_JP": "{DungeonName}のクリア",
+      "zh_TW": "{DungeonName}完成"
+    },
+    {
+      "id": "6",
+      "ja_JP": "採取を行え",
+      "zh_TW": "進行採集"
+    },
+    {
+      "id": "7",
+      "ja_JP": "{EnemyName}の討伐",
+      "zh_TW": "{EnemyName}討伐"
+    },
+    {
+      "id": "8",
+      "ja_JP": "{DungeonName}のクリア",
+      "zh_TW": "{DungeonName}完成"
+    },
+    {
+      "id": "9",
+      "ja_JP": "採取を行え",
+      "zh_TW": "進行採集"
+    },
+    {
+      "id": "10",
+      "ja_JP": "{EnemyName}を{LimitCount}体討伐しろ",
+      "zh_TW": "討伐{EnemyName}{LimitCount}隻吧"
+    },
+    {
+      "id": "11",
+      "ja_JP": "{DungeonName}を{LimitCount}回クリアしろ",
+      "zh_TW": "完成{DungeonName}{LimitCount}次吧"
+    },
+    {
+      "id": "12",
+      "ja_JP": "採取を{LimitCount}回行え",
+      "zh_TW": "採集{LimitCount}次吧"
+    },
+    {
+      "id": "13",
+      "ja_JP": "{EnemyName}を{LimitCount}体討伐しろ",
+      "zh_TW": "討伐{EnemyName}{LimitCount}隻吧"
+    },
+    {
+      "id": "14",
+      "ja_JP": "{DungeonName}を{LimitCount}回クリアしろ",
+      "zh_TW": "完成{DungeonName}{LimitCount}次吧"
+    },
+    {
+      "id": "15",
+      "ja_JP": "採取を{LimitCount}回行え",
+      "zh_TW": "採集{LimitCount}次吧"
+    },
+    {
+      "id": "16",
+      "ja_JP": "{EnemyName}を{LimitCount}体討伐しろ",
+      "zh_TW": "討伐{EnemyName}{LimitCount}隻吧"
+    },
+    {
+      "id": "17",
+      "ja_JP": "{DungeonName}を{LimitCount}回クリアしろ",
+      "zh_TW": "完成{DungeonName}{LimitCount}次吧"
+    },
+    {
+      "id": "18",
+      "ja_JP": "採取を{LimitCount}回行え",
+      "zh_TW": "採集{LimitCount}次吧"
+    }
+  ]
+}

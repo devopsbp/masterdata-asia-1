@@ -7,7 +7,7 @@
     {
       "id": "103010",
       "long_id": "MQ103_010",
-      "active": "false",
+      "active": "true",
       "category1": "1",
       "category2": "1",
       "category3": "1",
@@ -94,7 +94,7 @@
     {
       "id": "103015",
       "long_id": "MQ103_015",
-      "active": "false",
+      "active": "true",
       "category1": "1",
       "category2": "1",
       "category3": "2",
@@ -238,7 +238,7 @@
     {
       "id": "103030",
       "long_id": "MQ103_030",
-      "active": "false",
+      "active": "true",
       "category1": "1",
       "category2": "1",
       "category3": "1",
@@ -365,7 +365,7 @@
     {
       "id": "103040",
       "long_id": "MQ103_040",
-      "active": "false",
+      "active": "true",
       "category1": "1",
       "category2": "1",
       "category3": "1",
@@ -492,7 +492,7 @@
     {
       "id": "30103901",
       "long_id": "EQ103_901",
-      "active": "false",
+      "active": "true",
       "category1": "1",
       "category2": "3",
       "category3": "1",
@@ -633,7 +633,7 @@
     {
       "id": "30103902",
       "long_id": "EQ103_902",
-      "active": "false",
+      "active": "true",
       "category1": "1",
       "category2": "3",
       "category3": "1",
@@ -721,7 +721,7 @@
     {
       "id": "30103903",
       "long_id": "EQ103_903",
-      "active": "false",
+      "active": "true",
       "category1": "1",
       "category2": "3",
       "category3": "1",
@@ -798,7 +798,7 @@
     {
       "id": "30103904",
       "long_id": "EQ103_904",
-      "active": "false",
+      "active": "true",
       "category1": "1",
       "category2": "3",
       "category3": "1",
@@ -892,7 +892,7 @@
     {
       "id": "30103905",
       "long_id": "EQ103_905",
-      "active": "false",
+      "active": "true",
       "category1": "1",
       "category2": "3",
       "category3": "2",
@@ -1076,7 +1076,7 @@
     {
       "id": "30103906",
       "long_id": "EQ103_906",
-      "active": "false",
+      "active": "true",
       "category1": "1",
       "category2": "3",
       "category3": "1",
@@ -1171,7 +1171,7 @@
     {
       "id": "30103907",
       "long_id": "EQ103_907",
-      "active": "false",
+      "active": "true",
       "category1": "1",
       "category2": "3",
       "category3": "2",

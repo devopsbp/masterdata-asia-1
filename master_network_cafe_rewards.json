@@ -11,7 +11,7 @@
       "loop": "TRUE",
       "maximum_time": "1440",
       "at_time_minutes": "20",
-      "version": "9.99.999"
+      "version": "1.00.000"
     }
   ]
 }

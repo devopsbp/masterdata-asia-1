@@ -1,7 +1,7 @@
 ﻿{
   "header": {
     "content_type": "master_login_bonus_rewards",
-    "timezone": "Asia/Taipei"
+    "timezone": "Asia/Tokyo"
   },
   "payload": [
     {
@@ -89,7 +89,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1001",
       "login_bonus_id": "1000",
       "day": "1",
@@ -101,7 +101,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1002",
       "login_bonus_id": "1000",
       "day": "2",
@@ -113,7 +113,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1003",
       "login_bonus_id": "1000",
       "day": "3",
@@ -125,7 +125,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1004",
       "login_bonus_id": "1000",
       "day": "4",
@@ -137,7 +137,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1005",
       "login_bonus_id": "1000",
       "day": "5",
@@ -149,7 +149,7 @@
       "pick_up_flag": "1"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1006",
       "login_bonus_id": "1000",
       "day": "6",
@@ -161,7 +161,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1007",
       "login_bonus_id": "1000",
       "day": "7",
@@ -173,7 +173,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1008",
       "login_bonus_id": "1000",
       "day": "8",
@@ -185,7 +185,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1009",
       "login_bonus_id": "1000",
       "day": "9",
@@ -197,7 +197,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1010",
       "login_bonus_id": "1000",
       "day": "10",
@@ -209,7 +209,7 @@
       "pick_up_flag": "1"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1011",
       "login_bonus_id": "1000",
       "day": "11",
@@ -221,7 +221,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1012",
       "login_bonus_id": "1000",
       "day": "12",
@@ -233,7 +233,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1013",
       "login_bonus_id": "1000",
       "day": "13",
@@ -245,7 +245,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1014",
       "login_bonus_id": "1000",
       "day": "14",
@@ -257,7 +257,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1015",
       "login_bonus_id": "1000",
       "day": "15",
@@ -269,7 +269,7 @@
       "pick_up_flag": "1"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1016",
       "login_bonus_id": "1000",
       "day": "16",
@@ -281,7 +281,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1017",
       "login_bonus_id": "1000",
       "day": "17",
@@ -293,7 +293,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1018",
       "login_bonus_id": "1000",
       "day": "18",
@@ -305,7 +305,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1019",
       "login_bonus_id": "1000",
       "day": "19",
@@ -317,7 +317,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1020",
       "login_bonus_id": "1000",
       "day": "20",
@@ -329,7 +329,7 @@
       "pick_up_flag": "1"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1101",
       "login_bonus_id": "1100",
       "day": "1",
@@ -341,7 +341,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1102",
       "login_bonus_id": "1100",
       "day": "2",
@@ -353,7 +353,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1103",
       "login_bonus_id": "1100",
       "day": "3",
@@ -365,7 +365,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1104",
       "login_bonus_id": "1100",
       "day": "4",
@@ -377,7 +377,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1105",
       "login_bonus_id": "1100",
       "day": "5",
@@ -389,7 +389,7 @@
       "pick_up_flag": "1"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1106",
       "login_bonus_id": "1100",
       "day": "6",
@@ -401,7 +401,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1107",
       "login_bonus_id": "1100",
       "day": "7",
@@ -413,7 +413,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1108",
       "login_bonus_id": "1100",
       "day": "8",
@@ -425,7 +425,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1109",
       "login_bonus_id": "1100",
       "day": "9",
@@ -437,7 +437,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1110",
       "login_bonus_id": "1100",
       "day": "10",
@@ -449,7 +449,7 @@
       "pick_up_flag": "1"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "1201",
       "login_bonus_id": "1200",
       "day": "1",
@@ -461,7 +461,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "1202",
       "login_bonus_id": "1200",
       "day": "2",
@@ -473,7 +473,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "1203",
       "login_bonus_id": "1200",
       "day": "3",
@@ -485,7 +485,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "1204",
       "login_bonus_id": "1200",
       "day": "4",
@@ -497,7 +497,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "1205",
       "login_bonus_id": "1200",
       "day": "5",
@@ -509,7 +509,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "1206",
       "login_bonus_id": "1200",
       "day": "6",
@@ -521,7 +521,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "1207",
       "login_bonus_id": "1200",
       "day": "7",
@@ -593,7 +593,7 @@
       "pick_up_flag": "1"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000101",
       "login_bonus_id": "102000100",
       "day": "1",
@@ -605,7 +605,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000102",
       "login_bonus_id": "102000100",
       "day": "2",
@@ -617,7 +617,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000103",
       "login_bonus_id": "102000100",
       "day": "3",
@@ -629,7 +629,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000104",
       "login_bonus_id": "102000100",
       "day": "4",
@@ -641,7 +641,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000105",
       "login_bonus_id": "102000100",
       "day": "5",
@@ -653,7 +653,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000106",
       "login_bonus_id": "102000100",
       "day": "6",
@@ -665,7 +665,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000107",
       "login_bonus_id": "102000100",
       "day": "7",
@@ -677,7 +677,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000108",
       "login_bonus_id": "102000100",
       "day": "8",
@@ -689,7 +689,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000109",
       "login_bonus_id": "102000100",
       "day": "9",
@@ -701,7 +701,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000110",
       "login_bonus_id": "102000100",
       "day": "10",
@@ -713,7 +713,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000111",
       "login_bonus_id": "102000100",
       "day": "11",
@@ -725,7 +725,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000112",
       "login_bonus_id": "102000100",
       "day": "12",
@@ -737,7 +737,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000113",
       "login_bonus_id": "102000100",
       "day": "13",
@@ -749,7 +749,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000114",
       "login_bonus_id": "102000100",
       "day": "14",
@@ -761,7 +761,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000115",
       "login_bonus_id": "102000100",
       "day": "15",
@@ -773,7 +773,7 @@
       "pick_up_flag": "1"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000201",
       "login_bonus_id": "102000200",
       "day": "1",
@@ -785,7 +785,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000202",
       "login_bonus_id": "102000200",
       "day": "2",
@@ -797,7 +797,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000203",
       "login_bonus_id": "102000200",
       "day": "3",
@@ -809,7 +809,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000204",
       "login_bonus_id": "102000200",
       "day": "4",
@@ -821,7 +821,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000205",
       "login_bonus_id": "102000200",
       "day": "5",
@@ -833,7 +833,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000206",
       "login_bonus_id": "102000200",
       "day": "6",
@@ -845,7 +845,7 @@
       "pick_up_flag": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000207",
       "login_bonus_id": "102000200",
       "day": "7",

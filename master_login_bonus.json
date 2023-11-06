@@ -1,7 +1,7 @@
 ﻿{
   "header": {
     "content_type": "master_login_bonus",
-    "timezone": "Asia/Taipei"
+    "timezone": "Asia/Tokyo"
   },
   "payload": [
     {
@@ -20,7 +20,7 @@
       "active_flag": "1"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1000",
       "name": 5,
       "type": "1",
@@ -34,7 +34,7 @@
       "active_flag": "1"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "id": "1100",
       "name": 8,
       "type": "2",
@@ -50,7 +50,7 @@
       "active_flag": "1"
     },
     {
-      "version": "9.99.999",
+      "version": "1.01.000",
       "id": "1200",
       "name": 9,
       "type": "2",
@@ -82,7 +82,7 @@
       "active_flag": "1"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "id": "102000100",
       "name": 12,
       "type": "2",
@@ -98,7 +98,7 @@
       "active_flag": "1"
     },
     {
-      "version": "9.99.999",
+      "version": "1.03.000",
       "id": "102000200",
       "name": 13,
       "type": "2",

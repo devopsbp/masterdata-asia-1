@@ -15,7 +15,7 @@
       "adventure_board_id": "0",
       "game_content_id": {},
       "rankup_quest_id": "101030",
-      "class_level_limit": "20",
+      "class_level_limit": "50",
       "extended_storage": "0"
     },
     {
@@ -45,7 +45,7 @@
       },
       "distribute_adventure_board_id": "110003000",
       "rankup_quest_id": "",
-      "class_level_limit": "20",
+      "class_level_limit": "50",
       "extended_storage": "0"
     },
     {
@@ -75,7 +75,7 @@
       },
       "distribute_adventure_board_id": "110004000",
       "rankup_quest_id": "",
-      "class_level_limit": "20",
+      "class_level_limit": "50",
       "extended_storage": "0"
     },
     {
@@ -91,7 +91,7 @@
       "game_content_id": {},
       "distribute_adventure_board_id": "110005000",
       "rankup_quest_id": "",
-      "class_level_limit": "20",
+      "class_level_limit": "50",
       "extended_storage": "0"
     },
     {
@@ -107,11 +107,11 @@
       "game_content_id": {},
       "distribute_adventure_board_id": "110006000",
       "rankup_quest_id": "",
-      "class_level_limit": "20",
+      "class_level_limit": "50",
       "extended_storage": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "adventurer_rank": "5",
       "rank_up_param_level": "1",
       "flag_athenon": "true",
@@ -141,7 +141,7 @@
       "extended_storage": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "adventurer_rank": "6",
       "rank_up_param_level": "1",
       "flag_athenon": "true",
@@ -157,7 +157,7 @@
       "extended_storage": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "adventurer_rank": "7",
       "rank_up_param_level": "1",
       "flag_athenon": "true",
@@ -187,7 +187,7 @@
       "extended_storage": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "adventurer_rank": "8",
       "rank_up_param_level": "1",
       "flag_athenon": "true",
@@ -203,7 +203,7 @@
       "extended_storage": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.00.000",
       "adventurer_rank": "9",
       "rank_up_param_level": "1",
       "flag_athenon": "true",
@@ -233,7 +233,7 @@
       "extended_storage": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "adventurer_rank": "10",
       "rank_up_param_level": "1",
       "flag_athenon": "false",
@@ -249,7 +249,7 @@
       "extended_storage": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.02.000",
       "adventurer_rank": "11",
       "rank_up_param_level": "1",
       "flag_athenon": "false",
@@ -265,7 +265,7 @@
       "extended_storage": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.000",
       "adventurer_rank": "12",
       "rank_up_param_level": "1",
       "flag_athenon": "false",
@@ -281,7 +281,7 @@
       "extended_storage": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.04.000",
       "adventurer_rank": "13",
       "rank_up_param_level": "1",
       "flag_athenon": "false",
@@ -297,7 +297,7 @@
       "extended_storage": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.06.000",
       "adventurer_rank": "14",
       "rank_up_param_level": "1",
       "flag_athenon": "false",
@@ -313,7 +313,7 @@
       "extended_storage": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.06.000",
       "adventurer_rank": "15",
       "rank_up_param_level": "1",
       "flag_athenon": "false",
@@ -329,7 +329,7 @@
       "extended_storage": "0"
     },
     {
-      "version": "9.99.999",
+      "version": "1.08.000",
       "adventurer_rank": "16",
       "rank_up_param_level": "1",
       "flag_athenon": "false",

@@ -7,7 +7,7 @@
     {
       "id": "102010",
       "long_id": "MQ102_010",
-      "active": "false",
+      "active": "true",
       "category1": "1",
       "category2": "1",
       "category3": "1",
@@ -116,7 +116,7 @@
     {
       "id": "102020",
       "long_id": "MQ102_020",
-      "active": "false",
+      "active": "true",
       "category1": "1",
       "category2": "1",
       "category3": "1",
@@ -277,7 +277,7 @@
     {
       "id": "102030",
       "long_id": "MQ102_030",
-      "active": "false",
+      "active": "true",
       "category1": "1",
       "category2": "1",
       "category3": "1",
@@ -435,7 +435,7 @@
     {
       "id": "102040",
       "long_id": "MQ102_040",
-      "active": "false",
+      "active": "true",
       "category1": "1",
       "category2": "1",
       "category3": "1",
@@ -557,7 +557,7 @@
     {
       "id": "102050",
       "long_id": "MQ102_050",
-      "active": "false",
+      "active": "true",
       "category1": "1",
       "category2": "1",
       "category3": "1",
@@ -646,7 +646,7 @@
     {
       "id": "102070",
       "long_id": "MQ102_070",
-      "active": "false",
+      "active": "true",
       "category1": "1",
       "category2": "1",
       "category3": "1",
@@ -801,7 +801,7 @@
     {
       "id": "102080",
       "long_id": "MQ102_080",
-      "active": "false",
+      "active": "true",
       "category1": "1",
       "category2": "1",
       "category3": "1",
@@ -970,7 +970,7 @@
     {
       "id": "102090",
       "long_id": "MQ102_090",
-      "active": "false",
+      "active": "true",
       "category1": "1",
       "category2": "1",
       "category3": "1",
@@ -1079,7 +1079,7 @@
     {
       "id": "30102901",
       "long_id": "EQ102_901",
-      "active": "false",
+      "active": "true",
       "category1": "1",
       "category2": "3",
       "category3": "1",
@@ -1174,7 +1174,7 @@
     {
       "id": "30102902",
       "long_id": "EQ102_902",
-      "active": "false",
+      "active": "true",
       "category1": "1",
       "category2": "3",
       "category3": "1",
@@ -1287,7 +1287,7 @@
     {
       "id": "30102903",
       "long_id": "EQ102_903",
-      "active": "false",
+      "active": "true",
       "category1": "1",
       "category2": "3",
       "category3": "1",
@@ -1422,7 +1422,7 @@
     {
       "id": "30102904",
       "long_id": "EQ102_904",
-      "active": "false",
+      "active": "true",
       "category1": "1",
       "category2": "3",
       "category3": "1",
@@ -1499,7 +1499,7 @@
     {
       "id": "30102905",
       "long_id": "EQ102_905",
-      "active": "false",
+      "active": "true",
       "category1": "1",
       "category2": "3",
       "category3": "3",
@@ -1634,7 +1634,7 @@
     {
       "id": "30102906",
       "long_id": "EQ102_906",
-      "active": "false",
+      "active": "true",
       "category1": "1",
       "category2": "3",
       "category3": "2",
@@ -1767,7 +1767,7 @@
     {
       "id": "30102907",
       "long_id": "EQ102_907",
-      "active": "false",
+      "active": "true",
       "category1": "1",
       "category2": "3",
       "category3": "1",

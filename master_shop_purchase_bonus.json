@@ -1,7 +1,7 @@
 ﻿{
   "header": {
     "content_type": "master_shop_purchase_bonus",
-    "timezone": "Asia/Taipei"
+    "timezone": "Asia/Tokyo"
   },
   "payload": [
     {
@@ -66,7 +66,7 @@
       "distribute_count": "1000",
       "target_type": "0",
       "mail_format_id": "get_shop_reward",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "2",
@@ -119,7 +119,7 @@
       "distribute_count": "10000",
       "target_type": "0",
       "mail_format_id": "get_shop_reward",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "3",

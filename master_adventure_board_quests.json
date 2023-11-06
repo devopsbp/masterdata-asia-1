@@ -1,7 +1,7 @@
 ﻿{
   "header": {
     "content_type": "master_adventure_board_quests",
-    "timezone": "Asia/Taipei"
+    "timezone": "Asia/Tokyo"
   },
   "payload": [
     {
@@ -38132,7 +38132,7 @@
         {
           "quest_achievement_condition_id": "140051060",
           "condition_type": "20",
-          "complete_value": "20",
+          "complete_value": "30",
           "map_id": "pub007",
           "enemy_id": "E003_00_00_03001"
         }
@@ -38187,9 +38187,9 @@
         {
           "quest_achievement_condition_id": "140051080",
           "condition_type": "20",
-          "complete_value": "20",
+          "complete_value": "50",
           "map_id": "pub007",
-          "enemy_id": "E003_00_01_03001"
+          "enemy_id": "E302_04_00_03001"
         }
       ],
       "quest_valid_term_id": "0",

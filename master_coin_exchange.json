@@ -1,7 +1,7 @@
 ﻿{
   "header": {
     "content_type": "master_coin_exchange",
-    "timezone": "Asia/Taipei"
+    "timezone": "Asia/Tokyo"
   },
   "payload": [
     {
@@ -10,7 +10,7 @@
       "item_type": "3",
       "item_id": "185001401",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "2",
@@ -18,7 +18,7 @@
       "item_type": "3",
       "item_id": "185001501",
       "exchange_count": "20",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "3",
@@ -26,7 +26,7 @@
       "item_type": "3",
       "item_id": "179001200",
       "exchange_count": "14",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "4",
@@ -34,7 +34,7 @@
       "item_type": "3",
       "item_id": "179001300",
       "exchange_count": "14",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "5",
@@ -42,7 +42,7 @@
       "item_type": "3",
       "item_id": "179000200",
       "exchange_count": "4",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "6",
@@ -50,7 +50,7 @@
       "item_type": "3",
       "item_id": "179000800",
       "exchange_count": "4",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "7",
@@ -58,7 +58,7 @@
       "item_type": "3",
       "item_id": "179001100",
       "exchange_count": "4",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1001",
@@ -66,7 +66,7 @@
       "item_type": "3",
       "item_id": "185000701",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1002",
@@ -74,7 +74,7 @@
       "item_type": "5",
       "item_id": "151006400",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1003",
@@ -82,7 +82,7 @@
       "item_type": "5",
       "item_id": "152006400",
       "exchange_count": "1250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1004",
@@ -90,7 +90,7 @@
       "item_type": "5",
       "item_id": "153006400",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1005",
@@ -98,7 +98,7 @@
       "item_type": "5",
       "item_id": "155006400",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1006",
@@ -106,7 +106,7 @@
       "item_type": "3",
       "item_id": "185000801",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1007",
@@ -114,7 +114,7 @@
       "item_type": "5",
       "item_id": "151006500",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1008",
@@ -122,7 +122,7 @@
       "item_type": "5",
       "item_id": "152006500",
       "exchange_count": "1250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1009",
@@ -130,7 +130,7 @@
       "item_type": "5",
       "item_id": "153006500",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1010",
@@ -138,7 +138,7 @@
       "item_type": "5",
       "item_id": "155006500",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1011",
@@ -146,7 +146,7 @@
       "item_type": "3",
       "item_id": "185000901",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1012",
@@ -154,7 +154,7 @@
       "item_type": "5",
       "item_id": "151006600",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1013",
@@ -162,7 +162,7 @@
       "item_type": "5",
       "item_id": "152006600",
       "exchange_count": "1250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1014",
@@ -170,7 +170,7 @@
       "item_type": "5",
       "item_id": "153006600",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1015",
@@ -178,7 +178,7 @@
       "item_type": "5",
       "item_id": "155006600",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1016",
@@ -186,7 +186,7 @@
       "item_type": "3",
       "item_id": "185001001",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1017",
@@ -194,7 +194,7 @@
       "item_type": "5",
       "item_id": "151006700",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1018",
@@ -202,7 +202,7 @@
       "item_type": "5",
       "item_id": "152006700",
       "exchange_count": "1250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1019",
@@ -210,7 +210,7 @@
       "item_type": "5",
       "item_id": "153006700",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1020",
@@ -218,7 +218,7 @@
       "item_type": "5",
       "item_id": "155006700",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1021",
@@ -226,7 +226,7 @@
       "item_type": "3",
       "item_id": "185001101",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1022",
@@ -234,7 +234,7 @@
       "item_type": "5",
       "item_id": "151006800",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1023",
@@ -242,7 +242,7 @@
       "item_type": "5",
       "item_id": "152006800",
       "exchange_count": "1250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1024",
@@ -250,7 +250,7 @@
       "item_type": "5",
       "item_id": "153006800",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1025",
@@ -258,7 +258,7 @@
       "item_type": "5",
       "item_id": "155006800",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1026",
@@ -266,7 +266,7 @@
       "item_type": "3",
       "item_id": "185001201",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1027",
@@ -274,7 +274,7 @@
       "item_type": "5",
       "item_id": "151006900",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1028",
@@ -282,7 +282,7 @@
       "item_type": "5",
       "item_id": "152006900",
       "exchange_count": "1250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1029",
@@ -290,7 +290,7 @@
       "item_type": "5",
       "item_id": "153006900",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1030",
@@ -298,7 +298,7 @@
       "item_type": "5",
       "item_id": "155006900",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1031",
@@ -306,7 +306,7 @@
       "item_type": "3",
       "item_id": "185002201",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1032",
@@ -314,7 +314,7 @@
       "item_type": "5",
       "item_id": "151005800",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1033",
@@ -322,7 +322,7 @@
       "item_type": "5",
       "item_id": "152005800",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1034",
@@ -330,7 +330,7 @@
       "item_type": "5",
       "item_id": "154005800",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1035",
@@ -338,7 +338,7 @@
       "item_type": "5",
       "item_id": "153005800",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1036",
@@ -346,7 +346,7 @@
       "item_type": "5",
       "item_id": "155005800",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1037",
@@ -354,7 +354,7 @@
       "item_type": "3",
       "item_id": "185002301",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1038",
@@ -362,7 +362,7 @@
       "item_type": "5",
       "item_id": "151005900",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1039",
@@ -370,7 +370,7 @@
       "item_type": "5",
       "item_id": "152005900",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1040",
@@ -378,7 +378,7 @@
       "item_type": "5",
       "item_id": "154005900",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1041",
@@ -386,7 +386,7 @@
       "item_type": "5",
       "item_id": "153005900",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1042",
@@ -394,7 +394,7 @@
       "item_type": "5",
       "item_id": "155005900",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1043",
@@ -402,7 +402,7 @@
       "item_type": "3",
       "item_id": "185002401",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1044",
@@ -410,7 +410,7 @@
       "item_type": "5",
       "item_id": "151006000",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1045",
@@ -418,7 +418,7 @@
       "item_type": "5",
       "item_id": "152006000",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1046",
@@ -426,7 +426,7 @@
       "item_type": "5",
       "item_id": "154006000",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1047",
@@ -434,7 +434,7 @@
       "item_type": "5",
       "item_id": "153006000",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1048",
@@ -442,7 +442,7 @@
       "item_type": "5",
       "item_id": "155006000",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1049",
@@ -450,7 +450,7 @@
       "item_type": "3",
       "item_id": "185002501",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1050",
@@ -458,7 +458,7 @@
       "item_type": "5",
       "item_id": "151006100",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1051",
@@ -466,7 +466,7 @@
       "item_type": "5",
       "item_id": "152006100",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1052",
@@ -474,7 +474,7 @@
       "item_type": "5",
       "item_id": "154006100",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1053",
@@ -482,7 +482,7 @@
       "item_type": "5",
       "item_id": "153006100",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1054",
@@ -490,7 +490,7 @@
       "item_type": "5",
       "item_id": "155006100",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1055",
@@ -498,7 +498,7 @@
       "item_type": "3",
       "item_id": "185002601",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1056",
@@ -506,7 +506,7 @@
       "item_type": "5",
       "item_id": "151006200",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1057",
@@ -514,7 +514,7 @@
       "item_type": "5",
       "item_id": "152006200",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1058",
@@ -522,7 +522,7 @@
       "item_type": "5",
       "item_id": "154006200",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1059",
@@ -530,7 +530,7 @@
       "item_type": "5",
       "item_id": "153006200",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1060",
@@ -538,7 +538,7 @@
       "item_type": "5",
       "item_id": "155006200",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1061",
@@ -546,7 +546,7 @@
       "item_type": "3",
       "item_id": "185002701",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1062",
@@ -554,7 +554,7 @@
       "item_type": "5",
       "item_id": "151006300",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1063",
@@ -562,7 +562,7 @@
       "item_type": "5",
       "item_id": "152006300",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1064",
@@ -570,7 +570,7 @@
       "item_type": "5",
       "item_id": "154006300",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1065",
@@ -578,7 +578,7 @@
       "item_type": "5",
       "item_id": "153006300",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1066",
@@ -586,7 +586,7 @@
       "item_type": "5",
       "item_id": "155006300",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1067",
@@ -594,7 +594,7 @@
       "item_type": "3",
       "item_id": "185001601",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1068",
@@ -602,7 +602,7 @@
       "item_type": "5",
       "item_id": "101006400",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1069",
@@ -610,7 +610,7 @@
       "item_type": "5",
       "item_id": "102006400",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1070",
@@ -618,7 +618,7 @@
       "item_type": "5",
       "item_id": "104006400",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1071",
@@ -626,7 +626,7 @@
       "item_type": "5",
       "item_id": "103006400",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1072",
@@ -634,7 +634,7 @@
       "item_type": "5",
       "item_id": "105006400",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1073",
@@ -642,7 +642,7 @@
       "item_type": "3",
       "item_id": "185001701",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1074",
@@ -650,7 +650,7 @@
       "item_type": "5",
       "item_id": "101006500",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1075",
@@ -658,7 +658,7 @@
       "item_type": "5",
       "item_id": "102006500",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1076",
@@ -666,7 +666,7 @@
       "item_type": "5",
       "item_id": "104006500",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1077",
@@ -674,7 +674,7 @@
       "item_type": "5",
       "item_id": "103006500",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1078",
@@ -682,7 +682,7 @@
       "item_type": "5",
       "item_id": "105006500",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1079",
@@ -690,7 +690,7 @@
       "item_type": "3",
       "item_id": "185001801",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1080",
@@ -698,7 +698,7 @@
       "item_type": "5",
       "item_id": "101006600",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1081",
@@ -706,7 +706,7 @@
       "item_type": "5",
       "item_id": "102006600",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1082",
@@ -714,7 +714,7 @@
       "item_type": "5",
       "item_id": "104006600",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1083",
@@ -722,7 +722,7 @@
       "item_type": "5",
       "item_id": "103006600",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1084",
@@ -730,7 +730,7 @@
       "item_type": "5",
       "item_id": "105006600",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1085",
@@ -738,7 +738,7 @@
       "item_type": "3",
       "item_id": "185001901",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1086",
@@ -746,7 +746,7 @@
       "item_type": "5",
       "item_id": "101006700",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1087",
@@ -754,7 +754,7 @@
       "item_type": "5",
       "item_id": "102006700",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1088",
@@ -762,7 +762,7 @@
       "item_type": "5",
       "item_id": "104006700",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1089",
@@ -770,7 +770,7 @@
       "item_type": "5",
       "item_id": "103006700",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1090",
@@ -778,7 +778,7 @@
       "item_type": "5",
       "item_id": "105006700",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1091",
@@ -786,7 +786,7 @@
       "item_type": "3",
       "item_id": "185002001",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1092",
@@ -794,7 +794,7 @@
       "item_type": "5",
       "item_id": "101006800",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1093",
@@ -802,7 +802,7 @@
       "item_type": "5",
       "item_id": "102006800",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1094",
@@ -810,7 +810,7 @@
       "item_type": "5",
       "item_id": "104006800",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1095",
@@ -818,7 +818,7 @@
       "item_type": "5",
       "item_id": "103006800",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1096",
@@ -826,7 +826,7 @@
       "item_type": "5",
       "item_id": "105006800",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1097",
@@ -834,7 +834,7 @@
       "item_type": "3",
       "item_id": "185002101",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1098",
@@ -842,7 +842,7 @@
       "item_type": "5",
       "item_id": "101006900",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1099",
@@ -850,7 +850,7 @@
       "item_type": "5",
       "item_id": "102006900",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1100",
@@ -858,7 +858,7 @@
       "item_type": "5",
       "item_id": "104006900",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1101",
@@ -866,7 +866,7 @@
       "item_type": "5",
       "item_id": "103006900",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1102",
@@ -874,7 +874,7 @@
       "item_type": "5",
       "item_id": "105006900",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1103",
@@ -882,7 +882,7 @@
       "item_type": "3",
       "item_id": "185002801",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1104",
@@ -890,7 +890,7 @@
       "item_type": "5",
       "item_id": "101005800",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1105",
@@ -898,7 +898,7 @@
       "item_type": "5",
       "item_id": "102005800",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1106",
@@ -906,7 +906,7 @@
       "item_type": "5",
       "item_id": "104005800",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1107",
@@ -914,7 +914,7 @@
       "item_type": "5",
       "item_id": "103005800",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1108",
@@ -922,7 +922,7 @@
       "item_type": "5",
       "item_id": "105005800",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1109",
@@ -930,7 +930,7 @@
       "item_type": "3",
       "item_id": "185002901",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1110",
@@ -938,7 +938,7 @@
       "item_type": "5",
       "item_id": "102005900",
       "exchange_count": "1370",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1111",
@@ -946,7 +946,7 @@
       "item_type": "5",
       "item_id": "104005900",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1112",
@@ -954,7 +954,7 @@
       "item_type": "5",
       "item_id": "103005900",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1113",
@@ -962,7 +962,7 @@
       "item_type": "5",
       "item_id": "105005900",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1114",
@@ -970,7 +970,7 @@
       "item_type": "3",
       "item_id": "185003001",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1115",
@@ -978,7 +978,7 @@
       "item_type": "5",
       "item_id": "101006000",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1116",
@@ -986,7 +986,7 @@
       "item_type": "5",
       "item_id": "102006000",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1117",
@@ -994,7 +994,7 @@
       "item_type": "5",
       "item_id": "104006000",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1118",
@@ -1002,7 +1002,7 @@
       "item_type": "5",
       "item_id": "103006000",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1119",
@@ -1010,7 +1010,7 @@
       "item_type": "5",
       "item_id": "105006000",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1120",
@@ -1018,7 +1018,7 @@
       "item_type": "3",
       "item_id": "185003101",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1121",
@@ -1026,7 +1026,7 @@
       "item_type": "5",
       "item_id": "101006100",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1122",
@@ -1034,7 +1034,7 @@
       "item_type": "5",
       "item_id": "102006100",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1123",
@@ -1042,7 +1042,7 @@
       "item_type": "5",
       "item_id": "104006100",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1124",
@@ -1050,7 +1050,7 @@
       "item_type": "5",
       "item_id": "103006100",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1125",
@@ -1058,7 +1058,7 @@
       "item_type": "5",
       "item_id": "105006100",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1126",
@@ -1066,7 +1066,7 @@
       "item_type": "3",
       "item_id": "185003201",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1127",
@@ -1074,7 +1074,7 @@
       "item_type": "5",
       "item_id": "102006200",
       "exchange_count": "1370",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1128",
@@ -1082,7 +1082,7 @@
       "item_type": "5",
       "item_id": "104006200",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1129",
@@ -1090,7 +1090,7 @@
       "item_type": "5",
       "item_id": "103006200",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1130",
@@ -1098,7 +1098,7 @@
       "item_type": "5",
       "item_id": "105006200",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1131",
@@ -1106,7 +1106,7 @@
       "item_type": "3",
       "item_id": "185003301",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1132",
@@ -1114,7 +1114,7 @@
       "item_type": "5",
       "item_id": "101006300",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1133",
@@ -1122,7 +1122,7 @@
       "item_type": "5",
       "item_id": "102006300",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1134",
@@ -1130,7 +1130,7 @@
       "item_type": "5",
       "item_id": "104006300",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1135",
@@ -1138,7 +1138,7 @@
       "item_type": "5",
       "item_id": "103006300",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1136",
@@ -1146,7 +1146,7 @@
       "item_type": "5",
       "item_id": "105006300",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1137",
@@ -1154,7 +1154,7 @@
       "item_type": "7",
       "item_id": "102000001",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1138",
@@ -1162,7 +1162,7 @@
       "item_type": "7",
       "item_id": "102000101",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1139",
@@ -1170,7 +1170,7 @@
       "item_type": "7",
       "item_id": "102000201",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1140",
@@ -1178,7 +1178,7 @@
       "item_type": "3",
       "item_id": "185033301",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1141",
@@ -1186,7 +1186,7 @@
       "item_type": "5",
       "item_id": "171002001",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1142",
@@ -1194,7 +1194,7 @@
       "item_type": "5",
       "item_id": "121002001",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1143",
@@ -1202,7 +1202,7 @@
       "item_type": "3",
       "item_id": "185033401",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1144",
@@ -1210,7 +1210,7 @@
       "item_type": "5",
       "item_id": "171002003",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1145",
@@ -1218,7 +1218,7 @@
       "item_type": "5",
       "item_id": "121002003",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1146",
@@ -1226,7 +1226,7 @@
       "item_type": "3",
       "item_id": "185033501",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1147",
@@ -1234,7 +1234,7 @@
       "item_type": "5",
       "item_id": "178001802",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1148",
@@ -1242,7 +1242,7 @@
       "item_type": "5",
       "item_id": "128001802",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1149",
@@ -1250,7 +1250,7 @@
       "item_type": "3",
       "item_id": "185033601",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1150",
@@ -1258,7 +1258,7 @@
       "item_type": "5",
       "item_id": "178001804",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1151",
@@ -1266,7 +1266,7 @@
       "item_type": "5",
       "item_id": "128001804",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "1152",
@@ -1274,7 +1274,7 @@
       "item_type": "3",
       "item_id": "185006001",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1153",
@@ -1282,7 +1282,7 @@
       "item_type": "5",
       "item_id": "152012400",
       "exchange_count": "1370",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1154",
@@ -1290,7 +1290,7 @@
       "item_type": "5",
       "item_id": "153012400",
       "exchange_count": "450",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1155",
@@ -1298,7 +1298,7 @@
       "item_type": "5",
       "item_id": "155012400",
       "exchange_count": "680",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1156",
@@ -1306,7 +1306,7 @@
       "item_type": "3",
       "item_id": "185006101",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1157",
@@ -1314,7 +1314,7 @@
       "item_type": "5",
       "item_id": "152012500",
       "exchange_count": "1820",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1158",
@@ -1322,7 +1322,7 @@
       "item_type": "5",
       "item_id": "155012500",
       "exchange_count": "680",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1159",
@@ -1330,7 +1330,7 @@
       "item_type": "3",
       "item_id": "185006201",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1160",
@@ -1338,7 +1338,7 @@
       "item_type": "5",
       "item_id": "152012600",
       "exchange_count": "1820",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1161",
@@ -1346,7 +1346,7 @@
       "item_type": "5",
       "item_id": "155012600",
       "exchange_count": "680",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1162",
@@ -1354,7 +1354,7 @@
       "item_type": "3",
       "item_id": "185006301",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1163",
@@ -1362,7 +1362,7 @@
       "item_type": "5",
       "item_id": "152012700",
       "exchange_count": "1370",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1164",
@@ -1370,7 +1370,7 @@
       "item_type": "5",
       "item_id": "153012700",
       "exchange_count": "450",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1165",
@@ -1378,7 +1378,7 @@
       "item_type": "5",
       "item_id": "155012700",
       "exchange_count": "680",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1166",
@@ -1386,7 +1386,7 @@
       "item_type": "3",
       "item_id": "185006401",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1167",
@@ -1394,7 +1394,7 @@
       "item_type": "5",
       "item_id": "152012800",
       "exchange_count": "1820",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1168",
@@ -1402,7 +1402,7 @@
       "item_type": "5",
       "item_id": "155012800",
       "exchange_count": "680",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1169",
@@ -1410,7 +1410,7 @@
       "item_type": "3",
       "item_id": "185006501",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1170",
@@ -1418,7 +1418,7 @@
       "item_type": "5",
       "item_id": "152012900",
       "exchange_count": "1820",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1171",
@@ -1426,7 +1426,7 @@
       "item_type": "5",
       "item_id": "155012900",
       "exchange_count": "680",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1172",
@@ -1434,7 +1434,7 @@
       "item_type": "5",
       "item_id": "152013000",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1173",
@@ -1442,7 +1442,7 @@
       "item_type": "5",
       "item_id": "152013100",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1174",
@@ -1450,7 +1450,7 @@
       "item_type": "3",
       "item_id": "185006601",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1175",
@@ -1458,7 +1458,7 @@
       "item_type": "5",
       "item_id": "102012400",
       "exchange_count": "1370",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1176",
@@ -1466,7 +1466,7 @@
       "item_type": "5",
       "item_id": "103012400",
       "exchange_count": "450",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1177",
@@ -1474,7 +1474,7 @@
       "item_type": "5",
       "item_id": "105012400",
       "exchange_count": "680",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1178",
@@ -1482,7 +1482,7 @@
       "item_type": "3",
       "item_id": "185006701",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1179",
@@ -1490,7 +1490,7 @@
       "item_type": "5",
       "item_id": "102012500",
       "exchange_count": "1370",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1180",
@@ -1498,7 +1498,7 @@
       "item_type": "5",
       "item_id": "103012500",
       "exchange_count": "450",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1181",
@@ -1506,7 +1506,7 @@
       "item_type": "5",
       "item_id": "105012500",
       "exchange_count": "680",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1182",
@@ -1514,7 +1514,7 @@
       "item_type": "3",
       "item_id": "185006801",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1183",
@@ -1522,7 +1522,7 @@
       "item_type": "5",
       "item_id": "102012600",
       "exchange_count": "1370",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1184",
@@ -1530,7 +1530,7 @@
       "item_type": "5",
       "item_id": "103012600",
       "exchange_count": "450",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1185",
@@ -1538,7 +1538,7 @@
       "item_type": "5",
       "item_id": "105012600",
       "exchange_count": "680",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1186",
@@ -1546,7 +1546,7 @@
       "item_type": "3",
       "item_id": "185006901",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1187",
@@ -1554,7 +1554,7 @@
       "item_type": "5",
       "item_id": "102012700",
       "exchange_count": "1370",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1188",
@@ -1562,7 +1562,7 @@
       "item_type": "5",
       "item_id": "103012700",
       "exchange_count": "450",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1189",
@@ -1570,7 +1570,7 @@
       "item_type": "5",
       "item_id": "105012700",
       "exchange_count": "680",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1190",
@@ -1578,7 +1578,7 @@
       "item_type": "3",
       "item_id": "185007001",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1191",
@@ -1586,7 +1586,7 @@
       "item_type": "5",
       "item_id": "102012800",
       "exchange_count": "1370",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1192",
@@ -1594,7 +1594,7 @@
       "item_type": "5",
       "item_id": "103012800",
       "exchange_count": "450",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1193",
@@ -1602,7 +1602,7 @@
       "item_type": "5",
       "item_id": "105012800",
       "exchange_count": "680",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1194",
@@ -1610,7 +1610,7 @@
       "item_type": "3",
       "item_id": "185007101",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1195",
@@ -1618,7 +1618,7 @@
       "item_type": "5",
       "item_id": "102012900",
       "exchange_count": "1370",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1196",
@@ -1626,7 +1626,7 @@
       "item_type": "5",
       "item_id": "103012900",
       "exchange_count": "450",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1197",
@@ -1634,7 +1634,7 @@
       "item_type": "5",
       "item_id": "105012900",
       "exchange_count": "680",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1198",
@@ -1642,7 +1642,7 @@
       "item_type": "5",
       "item_id": "103013000",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1199",
@@ -1650,7 +1650,7 @@
       "item_type": "5",
       "item_id": "103013100",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1200",
@@ -1658,7 +1658,7 @@
       "item_type": "7",
       "item_id": "160000001",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1201",
@@ -1666,7 +1666,7 @@
       "item_type": "7",
       "item_id": "160000101",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1202",
@@ -1674,7 +1674,7 @@
       "item_type": "7",
       "item_id": "160000201",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1203",
@@ -1682,7 +1682,7 @@
       "item_type": "3",
       "item_id": "185047801",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1204",
@@ -1690,7 +1690,7 @@
       "item_type": "5",
       "item_id": "177003100",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1205",
@@ -1698,7 +1698,7 @@
       "item_type": "5",
       "item_id": "127003100",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1206",
@@ -1706,7 +1706,7 @@
       "item_type": "3",
       "item_id": "185047901",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1207",
@@ -1714,7 +1714,7 @@
       "item_type": "5",
       "item_id": "177003200",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1208",
@@ -1722,7 +1722,7 @@
       "item_type": "5",
       "item_id": "127003200",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1209",
@@ -1730,7 +1730,7 @@
       "item_type": "3",
       "item_id": "185048001",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1210",
@@ -1738,7 +1738,7 @@
       "item_type": "5",
       "item_id": "177003300",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1211",
@@ -1746,7 +1746,7 @@
       "item_type": "5",
       "item_id": "127003300",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1212",
@@ -1754,7 +1754,7 @@
       "item_type": "3",
       "item_id": "185048101",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1213",
@@ -1762,7 +1762,7 @@
       "item_type": "5",
       "item_id": "177003302",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1214",
@@ -1770,7 +1770,7 @@
       "item_type": "5",
       "item_id": "127003302",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.00.100"
     },
     {
       "id": "1215",
@@ -1778,7 +1778,7 @@
       "item_type": "3",
       "item_id": "185027601",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1216",
@@ -1786,7 +1786,7 @@
       "item_type": "5",
       "item_id": "151014500",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1217",
@@ -1794,7 +1794,7 @@
       "item_type": "5",
       "item_id": "152014500",
       "exchange_count": "1000",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1218",
@@ -1802,7 +1802,7 @@
       "item_type": "5",
       "item_id": "154014500",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1219",
@@ -1810,7 +1810,7 @@
       "item_type": "5",
       "item_id": "155014500",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1220",
@@ -1818,7 +1818,7 @@
       "item_type": "3",
       "item_id": "185027701",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1221",
@@ -1826,7 +1826,7 @@
       "item_type": "5",
       "item_id": "151014600",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1222",
@@ -1834,7 +1834,7 @@
       "item_type": "5",
       "item_id": "152014600",
       "exchange_count": "1000",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1223",
@@ -1842,7 +1842,7 @@
       "item_type": "5",
       "item_id": "154014600",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1224",
@@ -1850,7 +1850,7 @@
       "item_type": "5",
       "item_id": "155014600",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1225",
@@ -1858,7 +1858,7 @@
       "item_type": "3",
       "item_id": "185027801",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1226",
@@ -1866,7 +1866,7 @@
       "item_type": "5",
       "item_id": "151014700",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1227",
@@ -1874,7 +1874,7 @@
       "item_type": "5",
       "item_id": "152014700",
       "exchange_count": "1000",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1228",
@@ -1882,7 +1882,7 @@
       "item_type": "5",
       "item_id": "154014700",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1229",
@@ -1890,7 +1890,7 @@
       "item_type": "5",
       "item_id": "155014700",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1230",
@@ -1898,7 +1898,7 @@
       "item_type": "3",
       "item_id": "185027901",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1231",
@@ -1906,7 +1906,7 @@
       "item_type": "5",
       "item_id": "151014800",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1232",
@@ -1914,7 +1914,7 @@
       "item_type": "5",
       "item_id": "152014800",
       "exchange_count": "1000",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1233",
@@ -1922,7 +1922,7 @@
       "item_type": "5",
       "item_id": "154014800",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1234",
@@ -1930,7 +1930,7 @@
       "item_type": "5",
       "item_id": "155014800",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1235",
@@ -1938,7 +1938,7 @@
       "item_type": "3",
       "item_id": "185028001",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1236",
@@ -1946,7 +1946,7 @@
       "item_type": "5",
       "item_id": "151014900",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1237",
@@ -1954,7 +1954,7 @@
       "item_type": "5",
       "item_id": "152014900",
       "exchange_count": "1000",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1238",
@@ -1962,7 +1962,7 @@
       "item_type": "5",
       "item_id": "154014900",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1239",
@@ -1970,7 +1970,7 @@
       "item_type": "5",
       "item_id": "155014900",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1240",
@@ -1978,7 +1978,7 @@
       "item_type": "3",
       "item_id": "185028101",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1241",
@@ -1986,7 +1986,7 @@
       "item_type": "5",
       "item_id": "151015000",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1242",
@@ -1994,7 +1994,7 @@
       "item_type": "5",
       "item_id": "152015000",
       "exchange_count": "1000",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1243",
@@ -2002,7 +2002,7 @@
       "item_type": "5",
       "item_id": "154015000",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1244",
@@ -2010,7 +2010,7 @@
       "item_type": "5",
       "item_id": "155015000",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1245",
@@ -2018,7 +2018,7 @@
       "item_type": "3",
       "item_id": "185028301",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1246",
@@ -2026,7 +2026,7 @@
       "item_type": "5",
       "item_id": "102014500",
       "exchange_count": "1000",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1247",
@@ -2034,7 +2034,7 @@
       "item_type": "5",
       "item_id": "104014500",
       "exchange_count": "670",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1248",
@@ -2042,7 +2042,7 @@
       "item_type": "5",
       "item_id": "103014500",
       "exchange_count": "330",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1249",
@@ -2050,7 +2050,7 @@
       "item_type": "5",
       "item_id": "105014500",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1250",
@@ -2058,7 +2058,7 @@
       "item_type": "3",
       "item_id": "185028401",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1251",
@@ -2066,7 +2066,7 @@
       "item_type": "5",
       "item_id": "102014600",
       "exchange_count": "1000",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1252",
@@ -2074,7 +2074,7 @@
       "item_type": "5",
       "item_id": "104014600",
       "exchange_count": "670",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1253",
@@ -2082,7 +2082,7 @@
       "item_type": "5",
       "item_id": "103014600",
       "exchange_count": "330",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1254",
@@ -2090,7 +2090,7 @@
       "item_type": "5",
       "item_id": "105014600",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1255",
@@ -2098,7 +2098,7 @@
       "item_type": "3",
       "item_id": "185028501",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1256",
@@ -2106,7 +2106,7 @@
       "item_type": "5",
       "item_id": "102014700",
       "exchange_count": "1000",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1257",
@@ -2114,7 +2114,7 @@
       "item_type": "5",
       "item_id": "104014700",
       "exchange_count": "670",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1258",
@@ -2122,7 +2122,7 @@
       "item_type": "5",
       "item_id": "103014700",
       "exchange_count": "330",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1259",
@@ -2130,7 +2130,7 @@
       "item_type": "5",
       "item_id": "105014700",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1260",
@@ -2138,7 +2138,7 @@
       "item_type": "3",
       "item_id": "185028601",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1261",
@@ -2146,7 +2146,7 @@
       "item_type": "5",
       "item_id": "102014800",
       "exchange_count": "1000",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1262",
@@ -2154,7 +2154,7 @@
       "item_type": "5",
       "item_id": "104014800",
       "exchange_count": "670",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1263",
@@ -2162,7 +2162,7 @@
       "item_type": "5",
       "item_id": "103014800",
       "exchange_count": "330",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1264",
@@ -2170,7 +2170,7 @@
       "item_type": "5",
       "item_id": "105014800",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1265",
@@ -2178,7 +2178,7 @@
       "item_type": "3",
       "item_id": "185028701",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1266",
@@ -2186,7 +2186,7 @@
       "item_type": "5",
       "item_id": "102014900",
       "exchange_count": "1000",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1267",
@@ -2194,7 +2194,7 @@
       "item_type": "5",
       "item_id": "104014900",
       "exchange_count": "670",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1268",
@@ -2202,7 +2202,7 @@
       "item_type": "5",
       "item_id": "103014900",
       "exchange_count": "330",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1269",
@@ -2210,7 +2210,7 @@
       "item_type": "5",
       "item_id": "105014900",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1270",
@@ -2218,7 +2218,7 @@
       "item_type": "3",
       "item_id": "185028801",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1271",
@@ -2226,7 +2226,7 @@
       "item_type": "5",
       "item_id": "102015000",
       "exchange_count": "1000",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1272",
@@ -2234,7 +2234,7 @@
       "item_type": "5",
       "item_id": "104015000",
       "exchange_count": "670",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1273",
@@ -2242,7 +2242,7 @@
       "item_type": "5",
       "item_id": "103015000",
       "exchange_count": "330",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1274",
@@ -2250,7 +2250,7 @@
       "item_type": "5",
       "item_id": "105015000",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1275",
@@ -2258,7 +2258,7 @@
       "item_type": "7",
       "item_id": "103000001",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1276",
@@ -2266,7 +2266,7 @@
       "item_type": "7",
       "item_id": "103000101",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1277",
@@ -2274,7 +2274,7 @@
       "item_type": "7",
       "item_id": "103000201",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1278",
@@ -2282,7 +2282,7 @@
       "item_type": "3",
       "item_id": "185033701",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1279",
@@ -2290,7 +2290,7 @@
       "item_type": "5",
       "item_id": "171004302",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1280",
@@ -2298,7 +2298,7 @@
       "item_type": "5",
       "item_id": "121004302",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1281",
@@ -2306,7 +2306,7 @@
       "item_type": "3",
       "item_id": "185033801",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1282",
@@ -2314,7 +2314,7 @@
       "item_type": "5",
       "item_id": "171004304",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1283",
@@ -2322,7 +2322,7 @@
       "item_type": "5",
       "item_id": "121004304",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1284",
@@ -2330,7 +2330,7 @@
       "item_type": "3",
       "item_id": "185033901",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1285",
@@ -2338,7 +2338,7 @@
       "item_type": "5",
       "item_id": "171005703",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1286",
@@ -2346,7 +2346,7 @@
       "item_type": "5",
       "item_id": "121005703",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1287",
@@ -2354,7 +2354,7 @@
       "item_type": "3",
       "item_id": "185034001",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1288",
@@ -2362,7 +2362,7 @@
       "item_type": "5",
       "item_id": "171005704",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1289",
@@ -2370,7 +2370,7 @@
       "item_type": "5",
       "item_id": "121005704",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.01.000"
     },
     {
       "id": "1290",
@@ -2378,7 +2378,7 @@
       "item_type": "3",
       "item_id": "185050601",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1291",
@@ -2386,7 +2386,7 @@
       "item_type": "5",
       "item_id": "151015200",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1292",
@@ -2394,7 +2394,7 @@
       "item_type": "5",
       "item_id": "152015200",
       "exchange_count": "1880",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1293",
@@ -2402,7 +2402,7 @@
       "item_type": "3",
       "item_id": "185050701",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1294",
@@ -2410,7 +2410,7 @@
       "item_type": "5",
       "item_id": "151015300",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1295",
@@ -2418,7 +2418,7 @@
       "item_type": "5",
       "item_id": "152015300",
       "exchange_count": "1880",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1296",
@@ -2426,7 +2426,7 @@
       "item_type": "3",
       "item_id": "185050801",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1297",
@@ -2434,7 +2434,7 @@
       "item_type": "5",
       "item_id": "151015400",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1298",
@@ -2442,7 +2442,7 @@
       "item_type": "5",
       "item_id": "152015400",
       "exchange_count": "1380",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1299",
@@ -2450,7 +2450,7 @@
       "item_type": "5",
       "item_id": "154015400",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1300",
@@ -2458,7 +2458,7 @@
       "item_type": "3",
       "item_id": "185050901",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1301",
@@ -2466,7 +2466,7 @@
       "item_type": "5",
       "item_id": "151015500",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1302",
@@ -2474,7 +2474,7 @@
       "item_type": "5",
       "item_id": "152015500",
       "exchange_count": "1880",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1303",
@@ -2482,7 +2482,7 @@
       "item_type": "3",
       "item_id": "185051001",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1304",
@@ -2490,7 +2490,7 @@
       "item_type": "5",
       "item_id": "151015600",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1305",
@@ -2498,7 +2498,7 @@
       "item_type": "5",
       "item_id": "152015600",
       "exchange_count": "1880",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1306",
@@ -2506,7 +2506,7 @@
       "item_type": "3",
       "item_id": "185051101",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1307",
@@ -2514,7 +2514,7 @@
       "item_type": "5",
       "item_id": "151015700",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1308",
@@ -2522,7 +2522,7 @@
       "item_type": "5",
       "item_id": "152015700",
       "exchange_count": "1380",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1309",
@@ -2530,7 +2530,7 @@
       "item_type": "5",
       "item_id": "154015700",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1310",
@@ -2538,7 +2538,7 @@
       "item_type": "3",
       "item_id": "185051201",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1311",
@@ -2546,7 +2546,7 @@
       "item_type": "5",
       "item_id": "101015200",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1312",
@@ -2554,7 +2554,7 @@
       "item_type": "5",
       "item_id": "102015200",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1313",
@@ -2562,7 +2562,7 @@
       "item_type": "5",
       "item_id": "104015200",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1314",
@@ -2570,7 +2570,7 @@
       "item_type": "5",
       "item_id": "103015200",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1315",
@@ -2578,7 +2578,7 @@
       "item_type": "5",
       "item_id": "105015200",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1316",
@@ -2586,7 +2586,7 @@
       "item_type": "3",
       "item_id": "185051301",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1317",
@@ -2594,7 +2594,7 @@
       "item_type": "5",
       "item_id": "101015300",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1318",
@@ -2602,7 +2602,7 @@
       "item_type": "5",
       "item_id": "102015300",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1319",
@@ -2610,7 +2610,7 @@
       "item_type": "5",
       "item_id": "104015300",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1320",
@@ -2618,7 +2618,7 @@
       "item_type": "5",
       "item_id": "103015300",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1321",
@@ -2626,7 +2626,7 @@
       "item_type": "5",
       "item_id": "105015300",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1322",
@@ -2634,7 +2634,7 @@
       "item_type": "3",
       "item_id": "185051401",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1323",
@@ -2642,7 +2642,7 @@
       "item_type": "5",
       "item_id": "101015400",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1324",
@@ -2650,7 +2650,7 @@
       "item_type": "5",
       "item_id": "102015400",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1325",
@@ -2658,7 +2658,7 @@
       "item_type": "5",
       "item_id": "104015400",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1326",
@@ -2666,7 +2666,7 @@
       "item_type": "5",
       "item_id": "103015400",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1327",
@@ -2674,7 +2674,7 @@
       "item_type": "5",
       "item_id": "105015400",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1328",
@@ -2682,7 +2682,7 @@
       "item_type": "3",
       "item_id": "185051501",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1329",
@@ -2690,7 +2690,7 @@
       "item_type": "5",
       "item_id": "101015500",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1330",
@@ -2698,7 +2698,7 @@
       "item_type": "5",
       "item_id": "102015500",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1331",
@@ -2706,7 +2706,7 @@
       "item_type": "5",
       "item_id": "104015500",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1332",
@@ -2714,7 +2714,7 @@
       "item_type": "5",
       "item_id": "103015500",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1333",
@@ -2722,7 +2722,7 @@
       "item_type": "5",
       "item_id": "105015500",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1334",
@@ -2730,7 +2730,7 @@
       "item_type": "3",
       "item_id": "185051601",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1335",
@@ -2738,7 +2738,7 @@
       "item_type": "5",
       "item_id": "101015600",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1336",
@@ -2746,7 +2746,7 @@
       "item_type": "5",
       "item_id": "102015600",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1337",
@@ -2754,7 +2754,7 @@
       "item_type": "5",
       "item_id": "104015600",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1338",
@@ -2762,7 +2762,7 @@
       "item_type": "5",
       "item_id": "103015600",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1339",
@@ -2770,7 +2770,7 @@
       "item_type": "5",
       "item_id": "105015600",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1340",
@@ -2778,7 +2778,7 @@
       "item_type": "3",
       "item_id": "185051701",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1341",
@@ -2786,7 +2786,7 @@
       "item_type": "5",
       "item_id": "101015700",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1342",
@@ -2794,7 +2794,7 @@
       "item_type": "5",
       "item_id": "102015700",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1343",
@@ -2802,7 +2802,7 @@
       "item_type": "5",
       "item_id": "104015700",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1344",
@@ -2810,7 +2810,7 @@
       "item_type": "5",
       "item_id": "103015700",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1345",
@@ -2818,7 +2818,7 @@
       "item_type": "5",
       "item_id": "105015700",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1346",
@@ -2826,7 +2826,7 @@
       "item_type": "7",
       "item_id": "161000001",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1347",
@@ -2834,7 +2834,7 @@
       "item_type": "7",
       "item_id": "161000101",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1348",
@@ -2842,7 +2842,7 @@
       "item_type": "7",
       "item_id": "161000201",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1349",
@@ -2850,7 +2850,7 @@
       "item_type": "3",
       "item_id": "185051801",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1350",
@@ -2858,7 +2858,7 @@
       "item_type": "5",
       "item_id": "154010000",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1351",
@@ -2866,7 +2866,7 @@
       "item_type": "5",
       "item_id": "104010000",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1352",
@@ -2874,7 +2874,7 @@
       "item_type": "3",
       "item_id": "185051901",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1353",
@@ -2882,7 +2882,7 @@
       "item_type": "5",
       "item_id": "154010001",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1354",
@@ -2890,7 +2890,7 @@
       "item_type": "5",
       "item_id": "104010001",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1355",
@@ -2898,7 +2898,7 @@
       "item_type": "3",
       "item_id": "185052001",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1356",
@@ -2906,7 +2906,7 @@
       "item_type": "5",
       "item_id": "177005501",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1357",
@@ -2914,7 +2914,7 @@
       "item_type": "5",
       "item_id": "127005501",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1358",
@@ -2922,7 +2922,7 @@
       "item_type": "3",
       "item_id": "185052101",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1359",
@@ -2930,7 +2930,7 @@
       "item_type": "5",
       "item_id": "177005503",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1360",
@@ -2938,7 +2938,7 @@
       "item_type": "5",
       "item_id": "127005503",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.01.100"
     },
     {
       "id": "1361",
@@ -2946,7 +2946,7 @@
       "item_type": "3",
       "item_id": "185046001",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1362",
@@ -2954,7 +2954,7 @@
       "item_type": "5",
       "item_id": "151017600",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1363",
@@ -2962,7 +2962,7 @@
       "item_type": "5",
       "item_id": "152017600",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1364",
@@ -2970,7 +2970,7 @@
       "item_type": "5",
       "item_id": "154017600",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1365",
@@ -2978,7 +2978,7 @@
       "item_type": "5",
       "item_id": "153017600",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1366",
@@ -2986,7 +2986,7 @@
       "item_type": "5",
       "item_id": "155017600",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1367",
@@ -2994,7 +2994,7 @@
       "item_type": "3",
       "item_id": "185046101",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1368",
@@ -3002,7 +3002,7 @@
       "item_type": "5",
       "item_id": "151017700",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1369",
@@ -3010,7 +3010,7 @@
       "item_type": "5",
       "item_id": "152017700",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1370",
@@ -3018,7 +3018,7 @@
       "item_type": "5",
       "item_id": "154017700",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1371",
@@ -3026,7 +3026,7 @@
       "item_type": "5",
       "item_id": "153017700",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1372",
@@ -3034,7 +3034,7 @@
       "item_type": "5",
       "item_id": "155017700",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1373",
@@ -3042,7 +3042,7 @@
       "item_type": "3",
       "item_id": "185046201",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1374",
@@ -3050,7 +3050,7 @@
       "item_type": "5",
       "item_id": "151017800",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1375",
@@ -3058,7 +3058,7 @@
       "item_type": "5",
       "item_id": "152017800",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1376",
@@ -3066,7 +3066,7 @@
       "item_type": "5",
       "item_id": "154017800",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1377",
@@ -3074,7 +3074,7 @@
       "item_type": "5",
       "item_id": "153017800",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1378",
@@ -3082,7 +3082,7 @@
       "item_type": "5",
       "item_id": "155017800",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1379",
@@ -3090,7 +3090,7 @@
       "item_type": "3",
       "item_id": "185046301",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1380",
@@ -3098,7 +3098,7 @@
       "item_type": "5",
       "item_id": "151017900",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1381",
@@ -3106,7 +3106,7 @@
       "item_type": "5",
       "item_id": "152017900",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1382",
@@ -3114,7 +3114,7 @@
       "item_type": "5",
       "item_id": "154017900",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1383",
@@ -3122,7 +3122,7 @@
       "item_type": "5",
       "item_id": "153017900",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1384",
@@ -3130,7 +3130,7 @@
       "item_type": "5",
       "item_id": "155017900",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1385",
@@ -3138,7 +3138,7 @@
       "item_type": "3",
       "item_id": "185046401",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1386",
@@ -3146,7 +3146,7 @@
       "item_type": "5",
       "item_id": "151018000",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1387",
@@ -3154,7 +3154,7 @@
       "item_type": "5",
       "item_id": "152018000",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1388",
@@ -3162,7 +3162,7 @@
       "item_type": "5",
       "item_id": "154018000",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1389",
@@ -3170,7 +3170,7 @@
       "item_type": "5",
       "item_id": "153018000",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1390",
@@ -3178,7 +3178,7 @@
       "item_type": "5",
       "item_id": "155018000",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1391",
@@ -3186,7 +3186,7 @@
       "item_type": "3",
       "item_id": "185046501",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1392",
@@ -3194,7 +3194,7 @@
       "item_type": "5",
       "item_id": "151018100",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1393",
@@ -3202,7 +3202,7 @@
       "item_type": "5",
       "item_id": "152018100",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1394",
@@ -3210,7 +3210,7 @@
       "item_type": "5",
       "item_id": "154018100",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1395",
@@ -3218,7 +3218,7 @@
       "item_type": "5",
       "item_id": "153018100",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1396",
@@ -3226,7 +3226,7 @@
       "item_type": "5",
       "item_id": "155018100",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1397",
@@ -3234,7 +3234,7 @@
       "item_type": "3",
       "item_id": "185046701",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1398",
@@ -3242,7 +3242,7 @@
       "item_type": "5",
       "item_id": "101017600",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1399",
@@ -3250,7 +3250,7 @@
       "item_type": "5",
       "item_id": "102017600",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1400",
@@ -3258,7 +3258,7 @@
       "item_type": "5",
       "item_id": "104017600",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1401",
@@ -3266,7 +3266,7 @@
       "item_type": "5",
       "item_id": "103017600",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1402",
@@ -3274,7 +3274,7 @@
       "item_type": "5",
       "item_id": "105017600",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1403",
@@ -3282,7 +3282,7 @@
       "item_type": "3",
       "item_id": "185046801",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1404",
@@ -3290,7 +3290,7 @@
       "item_type": "5",
       "item_id": "102017700",
       "exchange_count": "1370",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1405",
@@ -3298,7 +3298,7 @@
       "item_type": "5",
       "item_id": "104017700",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1406",
@@ -3306,7 +3306,7 @@
       "item_type": "5",
       "item_id": "103017700",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1407",
@@ -3314,7 +3314,7 @@
       "item_type": "5",
       "item_id": "105017700",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1408",
@@ -3322,7 +3322,7 @@
       "item_type": "3",
       "item_id": "185046901",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1409",
@@ -3330,7 +3330,7 @@
       "item_type": "5",
       "item_id": "101017800",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1410",
@@ -3338,7 +3338,7 @@
       "item_type": "5",
       "item_id": "102017800",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1411",
@@ -3346,7 +3346,7 @@
       "item_type": "5",
       "item_id": "104017800",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1412",
@@ -3354,7 +3354,7 @@
       "item_type": "5",
       "item_id": "103017800",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1413",
@@ -3362,7 +3362,7 @@
       "item_type": "5",
       "item_id": "105017800",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1414",
@@ -3370,7 +3370,7 @@
       "item_type": "3",
       "item_id": "185047001",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1415",
@@ -3378,7 +3378,7 @@
       "item_type": "5",
       "item_id": "101017900",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1416",
@@ -3386,7 +3386,7 @@
       "item_type": "5",
       "item_id": "102017900",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1417",
@@ -3394,7 +3394,7 @@
       "item_type": "5",
       "item_id": "104017900",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1418",
@@ -3402,7 +3402,7 @@
       "item_type": "5",
       "item_id": "103017900",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1419",
@@ -3410,7 +3410,7 @@
       "item_type": "5",
       "item_id": "105017900",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1420",
@@ -3418,7 +3418,7 @@
       "item_type": "3",
       "item_id": "185047101",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1421",
@@ -3426,7 +3426,7 @@
       "item_type": "5",
       "item_id": "102018000",
       "exchange_count": "1370",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1422",
@@ -3434,7 +3434,7 @@
       "item_type": "5",
       "item_id": "104018000",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1423",
@@ -3442,7 +3442,7 @@
       "item_type": "5",
       "item_id": "103018000",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1424",
@@ -3450,7 +3450,7 @@
       "item_type": "5",
       "item_id": "105018000",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1425",
@@ -3458,7 +3458,7 @@
       "item_type": "3",
       "item_id": "185047201",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1426",
@@ -3466,7 +3466,7 @@
       "item_type": "5",
       "item_id": "101018100",
       "exchange_count": "620",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1427",
@@ -3474,7 +3474,7 @@
       "item_type": "5",
       "item_id": "102018100",
       "exchange_count": "750",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1428",
@@ -3482,7 +3482,7 @@
       "item_type": "5",
       "item_id": "104018100",
       "exchange_count": "500",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1429",
@@ -3490,7 +3490,7 @@
       "item_type": "5",
       "item_id": "103018100",
       "exchange_count": "250",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1430",
@@ -3498,7 +3498,7 @@
       "item_type": "5",
       "item_id": "105018100",
       "exchange_count": "380",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1431",
@@ -3506,7 +3506,7 @@
       "item_type": "7",
       "item_id": "105000001",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1432",
@@ -3514,7 +3514,7 @@
       "item_type": "7",
       "item_id": "105000101",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1433",
@@ -3522,7 +3522,7 @@
       "item_type": "7",
       "item_id": "105000201",
       "exchange_count": "2500",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1434",
@@ -3530,7 +3530,7 @@
       "item_type": "3",
       "item_id": "185047301",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1435",
@@ -3538,7 +3538,7 @@
       "item_type": "5",
       "item_id": "151009400",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1436",
@@ -3546,7 +3546,7 @@
       "item_type": "5",
       "item_id": "101009400",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1437",
@@ -3554,7 +3554,7 @@
       "item_type": "3",
       "item_id": "185047401",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1438",
@@ -3562,7 +3562,7 @@
       "item_type": "5",
       "item_id": "151009401",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1439",
@@ -3570,7 +3570,7 @@
       "item_type": "5",
       "item_id": "101009401",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1440",
@@ -3578,7 +3578,7 @@
       "item_type": "3",
       "item_id": "185047501",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1441",
@@ -3586,7 +3586,7 @@
       "item_type": "5",
       "item_id": "122007702",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1442",
@@ -3594,7 +3594,7 @@
       "item_type": "5",
       "item_id": "172007702",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1443",
@@ -3602,7 +3602,7 @@
       "item_type": "3",
       "item_id": "185047601",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1444",
@@ -3610,7 +3610,7 @@
       "item_type": "5",
       "item_id": "122007703",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "1445",
@@ -3618,7 +3618,7 @@
       "item_type": "5",
       "item_id": "172007703",
       "exchange_count": "70",
-      "version": "9.99.999"
+      "version": "1.02.000"
     },
     {
       "id": "990001",

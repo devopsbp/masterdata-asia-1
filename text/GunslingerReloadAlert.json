@@ -1,0 +1,22 @@
+﻿{
+  "header": {
+    "content_type": "master_text"
+  },
+  "payload": [
+    {
+      "id": "1",
+      "ja_JP": "Reload",
+      "zh_TW": "Reload"
+    },
+    {
+      "id": "2",
+      "ja_JP": "Change Ammo",
+      "zh_TW": "Change Ammo"
+    },
+    {
+      "id": "3",
+      "ja_JP": "Recast Time %02ds",
+      "zh_TW": "Recast Time %02ds"
+    }
+  ]
+}

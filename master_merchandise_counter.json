@@ -1,7 +1,7 @@
 ﻿{
   "header": {
     "content_type": "master_merchandise_counters",
-    "timezone": "Asia/Taipei"
+    "timezone": "Asia/Tokyo"
   },
   "payload": [
     {
@@ -19,7 +19,7 @@
       "type": "1",
       "priority": "6",
       "order": "TRUE",
-      "enable": "0",
+      "enable": "1",
       "banner": "UI_EventShop_100200000",
       "start_date": "2023/01/01 00:00:00",
       "version": "1.00.000"
@@ -29,7 +29,7 @@
       "type": "1",
       "priority": "7",
       "order": "FALSE",
-      "enable": "0",
+      "enable": "1",
       "banner": "UI_EventShop_100300000",
       "start_date": "2023/01/01 00:00:00",
       "version": "1.00.000"
@@ -39,7 +39,7 @@
       "type": "1",
       "priority": "8",
       "order": "TRUE",
-      "enable": "0",
+      "enable": "1",
       "banner": "UI_EventShop_100400000",
       "start_date": "2023/01/01 00:00:00",
       "version": "1.00.000"
@@ -49,7 +49,7 @@
       "type": "1",
       "priority": "1",
       "order": "TRUE",
-      "enable": "0",
+      "enable": "1",
       "banner": "UI_EventShop_200100000",
       "start_date": "2023/01/01 00:00:00",
       "end_date": "2023/08/23 10:00:00",
@@ -60,7 +60,7 @@
       "type": "1",
       "priority": "2",
       "order": "TRUE",
-      "enable": "0",
+      "enable": "1",
       "banner": "UI_EventShop_200101000",
       "start_date": "2023/08/16 11:00:00",
       "end_date": "2023/09/27 10:00:00",
@@ -71,7 +71,7 @@
       "type": "1",
       "priority": "3",
       "order": "TRUE",
-      "enable": "0",
+      "enable": "1",
       "banner": "UI_EventShop_200102000",
       "start_date": "2023/09/20 11:00:00",
       "end_date": "2023/11/01 10:00:00",
@@ -82,7 +82,7 @@
       "type": "1",
       "priority": "11",
       "order": "TRUE",
-      "enable": "0",
+      "enable": "1",
       "banner": "",
       "start_date": "2023/01/01 00:00:00",
       "end_date": "2022/03/23 23:59:59",
@@ -93,7 +93,7 @@
       "type": "1",
       "priority": "1",
       "order": "TRUE",
-      "enable": "0",
+      "enable": "1",
       "banner": "",
       "start_date": "2023/01/01 00:00:00",
       "end_date": "2022/03/23 23:59:59",
@@ -104,7 +104,7 @@
       "type": "1",
       "priority": "10",
       "order": "TRUE",
-      "enable": "0",
+      "enable": "1",
       "banner": "",
       "start_date": "2023/01/01 00:00:00",
       "end_date": "2023/11/25 23:59:59",

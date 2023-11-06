@@ -1,7 +1,7 @@
 ﻿{
   "header": {
     "content_type": "master_merchandise_item_sets",
-    "timezone": "Asia/Taipei"
+    "timezone": "Asia/Tokyo"
   },
   "payload": [
     {
@@ -7226,7 +7226,7 @@
       "color_value": "0",
       "material_id": "0",
       "perk": "0",
-      "version": "9.99.999"
+      "version": "1.00.000"
     },
     {
       "id": "100400019",
